@@ -1,0 +1,134 @@
+﻿[DLC06_Answers_Obj DishonoredObjective]
+m_Description="Getting Answers"
+
+[DLC06_Answers_Obj:DishonoredTask_Custom_46 DishonoredTask_Custom]
+m_Description="Return to the Legal District Waterfront to meet Thalia"
+m_Status=""
+
+[DLC06_Answers_Obj:DishonoredTask_Custom_47 DishonoredTask_Custom]
+m_Description="Speak with Thalia"
+m_Status=""
+
+[DLC06_Answers_Obj:DishonoredTask_Custom_48 DishonoredTask_Custom]
+m_Description="Exit through the sewers"
+m_Status=""
+
+[DLC06_Thalia_Obj DishonoredObjective]
+m_Description="A Meeting with Thalia"
+
+[DLC06_Thalia_Obj:DishonoredTask_Custom_27 DishonoredTask_Custom]
+m_Description="Find Thalia at Treaver's Close"
+m_Status=""
+
+[DLC06_Thalia_Obj:DishonoredTask_Custom_28 DishonoredTask_Custom]
+m_Description="Rescue Thalia from the Hatters"
+m_Status=""
+
+[DLC06_Thalia_Obj:DishonoredTask_Custom_29 DishonoredTask_Custom]
+m_Description="Talk to Thalia"
+m_Status=""
+
+[DLC06_Timsh_Granny DishonoredObjective]
+m_Description="(Optional) Granny's Recipe"
+
+[DLC06_Timsh_Granny:DishonoredTask_Custom_59 DishonoredTask_Custom]
+m_Description="(Optional) From the 78, draw The World."
+m_Status=""
+
+[DLC06_Timsh_Granny:DishonoredTask_Custom_60 DishonoredTask_Custom]
+m_Description="(Optional) Lay the tarot card The World at the feet of the one with the eyes of blackest void"
+m_Status=""
+
+[DLC06_Timsh_Granny:DishonoredTask_Custom_61 DishonoredTask_Custom]
+m_Description="(Optional) Burn the bloodied card at the hearth of a man who dreams of being lord of all"
+m_Status=""
+
+[DLC06_Timsh_Granny:DishonoredTask_Custom_62 DishonoredTask_Custom]
+m_Description="(Optional) Cut your palm and bleed on the card"
+m_Status=""
+
+[DLC06_Timsh_Obj DishonoredObjective]
+m_Description="Eliminate Barrister Arnold Timsh"
+
+[DLC06_Timsh_Obj:DishonoredTask_Custom_37 DishonoredTask_Custom]
+m_Description="Travel to the Legal District"
+m_Status=""
+
+[DLC06_Timsh_Obj:DishonoredTask_Custom_38 DishonoredTask_Custom]
+m_Description="(Optional) Investigate the prisoner who may have been an old associate of Timsh"
+m_Status=""
+
+[DLC06_Timsh_Obj:DishonoredTask_Custom_39 DishonoredTask_Custom]
+m_Description="(Nonlethal) Switch the documents in Timsh's belt pouch"
+m_Status=""
+
+[DLC06_Timsh_Obj:DishonoredTask_Custom_40 DishonoredTask_Custom]
+m_Description="(Nonlethal) Place the sack inside the air circulator in the basement of Timsh's estate"
+m_Status=""
+
+[DLC06_Timsh_Obj:DishonoredTask_Custom_42 DishonoredTask_Custom]
+m_Description="Find the Last Will and Testament of Timsh's mother"
+m_Status=""
+
+[DLC06_Timsh_Obj:DishonoredTask_Custom_43 DishonoredTask_Custom]
+m_Description="Kill Barrister Arnold Timsh"
+m_Status=""
+
+[DLC06_Timsh_Obj:DishonoredTask_Custom_44 DishonoredTask_Custom]
+m_Description="Reach the Legal Plaza"
+m_Status=""
+
+[DLC06_Timsh_Obj:DishonoredTask_Custom_50 DishonoredTask_Custom]
+m_Description="Discover any clues about Delilah's role here"
+m_Status=""
+
+[DLC06_Timsh_Obj:DishonoredTask_Custom_51 DishonoredTask_Custom]
+m_Description="Get the Timsh Estate Key"
+m_Status=""
+
+[DLC06_Timsh_Obj:DishonoredTask_Custom_52 DishonoredTask_Custom]
+m_Description="(Nonlethal) Do not interfere as Timsh is arrested by General Turnbull"
+m_Status=""
+
+[DLC06_Timsh_Obj:DishonoredTask_Custom_53 DishonoredTask_Custom]
+m_Description="Find the key to Legal District"
+m_Status=""
+
+[DLC06_Timsh_Obj:DishonoredTask_Custom_54 DishonoredTask_Custom]
+m_Description="(Nonlethal) Find the journal in the apartment overlooking the Legal Plaza"
+m_Status=""
+
+[DLC06_Timsh_Obj:DishonoredTask_Custom_55 DishonoredTask_Custom]
+m_Description="(Nonlethal) Find the odorous sack in Apartment 10"
+m_Status=""
+
+[DLC06_Timsh_Obj:DishonoredTask_Custom_56 DishonoredTask_Custom]
+m_Description="Search Hatter turf for a key to Legal District"
+m_Status=""
+
+[DLC06_Timsh_Obj:DishonoredTask_Custom_57 DishonoredTask_Custom]
+m_Description="Check the captain's post for the key to the Legal District"
+m_Status=""
+
+[DLC06_Timsh_Obj:DishonoredTask_Custom_58 DishonoredTask_Custom]
+m_Description="(Optional) Meet with your lieutenant on the rooftop for her report, and to gather additional information"
+m_Status=""
+
+[DLC06_Timsh_Obj:DishonoredTask_Custom_63 DishonoredTask_Custom]
+m_Description="(Nonlethal) Pick up the eviction document"
+m_Status=""
+
+[DLC06_TimshFavors1_Obj DishonoredObjective]
+m_Description="(Favor) Piece of Darkness"
+
+[DLC06_TimshFavors1_Obj:DishonoredTask_Custom_37 DishonoredTask_Custom]
+m_Description="Pick up your Rune near the ruined bridge"
+m_Status=""
+
+[DLC06_TimshFavors2_Obj DishonoredObjective]
+m_Description="(Favor) Whale Oil at the Gate"
+
+[DLC06_TimshFavors2_Obj:DishonoredTask_Custom_37 DishonoredTask_Custom]
+m_Description="Your operatives have placed oil tanks in convenient places near the gate"
+m_Status=""
+

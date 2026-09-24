@@ -1,0 +1,211 @@
+﻿[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_AddDarkness_3 DisSeqAct_AddDarkness]
+m_Text=""
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_AddDarkness_6 DisSeqAct_AddDarkness]
+m_Text=""
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_DialogScriptedChoice_6 DisSeqAct_DialogScriptedChoice]
+m_Title=""
+m_Choices[0]=(m_ChoiceText="Go to the Slaughterhouse Yard")
+m_Choices[1]=(m_ChoiceText="Stay in the Slaughterhouse")
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_DialogScriptedChoice_8 DisSeqAct_DialogScriptedChoice]
+m_Title=""
+m_Choices[0]=(m_ChoiceText="Go to the Slaughterhouse Yard")
+m_Choices[1]=(m_ChoiceText="Stay in the Slaughterhouse")
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_DialogScriptedChoice_9 DisSeqAct_DialogScriptedChoice]
+m_Title=""
+m_Choices[0]=(m_ChoiceText="Go to the Slaughterhouse Yard")
+m_Choices[1]=(m_ChoiceText="Stay in the Slaughterhouse")
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_GameOver_1 DisSeqAct_GameOver]
+m_Reason="Rothwild's secret died with him"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_GameOver_2 DisSeqAct_GameOver]
+m_Reason="Rothwild's secret died with him"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_ShowLocationDiscovery_0 DisSeqAct_ShowLocationDiscovery]
+m_LocationName="The Rothwild Slaughterhouse"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_UpdateTaskTarget_0 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Abigail Ames"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_UpdateTaskTarget_100 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Whale Oil Flow Valve 3"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_UpdateTaskTarget_101 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Whale Oil Flow Valve 2"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_UpdateTaskTarget_102 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Whale Oil Flow Valve 1"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_UpdateTaskTarget_105 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Roof Exit"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_UpdateTaskTarget_106 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Main Exit"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_UpdateTaskTarget_107 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Sewer Exit"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_UpdateTaskTarget_117 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Rothwild"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_UpdateTaskTarget_118 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Abigail Ames"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_UpdateTaskTarget_119 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Rothwild's Office"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_UpdateTaskTarget_120 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Rothwild's Office"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_UpdateTaskTarget_121 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Interrogation Point"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_UpdateTaskTarget_122 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Interrogation Point"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_UpdateTaskTarget_123 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Interrogation Point"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_UpdateTaskTarget_125 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Interrogation Point"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_UpdateTaskTarget_127 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Interrogation Point"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_UpdateTaskTarget_128 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Interrogation Point"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_UpdateTaskTarget_132 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Rothwild"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_UpdateTaskTarget_133 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Rothwild"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_UpdateTaskTarget_134 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Rothwild"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_UpdateTaskTarget_136 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Power Supply Control"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_UpdateTaskTarget_137 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Whale Oil Tank Receptacle"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_UpdateTaskTarget_138 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Abigail Ames"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_UpdateTaskTarget_139 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Abigail Ames"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_UpdateTaskTarget_140 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Abigail Ames"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_UpdateTaskTarget_141 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Abigail Ames"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_UpdateTaskTarget_142 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Interrogation Point"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_UpdateTaskTarget_143 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Interrogation Point"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_UpdateTaskTarget_144 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Rothwild"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_UpdateTaskTarget_56 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Interrogation Point"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_UpdateTaskTarget_57 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Sewer Exit"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_UpdateTaskTarget_58 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Shipping Crate"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_UpdateTaskTarget_60 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Power Supply Control"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_UpdateTaskTarget_61 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Power Supply Control"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_UpdateTaskTarget_62 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Whale Oil Tank Receptacle"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_UpdateTaskTarget_76 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Main Exit"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_UpdateTaskTarget_77 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Roof Exit"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_UpdateTaskTarget_95 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Whale Oil Flow Valve 4"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_UpdateTaskTarget_96 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Whale Oil Flow Valve 3"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_UpdateTaskTarget_97 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Whale Oil Flow Valve 2"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_UpdateTaskTarget_98 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Whale Oil Flow Valve 1"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_UpdateTaskTarget_99 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Whale Oil Flow Valve 4"
+
+[TheWorld:PersistentLevel.Main_Sequence.RothWild_TortureChair.DisSeqAct_AddDarkness_1 DisSeqAct_AddDarkness]
+m_Text=""
+
+[TheWorld:PersistentLevel.Main_Sequence.RothWild_TortureChair.DisSeqAct_AddDarkness_2 DisSeqAct_AddDarkness]
+m_Text=""
+
+[TheWorld:PersistentLevel.Main_Sequence.RothWild_TortureChair.DisSeqAct_AddDarkness_4 DisSeqAct_AddDarkness]
+m_Text=""
+
+[TheWorld:PersistentLevel.Main_Sequence.RothWild_TortureChair.DisSeqAct_AddDarkness_5 DisSeqAct_AddDarkness]
+m_Text=""
+
+[TheWorld:PersistentLevel.Main_Sequence.RothWild_TortureChair.DisSeqAct_SetTutorialMessage_6 DisSeqAct_SetTutorialMessage]
+m_TutorialMessage="Place interrogation subject in the chair."
+m_TutorialMessage_Gamepad=""
+
+[TheWorld:PersistentLevel.Main_Sequence.RothWild_TortureChair.DisSeqAct_UpdateTaskTarget_113 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Rothwild"
+
+[TheWorld:PersistentLevel.Main_Sequence.RothWild_TortureChair.DisSeqAct_UpdateTaskTarget_116 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Rothwild"
+
+[TheWorld:PersistentLevel.Main_Sequence.RothWild_TortureChair.DisSeqAct_UpdateTaskTarget_117 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Rothwild"
+
+[TheWorld:PersistentLevel.Main_Sequence.RothWild_TortureChair.DisSeqAct_UpdateTaskTarget_126 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Rothwild"
+
+[TheWorld:PersistentLevel.Main_Sequence.RothWild_TortureChair.DisSeqAct_UpdateTaskTarget_129 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Interrogation Point"
+
+[TheWorld:PersistentLevel.Main_Sequence.RothWild_TortureChair.DisSeqAct_UpdateTaskTarget_130 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Interrogation Point"
+
+[TheWorld:PersistentLevel.Main_Sequence.RothWild_TortureChair.DisSeqAct_UpdateTaskTarget_131 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Interrogation Point"
+
+[TheWorld:PersistentLevel.Main_Sequence.RothWild_TortureChair.DisSeqAct_UpdateTaskTarget_145 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Rothwild"
+
+[TheWorld:PersistentLevel.Main_Sequence.RothWild_TortureChair.DisSeqAct_UpdateTaskTarget_146 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Rothwild"
+
+[TheWorld:PersistentLevel.Main_Sequence.RothWild_TortureChair.DisSeqAct_UpdateTaskTarget_57 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Sewer Exit"
+
+[TheWorld:PersistentLevel.Main_Sequence.RothWild_TortureChair.DisSeqAct_UpdateTaskTarget_76 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Main Exit"
+
+[TheWorld:PersistentLevel.Main_Sequence.RothWild_TortureChair.DisSeqAct_UpdateTaskTarget_77 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Roof Exit"
+
+[TheWorld:PersistentLevel.Main_Sequence.RothWild_TortureChair.DisSeqAct_UpdateTaskTarget_87 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Abigail"
+

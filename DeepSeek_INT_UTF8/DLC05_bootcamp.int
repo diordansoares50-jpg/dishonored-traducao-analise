@@ -1,0 +1,86 @@
+﻿[DLC01_bootcamp_obj DishonoredObjective]
+m_Description="Os assassinos estão treinando"
+
+[DLC01_bootcamp_obj:DishonoredTask_Custom_0 DishonoredTask_Custom]
+m_Description="Por aqui para começar"
+m_Status=""
+
+[DLC01_bootcamp_obj:DishonoredTask_Custom_15 DishonoredTask_Custom]
+m_Description="Acerte os 4 alvos de treinamento"
+m_Status=""
+
+[DLC01_bootcamp_obj:DishonoredTask_Custom_17 DishonoredTask_Custom]
+m_Description="Acerte os 4 alvos de treinamento"
+m_Status=""
+
+[DLC01_bootcamp_obj:DishonoredTask_Custom_19 DishonoredTask_Custom]
+m_Description="Acertar os 4 alvos de treinamento"
+m_Status=""
+
+[DLC01_bootcamp_obj:DishonoredTask_Custom_20 DishonoredTask_Custom]
+m_Description="Suba as escadas"
+m_Status=""
+
+[DLC01_bootcamp_obj:DishonoredTask_Custom_22 DishonoredTask_Custom]
+m_Description="Acerte os 2 alvos de treinamento"
+m_Status=""
+
+[DLC01_bootcamp_obj:DishonoredTask_Custom_24 DishonoredTask_Custom]
+m_Description="Evite as armadilhas"
+m_Status=""
+
+[DLC01_bootcamp_obj:DishonoredTask_Custom_25 DishonoredTask_Custom]
+m_Description="Matar o chorão"
+m_Status=""
+
+[DLC01_bootcamp_obj:DishonoredTask_Custom_26 DishonoredTask_Custom]
+m_Description="Acerte os 4 alvos de treinamento"
+m_Status=""
+
+[DLC01_bootcamp_obj:DishonoredTask_Custom_29 DishonoredTask_Custom]
+m_Description="Acerte os 2 alvos de treinamento"
+m_Status=""
+
+[DLC01_bootcamp_objExp DishonoredObjective]
+m_Description="Os assassinos estão treinando"
+
+[DLC01_bootcamp_objExp:DishonoredTask_Custom_0 DishonoredTask_Custom]
+m_Description="Por aqui para começar"
+m_Status=""
+
+[DLC01_bootcamp_objExp:DishonoredTask_Custom_15 DishonoredTask_Custom]
+m_Description="Mate os bandidos"
+m_Status=""
+
+[DLC01_bootcamp_objExp:DishonoredTask_Custom_17 DishonoredTask_Custom]
+m_Description="Mate os guardas"
+m_Status=""
+
+[DLC01_bootcamp_objExp:DishonoredTask_Custom_19 DishonoredTask_Custom]
+m_Description="Mate os chorões"
+m_Status=""
+
+[DLC01_bootcamp_objExp:DishonoredTask_Custom_20 DishonoredTask_Custom]
+m_Description="Subir as escadas"
+m_Status=""
+
+[DLC01_bootcamp_objExp:DishonoredTask_Custom_22 DishonoredTask_Custom]
+m_Description="Mate os guardas"
+m_Status=""
+
+[DLC01_bootcamp_objExp:DishonoredTask_Custom_24 DishonoredTask_Custom]
+m_Description="Evite as armadilhas"
+m_Status=""
+
+[DLC01_bootcamp_objExp:DishonoredTask_Custom_25 DishonoredTask_Custom]
+m_Description="mate o chorão"
+m_Status=""
+
+[DLC01_bootcamp_objExp:DishonoredTask_Custom_27 DishonoredTask_Custom]
+m_Description="Mate os assassinos"
+m_Status=""
+
+[DLC01_bootcamp_objExp:DishonoredTask_Custom_28 DishonoredTask_Custom]
+m_Description="Atirou nos dois guardas"
+m_Status=""
+

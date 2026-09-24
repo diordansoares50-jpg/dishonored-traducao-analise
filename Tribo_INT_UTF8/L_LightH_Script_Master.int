@@ -1,0 +1,20 @@
+﻿[TheWorld:PersistentLevel.DisDoor_1 DisDoor]
+m_DoorName=""
+m_MatchingKey=""
+
+[TheWorld:PersistentLevel.DisDoor_2 DisDoor]
+m_DoorName=""
+m_MatchingKey=""
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_GameOver_0 DisSeqAct_GameOver]
+m_Reason="Você caiu para sua morte"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_ShowLocationDiscovery_1 DisSeqAct_ShowLocationDiscovery]
+m_LocationName="Farol Burrows"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_UpdateTaskTarget_0 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Farol"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_UpdateTaskTarget_1 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Farol"
+

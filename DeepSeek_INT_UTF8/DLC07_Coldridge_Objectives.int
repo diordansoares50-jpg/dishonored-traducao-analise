@@ -1,0 +1,115 @@
+﻿[DLC07_Coldridge_Charm_Objective DishonoredObjective]
+m_Description="(Favor) Runa Mal Posicionada"
+
+[DLC07_Coldridge_Charm_Objective:DishonoredTask_Custom_0 DishonoredTask_Custom]
+m_Description="Encontrar Runa deslocada"
+m_Status=""
+
+[DLC07_Coldridge_Charm_Objective:DishonoredTask_Custom_1 DishonoredTask_Custom]
+m_Description="Colete o amuleto de osso"
+m_Status=""
+
+[DLC07_Coldridge_Charm_Objective:DishonoredTask_Custom_92 DishonoredTask_Custom]
+m_Description="Encontre a cela do prisioneiro supersticioso"
+m_Status=""
+
+[DLC07_Coldridge_Charm_Objective:DishonoredTask_Custom_93 DishonoredTask_Custom]
+m_Description="Abra a cela do prisioneiro supersticioso"
+m_Status=""
+
+[DLC07_Coldridge_Charm_Objective:DishonoredTask_Custom_94 DishonoredTask_Custom]
+m_Description="Procure no privado pelo amuleto de osso"
+m_Status=""
+
+[DLC07_Coldridge_Forged_Objective DishonoredObjective]
+m_Description="(Favor) Requisição Forjada"
+
+[DLC07_Coldridge_Forged_Objective:DishonoredTask_Custom_92 DishonoredTask_Custom]
+m_Description="Recupere a chave do armário de munições"
+m_Status=""
+
+[DLC07_Coldridge_Forged_Objective:DishonoredTask_Custom_93 DishonoredTask_Custom]
+m_Description="Desbloquear o armário de munição"
+m_Status=""
+
+[DLC07_Coldridge_Helper_Objective DishonoredObjective]
+m_Description="Execução na Prisão"
+
+[DLC07_Coldridge_Helper_Objective:DishonoredTask_Custom_95 DishonoredTask_Custom]
+m_Description="Impedir que o oficial da guarda seja executado"
+m_Status=""
+
+[DLC07_Coldridge_Helper_Objective:DishonoredTask_Custom_96 DishonoredTask_Custom]
+m_Description="Desamarrar o guarda"
+m_Status=""
+
+[DLC07_Coldridge_Helper_Objective:DishonoredTask_Custom_97 DishonoredTask_Custom]
+m_Description="Fale com o guarda"
+m_Status=""
+
+[DLC07_Coldridge_Stride_Objective DishonoredObjective]
+m_Description="Quebrar a Passada de Lizzy Para Fora de Coldridge"
+
+[DLC07_Coldridge_Stride_Objective:DishonoredTask_Custom_100 DishonoredTask_Custom]
+m_Description="Ative um alarme para criar uma distração"
+m_Status=""
+
+[DLC07_Coldridge_Stride_Objective:DishonoredTask_Custom_101 DishonoredTask_Custom]
+m_Description="Fale com o assassino para sair"
+m_Status=""
+
+[DLC07_Coldridge_Stride_Objective:DishonoredTask_Custom_103 DishonoredTask_Custom]
+m_Description="Carregar Lizzy Stride"
+m_Status=""
+
+[DLC07_Coldridge_Stride_Objective:DishonoredTask_Custom_85 DishonoredTask_Custom]
+m_Description="Entrar na Prisão de Coldridge"
+m_Status=""
+
+[DLC07_Coldridge_Stride_Objective:DishonoredTask_Custom_86 DishonoredTask_Custom]
+m_Description="Descubra a localização de Lizzy Stride"
+m_Status=""
+
+[DLC07_Coldridge_Stride_Objective:DishonoredTask_Custom_87 DishonoredTask_Custom]
+m_Description="Abrir a Célula de Lizzy Stride"
+m_Status=""
+
+[DLC07_Coldridge_Stride_Objective:DishonoredTask_Custom_88 DishonoredTask_Custom]
+m_Description="Acorde Lizzy Stride"
+m_Status=""
+
+[DLC07_Coldridge_Stride_Objective:DishonoredTask_Custom_89 DishonoredTask_Custom]
+m_Description="Libertar Lizzy Stride das restrições"
+m_Status=""
+
+[DLC07_Coldridge_Stride_Objective:DishonoredTask_Custom_90 DishonoredTask_Custom]
+m_Description="`GBA_Use` Carregar Lizzy Stride até a entrada do esgoto"
+m_Status=""
+
+[DLC07_Coldridge_Stride_Objective:DishonoredTask_Custom_91 DishonoredTask_Custom]
+m_Description="Criar uma distração"
+m_Status=""
+
+[DLC07_Coldridge_Stride_Objective:DishonoredTask_Custom_98 DishonoredTask_Custom]
+m_Description="Liberte o Membro da Gangue da Bottle Street para criar uma distração"
+m_Status=""
+
+[DLC07_Coldridge_Stride_Objective:DishonoredTask_Custom_99 DishonoredTask_Custom]
+m_Description="Liberte o Prisioneiro Enlouquecido para criar uma distração"
+m_Status=""
+
+[DLC07_Coldridge_Witch_Objective DishonoredObjective]
+m_Description="(Favor) Superintendente Visitante"
+
+[DLC07_Coldridge_Witch_Objective:DishonoredTask_Custom_0 DishonoredTask_Custom]
+m_Description="Fale com o Guarda no portão principal"
+m_Status=""
+
+[DLC07_Coldridge_Witch_Objective:DishonoredTask_Custom_95 DishonoredTask_Custom]
+m_Description="Vá para a Sala de Interrogatório"
+m_Status=""
+
+[DLC07_Coldridge_Witch_Objective:DishonoredTask_Custom_96 DishonoredTask_Custom]
+m_Description="Descubra o que aconteceu durante o interrogatório"
+m_Status=""
+

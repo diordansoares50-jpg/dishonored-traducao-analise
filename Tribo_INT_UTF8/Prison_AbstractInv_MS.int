@@ -1,0 +1,15 @@
+﻿[ExplosiveDevice_AbsItm DisAbstractItem]
+m_ItemName="Bomba-Relógio"
+m_PluralItemName=""
+m_Description="Plante essa bomba na porta externa."
+
+[PrnSewerNotes.PrsnSewer_FirstNote DisAbstractItem]
+m_ItemName="Mensagem de um Amigo"
+m_PluralItemName=""
+m_Description="Corvo, se estiver lendo isso significa que o nosso plano funcionou e você conseguiu escapar de Coldridge. Um dos nossos contatos deixou armas escondidas para você em algum lugar no esgoto. Pegue o equipamento e encontre Samuel onde esses túneis desembocam no rio. Ele o trará até nós.\n\nUm amigo que irá te ver em breve\n"
+
+[PrnSewerNotes.PrsnSewer_Safe451_Alt DisAbstractItem]
+m_ItemName="Parte de Jelly"
+m_PluralItemName=""
+m_Description="Jelly,\n\nNo caso de você ser muito imbecil para lembrar, procure a resposta no seu uísque. Uísque. Entendeu?\n\nSe você quiser sua parte, encontrará a resposta. Caso contrário, eu voltarei para tratar disso no mês que vem. \n"
+

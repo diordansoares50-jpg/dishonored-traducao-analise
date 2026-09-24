@@ -1,0 +1,22 @@
+﻿[Chest_02_twk DisTweaks_UsableObject]
+m_Stages[1]=(m_InteractTextOverride="`GBA_Use` Close")
+
+[Chest_02_twk:DisTweaks_InteractableInterface_4 DisTweaks_InteractableInterface]
+m_Name="Chest"
+m_InteractText="`GBA_Use` Open"
+
+[DLC07_Mill_Engine_Door_twk:DisTweaks_InteractableInterface_31 DisTweaks_InteractableInterface]
+m_Name="Door to the Engine Room"
+m_InteractText="`GBA_Use` Open"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage="Combination Required"
+
+[intercom_twk:DisTweaks_InteractableInterface_16 DisTweaks_InteractableInterface]
+m_Name="Intercom"
+m_InteractText="`GBA_Use` Call"
+
+[signal_bell_twk:DisTweaks_InteractableInterface_16 DisTweaks_InteractableInterface]
+m_Name="Experiment Timer"
+m_InteractText="`GBA_Use` Use"

@@ -1,0 +1,18 @@
+﻿[Twk_Objective_KillGriff DishonoredObjective]
+m_Description="Matar Griff"
+
+[Twk_Objective_KillGriff:DishonoredTask_Custom_0 DishonoredTask_Custom]
+m_Description="Matar Griff"
+m_Status=""
+
+[Twk_Objectives DishonoredObjective]
+m_Description="Manopla de Corrente"
+
+[Twk_Objectives:DishonoredTask_Custom_0 DishonoredTask_Custom]
+m_Description="Matar Griff"
+m_Status=""
+
+[Twk_Objectives:DishonoredTask_Custom_18 DishonoredTask_Custom]
+m_Description="Coletar a Runa"
+m_Status=""
+

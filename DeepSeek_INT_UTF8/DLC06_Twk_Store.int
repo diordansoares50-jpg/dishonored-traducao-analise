@@ -1,0 +1,67 @@
+﻿[DLC06_Twk_FavorPickup DisTweaks_AbstractItemPickup]
+m_SingleItemPickupMessage=""
+
+[DLC06_Twk_FavorPickup:pInteractableTweaks_PickupBase DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name="Por favor"
+m_InteractText=""
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[DLC06_Twk_GlobalStore DisTweaks_Store]
+m_StoreItems[0]=(m_Name="Wristbow Bolt",m_Description="Ammunition for Daud's wristbow.")
+m_StoreItems[1]=(m_Name="Explosive Bolt",m_Description="Heavy bolt that explodes after a delay triggered upon impact.")
+m_StoreItems[2]=(m_Name="Bullet",m_Description="Ammunition for any standard pistol.")
+m_StoreItems[3]=(m_Name="Sleep Dart",m_Description="Puts enemies to sleep.")
+m_StoreItems[4]=(m_Name="Arc Mine",m_Description="A lethal trap that can be placed on nearly any surface. ")
+m_StoreItems[5]=(m_Name="Stun Mine",m_Description="A nonlethal trap that can be placed on nearly any surface. ")
+m_StoreItems[6]=(m_Name="Grenade",m_Description="An explosive grenade.")
+m_StoreItems[7]=(m_Name="Chokedust",m_Description="A nonlethal grenade that temporarily disables enemies.")
+m_StoreItems[8]=(m_Name="Piero's Spiritual Remedy",m_Description="Restores mana.")
+m_StoreItems[9]=(m_Name="Sokolov's Health Elixir",m_Description="Restores health.")
+m_StoreItems[10]=(m_Name="Rewire Tool",m_Description="Allows you to rewire circuitry and turn security systems to your advantage. Consumed on use.")
+m_StoreItems[11]=(m_Name="Wristbow Accuracy",m_Description="Lowers dispersion and stabilizes wristbow aim.")
+m_StoreItems[12]=(m_Name="Wristbow Range",m_Description="Wristbow bolts travel faster, farther.")
+m_StoreItems[13]=(m_Name="Wristbow Reload",m_Description="Faster reload. Enables auto-reload.")
+m_StoreItems[14]=(m_Name="Combat Sleep Dart",m_Description="Sleep darts are effective immediately, even in combat.")
+m_StoreItems[15]=(m_Name="Improved Armor",m_Description="Reduces damage.")
+m_StoreItems[16]=(m_Name="Boot Stealth 1",m_Description="Reduced footstep sounds. <br>§C_BLUE§Unlocks: §C§<br>Boot Stealth 2")
+m_StoreItems[17]=(m_Name="Boot Stealth 2",m_Description="Further reduced footstep sounds. ")
+m_StoreItems[18]=(m_Name="Bolt Capacity 1",m_Description="Increases standard bolt capacity by 10 (Total 20).")
+m_StoreItems[19]=(m_Name="Bolt Capacity 2",m_Description="Increases standard bolt capacity by 10 (Total 30).")
+m_StoreItems[20]=(m_Name="Sleep Dart Capacity 1",m_Description="Increases sleep dart capacity by 3 (Total 13).")
+m_StoreItems[21]=(m_Name="Sleep Dart Capacity 2",m_Description="Increases sleep dart capacity by 2 (Total 15).")
+m_StoreItems[22]=(m_Name="Explosive Bolt Capacity 1",m_Description="Increases explosive bolt capacity by 3 (Total 8).")
+m_StoreItems[23]=(m_Name="Explosive Bolt Capacity 2",m_Description="Increases explosive bolt capacity by 2 (Total 10).")
+m_StoreItems[24]=(m_Name="Grenade Capacity",m_Description="Increases grenade storage capacity by 4 (Total 9).")
+m_StoreItems[25]=(m_Name="Chokedust Capacity",m_Description="Increases chokedust storage capacity by 4 (Total 9). ")
+m_StoreItems[26]=(m_Name="Arc Mine Capacity",m_Description="Increases arc mine storage capacity by 3 (Total 6).")
+m_StoreItems[27]=(m_Name="Stun Mine Capacity",m_Description="Increases stun mine storage capacity by 3 (Total 6).")
+m_StoreItems[28]=(m_Name="Arc Mine Extra Charge",m_Description="Adds an extra charge to the arc mine.")
+m_StoreItems[29]=(m_Name="Stun Mine Extra Charge",m_Description="Adds an extra charge to the stun mine.")
+m_StoreItems[30]=(m_Name="Stun Mine",m_Description="A modification to the arc mine design allows Daud to create a nonlethal version.")
+m_StoreItems[31]=(m_Name="Bone Charm Capacity 1",m_Description="Enables one additional bone charm to be active (Total 4, Max 6).")
+m_StoreItems[32]=(m_Name="Bone Charm Capacity 2",m_Description="Enables one additional bone charm to be active (Total 5, Max 6). ")
+m_StoreItems[33]=(m_Name="Bone Charm Capacity 3",m_Description="Enables one additional bone charm to be active (Total 6, Max 6). ")
+m_StoreItems[34]=(m_Name="Safe Code",m_Description="A guard overheard the code to the safe in the shipping office and will etch it on the wall.")
+m_StoreItems[35]=(m_Name="The Stolen Rune",m_Description="A bribed laborer will 'misplace' a rune he found in a crate full of old scrimshaw bound for the Academy of Natural Philosophy. The rune will be hidden in the sewer that spills out into the river. ")
+m_StoreItems[36]=(m_Name="Silent Sabotage",m_Description="A bribed worker will disconnect the security on the refinery valves. Using the valves will not sound the alarm.")
+m_StoreItems[37]=(m_Name="Rune Drop-off",m_Description="A friend will leave a rune by the ruined bridge for you to pick up.")
+m_StoreItems[38]=(m_Name="Whale Oil Delivery",m_Description="There will be some conveniently placed whale oil tanks by the first gate on your way into the district.")
+
+[Tutorial.DLC06_StoreTutorial_PickUp DisTweaks_AbstractItemPickupNote]
+m_PressKeyToReadMessage="`GBA_Journal` Ler o tutorial do Piscar"
+m_OnPickupMessage=""
+m_SingleItemPickupMessage=""
+
+[Tutorial.DLC06_StoreTutorial_PickUp:DisTweaks_Interactable_PickupBase_105 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name="Área de Transferência"
+m_InteractText="`GBA_Use` Ler"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+

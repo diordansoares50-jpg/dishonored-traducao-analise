@@ -1,0 +1,5 @@
+﻿[DLC06_AbsItm_RewireTool DisAbstractItem]
+m_ItemName="Rewire Tool"
+m_PluralItemName="Rewire Tools"
+m_Description="Allows you to rewire technological circuitry and turn security systems to your advantage. Consumed on usage."
+

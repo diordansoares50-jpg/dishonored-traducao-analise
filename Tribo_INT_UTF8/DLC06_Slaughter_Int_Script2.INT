@@ -1,0 +1,81 @@
+﻿[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_SetTutorialMessage_1 DisSeqAct_SetTutorialMessage]
+m_TutorialMessage="Valve Already Opened"
+m_TutorialMessage_Gamepad=""
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_SetTutorialMessage_10 DisSeqAct_SetTutorialMessage]
+m_TutorialMessage="Valve Wrench is on another Valve"
+m_TutorialMessage_Gamepad=""
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_SetTutorialMessage_11 DisSeqAct_SetTutorialMessage]
+m_TutorialMessage="Valve Wrench is on another Valve"
+m_TutorialMessage_Gamepad=""
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_SetTutorialMessage_12 DisSeqAct_SetTutorialMessage]
+m_TutorialMessage="Valve Wrench is on another Valve"
+m_TutorialMessage_Gamepad=""
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_SetTutorialMessage_2 DisSeqAct_SetTutorialMessage]
+m_TutorialMessage="Valve Wrench Needed"
+m_TutorialMessage_Gamepad=""
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_SetTutorialMessage_3 DisSeqAct_SetTutorialMessage]
+m_TutorialMessage="Valve Already Opened"
+m_TutorialMessage_Gamepad=""
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_SetTutorialMessage_4 DisSeqAct_SetTutorialMessage]
+m_TutorialMessage="Valve Already Opened"
+m_TutorialMessage_Gamepad=""
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_SetTutorialMessage_5 DisSeqAct_SetTutorialMessage]
+m_TutorialMessage="Valve Wrench is on another Valve"
+m_TutorialMessage_Gamepad=""
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_SetTutorialMessage_6 DisSeqAct_SetTutorialMessage]
+m_TutorialMessage="Valve Wrench Needed"
+m_TutorialMessage_Gamepad=""
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_SetTutorialMessage_7 DisSeqAct_SetTutorialMessage]
+m_TutorialMessage="Valve Wrench Needed"
+m_TutorialMessage_Gamepad=""
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_SetTutorialMessage_8 DisSeqAct_SetTutorialMessage]
+m_TutorialMessage="Valve Wrench Needed"
+m_TutorialMessage_Gamepad=""
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_SetTutorialMessage_9 DisSeqAct_SetTutorialMessage]
+m_TutorialMessage="Valve Already Opened"
+m_TutorialMessage_Gamepad=""
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_ShowLocationDiscovery_0 DisSeqAct_ShowLocationDiscovery]
+m_LocationName="The Meat Locker"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_ShowLocationDiscovery_2 DisSeqAct_ShowLocationDiscovery]
+m_LocationName="Slaughterhouse Offices"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_UpdateTaskTarget_135 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Misplaced Rune"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_UpdateTaskTarget_68 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Whale Oil Flow Valve 4"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_UpdateTaskTarget_69 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Whale Oil Flow Valve 1"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_UpdateTaskTarget_70 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Whale Oil Flow Valve 2"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_UpdateTaskTarget_71 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Whale Oil Flow Valve 3"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_UpdateTaskTarget_91 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Whale Oil Flow Valve 1"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_UpdateTaskTarget_92 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Whale Oil Flow Valve 2"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_UpdateTaskTarget_93 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Whale Oil Flow Valve 3"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_UpdateTaskTarget_94 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Whale Oil Flow Valve 4"
+

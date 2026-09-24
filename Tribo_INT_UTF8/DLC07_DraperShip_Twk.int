@@ -1,0 +1,22 @@
+﻿[DLC07_Bodybag_Searchable:pInteractableTweaks_PickupBase DisTweaks_Interactable_PickupBase]
+m_Name="Drowning Victim"
+m_InteractText="`GBA_Use` Search"
+
+[DLC07_DELETEME DisTweaks_AbstractItemPickupNote]
+m_PressKeyToReadMessage=""
+m_OnPickupMessage=""
+
+[DLC07_DELETEME:pInteractableTweaks_PickupBase DisTweaks_Interactable_PickupBase]
+m_Name="Drowning Victim"
+m_InteractText="`GBA_Use` Search"
+
+[DLC07_LTD_River_To_Street DisTweaks_UsableObject]
+m_LockedMessage="It's Jammed"
+
+[DLC07_LTD_River_To_Street:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Door to Drapers Ward Streets"
+
+[DLC07_UndineHornLever_twk:DisTweaks_InteractableInterface_0 DisTweaks_InteractableInterface]
+m_Name="Ship's Horn Lever"
+m_InteractText="`GBA_Use` Use"
+

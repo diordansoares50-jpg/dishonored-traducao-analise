@@ -1,0 +1,48 @@
+﻿[Pwn_Guard_Base DisTweaks_NPCPawn]
+m_BusyText="Este personagem está ocupado"
+m_CannotStealMessage="Você não pode carregar mais munição deste tipo"
+
+[Pwn_Guard_Base:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name=""
+m_InteractText=""
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Pwn_Guard_MSBase DisTweaks_NPCPawn]
+m_BusyText="Este personagem está ocupado"
+m_CannotStealMessage="Você não pode carregar mais munição deste tipo"
+
+[Pwn_Guard_MSBase:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Guarda da Guarda da Cidade"
+m_InteractText=""
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Pwn_Guard_MTBase DisTweaks_NPCPawn]
+m_BusyText="Este personagem está ocupado"
+m_CannotStealMessage="Você não pode carregar mais munição deste tipo"
+
+[Pwn_Guard_MTBase:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Guarda da Cidade"
+m_InteractText=""
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Pwn_LowerGuard_MTBase DisTweaks_NPCPawn]
+m_BusyText="Este personagem está ocupado"
+m_CannotStealMessage="Você não pode carregar mais munição deste tipo"
+
+[Pwn_LowerGuard_MTBase:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Observar Guarda Baixa"
+m_InteractText=""
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+

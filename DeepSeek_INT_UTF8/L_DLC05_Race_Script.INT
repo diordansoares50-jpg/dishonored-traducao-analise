@@ -1,0 +1,53 @@
+﻿[TheWorld:PersistentLevel.DisDoor_0 DisDoor]
+m_DoorName=""
+
+[TheWorld:PersistentLevel.DisDoor_1 DisDoor]
+m_DoorName=""
+
+[TheWorld:PersistentLevel.DisDoor_2 DisDoor]
+m_DoorName=""
+
+[TheWorld:PersistentLevel.DisDoor_3 DisDoor]
+m_DoorName=""
+
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_GameOver_1 DisSeqAct_GameOver]
+m_Reason="Você encontrou seu fim"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_DialogScriptedChoice_0 DisSeqAct_DialogScriptedChoice]
+m_Title=""
+m_Choices[0]=(m_ChoiceText="")
+m_Choices[1]=(m_ChoiceText="")
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_DialogScriptedChoice_4 DisSeqAct_DialogScriptedChoice]
+m_Title=""
+m_Choices[0]=(m_ChoiceText="Retry")
+m_Choices[1]=(m_ChoiceText="Back to Menu")
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_SetTutorialMessage_0 DisSeqAct_SetTutorialMessage]
+m_TutorialMessage="Assassinos agora patrulham a área. Se você os matar, eles voltarão rapidamente."
+m_TutorialMessage_Gamepad=""
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_SetTutorialMessage_1 DisSeqAct_SetTutorialMessage]
+m_TutorialMessage="Você começa com uma barra de Mana quase vazia."
+m_TutorialMessage_Gamepad=""
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_SetTutorialMessage_2 DisSeqAct_SetTutorialMessage]
+m_TutorialMessage="Alcance o objetivo o mais rápido possível."
+m_TutorialMessage_Gamepad=""
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_SetTutorialMessage_3 DisSeqAct_SetTutorialMessage]
+m_TutorialMessage="Use suas opções de mobilidade, Blink e Agility para completar este desafio."
+m_TutorialMessage_Gamepad=""
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_SetTutorialMessage_4 DisSeqAct_SetTutorialMessage]
+m_TutorialMessage="A saúde e mana restantes no final do desafio concedem um bônus de pontuação."
+m_TutorialMessage_Gamepad=""
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_SetTutorialMessage_5 DisSeqAct_SetTutorialMessage]
+m_TutorialMessage="Quanto mais rápido você chegar ao fim, maior será sua pontuação."
+m_TutorialMessage_Gamepad=""
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_UpdateTaskTarget_0 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Chegada"
+

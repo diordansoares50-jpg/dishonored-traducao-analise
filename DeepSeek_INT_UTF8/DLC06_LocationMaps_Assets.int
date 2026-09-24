@@ -1,0 +1,112 @@
+﻿[Twk_Map_DaudBase_01 DisTweaks_AbstractItemPickupNote]
+m_PressKeyToReadMessage=""
+m_OnPickupMessage=""
+m_SingleItemPickupMessage=""
+
+[Twk_Map_DaudBase_01:DisTweaks_Interactable_PickupBase_107 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name="Planos de Assalto do Supervisor"
+m_InteractText="`GBA_Use` Olhar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Twk_Map_Slaugther_Ext_01 DisTweaks_AbstractItemPickupNote]
+m_PressKeyToReadMessage=""
+m_OnPickupMessage=""
+m_SingleItemPickupMessage=""
+
+[Twk_Map_Slaugther_Ext_01:DisTweaks_Interactable_PickupBase_107 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name="Mapa da Área"
+m_InteractText="`GBA_Use` Olhar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Twk_Map_Slaugther_Int_01 DisTweaks_AbstractItemPickupNote]
+m_PressKeyToReadMessage=""
+m_OnPickupMessage=""
+m_SingleItemPickupMessage=""
+
+[Twk_Map_Slaugther_Int_01:DisTweaks_Interactable_PickupBase_107 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name="Mapa da Área"
+m_InteractText="`GBA_Use` Olhar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Twk_Map_Slaugther_Int_02 DisTweaks_AbstractItemPickupNote]
+m_PressKeyToReadMessage=""
+m_OnPickupMessage=""
+m_SingleItemPickupMessage=""
+
+[Twk_Map_Slaugther_Int_02:DisTweaks_Interactable_PickupBase_107 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name="Mapa da Área"
+m_InteractText="`GBA_Use` Olhar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Twk_Map_Slaugther_Int_03 DisTweaks_AbstractItemPickupNote]
+m_PressKeyToReadMessage=""
+m_OnPickupMessage=""
+m_SingleItemPickupMessage=""
+
+[Twk_Map_Slaugther_Int_03:DisTweaks_Interactable_PickupBase_107 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name="Mapa da Área"
+m_InteractText="`GBA_Use` Olhar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Twk_Map_Slaugther_Int_04 DisTweaks_AbstractItemPickupNote]
+m_PressKeyToReadMessage=""
+m_OnPickupMessage=""
+m_SingleItemPickupMessage=""
+
+[Twk_Map_Slaugther_Int_04:DisTweaks_Interactable_PickupBase_107 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name="Mapa da Área"
+m_InteractText="`GBA_Use` Olhar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Twk_Map_Timsh_Ext_01 DisTweaks_AbstractItemPickupNote]
+m_PressKeyToReadMessage=""
+m_OnPickupMessage=""
+m_SingleItemPickupMessage=""
+
+[Twk_Map_Timsh_Ext_01:DisTweaks_Interactable_PickupBase_107 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name="Mapa da Área"
+m_InteractText="`GBA_Use` Olhar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Twk_Map_Timsh_Int_01 DisTweaks_AbstractItemPickupNote]
+m_PressKeyToReadMessage=""
+m_OnPickupMessage=""
+m_SingleItemPickupMessage=""
+
+[Twk_Map_Timsh_Int_01:DisTweaks_Interactable_PickupBase_107 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name="Mapa da Área"
+m_InteractText="`GBA_Use` Olhar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+

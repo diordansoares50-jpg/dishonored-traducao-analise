@@ -1,0 +1,55 @@
+﻿[DLC07_Notes_AntiPoison DisAbstractItem]
+m_ItemName="Antitoxin"
+m_PluralItemName=""
+m_Description="The antitoxin formula needs the following:\nOxrush Flower (buy more from Jerome in Drapers Ward.)\nBull Rat Fetus (one in the dry storage room )\nMetallic Salts (some on the manufacturing floor)\n"
+
+[DLC07_Notes_GeezBattery DisAbstractItem]
+m_ItemName="Whale Oil Tank Replacement"
+m_PluralItemName=""
+m_Description="Warning: When replacing the Whale Oil Tank that powers the Pulmonary Machine, you will have precious little time to do so. If you fail to be diligent, and Mr. Hat perishes, you will release a toxic gas that will end your life and that of your fellow Hatters. Have a care.\n\nTrimble"
+
+[DLC07_Notes_GreenhowHasCode DisAbstractItem]
+m_ItemName="Trimble Knows Door Combination"
+m_PluralItemName=""
+m_Description="Gone to look into the water flow situation in the sewers. If you need access to the engine room while I'm away, talk to Nurse Trimble. He's the only other person with the door combination.\n\n-Pete"
+
+[DLC07_Notes_LabTimer DisAbstractItem]
+m_ItemName="Timer Calibration"
+m_PluralItemName=""
+m_Description="The calibration of my experiment timer is slightly off. This should be fixed immediately. I like to check on my experiments immediatlely after the bell chimes. I have this all perfectly timed from the bell ring to the walk to my lab.\n\nThis should be a top priority after you return from restoring the water flow in the sewers.\n\nTrimble"
+
+[DLC07_Notes_MechanicInSewer DisAbstractItem]
+m_ItemName="Missing Mechanic"
+m_PluralItemName=""
+m_Description="I sent our head mechanic into the sewers to try and get the water flowing in the canals again but he hasn't been heard from since. We've lost other men trying to investigate what happened to him. \n\n- Trimble"
+
+[DLC07_Notes_MissingMoneyGuy DisAbstractItem]
+m_ItemName="Skeeves is Gone"
+m_PluralItemName=""
+m_Description="It looks like Skeeves ain’t coming back from his patrol, it’s been six days now. Don’t get me wrong, I ain’t grieving ‘cause Skeeves and me didn’t see eye-to-eye on many things, but it makes me sad because he swore he was bringing back a tremendous stash of coins he knew about up in the dried out waterway. I figured I’d part him from all those coins in a few card games. But that ain’t to be. Who knows, if that water ever comes on again it just may flush him on out. But I doubt it. When you get off duty tonight we need to drink a toast to ole Skeeves."
+
+[Inventory.DLC07_BullRatFetus_Abst DisAbstractItem]
+m_ItemName="Bull Rat Fetus"
+m_PluralItemName=""
+m_Description="This large mutant strain of rat is known for its very strong resistance to poisons. "
+
+[Inventory.DLC07_EngineCoil_Abst DisAbstractItem]
+m_ItemName="Engine Coil"
+m_PluralItemName=""
+m_Description="Engine coils regulate the timing of the engine pistons."
+
+[Inventory.DLC07_OxidizingAgent_Abst DisAbstractItem]
+m_ItemName="Metallic Salts"
+m_PluralItemName=""
+m_Description="This material will give off oxygen when interacting with other compounds at specific temperature."
+
+[Inventory.DLC07_OxRush_Abst DisAbstractItem]
+m_ItemName="Oxrush flower"
+m_PluralItemName=""
+m_Description="Oxrush variant is a flower found in the southern region of Pandyssia."
+
+[Inventory.DLC07_Vaccine_Abst DisAbstractItem]
+m_ItemName="Antitoxin"
+m_PluralItemName=""
+m_Description="This antitoxin will protect against the acidic gas created by Trimble."
+

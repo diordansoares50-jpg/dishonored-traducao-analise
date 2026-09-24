@@ -1,0 +1,74 @@
+﻿[ShopInventory.Bullets_Store_Ammo_twk DisTweaks_StatPickup]
+m_SingleAmmoPickupMessage="Você pegou uma Bala"
+m_EmptyPickupMessage=""
+
+[ShopInventory.Bullets_Store_Ammo_twk:DisTweaks_Interactable_PickupBase_0 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name="Balas"
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage="Você pegou `n Balas"
+m_AltUseMessage=""
+m_CannotUseMessage="Você não pode carregar mais munição deste tipo"
+
+[Stores.Twk_Store_Base DisTweaks_Store]
+m_CostFormat="`c Moedas"
+
+[Stores.Twk_Store_Craftsman DisTweaks_Store]
+m_StoreSubSections[1]="Weapon Upgrades"
+m_StoreSubSections[2]="Equipment Upgrades"
+m_StoreItems[0]=(m_Name="Crossbow Bolt",m_Description="Ammunition for the crossbow.")
+m_StoreItems[1]=(m_Name="Incendiary Bolt",m_Description="Heavy bolt that immolates enemies.")
+m_StoreItems[2]=(m_Name="Sleep Bolt",m_Description="Puts enemies to sleep.")
+m_StoreItems[3]=(m_Name="Bullet",m_Description="Ammunition for any standard pistol.")
+m_StoreItems[4]=(m_Name="Explosive Bullet",m_Description="Explodes on impact.")
+m_StoreItems[5]=(m_Name="Springrazor",m_Description="A trap that can be placed on nearly any surface. ")
+m_StoreItems[6]=(m_Name="Grenade",m_Description="An explosive grenade.")
+m_StoreItems[7]=(m_Name="Sticky Grenade",m_Description="A grenade that sticks to enemies and most surfaces. ")
+m_StoreItems[8]=(m_Name="Piero's Spiritual Remedy",m_Description="Restores mana.")
+m_StoreItems[9]=(m_Name="Sokolov's Health Elixir",m_Description="Restores health.")
+m_StoreItems[10]=(m_Name="Rewire Tool",m_Description="Allows you to rewire circuitry and turn security systems to your advantage. Consumed on usage.")
+m_StoreItems[11]=(m_Name="Rune",m_Description="A carved chunk of whalebone.")
+m_StoreItems[12]=(m_Name="King Street Brandy",m_Description="A rare and expensive liquor containing essence of Morley orchid and traces of purified whale fat.")
+m_StoreItems[13]=(m_Name="Crossbow Accuracy",m_Description="Lowers dispersion and stabilizes crossbow aim.")
+m_StoreItems[14]=(m_Name="Crossbow Range",m_Description="Crossbow bolts travel faster, further.")
+m_StoreItems[15]=(m_Name="Crossbow Reload",m_Description="Faster reload. Enables auto-reload.")
+m_StoreItems[16]=(m_Name="Combat Sleep Dart",m_Description="Sleep darts sedative effect is immediate even in combat.")
+m_StoreItems[17]=(m_Name="Corvo's Pistol Upgrade",m_Description="Allows pistol upgrades and adds a short range spread damage. <br>§C_BLUE§Unlocks:§C§ <br>Pistol Accuracy 1 <br>Pistol Magazine 1 <br>Pistol Reload 1")
+m_StoreItems[18]=(m_Name="Pistol Accuracy 1",m_Description="Lowers dispersion and stabilizes pistol aim. <br>§C_BLUE§Unlocks: §C§<br>Pistol Accuracy 2")
+m_StoreItems[19]=(m_Name="Pistol Accuracy 2",m_Description="Further lowers dispersion and stabilizes pistol aim.")
+m_StoreItems[20]=(m_Name="Pistol Magazine 1",m_Description="Adds 1 bullet to the magazine. (Total 2)<br>§C_BLUE§Unlocks:§C§ <br>Pistol Magazine 2")
+m_StoreItems[21]=(m_Name="Pistol Magazine 2",m_Description="Adds another bullet to the magazine. (Total 3)<br>§C_BLUE§Unlocks: §C§<br>Pistol Magazine 3")
+m_StoreItems[22]=(m_Name="Pistol Magazine 3",m_Description="Adds another bullet to the magazine. (Total 4)")
+m_StoreItems[23]=(m_Name="Pistol Reload 1",m_Description="Faster reload. <br>§C_BLUE§Unlocks:§C§<br>Pistol Reload 2")
+m_StoreItems[24]=(m_Name="Pistol Reload 2",m_Description="Faster reload. Enables auto-reload.")
+m_StoreItems[25]=(m_Name="Pistol Explosive Shot",m_Description="Unlocks explosive bullets usage for your pistol.")
+m_StoreItems[26]=(m_Name="Springrazor Radius",m_Description="Increased radius for springrazor traps.")
+m_StoreItems[27]=(m_Name="Sticky Grenade",m_Description="Unlock grenades that stick to targets.")
+m_StoreItems[28]=(m_Name="Sword Crossing",m_Description="Makes the sword more effective when locking blades and pushing against an enemy. ")
+m_StoreItems[29]=(m_Name="Mask Optics 1",m_Description="Allows you to magnify your view. Press `GBA_Zoom` to zoom.")
+m_StoreItems[30]=(m_Name="Mask Optics 2",m_Description="Provides another level of magnification. Press `GBA_Use` when zoomed.")
+m_StoreItems[31]=(m_Name="Improved Armor",m_Description="Reduces damage.")
+m_StoreItems[32]=(m_Name="Boot Stealth 1",m_Description="Reduced footstep sounds. <br>§C_BLUE§Unlocks: §C§<br>Boot Stealth 2")
+m_StoreItems[33]=(m_Name="Boot Stealth 2",m_Description="Further reduced footstep sounds. ")
+m_StoreItems[34]=(m_Name="Bullet Capacity 1",m_Description="Increases bullet storage capacity by 10. (Total 20) <br>§C_BLUE§Unlocks:§C§ <br>Bullet Capacity 2")
+m_StoreItems[35]=(m_Name="Bullet Capacity 2",m_Description="Increases bullet storage capacity by 10. (Total 30)")
+m_StoreItems[36]=(m_Name="Bolt Capacity 1",m_Description="Increases standard bolts capacity by 10. (Total 20) <br>§C_BLUE§Unlocks: §C§<br>Bolt Capacity 2")
+m_StoreItems[37]=(m_Name="Bolt Capacity 2",m_Description="Increases standard bolts capacity by 10. (Total 30)")
+m_StoreItems[38]=(m_Name="Grenade Capacity",m_Description="Increases grenade storage capacity by 4. (Total 9)")
+m_StoreItems[39]=(m_Name="Springrazor Capacity",m_Description="Increases springrazor storage capacity by 4. (Total 9)")
+m_StoreItems[40]=(m_Name="Bone Charm Capacity 1",m_Description="Enables one additional bone charm to be active. (Total 4) <br>§C_BLUE§Unlocks: §C§<br>Bone Charms Capacity 2")
+m_StoreItems[41]=(m_Name="Bone Charm Capacity 2",m_Description="Enables two additional bone charms to be active. (Total 6) ")
+
+m_CostFormat="`c Moedas"
+
+[Stores.Twk_Store_GriffShop DisTweaks_Store]
+m_StoreItems[0]=(m_Name="Sokolov's Elixir",m_Description="A restorative developed by the famous inventor, Anton Sokolov")
+m_StoreItems[1]=(m_Name="Guard Bullets",m_Description="Bullets stolen from a guard shipment.")
+m_StoreItems[2]=(m_Name="Blueprint: Lens Magnification",m_Description="A diagram for increasing stability in a multi-lens array. Piero can use this to upgrade the magnifying lenses in your mask. ")
+m_StoreItems[3]=(m_Name="Blueprint: Sokolov's Formula",m_Description="The formula for Sokolov's Health Elixir. Piero can use this to distill a liquid that restores health and protects against the rat plague.")
+m_StoreItems[4]=(m_Name="Sleep Darts",m_Description="A dart tipped with plant-based poison. ")
+m_StoreItems[5]=(m_Name="Bolts",m_Description="Lethal projectiles scavenged from roof-tops. ")
+m_StoreItems[6]=(m_Name="Rewire Tool",m_Description="Allows you to rewire circuitry and turn security systems to your advantage. Consumed on usage.")
+m_CostFormat="`c Moedas"
+

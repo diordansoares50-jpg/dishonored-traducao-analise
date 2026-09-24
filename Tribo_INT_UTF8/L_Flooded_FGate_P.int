@@ -1,0 +1,13 @@
+﻿[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_AddKey_0 DisSeqAct_AddKey]
+m_Name="Chave Mestra do Esgoto de Dunwall"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_DialogScriptedChoice_0 DisSeqAct_DialogScriptedChoice]
+m_Title=""
+m_Choices[0]=(m_ChoiceText="Ir para a Base de Daud")
+m_Choices[1]=(m_ChoiceText="Ficar no Túnel que leva ao Portão")
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_DialogScriptedChoice_1 DisSeqAct_DialogScriptedChoice]
+m_Title=""
+m_Choices[0]=(m_ChoiceText="Ir para os Arredores do Distrito do Antigo Porto")
+m_Choices[1]=(m_ChoiceText="Ficar no Portão de Rudshore")
+

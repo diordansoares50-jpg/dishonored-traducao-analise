@@ -1,0 +1,12 @@
+﻿[Thug.Twk_Inv_SwordThug:DisTweaks_InventoryItem_PlayerSpecific_1 DisTweaks_InventoryItem_PlayerSpecific]
+m_Name="Cutelo de Gangues "
+m_Description="Um cutelo áspero usado por bandidos de rua. Essa arma despedaça mais do que corta."
+
+[Thug.Twk_Inv_SwordThug_Player:pPlayerSpecific DisTweaks_InventoryItem_PlayerSpecific]
+m_Name="Cutelo de Gangues "
+m_Description="Um cutelo áspero usado por bandidos de rua. Essa arma despedaça mais do que corta."
+
+[Thug.Twk_Inv_SwordThugTall:DisTweaks_InventoryItem_PlayerSpecific_1 DisTweaks_InventoryItem_PlayerSpecific]
+m_Name=""
+m_Description=""
+

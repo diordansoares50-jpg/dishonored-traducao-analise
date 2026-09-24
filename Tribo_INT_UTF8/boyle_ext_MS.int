@@ -1,0 +1,16 @@
+﻿[Climbable_chain_breakable_Twk:DisTweaks_InteractableInterface_2 DisTweaks_InteractableInterface]
+m_Name="Corrente"
+m_InteractText="`GBA_Use` Agarrar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Fountain_pen_twk:DisTweaks_InteractableInterface_11 DisTweaks_InteractableInterface]
+m_Name="Tinteiro de Canetas"
+m_InteractText=" `GBA_Use` Assinar livro de convidados"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+

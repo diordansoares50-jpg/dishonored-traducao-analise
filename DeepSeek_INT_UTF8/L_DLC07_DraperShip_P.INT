@@ -1,0 +1,15 @@
+﻿[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_DialogScriptedChoice_0 DisSeqAct_DialogScriptedChoice]
+m_Title=""
+m_Choices[0]=(m_ChoiceText="Go to Brigmore Manor")
+m_Choices[1]=(m_ChoiceText="Stay in the Riverfront")
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_DialogScriptedChoice_1 DisSeqAct_DialogScriptedChoice]
+m_Title=""
+m_Choices[0]=(m_ChoiceText="Go to Drapers Ward Streets")
+m_Choices[1]=(m_ChoiceText="Stay in the Riverfront")
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_DialogScriptedChoice_2 DisSeqAct_DialogScriptedChoice]
+m_Title=""
+m_Choices[0]=(m_ChoiceText="Go to Brigmore Manor")
+m_Choices[1]=(m_ChoiceText="Stay in the Riverfront")
+

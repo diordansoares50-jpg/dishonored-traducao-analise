@@ -1,0 +1,5 @@
+﻿[DLC06_AbsItm_RewireTool DisAbstractItem]
+m_ItemName="Ferramenta de Reconfiguração"
+m_PluralItemName="Ferramentas de Remapeamento"
+m_Description="Permite que você reconfigure circuitos tecnológicos e use sistemas de segurança a seu favor. Consumido ao ser usado."
+

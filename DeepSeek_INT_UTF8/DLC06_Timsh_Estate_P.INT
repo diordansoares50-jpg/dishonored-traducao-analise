@@ -1,0 +1,10 @@
+﻿[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_DialogScriptedChoice_2 DisSeqAct_DialogScriptedChoice]
+m_Title=""
+m_Choices[0]=(m_ChoiceText="Go to the Legal District Waterfront")
+m_Choices[1]=(m_ChoiceText="Stay in the Legal District ")
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_DialogScriptedChoice_6 DisSeqAct_DialogScriptedChoice]
+m_Title=""
+m_Choices[0]=(m_ChoiceText="Go to the Legal District Waterfront")
+m_Choices[1]=(m_ChoiceText="Stay in the Legal District ")
+

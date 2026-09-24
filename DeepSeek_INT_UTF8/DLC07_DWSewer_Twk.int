@@ -1,0 +1,41 @@
+﻿[DLC07_DWValveBase_Twk:DisTweaks_InteractableInterface_16 DisTweaks_InteractableInterface]
+m_Name="Válvula de Controle de Água Desativada"
+m_InteractText="`GBA_Use` Ligar Fluxo de Água"
+m_CannotUseMessage="Chave de Válvula de Controle de Água Necessária"
+
+[DLC07_IntValve_Rewind_Twk:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Válvula de Controle de Água"
+
+[DLC07_WaterControlValve_twk:DisTweaks_Interactable_PickupBase_0 DisTweaks_Interactable_PickupBase]
+m_Name="Chave de Válvula de Controle de Água"
+
+[LTD_SewerToEngineRm_twk DisTweaks_UsableObject]
+m_UnlockInteractText="`GBA_Use` Desbloquear"
+m_LockedMessage="Combinação necessária"
+m_UnauthorizedMessage=""
+m_FocusMessage=""
+m_FocusLockedMessage=""
+
+[LTD_SewerToEngineRm_twk:DisTweaks_InteractableInterface_16 DisTweaks_InteractableInterface]
+m_Name="Porta para a Sala das Máquinas"
+m_InteractText="`GBA_Use` Abrir"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage="Combinação necessária"
+
+[LTD_SewerToMill_twk DisTweaks_UsableObject]
+m_UnlockInteractText="`GBA_Use` Desbloquear"
+m_LockedMessage="Combinação necessária"
+m_UnauthorizedMessage=""
+m_FocusMessage=""
+m_FocusLockedMessage=""
+
+[LTD_SewerToMill_twk:DisTweaks_InteractableInterface_16 DisTweaks_InteractableInterface]
+m_Name="Porta para a Fiação de Drapers Ward"
+m_InteractText="`GBA_Use` Abrir"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+

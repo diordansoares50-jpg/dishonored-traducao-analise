@@ -1,0 +1,123 @@
+﻿[Doors.DBDoors_big_rich_ext_glass_twk:DisTweaks_InteractableInterface_43 DisTweaks_InteractableInterface]
+m_Name="Porta de Vidro"
+
+[LLDs.LTD_Bridgemore:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Continuar para a Próxima Missão"
+m_InteractText="`GBA_Use` Abrir"
+
+[LLDs.LTD_estate2streets_ground DisTweaks_UsableObject]
+m_LockedMessage="`k necessário"
+
+[LLDs.LTD_estate2streets_ground:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Viaje para a Orla do Distrito Legal"
+m_InteractText="`GBA_Use` Abrir"
+
+[LLDs.LTD_estate2streets_roof:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Viaje para a Orla do Distrito Legal"
+m_InteractText="`GBA_Use` Abrir"
+
+[LLDs.LTD_streets2estate_ground DisTweaks_UsableObject]
+m_LockedMessage="Trancado"
+m_FocusLockedMessage=""
+
+[LLDs.LTD_streets2estate_ground:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Viaje para o Distrito Legal"
+m_InteractText="`GBA_Use` Abrir"
+
+[LLDs.LTD_streets2estate_roof DisTweaks_UsableObject]
+m_LockedMessage="Trancado"
+
+[LLDs.LTD_streets2estate_roof:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Entrar no Apartamento 10"
+m_InteractText="`GBA_Use` Abrir"
+
+[locked_door_medium DisTweaks_Door]
+m_FocusLockedMessage="Trancado"
+
+[locked_door_small DisTweaks_Door]
+m_FocusLockedMessage="Trancado"
+
+[Moveables.Stone_twk:DisTweaks_InteractableInterface_10 DisTweaks_InteractableInterface]
+m_Name="Pedra Solta"
+
+[Pickups.Immunity_Doc_Pickup:pInteractableTweaks_PickupBase DisTweaks_Interactable_PickupBase]
+m_InteractText="`GBA_Use` Trocar Documentos"
+
+[Pickups.Plant_Doc_Pickup:pInteractableTweaks_PickupBase DisTweaks_Interactable_PickupBase]
+m_InteractText="`GBA_Use` Plantar Documento"
+
+[Pickups.Twk_LegalDist_Note DisTweaks_AbstractItemPickupNote]
+m_PressKeyToReadMessage=""
+m_OnPickupMessage="Nova nota adicionada ao seu diário"
+m_SingleItemPickupMessage=""
+
+[Pickups.Twk_LegalDist_Note:DisTweaks_Interactable_PickupBase_31 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name=""
+m_InteractText="`GBA_Use` Ler"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Useables.AirCircDoor2_Usable_Twk DisTweaks_UsableObject]
+m_UnlockInteractText="`GBA_Use` Desbloquear"
+m_LockedMessage=""
+m_UnauthorizedMessage=""
+m_FocusMessage=""
+m_FocusLockedMessage=""
+
+[Useables.AirCircDoor2_Usable_Twk:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Porta do Circulador de Ar"
+m_InteractText="`GBA_Use` Fechar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Useables.AirCircDoor_Usable_Twk DisTweaks_UsableObject]
+m_UnlockInteractText="`GBA_Use` Desbloquear"
+m_LockedMessage=""
+m_UnauthorizedMessage=""
+m_FocusMessage=""
+m_FocusLockedMessage=""
+
+[Useables.AirCircDoor_Usable_Twk:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Porta do Circulador de Ar"
+m_InteractText="`GBA_Use` Abrir"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Useables.Card_Deck_Useable:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Baralho de Tarot de 78 Cartas"
+m_InteractText="`GBA_Use` Comprar uma carta"
+
+[Useables.Card_Placement_Useable:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Local do Ritual"
+m_InteractText="`GBA_Use` Colocar Carta de Tarô"
+
+[Useables.Card_Ritual_Useable:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="O Mundo"
+m_InteractText="`GBA_Use` Sangrar no cartão"
+
+[Useables.dumbwaiter_dial_01_twk DisTweaks_UsableObject]
+m_UnlockInteractText=""
+m_LockedMessage="Atualmente Inoperante"
+
+[Useables.dumbwaiter_dial_01_twk:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Seleção de Andar do Elevador de Serviço"
+
+[Useables.Falling_Painting_Useable:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Pintura"
+m_InteractText="`GBA_Use` Puxar para baixo"
+
+[Useables.Moving_Cabinet_Useable:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Armário"
+m_InteractText="`GBA_Use` Mover"
+
+[Useables.Odorous_Sack_Useable:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Circulador de Ar"
+m_InteractText="`GBA_Use` Soltar o saco"
+

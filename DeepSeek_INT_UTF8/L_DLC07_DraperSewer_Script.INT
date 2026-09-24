@@ -1,0 +1,23 @@
+﻿[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_DialogScriptedChoice_0 DisSeqAct_DialogScriptedChoice]
+m_Title=""
+m_Choices[0]=(m_ChoiceText="Help her up")
+m_Choices[1]=(m_ChoiceText="Do Nothing")
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_DialogScriptedChoice_1 DisSeqAct_DialogScriptedChoice]
+m_Title=""
+m_Choices[0]=(m_ChoiceText="Help her up")
+m_Choices[1]=(m_ChoiceText="I know what you're up to")
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_ShowHUDMessage_0 DisSeqAct_ShowHUDMessage]
+m_Message="Sem Energia"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_ShowLocationDiscovery_0 DisSeqAct_ShowLocationDiscovery]
+m_LocationName="Estação de Controle de Água"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_ShowLocationDiscovery_1 DisSeqAct_ShowLocationDiscovery]
+m_LocationName="Sistema de Esgotos do Bairro dos Alfaiates"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_UpdateTaskTarget_6 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Mecânica do Chapeleiro"
+
+

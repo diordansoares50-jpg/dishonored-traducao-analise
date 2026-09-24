@@ -1,0 +1,5 @@
+﻿[Twk_Powers_Possess DisTweaks_Possess]
+m_TargetObstructedMessage="Posse obstruída"
+m_TargetBusyMessage="Este alvo não pode ser possuído no momento"
+m_DisallowPossessionMessage="Este alvo é imune a Posse"
+

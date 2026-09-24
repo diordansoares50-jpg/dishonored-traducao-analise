@@ -1,0 +1,38 @@
+﻿[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_SetTutorialMessage_0 DisSeqAct_SetTutorialMessage]
+m_TutorialMessage="Sua mana está esgotada. Parte da mana se regenerará com o tempo. Encontre Remédios Espirituais para restaurá-la completamente."
+m_TutorialMessage_Gamepad=""
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_SetTutorialMessage_1 DisSeqAct_SetTutorialMessage]
+m_TutorialMessage="Para usar o Piscar para escalar, aponte o poder para a borda de um telhado, saliência ou outra superfície elevada."
+m_TutorialMessage_Gamepad="Para usar o Piscar para escalar, aponte o poder na borda de um telhado, saliência ou outra superfície elevada."
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_UpdateTaskTarget_0 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Gravidade Estranha"
+
+[TheWorld:PersistentLevel.Main_Sequence.Outsider_Intro_Blink.DisSeqAct_SetTutorialMessage_0 DisSeqAct_SetTutorialMessage]
+m_TutorialMessage="Segure `GBA_Wheel` para abrir a Roda de Acesso Rápido e equipar o Piscar"
+m_TutorialMessage_Gamepad="Segure `GBA_Wheel` para abrir a Roda de Acesso Rápido e equipar o Piscar"
+
+[TheWorld:PersistentLevel.Main_Sequence.Outsider_Intro_Blink.DisSeqAct_SetTutorialMessage_1 DisSeqAct_SetTutorialMessage]
+m_TutorialMessage="Segure `GBA_Secondary` para mirar o Piscar. Solte `GBA_Secondary` para usar."
+m_TutorialMessage_Gamepad="Mantenha `GBA_Secondary` pressionado para mirar o Piscar. Solte `GBA_Secondary` para usar."
+
+[TheWorld:PersistentLevel.Main_Sequence.Outsider_Intro_Blink.DisSeqAct_SetTutorialMessage_2 DisSeqAct_SetTutorialMessage]
+m_TutorialMessage="Segure `GBA_Wheel` para abrir a Roda de Acesso Rápido e equipar o Piscar"
+m_TutorialMessage_Gamepad="Segure `GBA_Wheel` para abrir a Roda de Acesso Rápido e equipar o Piscar"
+
+[TheWorld:PersistentLevel.Main_Sequence.Outsider_Intro_Blink.DisSeqAct_UpdateTaskTarget_0 DisSeqAct_UpdateTaskTarget]
+m_TargetName=""
+
+[TheWorld:PersistentLevel.Main_Sequence.Outsider_Intro_Blink.DisSeqAct_UpdateTaskTarget_1 DisSeqAct_UpdateTaskTarget]
+m_TargetName="O Forasteiro"
+
+[TheWorld:PersistentLevel.Main_Sequence.Outsider_Intro_Blink.DisSeqAct_UpdateTaskTarget_2 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Salto da Fé"
+
+[TheWorld:PersistentLevel.Main_Sequence.Outsider_Intro_Blink.DisSeqAct_UpdateTaskTarget_3 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Cuidado Onde Pisa"
+
+[TheWorld:PersistentLevel.Main_Sequence.Outsider_Intro_Blink.DisSeqAct_UpdateTaskTarget_4 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Um Pouco de Desafio"
+

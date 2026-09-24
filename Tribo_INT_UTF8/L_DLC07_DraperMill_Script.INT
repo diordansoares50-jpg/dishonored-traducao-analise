@@ -1,0 +1,173 @@
+﻿[TheWorld:PersistentLevel.DisDoor_0 DisDoor]
+m_DoorName=""
+
+[TheWorld:PersistentLevel.DisDoor_1 DisDoor]
+m_DoorName=""
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_AddDarkness_0 DisSeqAct_AddDarkness]
+m_Text=""
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_AddDarkness_1 DisSeqAct_AddDarkness]
+m_Text=""
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_DialogScriptedChoice_0 DisSeqAct_DialogScriptedChoice]
+m_Title=""
+m_Choices[0]=(m_ChoiceText="Do Nothing")
+m_Choices[1]=(m_ChoiceText="Set timer for 5 seconds")
+m_Choices[2]=(m_ChoiceText="Set timer for 10 seconds")
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_DialogScriptedChoice_3 DisSeqAct_DialogScriptedChoice]
+m_Title=""
+m_Choices[0]=(m_ChoiceText="Create Antitoxin")
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_DialogScriptedChoice_4 DisSeqAct_DialogScriptedChoice]
+m_Title=""
+m_Choices[0]=(m_ChoiceText="Do Nothing.")
+m_Choices[1]=(m_ChoiceText="Combine ingredients to create antitoxin.")
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_GameOver_0 DisSeqAct_GameOver]
+m_Reason="You have met your demise."
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_SetTutorialMessage_0 DisSeqAct_SetTutorialMessage]
+m_TutorialMessage="Missing Ingredients."
+m_TutorialMessage_Gamepad=""
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_SetTutorialMessage_1 DisSeqAct_SetTutorialMessage]
+m_TutorialMessage="Missing an empty vial"
+m_TutorialMessage_Gamepad=""
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_SetTutorialMessage_2 DisSeqAct_SetTutorialMessage]
+m_TutorialMessage="Recipe Required"
+m_TutorialMessage_Gamepad=""
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_SetTutorialMessage_3 DisSeqAct_SetTutorialMessage]
+m_TutorialMessage="Audiograph Required"
+m_TutorialMessage_Gamepad=""
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_SetTutorialMessage_5 DisSeqAct_SetTutorialMessage]
+m_TutorialMessage="Need: Oxrush, Metallic Salts and Bull Rat Fetus"
+m_TutorialMessage_Gamepad=""
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_ShowHUDMessage_0 DisSeqAct_ShowHUDMessage]
+m_Message="1 more to go"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_ShowHUDMessage_1 DisSeqAct_ShowHUDMessage]
+m_Message="3 more to go"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_ShowHUDMessage_10 DisSeqAct_ShowHUDMessage]
+m_Message="Gas Released in 6"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_ShowHUDMessage_11 DisSeqAct_ShowHUDMessage]
+m_Message="Gas Released in 10"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_ShowHUDMessage_12 DisSeqAct_ShowHUDMessage]
+m_Message="Gas Released in 9"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_ShowHUDMessage_13 DisSeqAct_ShowHUDMessage]
+m_Message="Gas Released in 8"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_ShowHUDMessage_14 DisSeqAct_ShowHUDMessage]
+m_Message="Gas Released in 7"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_ShowHUDMessage_2 DisSeqAct_ShowHUDMessage]
+m_Message="2 more to go"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_ShowHUDMessage_4 DisSeqAct_ShowHUDMessage]
+m_Message="Gas Released in 3"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_ShowHUDMessage_5 DisSeqAct_ShowHUDMessage]
+m_Message="Gas Released in 5"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_ShowHUDMessage_6 DisSeqAct_ShowHUDMessage]
+m_Message="Gas Released in 4"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_ShowHUDMessage_7 DisSeqAct_ShowHUDMessage]
+m_Message="Gas Released in 1"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_ShowHUDMessage_8 DisSeqAct_ShowHUDMessage]
+m_Message="Disabled"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_ShowHUDMessage_9 DisSeqAct_ShowHUDMessage]
+m_Message="Gas Released in 2"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_ShowLocationDiscovery_0 DisSeqAct_ShowLocationDiscovery]
+m_LocationName="Geezer's Office"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_ShowLocationDiscovery_1 DisSeqAct_ShowLocationDiscovery]
+m_LocationName="Textile Mill"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_ShowLocationDiscovery_2 DisSeqAct_ShowLocationDiscovery]
+m_LocationName="Engine Room"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_ShowLocationDiscovery_3 DisSeqAct_ShowLocationDiscovery]
+m_LocationName="Nurse Trimble’s Lab"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_ShowLocationDiscovery_4 DisSeqAct_ShowLocationDiscovery]
+m_LocationName="The Hatters have turned Neutral"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_UpdateTaskTarget_0 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Engine Room Lock"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_UpdateTaskTarget_1 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Trimble"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_UpdateTaskTarget_10 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Storage"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_UpdateTaskTarget_11 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Life Support Battery"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_UpdateTaskTarget_12 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Drapers Ward Sewer"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_UpdateTaskTarget_13 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Greenhow's Lab"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_UpdateTaskTarget_14 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Trimble's Lab"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_UpdateTaskTarget_147 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Drapers Ward Sewer"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_UpdateTaskTarget_148 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Drapers Ward"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_UpdateTaskTarget_15 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Antitoxin Formula"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_UpdateTaskTarget_16 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Drapers Ward"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_UpdateTaskTarget_17 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Manufacturing Floor"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_UpdateTaskTarget_18 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Storage"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_UpdateTaskTarget_19 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Chemical Mixer"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_UpdateTaskTarget_2 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Main Office"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_UpdateTaskTarget_3 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Manufacturing Floor"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_UpdateTaskTarget_4 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Engine Coil"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_UpdateTaskTarget_5 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Drapers Ward Sewer"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_UpdateTaskTarget_6 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Rothwild Laborer"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_UpdateTaskTarget_7 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Trimble's Lab"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_UpdateTaskTarget_8 DisSeqAct_UpdateTaskTarget]
+m_TargetName="The Geezer"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_UpdateTaskTarget_9 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Main Office"
+

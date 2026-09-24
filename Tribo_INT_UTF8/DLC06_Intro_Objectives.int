@@ -1,0 +1,15 @@
+﻿[DLC06_Intro_Obj DishonoredObjective]
+m_Description="A Visit from the Outsider"
+
+[DLC06_Intro_Obj:DishonoredTask_Custom_59 DishonoredTask_Custom]
+m_Description="Use Blink to reach the painting area"
+m_Status=""
+
+[DLC06_Intro_Obj:DishonoredTask_Custom_60 DishonoredTask_Custom]
+m_Description="Use Blink to reach the coach"
+m_Status=""
+
+[DLC06_Intro_Obj:DishonoredTask_Custom_61 DishonoredTask_Custom]
+m_Description="Reach the Outsider"
+m_Status=""
+

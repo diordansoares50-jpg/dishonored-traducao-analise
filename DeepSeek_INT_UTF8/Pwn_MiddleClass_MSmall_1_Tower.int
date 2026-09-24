@@ -1,0 +1,12 @@
+﻿[Pwn_MiddleClass_MSmall_1_Tower DisTweaks_NPCPawn]
+m_BusyText="Este personagem está ocupado"
+m_CannotStealMessage="Você não pode carregar mais munição deste tipo"
+
+[Pwn_MiddleClass_MSmall_1_Tower:DisTweaks_InteractableInterface_12 DisTweaks_InteractableInterface]
+m_Name="Engenheiro de Manutenção"
+m_InteractText=""
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+

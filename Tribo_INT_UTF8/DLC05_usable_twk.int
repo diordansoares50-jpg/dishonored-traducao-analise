@@ -1,0 +1,7 @@
+﻿[simple_display_case_01_twk DisTweaks_UsableObject]
+m_Stages[1]=(m_InteractTextOverride="`GBA_Use` Open")
+
+[simple_display_case_01_twk:DisTweaks_InteractableInterface_9 DisTweaks_InteractableInterface]
+m_Name="Display case"
+m_InteractText="`GBA_Use` Open"
+

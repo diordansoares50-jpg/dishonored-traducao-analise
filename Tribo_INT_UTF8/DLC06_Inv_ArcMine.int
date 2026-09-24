@@ -1,0 +1,25 @@
+﻿[DLC06_ArcMine_Placed_Base:DisTweaks_InteractableInterface_291 DisTweaks_InteractableInterface]
+m_Name="Arc Mine"
+m_InteractText="`GBA_Use` Pick up"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage="You can't carry more ammo of this type"
+
+[DLC06_Inv_ArcMine:pPlayerSpecific DisTweaks_InventoryItem_PlayerSpecific]
+m_Name="Arc Mine"
+m_Description="A lethal trap that can be placed on nearly any surface. "
+
+[DLC06_Inv_StunMine:pPlayerSpecific DisTweaks_InventoryItem_PlayerSpecific]
+m_Name="Stun Mine"
+m_Description="A nonlethal trap that can be placed on nearly any surface. "
+
+[DLC06_Pckp_Ammo_ArcMine:pInteractableTweaks_PickupBase DisTweaks_Interactable_PickupBase]
+m_Name="Arc Mine"
+
+[DLC06_Pckp_Ammo_StunMine:pInteractableTweaks_PickupBase DisTweaks_Interactable_PickupBase]
+m_Name="Stun Mine"
+
+[DLC06_StunMine_Placed:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Stun Mine"
+

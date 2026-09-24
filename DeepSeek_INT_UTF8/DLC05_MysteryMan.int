@@ -1,0 +1,37 @@
+﻿[MysteryMan_FindClues DishonoredObjective]
+m_Description="Coletar Pistas"
+
+[MysteryMan_FindClues:DishonoredTask_Custom_17 DishonoredTask_Custom]
+m_Description="Encontrar Pista #1"
+m_Status=""
+
+[MysteryMan_FindClues:DishonoredTask_Custom_18 DishonoredTask_Custom]
+m_Description="Encontre a Pista #4"
+m_Status=""
+
+[MysteryMan_FindClues:DishonoredTask_Custom_19 DishonoredTask_Custom]
+m_Description="Encontre a Pista #3"
+m_Status=""
+
+[MysteryMan_FindClues:DishonoredTask_Custom_20 DishonoredTask_Custom]
+m_Description="Encontre a Pista #2"
+m_Status=""
+
+[MysteryMan_GlobalDistractions DishonoredObjective]
+m_Description="Crie uma distração para reunir todos em uma sala"
+
+[MysteryMan_GlobalDistractions:DishonoredTask_Custom_17 DishonoredTask_Custom]
+m_Description="Alterar a hora do relógio para iniciar o concerto de piano"
+m_Status=""
+
+[MysteryMan_GlobalDistractions:DishonoredTask_Custom_20 DishonoredTask_Custom]
+m_Description="Alterar a hora do relógio para iniciar o buffet"
+m_Status=""
+
+[MysteryMan_KillTarget DishonoredObjective]
+m_Description="Mate o alvo"
+
+[MysteryMan_KillTarget:DishonoredTask_Custom_17 DishonoredTask_Custom]
+m_Description="Mate seu alvo!"
+m_Status=""
+

@@ -1,0 +1,144 @@
+﻿[Pwn_Aggie DisTweaks_NPCPawn]
+m_BusyText="Esse personagem está ocupado"
+m_CannotStealMessage="Você não pode mais carregar esse tipo de munição"
+
+[Pwn_Aggie:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Sobrevivente da Peste"
+m_InteractText=""
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Pwn_Alfa DisTweaks_NPCPawn]
+m_BusyText="Esse personagem está ocupado"
+m_CannotStealMessage="Você não pode mais carregar esse tipo de munição"
+
+[Pwn_Alfa:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Vítima da Peste"
+m_InteractText=""
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Pwn_Arman DisTweaks_NPCPawn]
+m_BusyText="Esse personagem está ocupado"
+m_CannotStealMessage="Você não pode mais carregar esse tipo de munição"
+
+[Pwn_Arman:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Vítima da Peste"
+m_InteractText=""
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Pwn_Blake DisTweaks_NPCPawn]
+m_BusyText="Esse personagem está ocupado"
+m_CannotStealMessage="Você não pode mais carregar esse tipo de munição"
+
+[Pwn_Blake:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Blake"
+m_InteractText=""
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Pwn_Clide DisTweaks_NPCPawn]
+m_BusyText="Esse personagem está ocupado"
+m_CannotStealMessage="Você não pode mais carregar esse tipo de munição"
+
+[Pwn_Clide:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Vítima da Peste"
+m_InteractText=""
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Pwn_Craggy DisTweaks_NPCPawn]
+m_BusyText="Esse personagem está ocupado"
+m_CannotStealMessage="Você não pode mais carregar esse tipo de munição"
+
+[Pwn_Craggy:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Ladrão"
+m_InteractText=""
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Pwn_Ferg DisTweaks_NPCPawn]
+m_BusyText="Esse personagem está ocupado"
+m_CannotStealMessage="Você não pode mais carregar esse tipo de munição"
+
+[Pwn_Ferg:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Ladrão"
+m_InteractText=""
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Pwn_Mace DisTweaks_NPCPawn]
+m_BusyText="Esse personagem está ocupado"
+m_CannotStealMessage="Você não pode mais carregar esse tipo de munição"
+
+[Pwn_Mace:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Sobrevivente da Peste"
+m_InteractText=""
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Pwn_Magnus DisTweaks_NPCPawn]
+m_BusyText="Esse personagem está ocupado"
+m_CannotStealMessage="Você não pode mais carregar esse tipo de munição"
+
+[Pwn_Magnus:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Sobrevivente da Peste"
+m_InteractText=""
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Pwn_Missy DisTweaks_NPCPawn]
+m_BusyText="Esse personagem está ocupado"
+m_CannotStealMessage="Você não pode mais carregar esse tipo de munição"
+
+[Pwn_Missy:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Sobrevivente da Peste"
+m_InteractText=""
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Pwn_Petunia DisTweaks_NPCPawn]
+m_BusyText="Esse personagem está ocupado"
+m_CannotStealMessage="Você não pode mais carregar esse tipo de munição"
+
+[Pwn_Petunia:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Irmã de Blake"
+m_InteractText=""
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Pwn_Thisp DisTweaks_NPCPawn]
+m_BusyText="Esse personagem está ocupado"
+m_CannotStealMessage="Você não pode mais carregar esse tipo de munição"
+
+[Pwn_Thisp:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Sobrevivente da Peste"
+m_InteractText=""
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+

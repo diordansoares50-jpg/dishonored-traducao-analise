@@ -1,0 +1,261 @@
+﻿[DLC06_Ext_Laborer_Obj DishonoredObjective]
+m_Description="(Optional) Help the laborers escape"
+
+[DLC06_Ext_Laborer_Obj:DishonoredTask_Custom_27 DishonoredTask_Custom]
+m_Description="Retrieve the key from the breakroom"
+m_Status=""
+
+[DLC06_Ext_Laborer_Obj:DishonoredTask_Custom_28 DishonoredTask_Custom]
+m_Description="Unlock the gate to the laborer's prison"
+m_Status=""
+
+[DLC06_Ext_Laborer_Obj:DishonoredTask_Custom_42 DishonoredTask_Custom]
+m_Description="Talk to laborers"
+m_Status=""
+
+[DLC06_Ext_Laborer_Obj:DishonoredTask_Custom_58 DishonoredTask_Custom]
+m_Description="Disable the Wall of Light"
+m_Status=""
+
+[DLC06_GrannySlaughter_Obj DishonoredObjective]
+m_Description="(Optional) Granny's Recipe: the Weeping Eye"
+
+[DLC06_GrannySlaughter_Obj:DishonoredTask_Custom_54 DishonoredTask_Custom]
+m_Description="Find the ingredients to complete Granny's recipe"
+m_Status=""
+
+[DLC06_GrannySlaughter_Obj:DishonoredTask_Custom_85 DishonoredTask_Custom]
+m_Description="Find a weeper that no longer weeps"
+m_Status=""
+
+[DLC06_GrannySlaughter_Obj:DishonoredTask_Custom_86 DishonoredTask_Custom]
+m_Description="Place the whale's eye in the cooking pot"
+m_Status=""
+
+[DLC06_GrannySlaughter_Obj:DishonoredTask_Custom_87 DishonoredTask_Custom]
+m_Description="Recover the eye of a whale, newly dead"
+m_Status=""
+
+[DLC06_GrannySlaughter_Obj:DishonoredTask_Custom_88 DishonoredTask_Custom]
+m_Description="Place the weeper corpse near the occult markings"
+m_Status=""
+
+[DLC06_Slaughter_Crate_Obj DishonoredObjective]
+m_Description="(Nonlethal) Outgoing Cargo"
+
+[DLC06_Slaughter_Crate_Obj:DishonoredTask_Custom_27 DishonoredTask_Custom]
+m_Description="Carry Bundry Rothwild to the shipping crate"
+m_Status=""
+
+[DLC06_Slaughter_Escape_Obj DishonoredObjective]
+m_Description="Leave Slaughterhouse Row"
+
+[DLC06_Slaughter_Escape_Obj:DishonoredTask_Custom_27 DishonoredTask_Custom]
+m_Description="Escape the Rothwild Slaughterhouse"
+m_Status=""
+
+[DLC06_Slaughter_Escape_Obj:DishonoredTask_Custom_41 DishonoredTask_Custom]
+m_Description="Meet with Billie Lurk in preparation for leaving"
+m_Status=""
+
+[DLC06_Slaughter_Escape_Obj:DishonoredTask_Custom_64 DishonoredTask_Custom]
+m_Description="Help Billie Lurk escape the Music Box Overseer"
+m_Status=""
+
+[DLC06_Slaughter_Favor1_Obj DishonoredObjective]
+m_Description="(Favor) Loot the Watch Officer's safe"
+
+[DLC06_Slaughter_Favor1_Obj:DishonoredTask_Custom_27 DishonoredTask_Custom]
+m_Description="Find the combination written on the wall"
+m_Status=""
+
+[DLC06_Slaughter_Favor1_Obj:DishonoredTask_Custom_41 DishonoredTask_Custom]
+m_Description="Open the Watch Officer's safe"
+m_Status=""
+
+[DLC06_Slaughter_Favor2_Obj DishonoredObjective]
+m_Description="(Favor) The Rune under the Slaughterhouse"
+
+[DLC06_Slaughter_Favor2_Obj:DishonoredTask_Custom_27 DishonoredTask_Custom]
+m_Description="Recover the Rune from a maintenance tunnel inside the slaughterhouse"
+m_Status=""
+
+[DLC06_Slaughter_FindAbigail_Obj DishonoredObjective]
+m_Description="(Optional) Find Abigail Ames"
+
+[DLC06_Slaughter_FindAbigail_Obj:DishonoredTask_Custom_27 DishonoredTask_Custom]
+m_Description="Locate and aid Abigail Ames"
+m_Status=""
+
+[DLC06_Slaughter_Mercy_Obj DishonoredObjective]
+m_Description="(Optional) Put the captive whale out of its Misery"
+
+[DLC06_Slaughter_Mercy_Obj:DishonoredTask_Custom_27 DishonoredTask_Custom]
+m_Description="Plug whale oil tanks into the electrical system"
+m_Status=""
+
+[DLC06_Slaughter_Mercy_Obj:DishonoredTask_Custom_41 DishonoredTask_Custom]
+m_Description="Activate the switch to electrocute the whale"
+m_Status=""
+
+[DLC06_Slaughter_Opt_Sabo_Obj DishonoredObjective]
+m_Description="(Optional) Destroy the slaughterhouse"
+
+[DLC06_Slaughter_Opt_Sabo_Obj:DishonoredTask_Custom_27 DishonoredTask_Custom]
+m_Description="Turn on four valves to build up pressure in the refinery"
+m_Status=""
+
+[DLC06_Slaughter_Opt_Sabo_Obj:DishonoredTask_Custom_40 DishonoredTask_Custom]
+m_Description="Return to Abigail Ames to learn what she knows"
+m_Status=""
+
+[DLC06_Slaughter_Req_Sabo_Obj DishonoredObjective]
+m_Description="Destroy the slaughterhouse"
+
+[DLC06_Slaughter_Req_Sabo_Obj:DishonoredTask_Custom_27 DishonoredTask_Custom]
+m_Description="Turn on the valves to build up pressure in the refinery"
+m_Status=""
+
+[DLC06_Slaughter_Req_Sabo_Obj:DishonoredTask_Custom_40 DishonoredTask_Custom]
+m_Description="Return to Abigail Ames to learn what she knows"
+m_Status=""
+
+[DLC06_Slaughter_Req_Sabo_Obj:DishonoredTask_Custom_41 DishonoredTask_Custom]
+m_Description="Switch on the unstable refinery [OLD]"
+m_Status=""
+
+[DLC06_Slaughter_Req_Sabo_Obj:DishonoredTask_Custom_61 DishonoredTask_Custom]
+m_Description="Escape the Rothwild Slaughterhouse [OLD]"
+m_Status=""
+
+[DLC06_Slaughter_Rothwild_Obj DishonoredObjective]
+m_Description="Learn Rothwild's secret"
+
+[DLC06_Slaughter_Rothwild_Obj:DishonoredTask_Custom_27 DishonoredTask_Custom]
+m_Description="Enter the Rothwild Slaughterhouse"
+m_Status=""
+
+[DLC06_Slaughter_Rothwild_Obj:DishonoredTask_Custom_28 DishonoredTask_Custom]
+m_Description="Find Bundry Rothwild"
+m_Status=""
+
+[DLC06_Slaughter_Rothwild_Obj:DishonoredTask_Custom_30 DishonoredTask_Custom]
+m_Description="(Nonlethal) Pack Rothwild into a shipping crate"
+m_Status=""
+
+[DLC06_Slaughter_Rothwild_Obj:DishonoredTask_Custom_37 DishonoredTask_Custom]
+m_Description="(Optional) Question Abigail Ames "
+m_Status=""
+
+[DLC06_Slaughter_Rothwild_Obj:DishonoredTask_Custom_38 DishonoredTask_Custom]
+m_Description="(Optional) Place Bundry Rothwild in the interrogation chair"
+m_Status=""
+
+[DLC06_Slaughter_Rothwild_Obj:DishonoredTask_Custom_43 DishonoredTask_Custom]
+m_Description="Find Abigail Ames"
+m_Status=""
+
+[DLC06_Slaughter_Rothwild_Obj:DishonoredTask_Custom_44 DishonoredTask_Custom]
+m_Description="(Optional) Find a time card"
+m_Status=""
+
+[DLC06_Slaughter_Rothwild_Obj:DishonoredTask_Custom_45 DishonoredTask_Custom]
+m_Description="(Optional) Use time stamp machine"
+m_Status=""
+
+[DLC06_Slaughter_Rothwild_Obj:DishonoredTask_Custom_51 DishonoredTask_Custom]
+m_Description="Return to Abigail Ames"
+m_Status=""
+
+[DLC06_Slaughter_Rothwild_Obj:DishonoredTask_Custom_53 DishonoredTask_Custom]
+m_Description="(Nonlethal) Carry Bundry Rothwild to the shipping crate"
+m_Status=""
+
+[DLC06_Slaughter_Rothwild_Obj:DishonoredTask_Custom_57 DishonoredTask_Custom]
+m_Description="(Optional) Talk to the laborers locked up by the docks"
+m_Status=""
+
+[DLC06_Slaughter_Rothwild_Obj:DishonoredTask_Custom_59 DishonoredTask_Custom]
+m_Description="Meet up with assassin"
+m_Status=""
+
+[DLC06_Slaughter_Rothwild_Obj:DishonoredTask_Custom_62 DishonoredTask_Custom]
+m_Description="Take Bundry Rothwild alive"
+m_Status=""
+
+[DLC06_Slaughter_Rothwild_Obj:DishonoredTask_Custom_63 DishonoredTask_Custom]
+m_Description="Place Abigail Ames in the interrogation chair"
+m_Status=""
+
+[DLC06_Slaughter_Rothwild_Obj:DishonoredTask_Custom_65 DishonoredTask_Custom]
+m_Description="Search for Bundry Rothwild near his office"
+m_Status=""
+
+[DLC06_Slaughter_Rothwild_Obj:DishonoredTask_Custom_66 DishonoredTask_Custom]
+m_Description="Question Bundry Rothwild"
+m_Status=""
+
+[DLC06_Slaughter_Rothwild_Obj:DishonoredTask_Custom_67 DishonoredTask_Custom]
+m_Description="(Optional) Kill Rothwild for Abigail"
+m_Status=""
+
+[DLC06_Slaughter_Rothwild_Obj:DishonoredTask_Custom_68 DishonoredTask_Custom]
+m_Description="Find a way to interrogate Abigail Ames"
+m_Status=""
+
+[DLC06_Slaughter_Rothwild_Obj:DishonoredTask_Custom_69 DishonoredTask_Custom]
+m_Description="(Optional) Find a way to interrogate Bundry Rothwild"
+m_Status=""
+
+[DLC06_Slaughter_Rothwild_Obj:DishonoredTask_Custom_70 DishonoredTask_Custom]
+m_Description="(Optional) Knock out Bundry Rothwild"
+m_Status=""
+
+[DLC06_Slaughter_Rothwild_Obj:DishonoredTask_Custom_71 DishonoredTask_Custom]
+m_Description="Knock out Bundry Rothwild"
+m_Status=""
+
+[DLC06_Slaughter_Rothwild_Obj:DishonoredTask_Custom_72 DishonoredTask_Custom]
+m_Description="Find a way to interrogate Bundry Rothwild"
+m_Status=""
+
+[DLC06_Slaughter_Rothwild_Obj:DishonoredTask_Custom_73 DishonoredTask_Custom]
+m_Description="Question Abigail Ames"
+m_Status=""
+
+[DLC06_Slaughter_Rothwild_Obj:DishonoredTask_Custom_74 DishonoredTask_Custom]
+m_Description="Place Bundry Rothwild in the interrogation chair"
+m_Status=""
+
+[DLC06_Slaughter_Rothwild_Obj:DishonoredTask_Custom_75 DishonoredTask_Custom]
+m_Description="(Optional) Retrieve the key from the breakroom"
+m_Status=""
+
+[DLC06_Slaughter_Rothwild_Obj:DishonoredTask_Custom_76 DishonoredTask_Custom]
+m_Description="(Optional) Unlock the gate to the laborers' prison"
+m_Status=""
+
+[DLC06_Slaughter_Rothwild_Obj:DishonoredTask_Custom_77 DishonoredTask_Custom]
+m_Description="(Optional) Disable the Wall of Light"
+m_Status=""
+
+[DLC06_Slaughter_Rothwild_Obj:DishonoredTask_Custom_80 DishonoredTask_Custom]
+m_Description="Turn on four valves to build up pressure in the refinery"
+m_Status=""
+
+[DLC06_Slaughter_Rothwild_Obj:DishonoredTask_Custom_81 DishonoredTask_Custom]
+m_Description="Return to Abigail Ames to learn what she knows"
+m_Status=""
+
+[DLC06_Slaughter_Rothwild_Obj:DishonoredTask_Custom_82 DishonoredTask_Custom]
+m_Description="(Optional) Talk to laborers"
+m_Status=""
+
+[DLC06_Slaughter_Rothwild_Obj:DishonoredTask_Custom_83 DishonoredTask_Custom]
+m_Description="(Optional) Find a another way into the slaughterhouse"
+m_Status=""
+
+[DLC06_Slaughter_Rothwild_Obj:DishonoredTask_Custom_84 DishonoredTask_Custom]
+m_Description="(Optional) Talk to the laborers about getting a time card"
+m_Status=""
+

@@ -1,0 +1,198 @@
+﻿[Battery.whaleoilbattery_nodarkvision_twk DisTweaks_WhaleOilBattery]
+m_EmptyName=""
+
+[Battery.whaleoilbattery_nodarkvision_twk:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Tanque de Óleo de Baleia"
+m_InteractText="`GBA_Use` Carregar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Bodybag_Callista:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Callista"
+m_InteractText="`GBA_Use` Procurar"
+
+[Bodybag_Callista_Readable DisTweaks_AbstractItemPickupNote]
+m_PressKeyToReadMessage=""
+m_OnPickupMessage=""
+
+[Bodybag_Callista_Readable:pInteractableTweaks_PickupBase DisTweaks_Interactable_PickupBase]
+m_Name="Callista"
+m_InteractText="`GBA_Use` Ler"
+
+[BodyBag_Lydia:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Lídia"
+m_InteractText="`GBA_Use` Procurar"
+m_AltInteractText=""
+m_UseMessage="Você não descobre nada"
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[BodyBag_Wallace:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Wallace"
+m_InteractText="`GBA_Use` Procurar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Bodybag_Wallace_Readable DisTweaks_AbstractItemPickupNote]
+m_PressKeyToReadMessage=""
+m_OnPickupMessage=""
+m_SingleItemPickupMessage=""
+
+[Bodybag_Wallace_Readable:pInteractableTweaks_PickupBase DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name="Wallace"
+m_InteractText="`GBA_Use` Procurar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[door_kennellocked DisTweaks_Door]
+m_DoorOpenCCW.m_InteractTextOverride=""
+m_DoorOpenCW.m_InteractTextOverride=""
+m_DoorCloseCCW.m_InteractTextOverride="`GBA_Use` Fechar"
+m_DoorCloseCW.m_InteractTextOverride="`GBA_Use` Fechar"
+m_DoorSlamOpenCCW.m_InteractTextOverride=""
+m_DoorSlamOpenCW.m_InteractTextOverride=""
+m_UnlockInteractText="`GBA_Use` Desbloquear"
+m_LockedMessage=""
+m_UnauthorizedMessage=""
+m_FocusMessage=""
+m_FocusLockedMessage="Trancado"
+
+[Door_Transitions.LTD_Hub_to_SwrWrks_twk DisTweaks_UsableObject]
+m_LockedMessage="Trancado"
+
+[Door_Transitions.LTD_Hub_to_SwrWrks_twk:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Para o Esgoto de Dunwall Velho"
+m_InteractText="`GBA_Use` Abrir"
+
+[FakeDoor_Kennel DisTweaks_UsableObject]
+m_LockedMessage="Trancado"
+
+[FakeDoor_Kennel:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Porta Inquebrável"
+
+[Hrlm_T2_Curnow_Cameo_twk:DisTweaks_Interactable_PickupBase_45 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name="Carmine Cameo"
+
+[LTD_Hub7toSewer DisTweaks_UsableObject]
+m_LockedMessage="Está emperrado"
+m_LockedMessage="Está emperrado"
+
+[LTD_Hub7toSewer:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Porta Inquebrável"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[mattress_01_twk:DisTweaks_InteractableInterface_16 DisTweaks_InteractableInterface]
+m_Name="Colchão"
+m_InteractText="`GBA_Use` Dormir"
+
+[Pickups.BP_Piero_Pylon2_twk DisTweaks_AbstractItemPickup]
+m_SingleItemPickupMessage=""
+
+[Pickups.BP_Piero_Pylon2_twk:pInteractableTweaks_PickupBase DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name="`i"
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Pickups.BP_Piero_Pylon_twk DisTweaks_AbstractItemPickup]
+m_SingleItemPickupMessage=""
+
+[Pickups.BP_Piero_Pylon_twk:pInteractableTweaks_PickupBase DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name="`i"
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Pickups.Brandy_twk DisTweaks_AbstractItemPickup]
+m_SingleItemPickupMessage=""
+
+[Pickups.Brandy_twk:DisTweaks_Interactable_PickupBase_101 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name="Brandy da King Street"
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Pickups.Corvo_Mask_twk:DisTweaks_Interactable_PickupBase_10 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name=""
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage="Você não pode pegar isso"
+
+[Pickups.Hrlm_SamsWarMedal_twk DisTweaks_AbstractItemPickup]
+m_SingleItemPickupMessage=""
+
+[Pickups.Hrlm_SamsWarMedal_twk:DisTweaks_Interactable_PickupBase_9 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name="Medalha de Guerra de Samuel"
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage="Medalha de Guerra de Samuel (`n `i)"
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[PubNotes.PendletonReward DisAbstractItem]
+m_ItemName="Recompensa do Lorde Pendleton."
+m_PluralItemName=""
+m_Description="Corvo,\n\nEste assunto com meus irmãos não tem sido nada agradável, então não desejo discuti-lo mais. No entanto, preciso realmente agradecer-lhe. Soube que você encontrou outros meios de neutralizá-los, sem tirar suas vidas. Engenhoso. Onde quer que estejam, mesmo que estejam miseráveis, ao menos estão vivos. Então, talvez algum dia eu os veja novamente.\n\n--Lord Treavor Pendleton"
+
+[SokolovCellDoor DisTweaks_Door]
+m_DoorOpenCCW.m_InteractTextOverride=""
+m_DoorOpenCW.m_InteractTextOverride=""
+m_DoorCloseCCW.m_InteractTextOverride="`GBA_Use` Fechar"
+m_DoorCloseCW.m_InteractTextOverride="`GBA_Use` Fechar"
+m_DoorSlamOpenCCW.m_InteractTextOverride=""
+m_DoorSlamOpenCW.m_InteractTextOverride=""
+m_UnlockInteractText="`GBA_Use` Desbloquear"
+m_LockedMessage=""
+m_UnauthorizedMessage=""
+m_FocusMessage=""
+m_FocusLockedMessage="Trancado"
+
+[SokolovCellDoor:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Porta Indestrutível"
+m_InteractText="`GBA_Use` Abrir"
+m_AltInteractText="Segure `GBA_Use` na Fechadura"
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[wall_lever_01_piero_twk DisTweaks_UsableObject]
+m_LockedMessage="Inoperável"
+
+[wall_lever_01_piero_twk:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Liberar Escudo"
+
+[wall_lever_01_signal_twk DisTweaks_UsableObject]
+m_LockedMessage="Vazio"
+
+[wall_lever_01_signal_twk:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Sinal de Samuel"
+m_InteractText="`GBA_Use` Usar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+

@@ -1,0 +1,100 @@
+﻿[CloggedToilet_twk:DisTweaks_InteractableInterface_11 DisTweaks_InteractableInterface]
+m_Name="Clogged Toilet"
+m_InteractText="`GBA_Use` Use"
+
+[DLC07_Log01CellC28_twk DisTweaks_AbstractItemPickupNote]
+m_PressKeyToReadMessage=""
+m_OnPickupMessage="New note added to your journal"
+m_SingleItemPickupMessage=""
+
+[DLC07_Log01CellC28_twk:DisTweaks_Interactable_PickupBase_105 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name=""
+m_InteractText="`GBA_Use` Read"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[DLC07_Log02CellA00_twk DisTweaks_AbstractItemPickupNote]
+m_PressKeyToReadMessage=""
+m_OnPickupMessage="New note added to your journal"
+m_SingleItemPickupMessage=""
+
+[DLC07_Log02CellA00_twk:DisTweaks_Interactable_PickupBase_105 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name=""
+m_InteractText="`GBA_Use` Read"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[DLC07_Log03CellA21_twk DisTweaks_AbstractItemPickupNote]
+m_PressKeyToReadMessage=""
+m_OnPickupMessage="New note added to your journal"
+m_SingleItemPickupMessage=""
+
+[DLC07_Log03CellA21_twk:DisTweaks_Interactable_PickupBase_105 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name=""
+m_InteractText="`GBA_Use` Read"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[DLC07_Log04CellD24_twk DisTweaks_AbstractItemPickupNote]
+m_PressKeyToReadMessage=""
+m_OnPickupMessage="New note added to your journal"
+m_SingleItemPickupMessage=""
+
+[DLC07_Log04CellD24_twk:DisTweaks_Interactable_PickupBase_105 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name=""
+m_InteractText="`GBA_Use` Read"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[DLC07_Prison_Lever_MS_twk DisTweaks_UsableObject]
+m_UnlockInteractText="`GBA_Use` Unlock"
+m_LockedMessage=""
+
+[DLC07_Prison_Lever_MS_twk:DisTweaks_InteractableInterface_0 DisTweaks_InteractableInterface]
+m_Name="Release Lever"
+m_InteractText="`GBA_Use` Use"
+
+[DLC07_Tumbler_Lever_01_twk DisTweaks_UsableObject]
+m_UnlockInteractText="`GBA_Use` Unlock"
+m_LockedMessage=""
+
+[DLC07_Tumbler_Lever_01_twk:DisTweaks_InteractableInterface_0 DisTweaks_InteractableInterface]
+m_Name="Cell Activation Lever"
+m_InteractText="`GBA_Use` Use"
+
+[DLC07_Tumbler_Lever_02_A_twk DisTweaks_UsableObject]
+m_UnlockInteractText="`GBA_Use` Unlock"
+m_LockedMessage=""
+
+[DLC07_Tumbler_Lever_02_A_twk:DisTweaks_InteractableInterface_0 DisTweaks_InteractableInterface]
+m_Name="Cell Selector"
+m_InteractText="`GBA_Use` Use"
+
+[DLC07_Tumbler_Lever_02_B_twk DisTweaks_UsableObject]
+m_UnlockInteractText="`GBA_Use` Unlock"
+m_LockedMessage=""
+
+[DLC07_Tumbler_Lever_02_B_twk:DisTweaks_InteractableInterface_0 DisTweaks_InteractableInterface]
+m_Name="Cell Selector"
+m_InteractText="`GBA_Use` Use"
+
+[Hrlm_Cold_Medal_twk:DisTweaks_Interactable_PickupBase_72 DisTweaks_Interactable_PickupBase]
+m_Name="Royal Protector's Naval Commendation"
+m_InteractText="`GBA_Use` Pick up"
+
+[Log_Book_twk:DisTweaks_InteractableInterface_11 DisTweaks_InteractableInterface]
+m_Name="Prison Cell Log Book"
+m_InteractText="`GBA_Use` Use"
+

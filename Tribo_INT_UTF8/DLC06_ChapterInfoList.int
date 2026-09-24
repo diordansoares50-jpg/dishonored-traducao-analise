@@ -1,0 +1,28 @@
+﻿[ChapterInfos.ChapterInfo01_NoneLikeHer DisTweaks_ChapterInfo]
+m_ChapterTitle="None Like Her"
+m_ChapterDescription="You can't forget what you've done. Killing the Empress and handing her daughter Emily to the Lord Regent haunts you.  "
+
+[ChapterInfos.ChapterInfo02_TheKillingFloor DisTweaks_ChapterInfo]
+m_ChapterTitle="A Captain of Industry"
+m_ChapterDescription="Bundry Rothwild is a ruthless businessman who owns a slaughterhouse and a fleet of whaling ships, including a ship called The Delilah. Infiltrate the Rothwild Slaughterhouse and find out what's behind the name."
+
+[ChapterInfos.ChapterInfo03_EminentDomain DisTweaks_ChapterInfo]
+m_ChapterTitle="Eminent Domain"
+m_ChapterDescription="Delilah once painted portraits for Barrister Arnold Timsh, a corrupt aristocrat who uses his legal powers to evict families from their homes and claim property for the Lord Regent, based on false accusations of plague. Barrister Timsh's niece, Thalia, hates him. She has promised to help you locate Delilah, for a price. Meet with Thalia to find out what she knows."
+
+[ChapterInfos.ChapterInfo04_DaudBase DisTweaks_ChapterInfo]
+m_ChapterTitle="The Surge"
+m_ChapterDescription="Delilah is a powerful witch who leads a coven that has moved into the ruins of Brigmore Manor. You've returned to your hidden base in the Flooded District to plan your next move."
+
+[ChapterTargets.DLC06_ChapterTarget_Captain DisTweaks_ChapterTarget]
+m_TargetName="Leonard Hume"
+
+[ChapterTargets.DLC06_ChapterTarget_Lurk DisTweaks_ChapterTarget]
+m_TargetName="Billie Lurk"
+
+[ChapterTargets.DLC06_ChapterTarget_Rothwild DisTweaks_ChapterTarget]
+m_TargetName="Bundry Rothwild"
+
+[ChapterTargets.DLC06_ChapterTarget_Timsh DisTweaks_ChapterTarget]
+m_TargetName="Barrister Timsh"
+

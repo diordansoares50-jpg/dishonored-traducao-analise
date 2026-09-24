@@ -1,0 +1,5 @@
+﻿[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_DialogScriptedChoice_0 DisSeqAct_DialogScriptedChoice]
+m_Title=""
+m_Choices[0]=(m_ChoiceText="Ir para a Praça Holger")
+m_Choices[1]=(m_ChoiceText="Ficar aqui")
+

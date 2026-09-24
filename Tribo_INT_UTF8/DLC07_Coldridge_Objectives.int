@@ -1,0 +1,115 @@
+﻿[DLC07_Coldridge_Charm_Objective DishonoredObjective]
+m_Description="(Favor) Misplaced Rune"
+
+[DLC07_Coldridge_Charm_Objective:DishonoredTask_Custom_0 DishonoredTask_Custom]
+m_Description="Find misplaced Rune"
+m_Status=""
+
+[DLC07_Coldridge_Charm_Objective:DishonoredTask_Custom_1 DishonoredTask_Custom]
+m_Description="Collect the bone charm"
+m_Status=""
+
+[DLC07_Coldridge_Charm_Objective:DishonoredTask_Custom_92 DishonoredTask_Custom]
+m_Description="Find the superstitious prisoner's cell"
+m_Status=""
+
+[DLC07_Coldridge_Charm_Objective:DishonoredTask_Custom_93 DishonoredTask_Custom]
+m_Description="Open the superstitious Prisoner's cell"
+m_Status=""
+
+[DLC07_Coldridge_Charm_Objective:DishonoredTask_Custom_94 DishonoredTask_Custom]
+m_Description="Search the privy for the bone charm"
+m_Status=""
+
+[DLC07_Coldridge_Forged_Objective DishonoredObjective]
+m_Description="(Favor) Forged Requisition"
+
+[DLC07_Coldridge_Forged_Objective:DishonoredTask_Custom_92 DishonoredTask_Custom]
+m_Description="Retrieve the key to the ammunition locker"
+m_Status=""
+
+[DLC07_Coldridge_Forged_Objective:DishonoredTask_Custom_93 DishonoredTask_Custom]
+m_Description="Unlock the ammunition locker"
+m_Status=""
+
+[DLC07_Coldridge_Helper_Objective DishonoredObjective]
+m_Description="Prison Execution"
+
+[DLC07_Coldridge_Helper_Objective:DishonoredTask_Custom_95 DishonoredTask_Custom]
+m_Description="Prevent the guard officer from being executed"
+m_Status=""
+
+[DLC07_Coldridge_Helper_Objective:DishonoredTask_Custom_96 DishonoredTask_Custom]
+m_Description="Untie the guard"
+m_Status=""
+
+[DLC07_Coldridge_Helper_Objective:DishonoredTask_Custom_97 DishonoredTask_Custom]
+m_Description="Talk to the guard"
+m_Status=""
+
+[DLC07_Coldridge_Stride_Objective DishonoredObjective]
+m_Description="Break Lizzy Stride Out Of Coldridge"
+
+[DLC07_Coldridge_Stride_Objective:DishonoredTask_Custom_100 DishonoredTask_Custom]
+m_Description="Set off an alarm to create a diversion"
+m_Status=""
+
+[DLC07_Coldridge_Stride_Objective:DishonoredTask_Custom_101 DishonoredTask_Custom]
+m_Description="Speak with the assassin to leave"
+m_Status=""
+
+[DLC07_Coldridge_Stride_Objective:DishonoredTask_Custom_103 DishonoredTask_Custom]
+m_Description="Carry Lizzy Stride"
+m_Status=""
+
+[DLC07_Coldridge_Stride_Objective:DishonoredTask_Custom_85 DishonoredTask_Custom]
+m_Description="Enter Coldridge Prison"
+m_Status=""
+
+[DLC07_Coldridge_Stride_Objective:DishonoredTask_Custom_86 DishonoredTask_Custom]
+m_Description="Learn Lizzy Stride's location"
+m_Status=""
+
+[DLC07_Coldridge_Stride_Objective:DishonoredTask_Custom_87 DishonoredTask_Custom]
+m_Description="Open Lizzy Stride's Cell"
+m_Status=""
+
+[DLC07_Coldridge_Stride_Objective:DishonoredTask_Custom_88 DishonoredTask_Custom]
+m_Description="Wake Lizzy Stride"
+m_Status=""
+
+[DLC07_Coldridge_Stride_Objective:DishonoredTask_Custom_89 DishonoredTask_Custom]
+m_Description="Release Lizzy Stride from the restraints"
+m_Status=""
+
+[DLC07_Coldridge_Stride_Objective:DishonoredTask_Custom_90 DishonoredTask_Custom]
+m_Description="Carry Lizzy Stride to the sewer entrance"
+m_Status=""
+
+[DLC07_Coldridge_Stride_Objective:DishonoredTask_Custom_91 DishonoredTask_Custom]
+m_Description="Create a diversion"
+m_Status=""
+
+[DLC07_Coldridge_Stride_Objective:DishonoredTask_Custom_98 DishonoredTask_Custom]
+m_Description="Free the Bottle Street Gang Member to create a diversion"
+m_Status=""
+
+[DLC07_Coldridge_Stride_Objective:DishonoredTask_Custom_99 DishonoredTask_Custom]
+m_Description="Free the Crazed Prisoner to create a diversion"
+m_Status=""
+
+[DLC07_Coldridge_Witch_Objective DishonoredObjective]
+m_Description="(Favor) Visiting Overseer"
+
+[DLC07_Coldridge_Witch_Objective:DishonoredTask_Custom_0 DishonoredTask_Custom]
+m_Description="Talk to the Guard at the main gate"
+m_Status=""
+
+[DLC07_Coldridge_Witch_Objective:DishonoredTask_Custom_95 DishonoredTask_Custom]
+m_Description="Go to the Interrogation Room"
+m_Status=""
+
+[DLC07_Coldridge_Witch_Objective:DishonoredTask_Custom_96 DishonoredTask_Custom]
+m_Description="Find out what happened during the interrogation"
+m_Status=""
+

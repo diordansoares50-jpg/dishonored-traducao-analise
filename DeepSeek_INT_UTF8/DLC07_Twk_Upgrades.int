@@ -1,0 +1,13 @@
+﻿[DLC07_Upgrade_AmnesiaDust_Unlock DisTweaks_Upgrade]
+m_Name="Aprimoramento de Poeira Confusa"
+m_Description="Inimigos afetados pela poeira de confusão ficarão confusos e esquecerão o que estavam fazendo."
+
+[DLC07_Upgrade_AntiToxin DisTweaks_Upgrade]
+m_Name="Inoculação de Antitoxina"
+m_Description="O dano de ataques de Crustáceo do Rio e de substâncias derivadas de Crustáceos do Rio é reduzido."
+
+[dlc07_Upgrade_BoneCharms4 DisTweaks_Upgrade]
+m_Name="Atualização de Capacidade de Amuleto Ósseo 4"
+m_Description="Permite que dois amuletos ósseos adicionais estejam ativos. (Total 8)"
+
+

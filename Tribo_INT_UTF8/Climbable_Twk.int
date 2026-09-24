@@ -1,0 +1,83 @@
+﻿[Climbable_Twk DisTweaks_Climbable]
+m_StopClimbingInteractText=" `GBA_Jump` Soltar"
+
+[Climbable_chain_1400_Twk:DisTweaks_InteractableInterface_0 DisTweaks_InteractableInterface]
+m_Name="Corrente"
+m_InteractText="`GBA_Use` Agarrar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Climbable_chain_1900_Twk:DisTweaks_InteractableInterface_2 DisTweaks_InteractableInterface]
+m_Name="Corrente"
+m_InteractText="`GBA_Use` Agarrar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Climbable_chain_2500_Twk:DisTweaks_InteractableInterface_2 DisTweaks_InteractableInterface]
+m_Name="Corrente"
+m_InteractText="`GBA_Use` Agarrar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Climbable_chain_400_Twk:DisTweaks_InteractableInterface_3 DisTweaks_InteractableInterface]
+m_Name="Corrente"
+m_InteractText="`GBA_Use` Agarrar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Climbable_chain_900_Twk:DisTweaks_InteractableInterface_4 DisTweaks_InteractableInterface]
+m_Name="Corrente"
+m_InteractText="`GBA_Use` Agarrar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Climbable_chain_Moves_1900_Twk:DisTweaks_InteractableInterface_2 DisTweaks_InteractableInterface]
+m_Name="Corrente"
+m_InteractText="`GBA_Use` Agarrar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Climbable_chain_moves_2500_Twk:DisTweaks_InteractableInterface_2 DisTweaks_InteractableInterface]
+m_Name="Corrente"
+m_InteractText="`GBA_Use` Agarrar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Climbable_chain_moves_400_Twk:DisTweaks_InteractableInterface_3 DisTweaks_InteractableInterface]
+m_Name="Corrente"
+m_InteractText="`GBA_Use` Agarrar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Climbable_chain_moves_900_Twk:DisTweaks_InteractableInterface_4 DisTweaks_InteractableInterface]
+m_Name="Corrente"
+m_InteractText="`GBA_Use` Agarrar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Climbable_Twk:DisTweaks_InteractableInterface_1 DisTweaks_InteractableInterface]
+m_Name="Corrente"
+m_InteractText="`GBA_Use` Agarrar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+

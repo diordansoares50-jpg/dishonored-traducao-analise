@@ -1,0 +1,30 @@
+﻿[DLC06_Inv_GrenadeDaud:pPlayerSpecific DisTweaks_InventoryItem_PlayerSpecific]
+m_Name=""
+m_Description=""
+
+[DLC06_InvPckp_Chokedust DisTweaks_InventoryPickup]
+m_SingleAmmoPickupMessage=""
+m_EmptyPickupMessage=""
+
+[DLC06_InvPckp_Chokedust:pInteractableTweaks_PickupBase DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name="Chokedust"
+m_InteractText="`GBA_Use` Pick up"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage="You can't carry more ammo of this type"
+
+[DLC06_InvPckp_Grenade DisTweaks_InventoryPickup]
+m_SingleAmmoPickupMessage=""
+m_EmptyPickupMessage=""
+
+[DLC06_InvPckp_Grenade:pInteractableTweaks_PickupBase DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name="Grenade"
+m_InteractText="`GBA_Use` Pick up"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage="You can't carry more ammo of this type"
+

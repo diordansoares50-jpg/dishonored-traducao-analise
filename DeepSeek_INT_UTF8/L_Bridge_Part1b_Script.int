@@ -1,0 +1,74 @@
+﻿[TheWorld:PersistentLevel.DisDoor_12 DisDoor]
+m_DoorName="Porta da Célula da Ponte Levadiça"
+m_MatchingKey=""
+m_MatchingKeys[0]="Drawbridge Cell Key"
+
+[TheWorld:PersistentLevel.DisDoor_7 DisDoor]
+m_DoorName="Porta do Pier"
+m_MatchingKey=""
+m_MatchingKeys[0]="Pier Door Key"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_DialogScriptedChoice_1 DisSeqAct_DialogScriptedChoice]
+m_Title=""
+m_Choices[0]=(m_ChoiceText="Go to Southside Gate")
+m_Choices[1]=(m_ChoiceText="Stay at Drawbridge Control")
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_DialogScriptedChoice_2 DisSeqAct_DialogScriptedChoice]
+m_Title=""
+m_Choices[0]=(m_ChoiceText="Go to Midrow Substation")
+m_Choices[1]=(m_ChoiceText="Stay at Drawbridge Control")
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_GameOver_0 DisSeqAct_GameOver]
+m_Reason="Missão Abandonada"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_GameOver_1 DisSeqAct_GameOver]
+m_Reason="Samuel foi avistado pelos holofotes"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_GameOver_2 DisSeqAct_GameOver]
+m_Reason="Samuel não pode morrer!"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_ShowHUDMessage_0 DisSeqAct_ShowHUDMessage]
+m_Message="Você está saindo da área!"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_ShowHUDMessage_1 DisSeqAct_ShowHUDMessage]
+m_Message="Pista da Missão Adicionada"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_ShowLocationDiscovery_0 DisSeqAct_ShowLocationDiscovery]
+m_LocationName="Ponte Sul do Caminho"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_UpdateTaskTarget_10 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Catador"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_UpdateTaskTarget_11 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Catador"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_UpdateTaskTarget_12 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Área de Guarda"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_UpdateTaskTarget_13 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Catador"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_UpdateTaskTarget_2 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Casa do Sokolov"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_UpdateTaskTarget_3 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Casa de Sokolov"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_UpdateTaskTarget_4 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Sokolov"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_UpdateTaskTarget_5 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Samuel"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_UpdateTaskTarget_6 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Holofotes da Ponte Levadiça"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_UpdateTaskTarget_7 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Cela da Prisão"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_UpdateTaskTarget_8 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Porta do cais"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_UpdateTaskTarget_9 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Crustáceos do Rio"
+

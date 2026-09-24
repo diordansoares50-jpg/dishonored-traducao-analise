@@ -1,0 +1,63 @@
+﻿[door_metal_nokeyhole_twk DisTweaks_Door]
+m_DoorOpenCCW.m_InteractTextOverride=""
+m_DoorOpenCW.m_InteractTextOverride=""
+m_DoorCloseCCW.m_InteractTextOverride="`GBA_Use` Fechar"
+m_DoorCloseCW.m_InteractTextOverride="`GBA_Use` Fechar"
+m_DoorSlamOpenCCW.m_InteractTextOverride=""
+m_DoorSlamOpenCW.m_InteractTextOverride=""
+m_UnlockInteractText="`GBA_Use` Destrancar"
+m_LockedMessage=""
+m_UnauthorizedMessage=""
+m_FocusMessage=""
+
+[Usables.doorShowCannotOpenMessage_twk DisTweaks_UsableObject]
+m_UnlockInteractText="`GBA_Use` Destrancar"
+m_LockedMessage="Trancada. Você precisa da `k"
+m_UnauthorizedMessage=""
+m_FocusMessage=""
+m_FocusLockedMessage=""
+
+[Usables.doorShowCannotOpenMessage_twk:DisTweaks_InteractableInterface_16 DisTweaks_InteractableInterface]
+m_Name="Porta Indestrutível"
+m_InteractText="Essa porta está trancada pelo outro lado até que a área esteja segura"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Usables.lever_noStaticBase_twk DisTweaks_UsableObject]
+m_UnlockInteractText="`GBA_Use` Destrancar"
+m_LockedMessage=" "
+
+[door_metal_nokeyhole_twk:DisTweaks_InteractableInterface_40 DisTweaks_InteractableInterface]
+m_Name="Porta Indestrutível"
+m_InteractText="`GBA_Use` Abrir"
+m_AltInteractText="Segure `GBA_Use` para olhar pelo buraco da fechadura"
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Usables.wall_lever_01_twk DisTweaks_UsableObject]
+m_UnlockInteractText="`GBA_Use` Destrancar"
+m_LockedMessage=""
+
+[Usables.lever_noStaticBase_twk:DisTweaks_InteractableInterface_0 DisTweaks_InteractableInterface]
+m_Name="Interruptor"
+m_InteractText="`GBA_Use` Usar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Usables.Valve_NeverRewind_twk:DisTweaks_InteractableInterface_8 DisTweaks_InteractableInterface]
+m_Name="Válvula"
+m_InteractText="Segure `k para girar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Usables.wall_lever_01_twk:DisTweaks_InteractableInterface_0 DisTweaks_InteractableInterface]
+m_Name="Interruptor"
+m_InteractText="`GBA_Use` Usar"
+

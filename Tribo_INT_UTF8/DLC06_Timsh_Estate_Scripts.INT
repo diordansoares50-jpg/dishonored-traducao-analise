@@ -1,0 +1,169 @@
+﻿[TheWorld:PersistentLevel.Main_Sequence.Chaos_Setup.DisSeqAct_AddDarkness_2 DisSeqAct_AddDarkness]
+m_Text=""
+
+[TheWorld:PersistentLevel.Main_Sequence.Chaos_Setup.DisSeqAct_AddDarkness_3 DisSeqAct_AddDarkness]
+m_Text=""
+
+[TheWorld:PersistentLevel.Main_Sequence.Chaos_Setup.DisSeqAct_DialogScriptedChoice_1 DisSeqAct_DialogScriptedChoice]
+m_Title=""
+m_Choices[0]=(m_ChoiceText="High Chaos")
+m_Choices[1]=(m_ChoiceText="Low Chaos")
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_DialogScriptedChoice_7 DisSeqAct_DialogScriptedChoice]
+m_Title=""
+m_Choices[0]=(m_ChoiceText="Lobby")
+m_Choices[1]=(m_ChoiceText="Office")
+m_Choices[2]=(m_ChoiceText="Bedroom")
+m_Choices[3]=(m_ChoiceText="Random")
+m_Choices[4]=(m_ChoiceText="Haven't Met Thalia")
+
+[TheWorld:PersistentLevel.Main_Sequence.Environmental.DisSeqAct_DialogScriptedChoice_10 DisSeqAct_DialogScriptedChoice]
+m_Title=""
+m_Choices[0]=(m_ChoiceText="Put the sack inside the air circulator.")
+m_Choices[1]=(m_ChoiceText="Don't do anything yet.")
+
+[TheWorld:PersistentLevel.Main_Sequence.Environmental.DisSeqAct_DialogScriptedChoice_9 DisSeqAct_DialogScriptedChoice]
+m_Title=""
+m_Choices[0]=(m_ChoiceText="Put the sack inside the air circulator.")
+m_Choices[1]=(m_ChoiceText="Switch the documents first.")
+
+[TheWorld:PersistentLevel.Main_Sequence.Granny_Recipe.DisSeqAct_DialogScriptedChoice_11 DisSeqAct_DialogScriptedChoice]
+m_Title=""
+m_Choices[0]=(m_ChoiceText="Take the tarot card \"The World\"")
+m_Choices[1]=(m_ChoiceText="Draw a random tarot card")
+m_Choices[2]=(m_ChoiceText="Leave it alone")
+
+[TheWorld:PersistentLevel.Main_Sequence.Granny_Recipe.DisSeqAct_DialogScriptedChoice_12 DisSeqAct_DialogScriptedChoice]
+m_Title=""
+m_Choices[0]=(m_ChoiceText="Draw a random tarot card")
+m_Choices[1]=(m_ChoiceText="Leave it alone")
+
+[TheWorld:PersistentLevel.Main_Sequence.Granny_Recipe.Random_Card.DisSeqAct_ShowHUDMessage_0 DisSeqAct_ShowHUDMessage]
+m_Message="You draw: The Outsider"
+
+[TheWorld:PersistentLevel.Main_Sequence.Granny_Recipe.Random_Card.DisSeqAct_ShowHUDMessage_1 DisSeqAct_ShowHUDMessage]
+m_Message="You draw: The Queen of Rats"
+
+[TheWorld:PersistentLevel.Main_Sequence.Granny_Recipe.Random_Card.DisSeqAct_ShowHUDMessage_10 DisSeqAct_ShowHUDMessage]
+m_Message="You draw: The King of Pistols"
+
+[TheWorld:PersistentLevel.Main_Sequence.Granny_Recipe.Random_Card.DisSeqAct_ShowHUDMessage_11 DisSeqAct_ShowHUDMessage]
+m_Message="You draw: 1 of Skulls"
+
+[TheWorld:PersistentLevel.Main_Sequence.Granny_Recipe.Random_Card.DisSeqAct_ShowHUDMessage_12 DisSeqAct_ShowHUDMessage]
+m_Message="You draw: Death"
+
+[TheWorld:PersistentLevel.Main_Sequence.Granny_Recipe.Random_Card.DisSeqAct_ShowHUDMessage_13 DisSeqAct_ShowHUDMessage]
+m_Message="You draw: The Jack of Swords"
+
+[TheWorld:PersistentLevel.Main_Sequence.Granny_Recipe.Random_Card.DisSeqAct_ShowHUDMessage_14 DisSeqAct_ShowHUDMessage]
+m_Message="You draw: Regret"
+
+[TheWorld:PersistentLevel.Main_Sequence.Granny_Recipe.Random_Card.DisSeqAct_ShowHUDMessage_15 DisSeqAct_ShowHUDMessage]
+m_Message="You draw: The Lady"
+
+[TheWorld:PersistentLevel.Main_Sequence.Granny_Recipe.Random_Card.DisSeqAct_ShowHUDMessage_16 DisSeqAct_ShowHUDMessage]
+m_Message="You draw: The 9 of Rats"
+
+[TheWorld:PersistentLevel.Main_Sequence.Granny_Recipe.Random_Card.DisSeqAct_ShowHUDMessage_17 DisSeqAct_ShowHUDMessage]
+m_Message="You draw: The 4 of Swords"
+
+[TheWorld:PersistentLevel.Main_Sequence.Granny_Recipe.Random_Card.DisSeqAct_ShowHUDMessage_18 DisSeqAct_ShowHUDMessage]
+m_Message="You draw: The 8 of Skulls"
+
+[TheWorld:PersistentLevel.Main_Sequence.Granny_Recipe.Random_Card.DisSeqAct_ShowHUDMessage_19 DisSeqAct_ShowHUDMessage]
+m_Message="You draw: The Commoner of Rats"
+
+[TheWorld:PersistentLevel.Main_Sequence.Granny_Recipe.Random_Card.DisSeqAct_ShowHUDMessage_2 DisSeqAct_ShowHUDMessage]
+m_Message="You draw: The 7 of Skulls"
+
+[TheWorld:PersistentLevel.Main_Sequence.Granny_Recipe.Random_Card.DisSeqAct_ShowHUDMessage_3 DisSeqAct_ShowHUDMessage]
+m_Message="You draw: The 5 of Swords"
+
+[TheWorld:PersistentLevel.Main_Sequence.Granny_Recipe.Random_Card.DisSeqAct_ShowHUDMessage_4 DisSeqAct_ShowHUDMessage]
+m_Message="You draw: The 2 of Rats"
+
+[TheWorld:PersistentLevel.Main_Sequence.Granny_Recipe.Random_Card.DisSeqAct_ShowHUDMessage_5 DisSeqAct_ShowHUDMessage]
+m_Message="You draw: The Commoner of Pistols"
+
+[TheWorld:PersistentLevel.Main_Sequence.Granny_Recipe.Random_Card.DisSeqAct_ShowHUDMessage_6 DisSeqAct_ShowHUDMessage]
+m_Message="You draw: 10 of Skulls"
+
+[TheWorld:PersistentLevel.Main_Sequence.Granny_Recipe.Random_Card.DisSeqAct_ShowHUDMessage_7 DisSeqAct_ShowHUDMessage]
+m_Message="You draw: The Boatman"
+
+[TheWorld:PersistentLevel.Main_Sequence.Granny_Recipe.Random_Card.DisSeqAct_ShowHUDMessage_8 DisSeqAct_ShowHUDMessage]
+m_Message="You draw: Cruelty"
+
+[TheWorld:PersistentLevel.Main_Sequence.Granny_Recipe.Random_Card.DisSeqAct_ShowHUDMessage_9 DisSeqAct_ShowHUDMessage]
+m_Message="You draw: The Jack of Skulls"
+
+[TheWorld:PersistentLevel.Main_Sequence.Location_Discovery.DisSeqAct_ShowLocationDiscovery_3 DisSeqAct_ShowLocationDiscovery]
+m_LocationName="Timsh Estate and Law Offices"
+
+[TheWorld:PersistentLevel.Main_Sequence.Location_Discovery.DisSeqAct_ShowLocationDiscovery_4 DisSeqAct_ShowLocationDiscovery]
+m_LocationName="Legal Plaza"
+
+[TheWorld:PersistentLevel.Main_Sequence.Objectives.DisSeqAct_UpdateTaskTarget_17 DisSeqAct_UpdateTaskTarget]
+m_TargetName="To Waterfront District"
+
+[TheWorld:PersistentLevel.Main_Sequence.Objectives.DisSeqAct_UpdateTaskTarget_42 DisSeqAct_UpdateTaskTarget]
+m_TargetName="General Turnbull"
+
+[TheWorld:PersistentLevel.Main_Sequence.Objectives.DisSeqAct_UpdateTaskTarget_45 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Estate Key"
+
+[TheWorld:PersistentLevel.Main_Sequence.Objectives.DisSeqAct_UpdateTaskTarget_47 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Air Circulator"
+
+[TheWorld:PersistentLevel.Main_Sequence.Objectives.DisSeqAct_UpdateTaskTarget_48 DisSeqAct_UpdateTaskTarget]
+m_TargetName="General Turnbull's Coach"
+
+[TheWorld:PersistentLevel.Main_Sequence.Objectives.DisSeqAct_UpdateTaskTarget_51 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Abandoned Apartment"
+
+[TheWorld:PersistentLevel.Main_Sequence.Objectives.DisSeqAct_UpdateTaskTarget_54 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Barrister Timsh"
+
+[TheWorld:PersistentLevel.Main_Sequence.Objectives.DisSeqAct_UpdateTaskTarget_55 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Timsh Location (Lobby)"
+
+[TheWorld:PersistentLevel.Main_Sequence.Objectives.DisSeqAct_UpdateTaskTarget_56 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Timsh Location (Office)"
+
+[TheWorld:PersistentLevel.Main_Sequence.Objectives.DisSeqAct_UpdateTaskTarget_57 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Timsh Location (Bedroom)"
+
+[TheWorld:PersistentLevel.Main_Sequence.Objectives.DisSeqAct_UpdateTaskTarget_58 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Will Location (Office)"
+
+[TheWorld:PersistentLevel.Main_Sequence.Objectives.DisSeqAct_UpdateTaskTarget_63 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Legal District Waterfront"
+
+[TheWorld:PersistentLevel.Main_Sequence.Objectives.DisSeqAct_UpdateTaskTarget_64 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Prisoner"
+
+[TheWorld:PersistentLevel.Main_Sequence.Objectives.DisSeqAct_UpdateTaskTarget_84 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Legal Plaza"
+
+[TheWorld:PersistentLevel.Main_Sequence.Objectives.DisSeqAct_UpdateTaskTarget_85 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Legal District Waterfront"
+
+[TheWorld:PersistentLevel.Main_Sequence.Objectives.DisSeqAct_UpdateTaskTarget_86 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Legal District Waterfront"
+
+[TheWorld:PersistentLevel.Main_Sequence.Objectives.DisSeqAct_UpdateTaskTarget_87 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Will Location (Storeroom)"
+
+[TheWorld:PersistentLevel.Main_Sequence.Objectives.DisSeqAct_UpdateTaskTarget_88 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Will"
+
+[TheWorld:PersistentLevel.Main_Sequence.Objectives.DisSeqAct_UpdateTaskTarget_89 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Outpost"
+
+[TheWorld:PersistentLevel.Main_Sequence.Objectives.DisSeqAct_UpdateTaskTarget_90 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Eviction Document"
+
+[TheWorld:PersistentLevel.Main_Sequence.Objectives.DisSeqAct_UpdateTaskTarget_91 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Apartment 10"
+

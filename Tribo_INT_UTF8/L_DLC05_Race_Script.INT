@@ -1,0 +1,53 @@
+﻿[TheWorld:PersistentLevel.DisDoor_0 DisDoor]
+m_DoorName=""
+
+[TheWorld:PersistentLevel.DisDoor_1 DisDoor]
+m_DoorName=""
+
+[TheWorld:PersistentLevel.DisDoor_2 DisDoor]
+m_DoorName=""
+
+[TheWorld:PersistentLevel.DisDoor_3 DisDoor]
+m_DoorName=""
+
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_GameOver_1 DisSeqAct_GameOver]
+m_Reason="You have met your demise"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_DialogScriptedChoice_0 DisSeqAct_DialogScriptedChoice]
+m_Title=""
+m_Choices[0]=(m_ChoiceText="")
+m_Choices[1]=(m_ChoiceText="")
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_DialogScriptedChoice_4 DisSeqAct_DialogScriptedChoice]
+m_Title=""
+m_Choices[0]=(m_ChoiceText="Retry")
+m_Choices[1]=(m_ChoiceText="Back to Menu")
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_SetTutorialMessage_0 DisSeqAct_SetTutorialMessage]
+m_TutorialMessage="Assassins now patrol the area. If you kill them, they will quickly come back. "
+m_TutorialMessage_Gamepad=""
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_SetTutorialMessage_1 DisSeqAct_SetTutorialMessage]
+m_TutorialMessage="You start with an almost empty Mana bar."
+m_TutorialMessage_Gamepad=""
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_SetTutorialMessage_2 DisSeqAct_SetTutorialMessage]
+m_TutorialMessage="Reach the goal as fast as possible."
+m_TutorialMessage_Gamepad=""
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_SetTutorialMessage_3 DisSeqAct_SetTutorialMessage]
+m_TutorialMessage="Use your mobility options and Blink and Agility to complete this challenge."
+m_TutorialMessage_Gamepad=""
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_SetTutorialMessage_4 DisSeqAct_SetTutorialMessage]
+m_TutorialMessage="Remaining health and mana at the end of the challenge earns you a score bonus."
+m_TutorialMessage_Gamepad=""
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_SetTutorialMessage_5 DisSeqAct_SetTutorialMessage]
+m_TutorialMessage="The faster you reach the end, the higher your score."
+m_TutorialMessage_Gamepad=""
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_UpdateTaskTarget_0 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Arrival"
+

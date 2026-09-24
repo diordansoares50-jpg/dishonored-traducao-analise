@@ -1,0 +1,7 @@
+﻿[DLC06_Proj_ChokeDust:pArmedInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Primed Chokedust"
+m_InteractText="Tap `k to carry"
+
+[DLC06_Proj_ChokeDust:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Chokedust"
+

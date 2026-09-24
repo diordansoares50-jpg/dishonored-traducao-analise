@@ -1,0 +1,79 @@
+﻿[Furnace_interact_twk:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Fornalha"
+m_InteractText="`GBA_Use` Colocar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Furnace_Lever_twk DisTweaks_UsableObject]
+m_Stages[0]="(m_InteractTextOverride="`GBA_Use` Ignite Furnace")"
+m_Stages[1]="(m_InteractTextOverride="`GBA_Use` Open Furnace")"
+
+[Furnace_Lever_twk:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Alternar"
+m_InteractText="`GBA_Use` Usar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Furnace_twk:DisTweaks_InteractableInterface_16 DisTweaks_InteractableInterface]
+m_Name="Alto-forno"
+m_InteractText="`GBA_Use` abrir"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[FurnaceGrill_twk:DisTweaks_InteractableInterface_16 DisTweaks_InteractableInterface]
+m_Name="Alto-forno"
+m_InteractText="`GBA_Use` abrir"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[GrannyRags_Cameo_twk DisTweaks_AbstractItemPickup]
+m_SingleItemPickupMessage=""
+
+[GrannyRags_Cameo_twk:DisTweaks_Interactable_PickupBase_0 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name="Cameo da Vovó Rags"
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Pwn_SewerWoundedThug DisTweaks_NPCPawn]
+m_BusyText="Este personagem está ocupado"
+m_CannotStealMessage="Você não pode carregar mais munição deste tipo"
+
+[Pwn_SewerWoundedThug:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Valentão"
+m_InteractText=""
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Pwn_Skeleton_Slackjaw DisTweaks_NPCPawn]
+m_BusyText="Este personagem está ocupado"
+m_CannotStealMessage="Você não pode carregar mais munição deste tipo"
+
+[Pwn_Skeleton_Slackjaw:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Cadáver do Slackjaw"
+m_InteractText=""
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Valve_H2U_StrtSewerEntry:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Manivela"
+m_InteractText="Segure `GBA_Use` Virar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+

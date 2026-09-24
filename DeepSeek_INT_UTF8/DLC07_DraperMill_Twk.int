@@ -1,0 +1,98 @@
+﻿[AntiToxinEmptyVial_twk DisTweaks_WhaleOilBattery]
+m_EmptyName=""
+
+[AntiToxinEmptyVial_twk:DisTweaks_InteractableInterface_0 DisTweaks_InteractableInterface]
+m_Name="Frasco de Elixir Vazio"
+m_InteractText="`GBA_Use` carregar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[DLC07_BullRatFetus_twk:DisTweaks_Interactable_PickupBase_0 DisTweaks_Interactable_PickupBase]
+m_Name="Feto de Rato Touro"
+
+[DLC07_EngineCoil_twk:DisTweaks_Interactable_PickupBase_0 DisTweaks_Interactable_PickupBase]
+m_Name="Bobina do Motor"
+
+[DLC07_EngineCoilMount_Twk:DisTweaks_InteractableInterface_16 DisTweaks_InteractableInterface]
+m_Name="Suporte da Bobina do Motor"
+m_InteractText="`GBA_Use` Conectar Bobina do Motor"
+m_CannotUseMessage="Bobina do Motor Necessária"
+
+[DLC07_GeenhowCushion_twk:DisTweaks_InteractableInterface_54 DisTweaks_InteractableInterface]
+m_Name="Travesseiro"
+
+[DLC07_LabAGCard_interact_twk:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Cartão Audiograph"
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage="Audiografia Necessária"
+
+[DLC07_LabAudioG_interact_twk:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Reprodutor de Audiografia"
+m_InteractText="`GBA_Use` Usar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage="Audiografia Necessária"
+
+[DLC07_LabAudioGraph_Twk DisTweaks_AudioLogPlayer]
+m_Stages[1]=(m_InteractTextOverride="`GBA_Use` Stop the audiograph")
+
+[DLC07_LabAudioGraph_Twk:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Reprodutor de Audiograph"
+m_InteractText="`GBA_Use` Usar"
+
+[DLC07_LTD_MillToSewer_twk DisTweaks_UsableObject]
+m_UnlockInteractText="`GBA_Use` Desbloquear"
+m_LockedMessage="`k necessário"
+m_UnauthorizedMessage=""
+m_FocusMessage=""
+m_FocusLockedMessage=""
+
+[DLC07_LTD_MillToSewer_twk:DisTweaks_InteractableInterface_16 DisTweaks_InteractableInterface]
+m_Name="Porta para o Esgoto de Drapers Ward"
+m_InteractText="`GBA_Use` Abrir"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[DLC07_LTD_MillToStreet_twk DisTweaks_UsableObject]
+m_UnlockInteractText="`GBA_Use` Desbloquear"
+m_LockedMessage="`k necessário"
+m_UnauthorizedMessage=""
+m_FocusMessage=""
+m_FocusLockedMessage=""
+
+[DLC07_LTD_MillToStreet_twk:DisTweaks_InteractableInterface_16 DisTweaks_InteractableInterface]
+m_Name="Porta para as Ruas do Bairro dos Alfaiates"
+m_InteractText="`GBA_Use` Abrir"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[DLC07_OxidizingAgent_twk:DisTweaks_Interactable_PickupBase_0 DisTweaks_Interactable_PickupBase]
+m_Name="Sais Metálicos"
+
+[DLC07_OxRush_twk:DisTweaks_Interactable_PickupBase_0 DisTweaks_Interactable_PickupBase]
+m_Name="Flor de Oxrush"
+
+[DLC07_Undine_lever_twk DisTweaks_UsableObject]
+m_LockedMessage="Trancado"
+
+[DLC07_Undine_lever_twk:DisTweaks_InteractableInterface_0 DisTweaks_InteractableInterface]
+m_Name="Controle do Motor da Nave"
+
+[DLC07_Vaccine_twk:DisTweaks_Interactable_PickupBase_0 DisTweaks_Interactable_PickupBase]
+m_Name="Antitoxina"
+m_InteractText="`GBA_Use` Beber"
+
+[still_02_twk:DisTweaks_InteractableInterface_8 DisTweaks_InteractableInterface]
+m_Name="Válvula"
+m_InteractText="`GBA_Use` Usar"
+

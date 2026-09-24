@@ -1,0 +1,84 @@
+﻿[Creating_a_Safe_Haven DishonoredObjective]
+m_Description="(Opcional) Criando um Refúgio Seguro"
+
+[Creating_a_Safe_Haven:DishonoredTask_Custom_0 DishonoredTask_Custom]
+m_Description="Desative o pilar de arco no fundo da quadra"
+m_Status=""
+
+[Creating_a_Safe_Haven:DishonoredTask_Custom_1 DishonoredTask_Custom]
+m_Description="Mantenha Blake em segurança"
+m_Status=""
+
+[Creating_a_Safe_Haven:DishonoredTask_Custom_14 DishonoredTask_Custom]
+m_Description="Fique de vigia enquanto os sobreviventes se deslocam para o refúgio seguro."
+m_Status=""
+
+[Creating_a_Safe_Haven:DishonoredTask_Custom_2 DishonoredTask_Custom]
+m_Description="Os altões e os vigilantes atacarão qualquer um dos sobreviventes à vista - mantenha-os longe do perigo."
+m_Status=""
+
+[Creating_a_Safe_Haven:DishonoredTask_Custom_3 DishonoredTask_Custom]
+m_Description="Vá dizer ao Blake que o caminho está livre"
+m_Status=""
+
+[Flooded_Daud DishonoredObjective]
+m_Description="(Opcional) A Vingança de um Assassino"
+
+[Flooded_Daud:DishonoredTask_Custom_4 DishonoredTask_Custom]
+m_Description="(Opcional) (Não Letal) Envie uma mensagem a Daud - roube a bolsa do cinto dele, depois deixe-o ileso"
+m_Status=""
+
+[Flooded_Daud:DishonoredTask_Custom_6 DishonoredTask_Custom]
+m_Description="(Opcional) Enfrente Daud e decida seu destino"
+m_Status=""
+
+[Flooded_Daud:DishonoredTask_Custom_7 DishonoredTask_Custom]
+m_Description="(Opcional) Vingue-se de Daud - sangue por sangue"
+m_Status=""
+
+[Flooded_Gear DishonoredObjective]
+m_Description="(Opcional) Ferramentas do Ofício"
+
+[Flooded_Gear:DishonoredTask_Custom_11 DishonoredTask_Custom]
+m_Description="(Opcional) Encontre uma forma de entrar na Refinaria"
+m_Status=""
+
+[Flooded_Gear:DishonoredTask_Custom_13 DishonoredTask_Custom]
+m_Description="(Opcional) Recuperar seu equipamento"
+m_Status=""
+
+[Flooded_Gear:DishonoredTask_Custom_4 DishonoredTask_Custom]
+m_Description="(Opcional) Volte à Refinaria Greaves, onde seu equipamento foi deixado"
+m_Status=""
+
+[Flooded_Initial DishonoredObjective]
+m_Description="Após o Dilúvio"
+
+[Flooded_Initial:DishonoredTask_Custom_0 DishonoredTask_Custom]
+m_Description="Fuga do aprisionamento"
+m_Status=""
+
+[Flooded_Initial:DishonoredTask_Custom_1 DishonoredTask_Custom]
+m_Description="Encontre uma forma de entrar no território de Daud"
+m_Status=""
+
+[Flooded_Initial:DishonoredTask_Custom_2 DishonoredTask_Custom]
+m_Description="Infiltre-se na base e encontre Daud"
+m_Status=""
+
+[Flooded_Initial:DishonoredTask_Custom_3 DishonoredTask_Custom]
+m_Description="Roubar a chave de Daud"
+m_Status=""
+
+[Flooded_Initial:DishonoredTask_Custom_4 DishonoredTask_Custom]
+m_Description="Use o túnel sob a base de Daud"
+m_Status=""
+
+[Flooded_Initial:DishonoredTask_Custom_5 DishonoredTask_Custom]
+m_Description="Passe pela muralha de quarentena e saia do Distrito Inundado"
+m_Status=""
+
+[Flooded_Initial:DishonoredTask_Custom_6 DishonoredTask_Custom]
+m_Description="Retorne à Orla de Rudshore e prossiga para o território de Daud."
+m_Status=""
+

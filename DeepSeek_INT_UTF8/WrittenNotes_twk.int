@@ -1,0 +1,993 @@
+﻿[BoyleNotes.Boyle_Diary_Esma DisAbstractItem]
+m_ItemName="Diário de Esma Boyle"
+m_PluralItemName=""
+m_Description="Finalmente! Hoje à noite, hoje à noite, hoje à noite! A festa vai ser tão fabulosa. Vou me deitar com o primeiro homem que pedir. E com o segundo depois dele! Estou tão cansada desses tempos sombrios e terríveis. Todos os dias são tão monótonos quanto o anterior. Mas hoje à noite não! Hoje à noite é para os vivos!\n\n--Esma"
+
+[BoyleNotes.Boyle_Diary_Lydia DisAbstractItem]
+m_ItemName="Diário de Lydia Boyle"
+m_PluralItemName=""
+m_Description="Estou ansiosa pela festa desta noite, apesar da perspectiva de tantos homens grosseiros falando sobre seus fracassos nos negócios. O que eu não daria para conhecer um bom jovem músico nesta cidade horrível! Alguém que apreciasse o cravo, por exemplo, e pudesse escrever uma canção para mim.\n\n--Lydia"
+
+[BoyleNotes.Boyle_Diary_Waverly DisAbstractItem]
+m_ItemName="Diário de Waverly Boyle"
+m_PluralItemName=""
+m_Description="A Esma reservou espíritos mais do que suficientes para a festa desta noite, não me surpreenderia. Se não tivesse uma bebida na mão, ela certamente perderia o equilíbrio. Conte comigo para me manter sóbrio, especialmente nestes tempos críticos. Quem me dera poder escapar de Dunwall completamente, pois tenho um terrível pressentimento de que alguém pode estar atrás de mim.\n\n--Waverly"
+
+[BoyleNotes.Boyle_Esma_Black DisAbstractItem]
+m_ItemName="Nota para Esma Boyle"
+m_PluralItemName="Notas para Esma Boyle"
+m_Description="Esma Querida,\nAqui estão os três trajes para sua festa. Me dói não poder estar lá, embora tenha certeza de que você entende o porquê. Sei que você ficará linda de preto. Incluí uma chave mestra para a Torre de Dunwall. Quando me visitar, nenhuma barreira ficará entre nós.\n\n--H.B."
+
+[BoyleNotes.Boyle_Esma_Red DisAbstractItem]
+m_ItemName="Nota para Esma Boyle"
+m_PluralItemName="Notas para Esma Boyle"
+m_Description="Esma Querida,\nAqui estão os três trajes para sua festa. Dói-me não poder estar presente, embora eu tenha certeza de que você entende o porquê. Sei que você ficará linda de vermelho. Incluí uma chave-mestra para a Torre de Dunwall. Quando você me visitar, nenhuma barreira ficará entre nós.\n\n--H.B."
+
+[BoyleNotes.Boyle_Esma_White DisAbstractItem]
+m_ItemName="Nota para Esma Boyle"
+m_PluralItemName="Notas para Esma Boyle"
+m_Description="Esma Querida,\nAqui estão os três trajes para sua festa. Dói-me não poder estar presente, embora tenha certeza de que você entende o porquê. Sei que você ficará linda de branco. Incluí uma chave-mestra para a Torre de Dunwall. Quando você me visitar, nenhuma barreira ficará entre nós.\n\n--H.B."
+
+[BoyleNotes.Boyle_GrannyRags_Book DisAbstractItem]
+m_ItemName="Diário da Vovó Rags"
+m_PluralItemName="Diários da Vovó Rags"
+m_Description="Não posso confiar nele. Não se pode amar aquilo em que não se confia. Essa é a canção que os passarinhos cantam quando o tempo fica frio e os força a sair de seus belos lares que construíram. Belos lares estragados. Estragados e arruinados. Inúteis agora. Então os passarinhos odeiam o tempo que os traiu. Eles voam para procurar novos lares que não sejam tão frios e sombrios, sombrios, sombrios.\n\nEu também estou partindo. Minha valise está pronta. Tão sombrio em todos os lugares que olho. Não suporto mais."
+
+[BoyleNotes.Boyle_Guest_Book DisAbstractItem]
+m_ItemName="Registro de Convidados da Festa Boyle"
+m_PluralItemName=""
+m_Description="Lord Montgomery Shaw  \nSenhorita Adelle White  \nSenhor Byron Alderdice  \nSenhora Jane Blair  \nSenhor Jerval Crawford  \nSenhorita Ella Triss  \nStephen Harding  \nDr. Jack Ramsey  \nLord Talmedge Estermont  \nSenhor Nels Jefferies  \nLord Timothy Brisby  \nLord Bernard Prismall  \nSenhor Adam Pyle"
+
+[BoyleNotes.Boyle_Guest_Book_Alias DisAbstractItem]
+m_ItemName="Registro de Convidados da Festa Boyle"
+m_PluralItemName=""
+m_Description="Lord Montgomery Shaw  \nSenhorita Adelle White  \nSenhor Byron Alderdice  \nSenhora Jane Blair  \nSenhor Jerval Crawford  \nSenhorita Ella Triss  \nStephen Harding  \nDr. Jack Ramsey  \nLord Talmedge Estermont  \nSenhor Nels Jefferies  \nLord Timothy Brisby  \nLord Bernard Prismall  \nSenhor Adam Pyle  \nO Assassino Mascarado"
+
+[BoyleNotes.Boyle_Guest_Book_Sign DisAbstractItem]
+m_ItemName="Registro de Convidados da Festa Boyle"
+m_PluralItemName=""
+m_Description="Lord Montgomery Shaw  \nMiss Adelle White  \nMr. Byron Alderdice  \nMrs. Jane Blair  \nMr. Jerval Crawford  \nMiss Ella Triss  \nStephen Harding  \nDr. Jack Ramsey  \nLord Talmedge Estermont  \nMr. Nels Jefferies  \nLord Timothy Brisby  \nLord Bernard Prismall  \nMr. Adam Pyle  \nCorvo Attano"
+
+[BoyleNotes.Boyle_Lydia_Black DisAbstractItem]
+m_ItemName="Nota para Lydia Boyle"
+m_PluralItemName="Notas para Lydia Boyle"
+m_Description="Lydia Querida,\nAqui estão os três trajes para sua festa. Me dói não poder estar presente, embora tenha certeza de que você entende o porquê. Sei que você ficará linda de preto. Incluí uma chave-mestra da Torre de Dunwall. Quando me visitar, nenhuma barreira ficará entre nós.\n\n--H.B."
+
+[BoyleNotes.Boyle_Lydia_Red DisAbstractItem]
+m_ItemName="Nota para Lydia Boyle"
+m_PluralItemName="Notas para Lydia Boyle"
+m_Description="Lydia, Querida,\nAqui estão os três trajes para sua festa. Me dói não poder estar presente, embora eu tenha certeza de que você entende o porquê. Sei que você ficará linda de vermelho. Incluí uma chave-mestra para a Torre de Dunwall. Quando você me visitar, nenhuma barreira se interporá entre nós.\n\n--H.B."
+
+[BoyleNotes.Boyle_Lydia_White DisAbstractItem]
+m_ItemName="Nota para Lydia Boyle"
+m_PluralItemName="Notas para Lydia Boyle"
+m_Description="Lydia Querida,\nAqui estão os três trajes para sua festa. Dói-me não poder estar presente, embora tenha certeza de que compreende o porquê. Sei que ficará linda de branco. Incluí uma chave-mestra da Torre de Dunwall. Quando me visitar, nenhuma barreira nos separará.\n\n--H.B."
+
+[BoyleNotes.Boyle_Waverly_Black DisAbstractItem]
+m_ItemName="Nota para Waverly Boyle"
+m_PluralItemName="Notas para Waverly Boyle"
+m_Description="Waverly Darling,\n\nAqui estão os três trajes para sua festa. Dói-me não poder estar presente, embora tenha certeza de que compreende o porquê. Sei que você ficará adorável de preto. Incluí uma chave-mestra da Torre de Dunwall. Quando me visitar, nenhuma barreira nos separará.\n\n--H.B."
+
+[BoyleNotes.Boyle_Waverly_Red DisAbstractItem]
+m_ItemName="Nota para Waverly Boyle"
+m_PluralItemName="Notas para Waverly Boyle"
+m_Description="Waverly Darling,\nAqui estão os três trajes para sua festa. Dói-me não poder estar presente, embora tenha certeza de que compreende o motivo. Sei que ficará adorável de vermelho. Incluo uma chave-mestra para a Torre de Dunwall. Quando me visitar, nenhuma barreira nos separará.\n\n--H.B."
+
+[BoyleNotes.Boyle_Waverly_White DisAbstractItem]
+m_ItemName="Nota para Waverly Boyle"
+m_PluralItemName="Notas para Waverly Boyle"
+m_Description="Waverly Darling,\nAqui estão os três trajes para sua festa. Dói-me não poder estar presente, embora tenha certeza de que compreende o porquê. Sei que ficará adorável de branco. Incluí uma chave-mestra da Torre de Dunwall. Quando me visitar, nenhuma barreira nos separará.\n\n--H.B."
+
+[BoyleNotes.Pendleton_Shaw_Note DisAbstractItem]
+m_ItemName="Nota do Lorde Pendleton para o Lorde Shaw"
+m_PluralItemName="Nota do Lorde Pendleton para o Lorde Shaw"
+m_Description="A nota está selada."
+
+[BridgeNotes.Bridge_AlecNote DisAbstractItem]
+m_ItemName="Nota do Alec"
+m_PluralItemName=""
+m_Description="Fique aqui e se esconda até eu voltar, tenho uma última coisa a fazer do outro lado da ponte levadiça. Preciso entregar todas essas pérolas que coletamos ao chefe hoje à noite, então não fique aprontando.\n\nSe algo der errado com os guardas ou se acontecer qualquer outra coisa, use o bueiro ao lado do prédio e fale alto. Os rapazes virão correndo para ajudar.\n\n--Alec"
+
+[BridgeNotes.Bridge_SlackJawElixirsNote1 DisAbstractItem]
+m_ItemName="Nota de Remessa do Slackjaw"
+m_PluralItemName=""
+m_Description="Aqui está o elixir que você precisa vender na Ponte Kaldwin esta semana.\nQuando tiver movido tudo, traga o dinheiro de volta à destilaria. Vou dar a sua parte e o carregamento da próxima semana.\nSe você for burro demais e for pego, jogue o elixir no rio para que não possam entregá-lo a Sokolov. Não quero que ele descubra o que estamos fazendo. Depois, jogue-se no rio também.\n\n--Slackjaw"
+
+[BridgeNotes.Bridge_SlackJawElixirsNote2 DisAbstractItem]
+m_ItemName="Relatório do Tenente Niles"
+m_PluralItemName=""
+m_Description="Como solicitado, esta é uma amostra do elixir do mercado negro que acreditamos vir de uma das destilarias abandonadas. Sem dúvida é inferior à sua fórmula, ou mesmo ao Remédio de Piero, mas as pessoas estão desesperadas. Não conseguimos identificar os ingredientes adicionais. Talvez você tenha mais sorte.\n\nUm ponto a notar: Alguns homens da Guarda afirmam, quando pressionados, ter comprado e usado este produto de vez em quando, já que é mais barato do que qualquer uma das marcas populares. Nenhum deles relatou qualquer doença ou complicação. Portanto, embora possa não proteger tão bem da peste, não parece ser prejudicial.\n\nTenente Christopher Niles  \nSegundo Destacamento da Dispensária  \nGuarda da Cidade de Dunwall"
+
+[BridgeNotes.Bridge_SquatNote1 DisAbstractItem]
+m_ItemName="Diário de Tyrion"
+m_PluralItemName=""
+m_Description="26º Dia, Mês do Vento  \nFinalmente encontrei um novo lugar onde devo conseguir me esconder e sobreviver por muito tempo, se eu ficar quieto. A Guarda da Cidade condenou o prédio, então este porão deve ser um local seguro. Preciso acreditar nisso.  \n\n28º Dia, Mês do Vento  \nTudo está indo como eu esperava. A Guarda patrulha a rua próxima, mas nunca entra neste prédio. Comida é o único problema, mas consegui roubar um pouco durante a noite.  \n\n2º Dia, Mês da Escuridão  \nOutra pessoa encontrou este lugar e quer dividi-lo. Ele tem um amuleto estranho feito de osso e afirma que o protege da peste. Veremos...  \nTalvez possamos nos ajudar, mas estou perdendo a confiança nas chances de sobrevivência.  \n\n4º Dia, Mês da Escuridão  \nDesde que ele chegou, tenho tido pesadelos e não me sinto muito bem.  \nHá cada vez mais ratos no prédio.  \nLogo, não conseguirei sair deste barraco mesmo se quiser. Estou começando a achar que o amuleto dele é amaldiçoado."
+
+[BridgeNotes.Bridge_ThugsCardsScore DisAbstractItem]
+m_ItemName="Placar de Cartas"
+m_PluralItemName=""
+m_Description="Jogo 1: (aposta de 5 moedas cada)\nJack   -   Quilty\n23       0\n38       0\n59       0\n59       3\n70       3\n82       3\n103     3\n13"
+
+[BridgeNotes.Bridge_WOSafeCodeNote DisAbstractItem]
+m_ItemName="Lembrete de Pratchett"
+m_PluralItemName=""
+m_Description="Lembre-se de que a verdade está nas pinturas!\n\nO caminho para a verdade começa nas ruas movimentadas.\nContinue até ver um navio baleeiro ancorado.\nA partir daí, encontre o matadouro e a verdade será revelada a você."
+
+[BridgeNotes.SampleNote_JournalEntry1 DisAbstractItem]
+m_ItemName="Registro do Diário Parte Um"
+m_PluralItemName=""
+m_Description="Registro do Diário Parte Um\n\n19º Dia, Mês das Sementes\nO que vou fazer? Ela foi embora e levou suas coisas. De volta para a família, como se isso fosse ajudar. A praga vai pegar todos nós.\n\n3º Dia, Mês das Redes\nMe ofereceram trabalho em um dos barcos baleeiros. Finalmente vou deixar este lugar. Depois, vou encontrar um lugar em Tyvia, ao norte. Os invernos são frios lá. Sem ratos, sem praga.\n\n28º Dia, Mês das Redes\nÚltimo dia do mês, minha sorte mudou. Encontrei algo. Brilhante, brilhante e antigo. Parece osso de baleia, que supostamente dá sorte."
+
+[BridgeNotes.SampleNote_JournalEntry2 DisAbstractItem]
+m_ItemName="Registro do Diário Parte Dois"
+m_PluralItemName=""
+m_Description="Registro de Diário, Parte Dois\n\n6º Dia, Mês da Chuva\nMeu primo Emil virá em breve, trazendo um pássaro para assar. Vou ver se alguma das lojas ainda está aberta. Talvez eu possa comprar maçãs ou algumas batatas.\n\n10º Dia, Mês da Chuva\nColoquei minha escultura de osso de baleia em uma prateleira, mas não conseguia vê-la de alguns pontos do quarto. Então fiz um pequeno pedestal para ela. Ela fica bonita à luz das velas.\n\n15º Dia, Mês da Chuva\nÀs vezes eu sonho com ela. Nos sonhos, ela emite sons como o vento, passando por uma janela quebrada. Em algumas noites, o vento soa como uma voz. Eu deveria ter ido aos cais, para embarcar, mas me lembrei tarde demais. Foi há dias."
+
+[BridgeNotes.SampleNote_JournalEntry3 DisAbstractItem]
+m_ItemName="Registro do Diário Parte Três"
+m_PluralItemName=""
+m_Description="Registro de Diário, Parte Três\n\n18º Dia, Mês da Chuva  \nVeio meu primo, mas brigamos por causa disso. Quando entrei no quarto, ele estava segurando. Gritei com ele e brigamos. Agora estou tomado pelo remorso.\n\n26º Dia, Mês da Chuva  \nEle ainda está sentado no canto, em frente às velas. Ele era um ladrão.\n\n2º Dia, Mês do Vento  \nPergunto-me como ele sabia. Vir jantar foi um truque.\n\nTalvez ele tenha contado a outros.\n\n7º Dia, Mês do Vento  \nBarricadas nos corredores lá fora. Agora está seguro.\n\n11º Dia, Mês do Vento  \nA Guarda veio, levando pessoas embora. Os vizinhos. Alguém no prédio tem a peste dos ratos. Foram-se agora. Ele promete me proteger. Toda noite ele promete."
+
+[BrothelNotes.Brothel_Guest_Book_A DisAbstractItem]
+m_ItemName="Livro de Hóspedes do Gato Dourado"
+m_PluralItemName=""
+m_Description="Lord Morgan Pendleton, com Loulia na Sala de Vapor, no andar inferior.\n\nMister Bunting, com Betty na Sala Prateada, no segundo andar.\n\nLord Custis Pendleton, com Violetta na Sala Dourada, no terceiro andar."
+
+[BrothelNotes.Brothel_Guest_Book_B DisAbstractItem]
+m_ItemName="Livro de Hóspedes do Gato Dourado"
+m_PluralItemName=""
+m_Description="Lord Morgan Pendleton, com Loulia no Quarto de Marfim, segundo andar.\n\nSenhor Bunting, com Betty no Quarto Prateado, segundo andar.\n\nLord Custis Pendleton, com Violetta na Sala de Fumo, terceiro andar."
+
+[BrothelNotes.Brothel_Guest_Book_Leave DisAbstractItem]
+m_ItemName="Registro de Hóspedes do Gato Dourado"
+m_PluralItemName=""
+m_Description="Os Lordes Morgan e Custis Pendleton fizeram check-out às 19h, citando um compromisso com o Lorde Regente."
+
+[BrothelNotes.Brothel_Notes_Emilie DisAbstractItem]
+m_ItemName="Chave Mestra do Gato Dourado"
+m_PluralItemName=""
+m_Description="Sei que estamos com poucas camas, mas preciso de um quarto para a criança. Ela é mais importante do que você pode imaginar, e recentemente quase escapou, usando a entrada VIP. Por isso decidi manter a chave-mestra em minha posse. Essa garota deve ser cuidada, mesmo sendo uma pirralha, e quero que fique em um quarto só para ela.\n\n--Madame Prudence"
+
+[BrothelNotes.Brothel_Notes_Emilie_2 DisAbstractItem]
+m_ItemName="Manutenção do quarto da Emily"
+m_PluralItemName=""
+m_Description="Meninas, sei que o cheiro do antigo quarto da Beatrice ainda as incomoda. Atualmente o quarto ainda está fechado, mas o senhor White me garantiu que limpará o cômodo na próxima semana.\n\n--Madame Prudência"
+
+[BrothelNotes.Brothel_Notes_Hammam DisAbstractItem]
+m_ItemName="Sala de Vapor"
+m_PluralItemName=""
+m_Description="A válvula de pressão parou de funcionar corretamente. É a segunda vez. Você não terá uma terceira chance, entendeu? Conserte-a prontamente ou está fora, porque não vou arriscar outro acidente. Nossos clientes estão entre os homens mais importantes da cidade. \n\n--Madame Prudência"
+
+[BrothelNotes.Brothel_Notes_SmokingRoom DisAbstractItem]
+m_ItemName="Sala de Fumantes"
+m_PluralItemName=""
+m_Description="Damos as boas-vindas aos gêmeos Pendleton hoje e a janela da sala de fumar ainda não foi consertada. Custis ficará com este quarto, então conserte-a!\n\n --Madame Prudência"
+
+[BrothelNotes.Brothel_SlackJawElixirsNote1 DisAbstractItem]
+m_ItemName="Entrega de Elixir"
+m_PluralItemName=""
+m_Description="Esta é a provisão semanal de elixir. Diga às suas damas para beberem tudo, mas o chefe diz que temos que receber moedas como pagamento. Chega de trocas.\n\n--Craxton"
+
+[DreamNotes.Emily_letter DisAbstractItem]
+m_ItemName="Carta da Emily"
+m_PluralItemName="Cartas da Emily"
+m_Description="Corvo,  \nEstou muito triste. Dizem que você morreu como a Mãe, mas vou colocar esta nota numa garrafa e jogá-la no rio porque não acredito neles. Viver aqui é muito estranho. Não gosto, então, por favor, venha me buscar se puder."
+
+[DreamNotes.Empress_letter DisAbstractItem]
+m_ItemName="Carta Perdida"
+m_PluralItemName="Cartas Perdidas"
+m_Description="VOCÊ NÃO PODE SALVÁ-LA VOCÊ NÃO PODE SALVÁ-LA VOCÊ NÃO PODE SALVÁ-LA VOCÊ NÃO PODE SALVÁ-LA VOCÊ NÃO PODE SALVÁ-LA VOCÊ NÃO PODE SALVÁ-LA VOCÊ NÃO PODE SALVÁ-LA VOCÊ NÃO PODE SALVÁ-LA VOCÊ NÃO PODE SALVÁ-LA VOCÊ NÃO PODE SALVÁ-LA VOCÊ NÃO PODE SALVÁ-LA VOCÊ NÃO PODE SALVÁ-LA VOCÊ NÃO PODE SALVÁ-LA VOCÊ NÃO PODE SALVÁ-LA VOCÊ NÃO PODE SALVÁ-LA VOCÊ NÃO PODE SALVÁ-LA VOCÊ NÃO PODE SALVÁ-LA VOCÊ NÃO PODE SALVÁ-LA VOCÊ NÃO PODE SALVÁ-LA VOCÊ NÃO PODE SALVÁ-LA VOCÊ NÃO PODE SALVÁ-LA"
+
+[GlobalBooks.AdmiraltyandtheNavalFleet DisAbstractItem]
+m_ItemName="Almirantado e a Frota"
+m_PluralItemName=""
+m_Description="[Trecho de um livro sobre história naval]\n\nEmbora cada uma das Ilhas possua alguma forma de frota naval, nenhuma é mais invejada do que a de Gristol, com sua longa e orgulhosa história de grandes navios e dos almirantes que os comandam. Os rapazes atingem a maioridade nas cidades de Gristol na esperança de um dia comandar tal navio, e dinastias familiares são construídas por aqueles capitães que rastreiam piratas infames ou esmagam revoltas sediciosas, como durante a Insurreição de Morley.\n\nEm tempos de guerra e paz, Gristol continua a inovar no mar. Os projetos de navios do próprio Anton Sokolov agora representam o mais alto padrão no comércio baleeiro, permitindo que as tripulações içassem suas capturas sobre o convés e iniciassem o abate e processamento, mesmo enquanto o navio retorna a Dunwall. As tripulações podem ser vistas trabalhando em sua baleia mais recente enquanto o navio avança lentamente pelo rio Wrenhaven, atracando em uma das poderosas empresas de armazenamento, como a Casa Baleeira Greaves. Suspensa na cordame acima e iluminada por trás pelo pôr do sol, a silhueta de uma dessas criaturas cria uma cena comovente enquanto navega para seu local de descanso final no coração industrial da capital."
+
+[GlobalBooks.AGaffersTaleEarlyAdventures DisAbstractItem]
+m_ItemName="O Conto de um Gaffer, Vol. 1"
+m_PluralItemName=""
+m_Description="[Excerto do diário de viagem de um jovem baleeiro]\n\nUm Conto de um Mestre, Vol 1: Ou, As Primeiras Aventuras de um Mestre\n\nMinha irmã Nina e eu deixamos Tyvia juntos, nos despedindo de nossa tia, a mulher que nos criou desde a infância. Deixando para trás nossa cidade natal, Yaro, e as paisagens brancas, frias, mas belas que sempre conhecêramos, embarcamos em um navio para Dunwall. Nossos pais nos deixaram uma herança considerável, e gastamos metade dela para chegar à capital e estabelecer uma pequena loja de importação dedicada a peles tivianas.\n\nDepois que ajudei Nina a estabelecer o negócio, fiquei livre para perseguir meu sonho. Alistar-me em um navio baleeiro foi a coisa mais emocionante que já fiz, e vi isso como um meio para um fim; um dia comandaria minha própria tripulação e, eventualmente, possuiria uma frota de embarcações semelhantes. Com lágrimas nos olhos, Nina me deu um beijo de despedida e não a vi novamente por muitos meses.\n\nComo aprendiz do mestre, pude ver de perto o rastreamento e a morte das grandes bestas. Nada jamais inflamou meu espírito tanto quanto o vento e as ondas que batiam; perseguir uma baleia ferida, sendo puxado por um emaranhado de cabos embutidos em sua carne espessa.\n\nMudei mais naqueles primeiros sete meses do que nos sete anos anteriores. A caça às baleias começava a deixar sua marca em mim, tanto que Nina mal me reconheceu quando voltei, bronzeado e musculoso, com vincos de intempérie já enrugando os cantos dos meus olhos. Mas ela podia ver que eu estava cheio de alegria, tendo encontrado meu propósito."
+
+[GlobalBooks.AGaffersTaleFinalTravels DisAbstractItem]
+m_ItemName="Um Conto de um Chefe de Iluminação, Vol 2"
+m_PluralItemName=""
+m_Description="[Trecho do diário de viagem de um baleeiro em seus últimos anos]\n\nUm Conto de Velho Marinheiro, Vol. 2: Ou, A Última Travessia de um Velho Marinheiro\n\nDepois de mais de um quarto de século, estou acabado com a caça às baleias, muito quebrado para continuar. Vi todos os cantos das Ilhas e ganhei mais dinheiro do que a maioria dos homens vê em uma vida. Mas tudo se foi. Vivi sob um Imperador e vi sua filha assumir o trono, uma jovem Imperatriz justa que era, mas assassinada tão jovem. Tudo que é belo vem para morrer. Comi em todos os portos do mundo conhecido e naveguei nas águas mais solitárias que se pode imaginar. Vi os penhascos ao redor de Pandyssia. Até o melhor disso não me dá uma onça de alegria. Os anos voltam em meus sonhos como uma fila de corpos abatidos; longos, elegantes e cantando entre as ondas sob o luar, apenas para serem arpoados por homens feios, marcados pelo tempo, que esfaqueavam uns aos outros por um bom par de botas.\n\nA cada ano, tinha menos tempo para voltar para casa. Minha língua esqueceu a linguagem das conversas triviais e aqueles que viviam nas cidades me achavam estranho. Minha irmã Nina mal sabia o que me dizer durante nossas visitas. Quando ela perdeu seu negócio para o advogado corrupto do Lorde Regente, eu estava a cem milhas a leste de Morley, com a mão do arpão congelada pelo granizo enquanto rastreávamos o primeiro touro de baleia que víamos em meses. Ajudei-a o máximo que pude, mas Nina morreu nos primeiros dias da praga. Nada disso importou. Se estou cínico e amargo, é porque esta indústria tirou meus sonhos. O mundo me derrotou."
+
+[GlobalBooks.AHistoryNaturalPhilosophy DisAbstractItem]
+m_ItemName="ESTE LIVRO ESTÁ CORTADO - CORRIJA-O"
+m_PluralItemName=""
+m_Description="ESTE LIVRO FOI REMOVIDO DO JOGO.\nSE VOCÊ O ENCONTRAR NO JOGO, POR FAVOR, REPORTE UM BUG ESPECIFICANDO EM QUAL MAPA/LOCALIZAÇÃO VOCÊ O ENCONTROU.\n\nOBRIGADO!"
+
+[GlobalBooks.AlchemicalFormulae DisAbstractItem]
+m_ItemName="ESTE LIVRO ESTÁ CORTADO - CORRIJA-O"
+m_PluralItemName=""
+m_Description="ESTE LIVRO FOI REMOVIDO DO JOGO.\nSE VOCÊ O ENCONTRAR DENTRO DO JOGO, POR FAVOR, REPORTE UM BUG ESPECIFICANDO EM QUAL MAPA/LOCALIZAÇÃO VOCÊ O ENCONTROU.\n\nOBRIGADO!"
+
+[GlobalBooks.ALookattheAristocracy DisAbstractItem]
+m_ItemName="ESTE LIVRO ESTÁ CORTADO - CORRIJA-O"
+m_PluralItemName=""
+m_Description="ESTE LIVRO FOI REMOVIDO DO JOGO.\nSE VOCÊ O ENCONTRAR DENTRO DO JOGO, POR FAVOR, REPORTE UM BUG ESPECIFICANDO EM QUAL MAPA/LOCALIZAÇÃO VOCÊ O ENCONTROU.\n\nOBRIGADO!"
+
+[GlobalBooks.ASecondSolution DisAbstractItem]
+m_ItemName="Uma Segunda Solução"
+m_PluralItemName=""
+m_Description="[Trecho de uma série de artigos de jornal de proeminentes filósofos naturais — Por Piero Joplin]\n\nNão é por culpa minha que o cidadão comum expressou preferência pelo Elixir de Sokolov em vez de minha própria fórmula, vendida como Remédio de Piero — nome que, se querem saber a verdade, não escolhi. O público transmitiu sua costumeira mensagem de idiotice, gastando seu dinheiro como forma de selecionar a fórmula de Sokolov em vez da minha, que considero igual, se não superior.\n\nMuito se tem falado sobre a popularidade dessas misturas como meio de resistir a esta notável nova praga. Digo notável porque esta cepa atua com uma eficiência nunca vista na história do Império. Esta praga, que agora se espalha pela Cidade de Dunwall, é inigualável em sua eficácia. Estudei-a no sangue dos infectados e ela é quase perfeita. Elegante, na verdade.\n\nE embora seja verdade que o Remédio de Piero e o Elixir de Sokolov sejam conhecidos por protegerem o corpo contra a praga igualmente, o meu possui propriedades — não totalmente compreendidas — que se relacionam com a própria mente e o espírito. E é nisso que minha fórmula se sobressai. Aqui, é onde se deve prestar atenção a esta disputa. Pois vejam, o Elixir de Sokolov, com sua ênfase no corpo bruto e animal, é uma gosma grosseira mais adequada para o gado. A variação sutil e secreta nos ingredientes-chave que compõem o Remédio de Piero garante que ele atue nas funções superiores que separam a humanidade do peixe-bruxa de mandíbula azul e sem mente que nada no Rio Wrenhaven."
+
+[GlobalBooks.AServantHandbook DisAbstractItem]
+m_ItemName="ESTE LIVRO ESTÁ CORTADO - CORRIJA-O"
+m_PluralItemName=""
+m_Description="ESTE LIVRO FOI CORTADO DO JOGO.\nSE VOCÊ O ENCONTRAR NO JOGO, POR FAVOR, REPORTE UM BUG ESPECIFICANDO EM QUAL MAPA/LOCALIZAÇÃO VOCÊ O ENCONTROU.\n\nOBRIGADO!"
+
+[GlobalBooks.AvoidingtheRatPlague DisAbstractItem]
+m_ItemName="Evitando a Praga de Ratos"
+m_PluralItemName=""
+m_Description="[Excerto de um protocolo governamental sobre práticas de combate à doença]\n\nGrande parte da população ainda mantém crenças falsas relacionadas à peste. NÃO é verdade que a bile dos crustáceos de rio protege contra a contração da doença. Também não é verdade que orquídeas de Morley esmagadas atuam como remédio, embora se especule que ambos esses ingredientes sejam usados tanto no Elixir de Sokolov quanto no Remédio de Piero. O consumo desses produtos, antes da exposição à peste, constitui o único meio conhecido de resistir à doença.\n\nAlém disso, a Abadia do Homem Comum adverte contra práticas supersticiosas. Não apenas é ineficaz queimar dois peixes-bruxa e um gato juntos, inalando os vapores enquanto se entoam os nomes dos mortos pela peste, como também é considerado heresia pelos Supervisores e será tratado com todo o rigor das leis da Abadia.\n\nInforme seus vizinhos e pratique estas coisas você mesmo: Evite contato com os infectados. Consuma sua ração diária de elixir, de preferência pela manhã. E denuncie qualquer pessoa suspeita de portar a peste. Todos devem trabalhar juntos para deter a propagação da temida contaminação."
+
+[GlobalBooks.BoneCharms DisAbstractItem]
+m_ItemName="Amuletos de Ossos"
+m_PluralItemName=""
+m_Description="Amuletos de osso, uma bênção do marinheiro, dizem.\n\nA própria arte de entalhar é uma prática antiga, passada de pai para filho, do velho lobo do mar para o novato ainda buscando firmar as pernas no convés. Nos tempos antigos, os homens gravavam nas presas das focas do gelo e nas presas do tamanho de um braço dos ursos que vagavam pelas ilhas ao norte de Tyvia.\n\nQuando o comércio de baleias começou, os artesãos passaram a gravar os ossos dessas grandes bestas, criando amuletos que cantam à noite e concedem alguma pequena bênção ao vigor de um homem ou proteção contra a gravidez."
+
+[GlobalBooks.ChildrensRhymes DisAbstractItem]
+m_ItemName="Rimas Infantis Atemporais"
+m_PluralItemName=""
+m_Description="[Dos contos de advertência para crianças]\n\nDizem que Jimmy Whitcomb Riley  \nEra um brigão que os amigos chamavam de Smiley.  \nCorria por toda a cidade, de um lado a outro,  \nCometendo todo tipo de crime e desaforo.\n\nNa Rua da Garrafa, com os rapazes se metia,  \nAtirando tijolos, garrafas e outras bugigangas.  \nIniciavam brigas, fugiam e se escondiam,  \nQuebrando tudo e rindo, por onde passavam.\n\nSmiley gostava de comer e beber o dia inteiro  \nE de quebrar e espancar a noite inteira.  \nBêbado e sozinho, adormeceu de repente,  \nSentado na ponte ao longo de John Clavering.\n\nQuando acordou, algo estranho encontrou,  \nMais estranho que um cão-lobo cantor.  \nTornara-se uma feiticeira de mandíbula azul, viscosa e nojenta,  \nE só lembrava que seu nome era Smiley.\n\nDizem que Jimmy Whitcomb Riley  \nNunca mais foi visto, por toda a eternidade.  \nMas nadava por aí, para cima e para baixo,  \nBebendo do rio, chorando "por que eu?""
+
+[GlobalBooks.CrossingGreatOcean DisAbstractItem]
+m_ItemName="ESTE LIVRO ESTÁ CORTADO - CORRIJA-O"
+m_PluralItemName=""
+m_Description="ESTE LIVRO FOI REMOVIDO DO JOGO.\nSE VOCÊ O ENCONTRAR NO JOGO, POR FAVOR, REPORTE UM BUG ESPECIFICANDO EM QUAL MAPA/LOCALIZAÇÃO VOCÊ O ENCONTROU.\n\nOBRIGADO!"
+
+[GlobalBooks.CustomsandFoodofMorley DisAbstractItem]
+m_ItemName="Costumes e Comida de Morley"
+m_PluralItemName=""
+m_Description="[Numa passagem do diário de um viajante]\n\nNascido e criado em Gristol, passei meus anos de formação em nossas cidades menores antes de me estabelecer na magnífica Dunwall. Lá, na capital, aprendi a apreciar as coisas mais refinadas. Quando surgiu a oportunidade de documentar minhas viagens a Serkonos, Tyvia e finalmente Morley, deixei meu cargo como escrivão do falecido Lorde Estermont.\n\nTalvez, como tantos em Dunwall, eu sofra de um excesso de cultura, mas considerei Morley decepcionante.\n\nAo longo deste diário, explicarei por que achei o Festival dos Batedores de Manteiga cansativo, apesar dos estandartes altos, pés descalços e vestes vermelhas. E por que sua famosa língua de boi em geleia é algo que lutarei para esquecer por muitos anos."
+
+[GlobalBooks.DaughterofTyvia DisAbstractItem]
+m_ItemName="Filha de Tyvia"
+m_PluralItemName=""
+m_Description="[Excerto de uma peça de teatro]\n\nJovem Dama Amélia, no jardim dos fundos\nDuquesa, não conheço o mundo além destes muros do jardim, mas não confunda minha falta de experiência por medo. Ou por ausência de desejo. Se eu a evitei, é por causa da advertência que seu nome carrega.\n\nDuquesa Kalli, curvando uma rosa ao rosto, inalando o perfume\nE que advertência seria essa, minha querida Amélia?\n\nJovem Dama Amélia, virando as costas para a Duquesa\nCreio que saiba meu significado. Os contos de seu pai ainda são assunto de fofoca de salão.\n\nDuquesa Kalli, aproximando-se\nE essas histórias a excitam? Diga-me, menina, sou uma amiga.\n\nJovem Dama Amélia, hesitante\nDuquesa Kalli, eu – Sim, confesso que sim. Em minha juventude, escondi uma cópia dos contos do Príncipe Kallisarr. Lia-os até tarde da noite.\n\nDuquesa Kalli, falando em seu ouvido\nComo eu também.\n\nJovem Dama Amélia, recostando-se em seu abraço\nMas, ele era seu pai?!\n\nDuquesa Kalli, acariciando seu pescoço\nSão apenas histórias, Amélia. Fogo para a imaginação.\n\nJovem Dama Amélia, respirando profundamente\nDuquesa, você me ensinará a beijar?\n\nDuquesa Kalli, arrulhando suavemente\nEnsinarei, mas você nunca beijou outra pessoa?\n\nAbirri, um jardineiro de rosas, emergindo dos arbustos, gaguejando\nMinhas senhoras! Juro-lhes, não tive a intenção de espiar. Perdoem-me, mas estava podando a cerca viva e não encontrei uma forma de interromper.\n\nDuquesa Kalli, estendendo uma mão\nNós o perdoamos. Mas como punição, ordeno que fique e se aproxime.\n\nJovem Dama Amélia, chocada, sobrancelhas franzidas de irritação\nMas ele é um servo, Duquesa!\n\nDuquesa Kalli, puxando cada um deles, aproximando-os de si\nE nos servirá, ele o fará, jovem Amélia."
+
+[GlobalBooks.DeadCounterFunctionResponsibilities DisAbstractItem]
+m_ItemName="Responsabilidades do Contador Morto"
+m_PluralItemName=""
+m_Description="[Excerto de um manual sobre novos procedimentos da Guarda da Cidade]\n\nComissionado pelo Lorde Regente diante da crescente crise da peste, o Contador de Mortos é um cargo que será concedido apenas a oficiais, geralmente de patentes júnior ou intermediárias. Na maioria das questões relacionadas à aplicação de editos ou toques de recolher, esses oficiais se reportarão ao oficial de plantão em exercício. No entanto, qualquer Contador de Mortos terá comando em situações relacionadas à peste e ao manejo dos mortos, incluindo aqueles com sintomas de peste em estágio avançado (chamados de "chorões" na linguagem comum). A partir do Mês da Chuva, oficiais interessados poderão se candidatar ao teste e, se aceitos, ao estágio de treinamento de duas semanas. O pagamento será administrado em moeda e rações de elixir, em um nível de pagamento uma vez e meia superior ao normal."
+
+[GlobalBooks.DeathintheMonthofSongs DisAbstractItem]
+m_ItemName="Morte no Mês das Canções"
+m_PluralItemName=""
+m_Description="[Excerto de uma obra mais extensa, traduzido do antigo serkonês - Por Anisa Mateo de Serkonos]\n\nEla era tímida no Mês das Lareiras  \nEscondendo-se das minhas cartas perfumadas  \nUma cura ensolarada para minha solidão  \n\nEla sorria no Mês das Chuvas  \nComendo figos direto da árvore  \nUm sonho de navegar ao redor das Ilhas  \n\nEla se casou no Mês dos Clãs  \nCom seu primo marinheiro de Cullero  \nUm pássaro estridente, perfurando meu peito  \n\nEla morria no Mês das Canções  \nAtingida por uma doença do Leste  \nUm beijo terrível em seus lábios distantes"
+
+[GlobalBooks.DLC_Only_TheJournalGranny DisAbstractItem]
+m_ItemName="O Diário da Vovó Rags"
+m_PluralItemName=""
+m_Description="[Trecho dos devaneios de uma moradora de rua]\n\nClaro que vou te contar, querida. No fim, não guardarei segredos de você.\n\nTodos os dias sombrios da minha vida são como as janelas de uma casa. Da cozinha, posso ver o jardim, onde as folhas e os caules estão marrons e roídos por insetos. Dá para ver um pequeno monte de terra onde algo foi embrulhado num cobertor e colocado para descansar entre as fileiras de videiras retorcidas.\n\nA sala de estar dá para a rua, onde os vizinhos estão todos ateando fogo às suas casas, barricando-se lá dentro. Quentinho e aconchegante, querida.\n\nNão se esqueça do quarto também. Ele dá para um beco sombrio, onde uns arruaceiros estão brincando com um velho. Os dois primeiros estão batendo nele com paus, e a garota com eles está chutando suas costelas secas e velhas. Ah, ter aqueles ossos, fervê-los numa panela.\n\nNinguém mais mora na minha casa, querida. Ninguém que você gostaria de conhecer.\n\nQuando eu morava lá com meu marido, éramos pessoas boas, muito boas. Vera Moray, todo mundo dizia, sua casa é tão grandiosa quanto a Mansão Boyle. Melhor até. Seus jantares são suntuosos e suas festas são as melhores.\n\nQuando aquele jovem Sokolov veio pintar meu retrato, eu ainda estava quase no auge. Radiante, ele disse, e ele era quase um homem ainda, tão jovem, pintando todas as pessoas mais importantes do reino. Todos queriam um retrato de sua mão, todas as minhas amigas. Eu fui a única, querida, molhada com sua tinta, brilhando na tela por uma bela moeda.\n\nMas não eram só festas e pinturas. Meu marido e eu nem sempre estávamos em casa, não. Nós viajávamos juntos, ele e eu, até os confins das Ilhas. Além até, até os penhascos vermelhos de Pandyssia, para cavar na rocha e rastejar pelas cavernas, segurando velas e apertando os olhos para ver as paredes. Muitas coisas preciosas encontramos, mas nenhuma tão preciosa quanto o menino de olhos negros, querida. Todas aquelas marcas e ossos, entalhados tão fundo e polidos tão brilhantes.\n\nLevei os ossos velhos para casa. Escondi-os do meu querido marido. Depois aprendi a fervê-los e entalhá-los eu mesma. Eles faziam presentes tão bons, querida. O pequeno menino mudo os levou para casa. Ele os amava tanto. O tempo todo ele voltava com ossos novos para mim, segurando-os para que eu pudesse ver em seus olhos, mesmo que sua língua estivesse quieta. Vovó, seus olhos me diziam, entalhe esses ossos para mim. Faça-me outro presente. E ele foi tão longe, tão longe, até a Torre de Dunwall, o próprio Carrasco Real agora. Meu pequeno menino mudo e sua espada brilhante, tão brilhante.\n\nOssos melhores eram o que eu precisava, entende. Ossos melhores para entalhar e polir, raspar e brilhar. Meu querido velho marido estava sempre cansado. Fiz sopa para ele e então ele adoeceu. Ossos melhores, só isso. Para meu pequeno menino mudo, entalhados em nome daquele com olhos negros. E depois que meu marido se foi, dados como presentes de aniversário, eu não quis mais morar lá.\n\nEntão agora estou velha e não tenho muitos para dar meus presentes. É vasculhar o lixo para a Vovó Rags, e alimentar os passarinhos que se reúnem aos meus pés. Ninguém quer tomar chá, querida. Especialmente aqueles rudes brutamontes da Rua da Garrafa. Queixomole e seus rapazes, sempre se metendo com uma velhinha só tentando seguir seu caminho.\n\nNo fim, estaremos juntos com ele. Você e eu na noite sombria, com estrelas acima e abaixo. E sempre aquele com os olhos negros, querida."
+
+[GlobalBooks.DLC_Only_RumorsSighting DisAbstractItem]
+m_ItemName="Rumores e Avistamentos: Daud"
+m_PluralItemName=""
+m_Description="[Excerto de um relatório de campo secreto de um Supervisor]\n\nHá mais de um ano que vivo longe da Abadia, sem a companhia dos meus irmãos Supervisores ou a orientação das irmãs cegas da Oráculo. Os dias passaram comigo a dormir nos antros de ladrões, assassinos e pior, e as noites viram-me a percorrer os piores becos e recantos miseráveis de Dunwall. Partilhei refeições com assassinos. Por vezes, aventurei-me para além das muralhas da cidade, encontrando-me em cemitérios esquecidos e nas ruínas periféricas frequentadas por gente de má índole.\n\nA minha barba cresceu e visto as roupas gastas e os pedaços de couro fervido preferidos pelas gangues de Bottle Street e Hatter, e por aqueles homens e mulheres rudes que ganham a vida a esfaquear outros em troca de moedas. É verdade que as minhas mãos se tingiram de vermelho-sangue, mas selecionei os meus alvos com cuidado, escolhendo entre criminosos e hereges que não mereciam viver, executando-os com justiça e usando as suas mortes como meio de construir a minha reputação. Até agora, este truque permitiu-me fazer o meu nome entre os meus colegas assassinos, sem tirar a vida a inocentes.\n\nO meu objetivo é singular: tenho de impressionar o assassino chamado Daud para me aproximar dele.\n\nDe todos os praticantes de magia negra que rastreamos, nenhum preocupa tanto a Abadia como Daud. Diz-se que a sua mãe era uma bruxa de um dos arquipélagos ao largo da costa de Pandyssia, capturada por piratas que se aventuraram longe das Ilhas. Segundo a lenda, quando o navio regressou, o capitão estava morto e a bruxa controlava a tripulação, com Daud ainda uma sombra no seu ventre.\n\nAs primeiras histórias falam de um assassino de gangues sem piedade, movendo-se entre os lojistas e oficiais da Guarda da Cidade de Dunwall como um ceifeiro no meio do trigo. Seguiu-se um período de silêncio; anos que acreditamos ter passado a viajar pelas Ilhas, estudando anatomia e o oculto nos grandes salões de aprendizagem e em caves escondidas frequentadas por outros diletantes das artes proibidas. Diz-se até que Daud passou um inverno na própria Academia de Filosofia Natural. E durante algum tempo, antes de surgir um cisma, contava as Bruxas de Brigmore entre os seus aliados. Durante todo esse tempo, aperfeiçoou a sua arte, e é durante este período que acreditamos que começou a associar-se ao Forasteiro.\n\nNovos relatos surgiram de um assassino de pele morena, pago pela elite para eliminar os seus rivais em Dunwall e nas outras grandes cidades das Ilhas. Aqueles que o viram e sobreviveram contam-se pelos dedos de uma mão, mas todos relataram algo estranho. Ele aparecia e desaparecia como fumo. De um telhado próximo, gesticulou e uma nobre tropeçou da sua varanda, caindo para a morte nas pedras da calçada abaixo. Mais recentemente, com esta nova ameaça de praga que surgiu em Dunwall, Daud foi visto a liderar uma gangue de homens em couro escuro, vestidos como baleeiros de fábrica com as suas máscaras de vapor. Parecem leais para além da compreensão para alguém tão indigno, levando-me a questionar se parte da sua magia é dedicada a acalmar as suas mentes, escravizando-as.\n\nApenas há um mês, uma jovem afirma ter encontrado uma cena estranha. A levar uma garrafa de leite para casa para o seu irmão aleijado, estava a tomar um atalho pelo Distrito dos Alfaiates. Numa rua estreita, passou por baixo de uma janela e ouviu sons incomuns vindos de dentro. Afastando a cortina roída, a rapariga viu para dentro de um apartamento abandonado, usado por malfeitores para jogar e negociar erva habber. Um altar oculto tinha sido erguido contra a parede do fundo, que ela reconheceu pelos ensinamentos dados pelo seu Supervisor local. Um homem que descreveu como parecido com Daud estava ajoelhado diante do altar, murmurando para um espírito invisível como se estivesse a discutir. Ele pegou numa escultura, feita de osso pálido, do altar à sua frente e as luzes apagaram-se num jorro de vento impuro. Silenciosa como um rato do campo, escapuliu-se, correndo até chegar a casa.\n\nNão pode haver dúvida. Daud é um agente do Forasteiro e deve morrer, pois não há limite para o mal que este homem pode fazer. Este é o meu juramento solene e o grande propósito da minha vida. Até Daud estar morto e a sua corrupção ter sido purgada do mundo, continuarei a mover-me entre os depravados, caminhando em direção a ele. Não abandonarei o meu disfarce nem voltarei a usar a máscara de Supervisor até que Daud não respire mais."
+
+[GlobalBooks.DLC_Only_FieldSurvey DisAbstractItem]
+m_ItemName="Notas de Levantamento de Campo: o Espião Real"
+m_PluralItemName=""
+m_Description="[Excerto das memórias pessoais de Hiram Burrows, datado de vários anos antes]\n\nEste é o Quarto Dia, Mês do Frio Intenso.\n\nO progresso na supressão das atividades de gangues no Distrito da Destilaria continua, mas mais lentamente do que eu esperava. Os rufiões que operam lá têm sido astutos, concedo-lhes isso, mas é apenas uma questão de tempo. Verei seus líderes açoitados em público e enviados sob a lâmina do Carrasco Real. Se dependesse de mim, aquele bastardo mudo trabalharia noite e dia, removendo as cabeças que precisam ser removidas.\n\nInternamente, a Imperatriz não parece satisfeita com minhas investigações. Parece que está além de sua compreensão – contra sua própria natureza como uma pessoa confiante – acreditar que traidores se movem entre nós, mas eu sei que eles existem. Eles devem existir.\n\nNão, Jessamine preferiria passar seu tempo com o Protetor Real. Pelo menos ele provavelmente impedirá qualquer ameaça imediata à sua segurança, mas um braço forte não é o que é necessário contra aqueles que nos minariam. Como a espada de Corvo impedirá uma taça de vinho envenenada ou um explosivo entregue por mensageiro? Não impedirá. Há muitas ameaças ao nosso redor. Ameaças que exigem esforços meticulosos de policiamento.\n\nA Jovem Senhorita Emily é indisciplinada, receio. Aqui dentro da Torre de Dunwall, ela recebe instrução dos melhores tutores conhecidos nas Ilhas, mas sua mãe a mimoseia e ela passa a maior parte do tempo perdida em imaginação, desperdiçando seu tempo desenhando, ou pedindo a Corvo para ensiná-la a lutar com paus de madeira. A garota pode governar o Império algum dia; cada momento gasto em brincadeiras é um momento desperdiçado.\n\nReforçar a segurança do portão principal que leva à Torre de Dunwall tem sido outro projeto de estimação ultimamente. Pensar que, em sua época, o Imperador Kaldwin o deixava aberto ao público durante o dia, permitindo que qualquer pessoa entrasse e saísse como quisesse. Se dependesse de mim, eu selaria completamente o acesso às ruas, mas a Imperatriz não quer nem ouvir falar disso. A eclusa é muito mais fácil de proteger e, se fosse a única entrada para a Torre, o tráfego de entrada e saída seria muito reduzido. Um dia a pessoa errada vai entrar e sofreremos por isso, marque minhas palavras. Nenhuma quantidade de segurança é excessiva quando se trata de proteger chefes de estado.\n\nA Imperatriz também desaprova meus planos para os dispositivos de Sokolov. O próprio Sokolov não tem interesse em segurança, claro, mas ele é vaidoso e, portanto, ansioso para ver suas invenções implantadas de qualquer forma. Esta "parede de luz" com a qual ele tem mexido tem potencial. De qualquer forma, pelo menos consegui convencer a Imperatriz a atualizar as pistolas carregadas pelos oficiais da Guarda.\n\nPor que me preocupo tanto, quando ninguém mais parece se importar? Se eu adormecer, tudo isso afundará no Oceano? As coisas brutas escalarão as muralhas e se fartarão de nossa carne? Isso é o que vejo no mesmo sonho várias vezes por mês. Se eu tivesse mais voz nas coisas, mais autoridade, poderia proteger a todos nós.\n\nTalvez eu tenha trabalhado demais. Um jantar e uma noite de conversa com uma certa dama de refinamento podem ser apropriados, talvez em algum lugar agradável no Distrito da Propriedade.\n\n--Hiram Burrows, Espião-Mor Real"
+
+[GlobalBooks.DLC_Only_EarlyLife DisAbstractItem]
+m_ItemName="Primeiros Anos e Antecedentes Criminais: Slackjaw"
+m_PluralItemName=""
+m_Description="[Trecho de uma série de cartas enviadas por um membro da Gangue da Rua da Garrafa]\n\nQuer saber a fofoca sobre o Slackjaw? Como ele era quando era jovem, antes de ganhar seu apelido? Ah, ele tem a cabeça fria agora, mas não era sempre assim nos dias antes de ser o chefe da gangue da Rua da Garrafa. Houve um tempo em que o jovem Slackjaw não era um homem tão razoável.\n\nComo a maioria de nós, ele cresceu nas ruas, correndo com um bando de pivetes e evitando a lei, pegando o que precisava. Cabelos e olhos escuros, fumando cachimbo aos dez anos de idade. Para os nascidos nos bordéis ou vindos dos orfanatos, era ou as gangues ou trabalhar com os catadores do rio, e ninguém quer isso. Alguns foram recrutados à força pela Marinha ou mandados para as minas administradas pelas famílias Pendleton ou Boyle. Por mais difícil que fosse nas ruas, por mais famintos que ficássemos, pelo menos éramos livres.\n\nQuando deixamos de ser pequenos, o Slackjaw era alguém para se prestar atenção, geralmente dando as ordens quando derrubávamos um carrinho de fazendeiro ou um vendedor de calçada. Ele bolava o plano, dava a cada um um papel a desempenhar e decidia a divisão. A maioria de nós apenas seguia, porque aprendemos rápido que saíamos ganhando assim. Mais comida, mais moedas. Além disso, nenhum de nós queria lidar com o Slackjaw quando ele estava com raiva.\n\nEle trabalhou em alguns grandes trabalhos com a Sally Negra do outro lado da cidade, e isso foi o suficiente para chamar a atenção dos outros chefes. Ele não era mais apenas um moleque de rua. Agora ele era um promissor, o que significava problemas.\n\nOutro cara que se achava promissor era o Mike, o Peixe, que estava subindo na hierarquia administrando o esquema de proteção entre as mulheres das fábricas. Numa bela noite, estamos todos assistindo a um espetáculo obsceno no teatro. Mike, o Peixe, e seu bando também estão lá nos assentos baratos, logo no corredor abaixo de nós. Mike tem uma ideia maluca - ele não era muito de planejar - e joga um pesado cuspidor de cerâmica no Slackjaw. Acerta em cheio no rosto e quebra sua mandíbula. Olhamos para ver se vai ter uma briga sangrenta, mas o Slackjaw apenas aponta para a porta e todos nós saímos, com Mike rindo às nossas costas.\n\nAcordando no dia seguinte, sem nos dizer por quê, o Slackjaw gesticula para que todos o sigamos. Ele ainda não consegue dizer uma palavra, então apenas acompanhamos. Paramos nas docas e o Slackjaw compra - na verdade paga moedas por isso - uma pesada corrente coberta de ganchos. É para pesca em águas profundas, algo que você prenderia a uma longa linha na lateral de um navio. Tem cerca de um metro e vinte, feita de elos grossos, e há ganchos de tubarão saindo dela em diferentes ângulos. O Slackjaw tem aquela coisa enrolada em seu braço esquerdo, balançando ao seu lado.\n\nNão sei como ele sabia onde Mike, o Peixe, estava hospedado, mas quando chegamos à casa de sua namorada, o Slackjaw joga uma garrafa pela janela, simples assim. É quase meio-dia. Há um monte de gritos lá dentro e Mike enfia a cabeça para fora, de olhos arregalados e confuso. Quando ele vê o Slackjaw lá fora na rua, uma expressão surge em seu rosto que ainda me dá arrepios. Puro assassinato.\n\nMike sai pela porta lateral berrando como um touro, segurando um cutelo, indo direto para o Slackjaw. Quando eles se encontram na rua, o Slackjaw gira e os ganchos de tubarão enterram-se profundamente no braço e ombro de Mike. Ele grita, mas o Slackjaw segura a corrente. Ele está ali parado com a mandíbula quebrada, cerrada, com a corrente enrolada em seu braço esquerdo, ganchos cravados em Mike, o Peixe, apenas esfaqueando-o o mais rápido que pode. Mike não conseguia lutar muito bem, fisgado daquele jeito e usando a mão esquerda, mas ele era um cara grande e foram muitas facadas antes que ele caísse de joelhos. Todo mundo estava torcendo no início, mas então todos ficamos quietos. Aquilo simplesmente continuava e continuava, até que finalmente era apenas Mike, o Peixe, choramingando, chorando como um bebê, e o som da faca do Slackjaw.\n\nQuando acabou - e aqui está a parte brilhante - o Slackjaw tirou um bilhete e pregou no rosto de Mike com um prego. Dizia apenas: Se quer um emprego, venha para a Rua da Garrafa.\n\nO Slackjaw não falou direito por alguns meses, mas a notícia se espalhou rápido.\n\nNo final do ano, uma vez que tínhamos uma gangue considerável formada, ele enviou cartas para os outros chefes, dizendo que estava comandando uma equipe totalmente nova na Rua da Garrafa. A maioria deles riu ou espancou os caras que entregaram as cartas. A Trish Olho-Verde até voltou sem um polegar. Mas aparentemente o Slackjaw estava esperando esse tipo de reação e tinha um plano de reserva.\n\nUma semana depois, quatro dos chefes estavam mortos. Pareciam uma série de eventos infelizes, mas todos sabiam a verdade. Um baleado pela Guarda enquanto estava no meio de um mercado de carne. Outro escorregando e caindo na água, desmaiado. Um dos chefes mais velhos encontrado na cama com a barriga aberta e uma pêra tívia enfiada em sua boca. Ainda não sei o que isso significava. E Sheila Barnsworth foi encontrada borbulhando em um caldeirão de cera quente.\n\nO Slackjaw enviou outro conjunto de cartas. Ofertas aos subchefes, dizendo que seriam tratados de forma justa como colegas. Ele até enviou a Trish Olho-Verde com uma das cartas. Todos os subchefes aceitaram.\n\nDepois de eliminar sua principal concorrência, o Slackjaw partiu para estabilizar seu negócio, de forma muito organizada. Cobrando favores, aplainando as coisas, dando a todos um pouco de moeda ou bebida como bônus. Mostrando como ele poderia ser como chefe. Então tudo ficou quieto, o que sempre deixa os homens da Guarda da Cidade nervosos, é claro.\n\nA notícia se espalhou entre os informantes do Espião-Mor Real, o Grupo de Cidadãos Responsáveis, como eles se chamavam, dizendo a todos que trabalhavam em uma loja ou varriam os degraus da frente de suas casas para ficarem de olhos atentos ao Slackjaw e seus homens. Tentando descobrir o que eles estavam tramando e o que havia acabado de acontecer. Mas o Slackjaw não é burro. Ele subornou algumas palmas entre os lojistas e a Guarda também, dizendo-lhes que ele estava na cidade para ficar e que as coisas seriam conduzidas adequadamente de agora em diante, sem tanto sangue. Ele era finalmente um verdadeiro chefe, pronto para se estabelecer no negócio de mover uísque, administrar as brigas de cães e oferecer as damas e cavalheiros da noite, se é que me entende.\n\nEntão veio a praga.\n\nNo início, parecia uma coisa boa. Algumas pessoas ficaram doentes e todos queriam comprar aquelas poções, de Sokolov ou Piero. Elixir da saúde ou remédio espiritual, como eles chamam. O Slackjaw me disse que viu uma oportunidade. Já tínhamos uma antiga fábrica de uísque com um alambique, onde poderíamos adulterar o produto e vendê-lo com desconto. Fazer o mesmo com o elixir de Sokolov era um plano inteligente. Logo todo mundo nas favelas estava doente e os negócios iam bem. Mas depois de um tempo havia tanta gente com a praga que todos ficaram com medo. Todo mundo começou a agir de forma muito desagradável e tudo desmoronou. Quando as pessoas não podem trabalhar, elas não têm moedas para elixir, adulterado ou puro.\n\nQuando a Imperatriz morreu, parecia que Dunwall deslizaria para o Vazio. O Espião-Mor Burrows assumiu e a Guarda começou a usar toda aquela nova tecnologia Sokolov. Torres de vigia, altões e aqueles pilares de arco. Eles ergueram uma parede de luz através do Boulevard Clavering e reprimiram com força.\n\nMas o Slackjaw nos surpreendeu novamente. Em vez de deixar a cidade em um barco com destino a Morley ou uma das outras Ilhas, ele ficou e manteve tudo unido. Conseguimos tanto elixir para combater a praga quanto a Guarda da Cidade, com seus impostos e rações. E isso nos manteve vivos, até agora.\n\n--Crowley, Gangue da Rua da Garrafa"
+
+[GlobalBooks.DunwallHowaCityBecame DisAbstractItem]
+m_ItemName="ESTE LIVRO ESTÁ CORTADO - CORRIJA-O"
+m_PluralItemName=""
+m_Description="ESTE LIVRO FOI REMOVIDO DO JOGO.\nSE VOCÊ O ENCONTRAR NO JOGO, POR FAVOR, REPORTE UM BUG ESPECIFICANDO EM QUAL MAPA/LOCALIZAÇÃO VOCÊ O ENCONTROU.\n\nOBRIGADO!"
+
+[GlobalBooks.EminentDomain DisAbstractItem]
+m_ItemName="Domínio Eminente"
+m_PluralItemName=""
+m_Description="[Trecho de um panfleto sobre novas práticas sancionadas pelo governo - por Barrister Arnold Timsh]\n\nÉ uma realidade lamentável que a praga tenha se espalhado, descontrolada, pela cidade de Dunwall. Dos que são acometidos, muito poucos sobrevivem. Muitas vezes, quando a praga atinge uma família, não deixa ninguém em seu rastro, ceifando marido, esposa, criança e idoso por igual. Quando isso ocorre, as casas e negócios dos falecidos são deixados abandonados, um terreno fértil para ratos, ou para comércio ilícito como jogos de azar, prostituição ou atividades de gangues. A Cidade de Dunwall, com a plena bênção do próprio Lorde Regente, não teve escolha senão instituir sua política atual de apreensão. Qualquer propriedade pertencente a esses cidadãos infelizes derrubados pela praga torna-se imediatamente propriedade do estado. Os oficiais da Guarda da Cidade, liderados pelos Contadores de Mortos, garantem que essas leis sejam aplicadas de forma justa e sem corrupção."
+
+[GlobalBooks.FailedExperiments DisAbstractItem]
+m_ItemName="Experimentos Falhados"
+m_PluralItemName=""
+m_Description="[Trecho de uma série de palestras sobre filosofia natural - Por Piero Joplin]\n\nÉ claro que tentei aprimorar os projetos de Sokolov. Claro! E por que não? Afinal, é provável que seu pensamento tenha sido influenciado, de alguma pequena forma, pelo nosso tempo juntos na Academia. Somos todos parte de uma comunidade, lutando para desatar os mistérios do Cosmos. Até mesmo aqueles entre nós que possuem as maiores mentes são frequentemente conduzidos a uma linha de pensamento frutífera por, como se diz, nossos subordinados intelectuais. Sokolov não é exceção a isso, apesar do glamour de gênio que ele lançou sobre a aristocracia.\n\nE além disso, é verdade que muitos dos meus experimentos falharam. Não há necessidade de fofocar sobre isso pelas minhas costas em seus clubes sociais e nas próprias câmaras da Academia. Grande ambição requer riscos. Vocês podem rir agora da minha Porta para Lugar Nenhum, mas um dia não rirão. Seus filhos provavelmente a verão tão comumente quanto vocês veem as lâmpadas elétricas iluminando nossas ruas à noite. Mas há alguns poucos anos, vocês teriam rido do Pilar de Arco ou da Parede de Luz de Sokolov. Seu riso, seus sorrisos condescendentes, não são nada além de evidência de sua própria imaginação limitada!"
+
+[GlobalBooks.FindingsFromTheInquisition DisAbstractItem]
+m_ItemName="As Grandes Provações"
+m_PluralItemName=""
+m_Description="[Trecho dos achados de um Superintendente - Por Alto Superintendente Tynan Wallace]\n\nPassando dois anos na companhia de hereges, de insanos e daqueles raros, perversos de coração negro que eram verdadeiros praticantes de magia, posso dizer com verdade que vi coisas capazes de quebrar a mente da maioria. Embora os julgamentos e as fogueiras pesem fortemente sobre meu coração, devo registrar o que foi uma oportunidade única de testemunhar as múltiplas perversões que o Estranho concede àqueles que buscam seu conselho tenebroso.\n\nMuitos dos que enfrentamos foram acusados de enfeitiçar seus vizinhos ou familiares, controlá-los à distância, ou até mesmo andar em suas peles. E vi isso com meus próprios olhos, quando uma mulher deslizou na forma de outra, espreitando invisível até que um Superintendente vigilante derrubou tanto a bruxa quanto sua hospedeira.\n\nOutros, detalhados aqui, foram descobertos ocupando dois lugares aparentemente ao mesmo tempo, ou desaparecendo de um local para aparecer em outro.\n\nSabíamos que nosso trabalho era terrível, pois se os seguidores do Estranho podem verdadeiramente habitar a pele de outro, ou mover-se de um lugar a outro como o vento, como podemos esperar erguer muros para mantê-lo afastado? Foram esses julgamentos que primeiro nos levaram a investigar barreiras além do físico."
+
+[GlobalBooks.Gristol DisAbstractItem]
+m_ItemName="A Ilha de Gristol"
+m_PluralItemName=""
+m_Description="[Excerto de um volume sobre a geografia e cultura de Gristol]\n\nConhecida por suas colinas verdes ondulantes e prados nebulosos, Gristol é a maior das Ilhas e abriga metade da população do mundo conhecido. Embora a maioria seja gente simples que vive em áreas rurais onde ovelhas, bois-sangue e gazelas são criados por seus couros e carne, também há cinco grandes cidades espalhadas pela nação. Notavelmente, a capital Dunwall está localizada no extremo sul de Gristol.\n\nEm geral, o povo de Gristol é alegre e trabalhador, apreciador de pratos de peixe, tortas de carneiro e cerveja. A Abadia do Homem Comum tem forte presença em Gristol, com os fiéis se reunindo semanalmente e em todos os feriados religiosos significativos. A Marinha Imperial, embora formada por homens de todas as Ilhas, é bem vista em Gristol, onde algumas famílias mantêm a tradição de alistar pelo menos um filho a cada geração, há muitos anos.\n\nAlém da agricultura, transporte marítimo e comércio baleeiro, há várias grandes minas espalhadas por Gristol, cada uma controlada por uma das famílias aristocráticas mais estabelecidas, como os Boyles, Pendletons ou Brimsleys."
+
+[GlobalBooks.ImportantFamiliesDunwall DisAbstractItem]
+m_ItemName="ESTE LIVRO ESTÁ CORTADO - CORRIJA-O"
+m_PluralItemName=""
+m_Description="ESTE LIVRO FOI REMOVIDO DO JOGO.\nSE VOCÊ O ENCONTRAR DENTRO DO JOGO, POR FAVOR, REPORTE UM BUG ESPECIFICANDO EM QUAL MAPA/LOCALIZAÇÃO VOCÊ O ENCONTROU.\n\nOBRIGADO!"
+
+[GlobalBooks.Lighthouse_KingsparrowIsland DisAbstractItem]
+m_ItemName="O Farol"
+m_PluralItemName=""
+m_Description="[Excerto de um trabalho histórico recente sobre a Ilha Kingsparrow]\n\nA Ilha Kingsparrow fica no meio do Rio Wrenhaven e, até o século passado, era usada apenas por pescadores e para cerimônias religiosas ocasionais.\n\nDurante o período da Insurreição de Morley, um forte e um cais naval foram adicionados à ilha, como forma de proteger a cidade de ataques pelo mar.\n\nNa época da Crise da Peste dos Ratos, pouco após a trágica morte da Imperatriz Jessamine Kaldwin, o Regente interino de Dunwall, Hiram Burrows, encomendou a construção de uma instalação militar modernizada e um farol na ilha.\n\nO Farol de Burrows, concluído apenas recentemente, é amplamente considerado uma das maravilhas da era moderna, zumbindo com as tecnologias de Sokolov, alimentado por óleo de baleia processado."
+
+[GlobalBooks.LootingInTimes DisAbstractItem]
+m_ItemName="Saque nos Últimos Meses"
+m_PluralItemName=""
+m_Description="[Trecho de uma carta encontrada em uma casa vazia na borda do Distrito Financeiro de Rudshore]\n\nO saque começou nos armazéns. Quando homens suficientes adoeceram com a peste, as empresas tiveram que suspender as operações.\n\nMeu marido Malkus trabalhava na Meierson Tobacco Leaf Company, que fechou no ano passado durante o Mês dos Clãs. Ele operava as fornalhas no celeiro principal de cura. Malkus sempre dizia que a cura por calor indireto produzia as folhas mais doces. A doença atinge os homens do tabaco com mais força por causa de todo o fumo.\n\nEles trabalharam com uma equipe pequena por um tempo, mas por volta da época em que meu marido adoeceu, os fornos foram apagados e o tabaco ficou apodrecendo.\n\nDe alguma forma, os ladrões souberam e começaram a desmontar o lugar. Mais tarde, passaram para as casas, os canalhas."
+
+[GlobalBooks.Morley DisAbstractItem]
+m_ItemName="A Ilha de Morley"
+m_PluralItemName=""
+m_Description="[Excerto de um volume sobre geografia e cultura de Morley]\n\nDizem que a história de Morley é tão colorida quanto um edredom feito de todas as bandeiras já hasteadas e todas as roupas já vestidas. A própria terra se esconde do sol sob uma camada de nuvens, e um musgo cinza espesso pende das árvores, mas o espírito do povo que vive em Morley dança como a luz do fogo.\n\nEntre o povo, o amor pela boa comida e bebida é lendário, com ensopados e pratos de carne assada sendo usados com mais frequência para combater o frio e a melancolia. A nação tem uma rica tradição de poetas, músicos e filósofos, mesmo entre os mais pobres. Tanto tomos intelectuais quanto canções de taverna eram frequentemente escritos em Morley.\n\nUma entrada tardia no Império, a Insurreição de Morley ainda é um ponto delicado para muitos nativos, e a independência é uma característica orgulhosa entre o povo."
+
+[GlobalBooks.MysteriesPandyssianContinent DisAbstractItem]
+m_ItemName="Mistérios de Pandyssia"
+m_PluralItemName=""
+m_Description="[Trecho de um livro sobre o Continente Distante, Pandyssia]\n\nNa Academia de Filosofia Natural, fala-se do Continente Pandyssiano como um lugar de maravilhas, onde toda a vida se entrelaçou e floresceu através das eras, produzindo uma ecologia vibrante sem rival no mundo civilizado. Os Supervisores da Abadia do Homem Comum, em contraste, falam de horror e heresias. De cultos de sub-humanos envolvidos em rituais brutais e perversos.\n\nOs poucos que viajaram para o Continente Distante e voltaram para as Ilhas, aqueles que realmente pisaram no solo dali, retornaram com anotações que descrevem vastos desertos, selvas profundas e criaturas extravagantes que desafiam a crença.\n\nUma vez por geração, um grande esforço é feito para estabelecer uma colônia ali, na esperança de que um dia ela se torne uma cidade portuária que rivalize com a própria Dunwall. Mas, até hoje, todas essas tentativas terminaram em loucura e fracasso."
+
+[GlobalBooks.OntheProperIdentificationWeepers DisAbstractItem]
+m_ItemName="Identificação e Manejo de Chorões"
+m_PluralItemName=""
+m_Description="[Trecho das anotações do Dr. Galvani sobre o procedimento adequado para lidar com infectados pela peste]\n\nUma vez que a vítima sangra pelos olhos, não há como ajudá-la. A morte é inevitável, dado nosso entendimento atual da peste. No entanto, seguindo o protocolo, podemos limitar sua propagação.\n\nTodo o pessoal que lida com "chorões", ou aqueles nos estágios finais, deve consumir quantidades generosas de uma das poções protetoras disponíveis. Qualquer uma das variantes servirá a esse propósito: o Elixir de Sokolov ou o Remédio de Piero, por exemplo. Uma dose por dia para os soldados rasos. Uma dose duas vezes ao dia para os oficiais.\n\nA distância deve ser mantida, seja através do uso de armas de haste ou de armas incendiárias de longo alcance, para evitar os insetos parasitas picantes que colonizam um hospedeiro infectado.\n\nApós o uso, procedimentos rigorosos de lavagem devem ser seguidos em relação à lavagem das jaulas metálicas, dos cercados de transporte e das carruagens usadas para transportar os infectados para uma das zonas de deportação, como o Distrito Alagado."
+
+[GlobalBooks.OnTrackingandHuntingWhales DisAbstractItem]
+m_ItemName="Sobre a Caça às Baleias"
+m_PluralItemName=""
+m_Description="[Excerto do diário de um arpoador de proa - Por Velho Grum]\n\nEsses novos navios feitos pelo tal Sokolov tornam a vida mais fácil do que era na minha juventude, isso eu garanto. Antigamente, estávamos à mercê dos ventos. Hoje em dia, os motores partem ao primeiro sinal de baleia e não há tempo nem para tirar os rapazes das beliches antes de estarmos sobre o cardume.\n\nSelecionamos o maior desgraçado que conseguimos avistar e os pilotos nos arrastam para fora do círculo de brutos. Essas coisas gemem e rugem pela água, como se estivessem se chamando. Os homens lá embaixo dizem que dá para sentir no casco.\n\nMas quando os arpões entram, o bicho não consegue mais fugir para águas profundas. Quando ele enfraquece com a perda de sangue, lançamos o barco-gancho e colocamos correntes na cauda. Então os guinchos arrastam o desgraçado de ré pela rampa até o aparelhamento suspenso."
+
+[GlobalBooks.OnWhelpingandTraining DisAbstractItem]
+m_ItemName="Criação e Treinamento de Cães de Caça"
+m_PluralItemName=""
+m_Description="[Excerto de um manual de treinador de cães de caça]\n\nDe cada ninhada, geralmente há pouco menos de quatro bons filhotes, mas afogamos sempre o mais fraco.\n\nOs que restam passam cerca de três meses mamando nas mães antes de começarmos com o treinamento. É simples no início: buscar gravetos e ficar sentado quieto sob comando. Só fazer xixi fora de casa e coisas do tipo. Mas ao oitavo mês, já os temos caçando bonecos de pano com cheiro escondidos num matagal, matando javalis sob comando e derrubando um homem com armadura acolchoada mordendo seu antebraço.\n\nNo final do primeiro ano, graduamos os que aprenderam e atiramos nos que não aprenderam. Os Supervisores os levam depois disso e nunca mais os vemos.\n\nExceto uma vez. Caminhando pela Avenida Clavering, um Supervisor passou por mim, pregando sobre a Ladainha do Penhasco Branco e os males da feitiçaria, e com certeza seu cão começou a choramingar e abanar o rabo. Foi assim que soube que era um dos meus, criado desde filhote."
+
+[GlobalBooks.PandyssianBullRatStudy DisAbstractItem]
+m_ItemName="Estudo do Rato-Touro Pandyssiano"
+m_PluralItemName=""
+m_Description="[Trecho das notas de laboratório - Por Anton Sokolov]\n\nA massa do roedor dificilmente é o detalhe mais interessante, embora seja o primeiro a ser comentado pelos colegas visitantes que vêm estudar meu prêmio de Pandyssia. Após observação mais aprofundada, torna-se óbvio que o espécime exibe maior astúcia do que seus primos nativos do temperado Gristol. Duas vezes durante a noite acordei e o encontrei solto em meus aposentos, então uma nova gaiola teve que ser projetada. Um desvio divertido, mas um desperdício do meu precioso tempo. Os testes dietéticos que conduzi também trouxeram algumas surpresas. O Rato Touro Pandyssiano, posso afirmar com confiança, não é um comedor exigente. Com igual entusiasmo, vi meu pequeno hóspede banquetear-se com outros ratos menores, felinos vivos e até mesmo a carne cadavérica de uma mulher morta pela peste encontrada no Rio Wrenhaven. Mais estudos são necessários."
+
+[GlobalBooks.ParliamentaryProcess DisAbstractItem]
+m_ItemName="ESTE LIVRO ESTÁ CORTADO - CORRIJA-O"
+m_PluralItemName=""
+m_Description="ESTE LIVRO FOI REMOVIDO DO JOGO.\nSE VOCÊ O ENCONTRAR NO JOGO, POR FAVOR, REPORTE UM BUG ESPECIFICANDO EM QUAL MAPA/LOCALIZAÇÃO VOCÊ O ENCONTROU.\n\nOBRIGADO!"
+
+[GlobalBooks.RatBehaviorModesofExtermination DisAbstractItem]
+m_ItemName="Comportamento e Extermínio de Ratos"
+m_PluralItemName=""
+m_Description="[Excerto de uma série de entrevistas com trabalhadores de rua - Por Lena, a Caçadora de Ratos]  \n\nAntigamente, você saía com um saco, uma vara com um prego na ponta e pegava quantos ratos conseguisse em uma noite. A Guarda da Cidade pagava pelo peso. Meu marido Benjamin e eu trabalhávamos principalmente sozinhos, e a gente se virava. Se encontrávamos um lugar onde os ratos estivessem muito ruins, às vezes contratávamos um grupo de moleques de rua para trabalhar conosco, os mais jovens que não causavam problemas. Pagávamos a eles com pão e cidra de maçã.  \n\nQuando a praga chegou, os ratos ficaram diferentes. Mais agressivos, maiores e um pouco mais rápidos. Você tinha que se cuidar. Se fosse encurralado, eles se viravam e o bando voltava para cima de você. Por pouco escapei com vida algumas vezes, lá nos esgotos. As mordidas doíam depois, mas eram os sons que eles faziam que ficavam nos seus sonhos à noite.  \n\nFicou mais perigoso, e a Guarda da Cidade começou a pagar melhor. Mas isso não durou muito, porque depois de um tempo, muita gente foi limpa, tentando encher um saco. Um deslize e eles estavam todos em cima de você, roendo e tentando mastigar até o osso. Foi assim que perdi meu pobre Benji."
+
+[GlobalBooks.RegencyandEmergencyPowers DisAbstractItem]
+m_ItemName="ESTE LIVRO ESTÁ CORTADO - CORRIJA-O"
+m_PluralItemName=""
+m_Description="ESTE LIVRO FOI REMOVIDO DO JOGO.\nSE VOCÊ O ENCONTRAR NO JOGO, POR FAVOR, REPORTE UM BUG ESPECIFICANDO EM QUAL MAPA/LOCALIZAÇÃO VOCÊ O ENCONTROU.\n\nOBRIGADO!"
+
+[GlobalBooks.ReportsofLooting DisAbstractItem]
+m_ItemName="Saque nos Últimos Meses"
+m_PluralItemName=""
+m_Description="[Trecho de uma carta encontrada numa casa vazia na periferia do Distrito Financeiro de Rudshore]\n\nOs saques começaram nos armazéns. Quando bastantes homens adoeceram com a peste, as empresas tiveram de suspender as operações.\n\nMeu marido Malkus trabalhava na Companhia de Folhas de Tabaco Meierson, que fechou no ano passado durante o Mês dos Clãs. Ele operava as fornalhas no celeiro principal de cura. Malkus sempre dizia que a cura por condução produzia as folhas mais doces. A doença atinge mais os tabaqueiros por causa de todo o fumo.\n\nEles trabalharam com uma equipe reduzida por um tempo, mas por volta da época em que meu marido adoeceu, as fornalhas foram apagadas e o tabaco ficou apodrecendo.\n\nDe alguma forma, os ladrões souberam e começaram a desmantelar o lugar. Depois, passaram para as casas, os canalhas."
+
+[GlobalBooks.RoyalAscension DisAbstractItem]
+m_ItemName="ESTE LIVRO ESTÁ CORTADO - CORRIJA-O"
+m_PluralItemName=""
+m_Description="ESTE LIVRO FOI REMOVIDO DO JOGO.\nSE VOCÊ O ENCONTRAR NO JOGO, POR FAVOR, REPORTE UM BUG ESPECIFICANDO EM QUAL MAPA/LOCALIZAÇÃO VOCÊ O ENCONTROU.\n\nOBRIGADO!"
+
+[GlobalBooks.Serkonos DisAbstractItem]
+m_ItemName="A Ilha de Serkonos"
+m_PluralItemName=""
+m_Description="Serkonos, a joia do Sul, é mais conhecida por seus ventos quentes, comidas temperadas e praias intermináveis. Embora a cidade de Cullero receba o maior fluxo de viajantes de todas as Ilhas, Karnaca, na extremidade mais ao sul do mundo conhecido, é preferida pela elite do Império. Diz-se que um mês descansando sob o sol nas praias de Serkonos, ou em uma das aldeias rurais, pode curar a maioria das doenças. Os viajantes trazem receitas e estilos do Sul, e as danças que todos os serkonanos aprendem na juventude são apreciadas em Gristol por sua sensualidade, copiadas pela aristocracia da moda na capital Dunwall.\n\nO único problema persistente em Serkonos origina-se ao longo da cadeia de pequenas ilhas que se estendem para o leste do continente. Por gerações, piratas se esconderam nesse arquipélago, atacando comerciantes que passavam entre as Ilhas e, mais recentemente, atacando navios baleeiros que retornavam com ricos estoques de óleo."
+
+[GlobalBooks.SewerCapacities DisAbstractItem]
+m_ItemName="Capacidade do Esgoto no Mês das Redes"
+m_PluralItemName=""
+m_Description="[Trecho de entrevista anexada a um relatório formal - Por Equipe de Obras da Cidade 17A]\n\nMe pediram pra contar o problema, então aqui vai.\n\nTodo ano é a mesma coisa: a gente trabalha feito uns doidos durante o Mês das Redes. Mal vejo minha família. Já é ruim o bastante que os canos fiquem entupidos com lixo da pesca, pedaços de caixotes e redes, mas a água ainda fica cheirando a tripas de peixe-bruxa. Temos que terminar antes do Mês das Chuvas, senão você sabe o que acontece.\n\nE ainda por cima não recebemos ajuda daqueles babacas da Engenharia Civil. Tô nesse serviço há quase 28 anos e nunca vi um deles descer aqui embaixo, a não ser pra medir se aguenta quando vão construir uma daquelas pontes novas e chiques.\n\nEntão esses últimos 3 anos foram os piores, e vou dizer por quê. São os crustos do rio, que invadiram os canos. A gente ouve um homem lá na frente gritar e berrar, como se estivesse queimando, e todo mundo sobe correndo. Não tem outra escolha."
+
+[GlobalBooks.SlackjawBottleStreetGang DisAbstractItem]
+m_ItemName="A Gangue de Bottlestreet do Slackjaw"
+m_PluralItemName=""
+m_Description="[Excerto de um relatório sobre atividades de gangues violentas]\n\nA Avenida Clavering, que leva ao Gabinete do Alto Supervisor, continua sob controle rigoroso. A Guarda da Cidade está com recursos escassos, mas mantém postos de controle dedicados na Clavering, com patrulhas associadas. Além disso, há conversas sobre a instalação de alguns dos novos sistemas de segurança Sokolov para proteger a rua, que abriga várias personalidades importantes, além de dar acesso a diversos negócios vitais.\n\nAs ruas adjacentes são outra questão. A Rua Bottle em particular, e a destilaria Old Dunwall Whiskey, estão atualmente sob controle de Slackjaw e sua Gangue da Rua Bottle. Pouco se sabe sobre Slackjaw, exceto que ele tem sido particularmente ativo durante a crise da peste. Como parte de seu negócio ilegal gira em torno da distribuição de elixir anti-peste, a Guarda tem sido lenta em reprimir a operação."
+
+[GlobalBooks.SokolovTechnologyNewAge DisAbstractItem]
+m_ItemName="Tecnologia Sokolov e a Nova Era"
+m_PluralItemName=""
+m_Description="[Trecho de um livro recente detalhando as máquinas de Sokolov]\n\nUma das vantagens das tecnologias de Sokolov é que elas compartilham o mesmo encaixe magnético para os tanques de óleo de baleia processado que utilizam como combustível. Quando um tanque se esgota, outro pode ser conectado em seu lugar com facilidade, e o processo é simples o suficiente para que qualquer operário comum ou mesmo os guardas de patente inferior da Guarda Urbana possam realizar a tarefa. Isso se aplica aos sistemas de segurança Pilar de Arco e Muro de Luz, bem como às carruagens motorizadas usadas para transporte por aqueles poucos que são ricos o suficiente para adquiri-las. A única desvantagem evidente dos projetos de Sokolov é a volatilidade dos próprios tanques. Alguns incidentes ocorreram, resultando em danos à propriedade ou ferimentos corporais sempre que um dos tanques explodiu."
+
+[GlobalBooks.SongsoftheHarpooners DisAbstractItem]
+m_ItemName="Canções do Arpoador"
+m_PluralItemName=""
+m_Description="[Excerto de um livro de canções de marujos]\n\nO que faremos com o bêbado baleeiro\nO que faremos com o bêbado baleeiro\nO que faremos com o bêbado baleeiro\nBem cedo pela manhã\n\nDá-lo aos ratos famintos de jantar\nDá-lo aos ratos famintos de jantar\nDá-lo aos ratos famintos de jantar\nBem cedo pela manhã\n\nVai, hei, e ela se levanta\nVai, hei, e ela se levanta\nVai, hei, e ela se levanta\nBem cedo pela manhã\n\nCorta-lhe a garganta com um cutelo enferrujado\nCorta-lhe a garganta com um cutelo enferrujado\nCorta-lhe a garganta com um cutelo enferrujado\nBem cedo pela manhã\n\nEnfia-o num saco e joga-o ao mar\nEnfia-o num saco e joga-o ao mar\nEnfia-o num saco e joga-o ao mar\nBem cedo pela manhã\n\nVai, hei, e ela se levanta\nVai, hei, e ela se levanta\nVai, hei, e ela se levanta\nBem cedo pela manhã"
+
+[GlobalBooks.SpeculationOriginsRatPlague DisAbstractItem]
+m_ItemName="ESTE LIVRO ESTÁ CORTADO - CORRIJA-O"
+m_PluralItemName=""
+m_Description="ESTE LIVRO FOI REMOVIDO DO JOGO.\nSE VOCÊ O ENCONTRAR NO JOGO, POR FAVOR, REPORTE UM BUG ESPECIFICANDO EM QUAL MAPA/LOCALIZAÇÃO VOCÊ O ENCONTROU.\n\nOBRIGADO!"
+
+[GlobalBooks.SpiritoftheDepth DisAbstractItem]
+m_ItemName="Espírito das Profundezas"
+m_PluralItemName=""
+m_Description="Espírito do Abismo, Sereia dos Sonhos.\n\nCaminhei por horas ao longo da costa, deixando Dunwall para trás até que o lamento das ondas afogou todos os outros sentimentos. Chorei, sabendo que você não viria a mim, meu amor.\n\nVocê governa meus sonhos, onde contemplo com sentidos que não possuo na vida desperta o esplendor sombrio de seu lar nas profundezas. Lá o oceano repousa sobre suas costas como uma criança adormecida nos ombros de seu pai.\n\nNessas noites insones de desespero, você aparece para mim não como o poderoso leviatã, mas como um jovem, com olhos tão negros quanto o Vazio."
+
+[GlobalBooks.TalesforChildren DisAbstractItem]
+m_ItemName="Contos para Crianças"
+m_PluralItemName=""
+m_Description="[Dizem que Jimmy Whitcomb Riley  \nEra um brigão que os amigos chamavam de Sorriso.  \nEle corria por toda a cidade, de um lado a outro,  \nCometendo todo tipo de crime e desaforo.  \n\nNa Rua da Garrafa, ele andava com os garotos,  \nAtirando tijolos, vidros e outros brinquedos.  \nIniciavam brigas, depois fugiam e se escondiam,  \nQuebrando tudo e rindo, por onde passavam.  \n\nSorriso gostava de comer e beber o dia inteiro  \nE de quebrar e bater a noite toda, por inteiro.  \nBêbado e sozinho, ele adormeceu de repente,  \nSentado na ponte ao longo de John Clavering.  \n\nQuando acordou, algo estranho encontrou,  \nMais estranho que um cão-lobo a cantar.  \nEle se tornara um peixe-bruxa azulado e viscoso,  \nE só se lembrava que seu nome era Sorriso.  \n\nDizem que Jimmy Whitcomb Riley  \nNunca mais foi visto, por todo o sempre.  \nMas ele nadava por aí, para cima e para baixo,  \nBebendo do rio e chorando: "Por que eu?")"
+
+[GlobalBooks.The1stStricture DisAbstractItem]
+m_ItemName="A Primeira Estrita"
+m_PluralItemName=""
+m_Description="[Excerto de uma obra que detalha uma das Sete Estrituras]\n\nRestringe o Olhar Errante que busca para cá e para lá alguma coisa reluzente que facilmente captura a fantasia de um homem num momento, mas traz calamidade no seguinte. Pois os olhos nunca se cansam de ver, nem são rápidos em discernir a ilusão. Um homem cujo olhar está corrompido é como um espelho deformado que trocou a beleza pela feiura e a feiura pela beleza. Em vez disso, fixa os teus olhos no que é edificante e no que é puro, e então serás capaz de reconhecer os monumentos profanos do Forasteiro."
+
+[GlobalBooks.The2ndStricture DisAbstractItem]
+m_ItemName="A Segunda Restrição"
+m_PluralItemName=""
+m_Description="[Trecho de uma obra que detalha uma das Sete Restrições]\n\nRestrinja a Língua Mentirosa que é como uma faísca na boca do pagão. É uma coisa tão pequena, mas de uma única faísca uma cidade inteira pode ser reduzida a cinzas. É melhor viver uma vida de silêncio do que soltar um fluxo de inverdades. Os ecos das mentiras retornam como a voz do Forasteiro."
+
+[GlobalBooks.The3rdStricture DisAbstractItem]
+m_ItemName="A Terceira Estrita"
+m_PluralItemName=""
+m_Description="[Trecho de uma obra que detalha uma das Sete Restrições]\n\nRestrinja as Mãos Inquietas, que rapidamente se tornam cúmplices do Forasteiro. Libertadas do trabalho honesto, elas se precipitam para ganhos sórdidos, buscas vãs e atos de violência. Que valor têm as mãos que roubam, matam e destroem? Em vez disso, ponha suas mãos no arado, no forcado e na pá. Pois até o trabalho mais humilde, quando rigoroso, comprime os músculos como uma esponja, enxaguando as impurezas da mente e do corpo."
+
+[GlobalBooks.The4thStricture DisAbstractItem]
+m_ItemName="A Quarta Estrita"
+m_PluralItemName=""
+m_Description="[Excerto de um trabalho que detalha uma das Sete Estrituras]\n\nRestringi os Pés Errantes que amam transgredir. Eles não dão atenção às pedras de limite dos campos de um vizinho. Vagam por terras estrangeiras, apenas para retornar com as solas enegrecidas pela iniquidade. Para onde te desviaste que agora a destruição vem atrás de ti? Andarias sobre brasas ardentes ou vidro quebrado? Então por que te infiltrais nas casas dos honestos, ou nos covis das coisas ocultas, se o resultado é o mesmo. Cairás no Vazio! Em vez disso, apoiai vossos pés sobre uma fundação firme, para que quando os ventos do Forasteiro uivarem contra vós, permaneçais firmes e não sejais derrubados."
+
+[GlobalBooks.The5thStricture DisAbstractItem]
+m_ItemName="O Quinto Estrito"
+m_PluralItemName=""
+m_Description="[Excerto de uma obra que detalha uma das Sete Estrituras]\n\nRestrinja a Fome Desenfreada, ou os intemperantes se erguerão entre vós como um enxame virulento, devorando tudo por onde passarem, até mesmo a imundície. Pois o que entra em vosso corpo vos envenena, e se comerdes imundície, então imundície é o que vomitareis. Certamente o glutão venderá primogenitura, família e amigos por um bocado de carne."
+
+[GlobalBooks.The6thStricture DisAbstractItem]
+m_ItemName="A Sexta Estrita"
+m_PluralItemName=""
+m_Description="[Excerto de uma obra que detalha uma das Sete Restrições]\n\nRestrinja a Carne Dissoluta. Em verdade, não há meio mais rápido pelo qual uma vida possa ser revolvida e peneirada do que pelas depredações do desejo descontrolado. De que vale o consórcio com uma prostituta? A atenção de um companheiro lascivo? De nada. E quanto ao fruto de tais uniões? Apenas a dor nasce, apenas a miséria se multiplica; dentro dessas coisas, o Forasteiro habita."
+
+[GlobalBooks.The7Strictures DisAbstractItem]
+m_ItemName="Os Sete Estritos"
+m_PluralItemName=""
+m_Description="[Excerto de uma visão geral comumente distribuída dos Sete Preceitos]\n\nCerque seu ser mais íntimo com estes Preceitos, e você estará seguro.\n\nOs Sete Preceitos são nossos princípios fundamentais, ensinados e reforçados por Supervisores por todas as Ilhas. Destes princípios derivam todos os tipos de regras, códigos sociais e crenças sobre o Cosmos.\n\nOs Sete Preceitos\n1. Olhar Errante\n2. Língua Mentirosa\n3. Mãos Inquietas\n4. Pés Vagantes\n5. Fome Desenfreada\n6. Carne Dissoluta\n7. Mente Desviada\n\nTodos estes comportamentos devem ser restringidos para manter o coração livre de influências malévolas. Eles são as portas de entrada do Forasteiro."
+
+[GlobalBooks.The7thStricture DisAbstractItem]
+m_ItemName="A Sétima Estrita"
+m_PluralItemName=""
+m_Description="[Excerto de um trabalho que detalha uma das Sete Estrituras]\n\nRestrinja a Mente Errante antes que ela se torne facciosa e dividida. Dois inimigos podem ocupar o mesmo corpo? Não, pois o primeiro o conduzirá para um lado, e o segundo para outro, até que o corpo tropece num fosso e seu pescoço se quebre. Da mesma forma, dois pensamentos contrários não podem permanecer por muito tempo na mente, ou ela se tornará fraca de vontade e sujeita a qualquer heresia."
+
+[GlobalBooks.TheAbbeyEveryman DisAbstractItem]
+m_ItemName="A Abadia do Homem Comum"
+m_PluralItemName=""
+m_Description="[Amostra de um trabalho maior sobre a história dos Supervisores]\n\nA Abadia do Homem Comum é a sede do poder religioso e da inspiração para todos os Supervisores do Império. A ordem surgiu ao longo dos anos para proteger o povo comum dos estragos do Forasteiro, até que a necessidade de um bastião central de autoridade foi considerada necessária. Esta estrutura imponente é um destino para peregrinos que buscam refúgio ou orientação.\n\nMuitos atribuem erroneamente a construção da Abadia ao Alto Supervisor Benjamin Holger, quando na verdade foi o sucessor de Holger, John Clavering, quem lançou a fundação. Pouco depois da conclusão da Abadia, todos os Supervisores da terra se reuniram lá e iniciaram uma jornada para o Penhasco Branco.\n\nAli, um grande cerco começou, enquanto os Supervisores purgavam a região. A batalha se travou contra hereges, bruxas e servos do Forasteiro. Embora Holger tenha sido morto na luta, o Penhasco Branco foi purificado e os ritos cerimoniais que se seguiram duraram um mês, dando origem a muitas invocações e discursos que foram inscritos em tomos e levados de volta à Abadia, onde ainda são reverenciados hoje."
+
+[GlobalBooks.TheAcademyNatural DisAbstractItem]
+m_ItemName="A Academia de Filosofia Natural"
+m_PluralItemName=""
+m_Description="[Trecho de uma visão geral da Academia]\n\nAgachada na borda de Dunwall, a Academia de Filosofia Natural é uma antiga instituição educacional, movimentada com jovens estudantes e velhos filósofos, alquimistas, cosmologistas e vivisseccionistas. As melhores mentes de todas as Ilhas se reúnem ali para estudar toda a natureza, incluindo o corpo humano, os céus celestiais e o universo físico.\n\nNinguém tem permissão para entrar, exceto membros ilustres e os poucos estudantes aceitos a cada ano após um longo e árduo processo de inscrição. Aqueles que moram nas proximidades só podem especular sobre as remessas exóticas vistas chegando do rio e passando pelas portas dos fundos, ou torcer o nariz com os cheiros estranhos que emergem das chaminés no topo.\n\nO Médico Real Anton Sokolov é atualmente o diretor da Academia."
+
+[GlobalBooks.TheAncientMusic DisAbstractItem]
+m_ItemName="A Música Antiga"
+m_PluralItemName=""
+m_Description="[Excerto de uma obra mais longa]\n\nPor todo o mundo natural existem ondulações que mal podemos perceber com nossos sentidos, uma Música Ancestral permeando tudo como uma regra estrutural fundamental. Através dela, você pode realizar maravilhas sem violar o mundo natural ou implorar favores a espíritos hostis.\n\nAo longo de meus estudos, descobri uma escala de 17 notas derivada desse fenômeno, e com o equipamento adequado essas notas permitem efeitos surpreendentes. Um dos mais notáveis é a capacidade de acalmar a turbulência originada no Vazio, que atribuímos ao Forasteiro."
+
+[GlobalBooks.TheBoneCharmSituation DisAbstractItem]
+m_ItemName="A Situação dos Amuletos de Ossos"
+m_PluralItemName=""
+m_Description="[Excerto de um relatório para o Gabinete do Alto Supervisor - Pelo Alto Supervisor Gerard]\n\nPerguntaram-me: não deveríamos tolerar a posse de simples amuletos de osso entre a população? Certamente é um assunto trivial, meramente uma prática cultural vista por todas as Ilhas? Não tão terrível quanto a criação e cobiça de runas ocultas mais complexas?\n\nQue pergunta insidiosa.\n\nEssa distinção tola enfraquece nossa missão enquanto o fedor do Forasteiro se torna denso ao nosso redor.\n\nTalvez, como alguns afirmam, nossos ancestais tenham tolerado essas práticas amaldiçoadas durante os tempos anteriores ao surgimento de nosso Império moderno, para aliviar a vida dos servos mais humildes enquanto pavimentavam os caminhos da civilização. Mas não há desculpa para a feitiçaria nesta era industrial mais brilhante.\n\nTendo julgado pessoalmente os julgamentos de muitos hereges, juro que seus olhos, quando a clareza da dor lhes tomou a vida, estavam gratos por serem libertados."
+
+[GlobalBooks.TheBridge DisAbstractItem]
+m_ItemName="Ponte Kaldwin"
+m_PluralItemName=""
+m_Description="Embora uma ponte anterior e menor tenha existido no mesmo local em Dunwall por gerações, foi o próprio renomado Imperador Kaldwin quem encomendou um projeto de obras públicas dedicado a criar a versão monumental da Ponte que conhecemos hoje. E como foi o Imperador Kaldwin, pai de nossa falecida Imperatriz, quem iniciou esta grande construção, ela leva seu nome.\n\nA Ponte de Kaldwin atravessa o Rio Wrenhaven em um de seus pontos mais largos e abriga vários dos luminares da cidade dos mundos do comércio e da arte. Popular entre poetas e amantes, a ponte é destaque em canções de taverna e pinturas. Até tempos recentes, viajantes de outras cidades de Gristol, e até mesmo das outras Ilhas, percorriam grandes distâncias, tudo por uma noite passeando pela Ponte.\n\nFoi apenas com a crise da peste e o assassinato da Imperatriz que o toque de recolher foi instituído na Ponte de Kaldwin. Sob a orientação do Lorde Regente, modificações de segurança recentes foram adicionadas devido ao temor de que uma força de ataque baseada no Oceano pudesse um dia assaltar Dunwall."
+
+[GlobalBooks.TheBriefReignofEmpressJessamine DisAbstractItem]
+m_ItemName="Imperatriz Jessamine Kaldwin"
+m_PluralItemName=""
+m_Description="[Excerto de um livro sobre a falecida Imperatriz]\n\nMuitos dos que viveram durante seu reinado chorarão até o fim de suas vidas pela beleza pálida de olhos penetrantes, e pelo fim terrível que ela encontrou nas mãos de seu próprio servo e protetor corrompido.\n\nNos dias de seu pai, os Kaldwin foram lançados aos holofotes apesar de sua distância do trono, quando a dinastia anterior não forneceu herdeiros. Uma era próspera seguiu-se ao Imperador, mas sua filha teria sorte diferente. Durante sua curta vida, intrigas políticas e conflitos menores criaram rachaduras no Império, minando a unidade entre as Ilhas.\n\nA Peste dos Ratos, no entanto, foi um terror para o qual nem a Imperatriz Kaldwin nem qualquer outro ser vivo estavam preparados."
+
+[GlobalBooks.TheCalloftheStarsBookOne DisAbstractItem]
+m_ItemName="Chamado às Esferas, Vol 1"
+m_PluralItemName=""
+m_Description="Meu estômago se contorceu enquanto os motores da embarcação estranha rugiam mais alto. Era a criação de Orchado, Terceiro Prefeito da Academia de Filosofia Natural. Ele estava exultante, saboreando cada uma das pequenas ondulações da nave. Orchado puxou uma alavanca e uma grande nuvem de fumaça nos envolveu. O cheiro de óleo de baleia queimando tornou-se insuportável enquanto a máquina se impulsionava para cima.\n\nEu estava com muito medo de olhar pela janela, que de repente não parecia grossa o suficiente. Como se soubesse meus pensamentos, a Supervisora Bryn olhou para mim e sorriu: "Recite um pouco da Ladainha, minha pupila. Ela protegerá seu coração da torpeza do Vazio em nosso caminho para as Esferas Exteriores.""
+
+[GlobalBooks.TheCalloftheStarsBookThree DisAbstractItem]
+m_ItemName="Chamado às Esferas, Vol 3"
+m_PluralItemName=""
+m_Description="Não temo o Vazio, nem me preocupo com a santidade espiritual dos fracos. Pois agora sou Seu arauto, Seu escolhido, tendo visto Sua abóbada sublime, onde eternamente Ele se alimenta da substância do Vazio.\n\nSozinho na nave de Orchado, o chão pintado de vermelho com vida, desenho padrões com meus dedos e olho através dos portais para a terra que se ergue abaixo. Lá construirei o primeiro monumento à Sua glória, uma ferida putrefata na carne da natureza.\n\nPacientemente, construirei, aguardando Tua chegada, ó grande descendente do Vazio!"
+
+[GlobalBooks.TheCalloftheStarsBookTwo DisAbstractItem]
+m_ItemName="Chamado às Esferas, Vol 2"
+m_PluralItemName=""
+m_Description="Orchado estava exultante, como um rapaz de dezesseis anos na véspera da Festa da Fuga. "Quando voltarmos a Gristol, serei nomeado Médico Real!\n\nOu será queimado por heresia, Terceiro Prefeito. Tudo depende do que encontrarmos quando chegarmos lá." A voz do meu mestre era diferente, como se o ar das Esferas Externas acrescentasse qualidades normalmente ausentes: incerteza, fraqueza, medo.\n\nArrisquei outro olhar para a estrutura monolítica à distância. Era uma maravilha para Orchado, um enigma para o Superintendente Bryn, e para mim um monumento imponente ao vazio; um magnífico santuário à loucura."
+
+[GlobalBooks.TheDistilleryDistrict DisAbstractItem]
+m_ItemName="O Distrito da Destilaria"
+m_PluralItemName=""
+m_Description="[Excerto de um livro promocional pré-praga sobre produtos fabricados em Dunwall]\n\nPor todo o Império, o Whiskey Velho Dunwall não é apenas a mais fina libação de seu tipo, mas também uma importante tradição cultural entre pessoas exigentes, sofisticadas e comuns por igual.\n\nCapitães que movem seus navios pelo Grande Oceano sempre têm uma garrafa em seus aposentos para ocasiões, restaurantes e bares refinados o mantêm em estoque, e fazendeiros por toda Gristol trocam Whiskey Velho Dunwall quando crianças saudáveis nascem.\n\nAlguns podem discordar, preferindo bebidas 'intelectuais' como o Conhaque King Street ou uma das outras marcas de Morley, mas as vendas do Velho Dunwall têm sido vigorosas durante os primeiros anos do reinado da Imperatriz Jessamine Kaldwin, uma tendência que deve continuar.\n\nEnvelhecido e engarrafado no Distrito de Destilarias de Dunwall, o Whiskey Velho Dunwall é o que você procura!"
+
+[GlobalBooks.TheElixirBlackMarket DisAbstractItem]
+m_ItemName="O Mercado Negro de Elixires"
+m_PluralItemName=""
+m_Description="[Trecho de uma carta]\n\nTemos visto saques generalizados desde o Mês dos Clãs.\n\nNo início não era algo prevalente, mas agora virou padrão: há um surto em um dos distritos e a Guarda se mobiliza. Colocamos os prédios em quarentena, eliminamos os chorões e deportamos qualquer um que apresente sinais iniciais. Depois, os Contadores de Mortos passam pelo local e os advogados preparam a papelada para transferir a propriedade de negócios e residências conforme o critério do Parlamento. Logo em seguida, pontualmente como um relógio, as gangues começam a despedaçar o lugar.\n\nAgora existe um mercado negro bastante robusto, porque todo mundo quer elixir e a maioria não pode pagar. Até a marca do Sokolov não vai ajudá-lo se você já estiver com a praga, mas receber uma dose regular é sua melhor chance se quiser evitar contraí-la.\n\nAlgumas gangues passaram a comprar pequenas quantidades e diluí-las antes de vendê-las. E tenho que admitir, se eu não tivesse a ração de oficial, estaria comprando delas.\n\nGerard Corey\nGuarda da Cidade, Terceiro Regimento\nDistrito da Propriedade"
+
+[GlobalBooks.TheEradicationofSally DisAbstractItem]
+m_ItemName="A Erradicação da Sally Negra"
+m_PluralItemName=""
+m_Description="[Excerto de uma história popular de crime e ousadia - Por Jules Roebin e a Guarda da Cidade]\n\nAntes de Slackjaw dominar as ruas do Distrito da Destilaria, não havia chefe mais implacável, violento ou dedicado a espremer os cidadãos comuns por moedas do que Sally Negra.\n\nComo tantos de Morley, ela tinha pele pálida e olhos verdes, com cabelos negros como o Vazio. Dizem que começou cedo, e quando garota atordoava um homem com sua beleza, abordando-o num beco, então sorria um sorriso torto e subitamente o atravessava com uma faca. Pegava seu dinheiro e seguia caminho antes que ele desse seu último suspiro.\n\nComo chefe, era pior, governando a gangue de rua mais cruel que Dunwall já vira até então. Sua operação tocava tudo, de transporte marítimo à prostituição. Até tinha um esquema com a Guilda dos Padeiros. Um dedo em cada torta, de fato.\n\nUm homem, o Capitão da Guarda Jules Roebin, fez de sua missão detê-la, e manteve o caso em andamento por meia década. Sally Negra encontrou seu fim quando Roebin ordenou que seus homens acendessem fogueiras de fumaça em barris, perto do armazém onde ela se escondia durante o dia. Quando ela e sua gangue correram para as ruas, aterrorizados pensando que o prédio estava em chamas, o Capitão Roebin e seus principais oficiais lançaram redes sobre eles e os atravessaram todos com lâminas e tiros de pistola."
+
+[GlobalBooks.TheEstateDistrict DisAbstractItem]
+m_ItemName="O Distrito da Mansão"
+m_PluralItemName=""
+m_Description="[Trecho de uma visão histórica do Distrito das Mansões]\n\nLar de algumas das famílias mais poderosas de Dunwall, o Distrito das Mansões tem sido uma joia na coroa da cidade por gerações. Nenhum outro distrito possui restaurantes ou eventos culturais mais refinados, e nenhuma família inspira mais admiração, ou mais fofocas, do que os lordes e ladies do Distrito das Mansões.\n\nO falecido Lorde Boyle e sua encantadora esposa talvez melhor representem essa classe privilegiada de cidadãos. Seu baile anual de fantasias é o assunto da alta sociedade, criando ondas por toda Dunwall quando uma família ou outra é excluída da lista de convidados. Mas não é só diversão que move os Boyles; em várias ocasiões, eles generosamente trouxeram trabalhadores pobres de outras partes da cidade por uma ou duas semanas para trabalhar em seu jardim ou casa, proporcionando emprego vital para aqueles que mais precisam.\n\nCom tanta história, o Distrito das Mansões também teve sua parcela de problemas, à medida que fortunas são feitas e perdidas. O grande Lorde Preston Moray e sua excêntrica esposa Vera foram um dia a sensação de Dunwall, antes que a tragédia os atingisse e caíssem em ruína.\n\nCortado por canais e repleto de grandes casas que desfrutam de incentivos fiscais por preservação histórica, o Distrito das Mansões é um lugar ao qual todos podemos aspirar."
+
+[GlobalBooks.TheExquisiteTallboy DisAbstractItem]
+m_ItemName="O Elegante Alto"
+m_PluralItemName=""
+m_Description="[Excerto de uma carta de preocupação pública de autores anônimos]\n\nO que leram aqui é a verdade, independentemente do que ouvirem das "autoridades" que nos governam. Não é mera coincidência que o antigo "Mestre Espião Real" seja quem assumiu o poder quando a falecida Imperatress caiu. Nós, que permaneceremos anônimos, acreditamos que estes eventos estão interligados.\n\nOs sinais de opressão estão por toda parte. Os projetos de Sokolov, originalmente concebidos para fornecer luz e calor aos nossos lares, foram voltados contra nós como meio de incutir medo e controlar nossos movimentos pela cidade. E de onde surgiu esta praga? Alguns dizem que foi importada. Uma teoria absurda? Talvez.\n\nUm de nossos membros arriscou a vida para obter um relatório interno do governo, que em breve imprimiremos e compartilharemos, intitulado "O Exquisito Tallboy", exaltando as virtudes deste mais novo membro da Guarda da Cidade.\n\nPara aqueles nas ruas abaixo, estas "virtudes" são horrores, disseminados por capangas desengonçados que despejam fogo sobre os doentes e os pobres. Para estes olhos, o tallboy é apenas outro valentão do governo, armado com dispositivos incendiários, pesadamente blindado e pairando no alto, olhando para baixo sobre o povo comum da cidade. Agora sabemos que os tallboys são fortemente drogados, ingerindo uma substância que os torna resistentes à dor, mas também embota qualquer empatia que normalmente possuíssem. Exquisito? Achamos que não.\n\nCopiem estas palavras e compartilhem-nas com seus vizinhos. E lembrem-se: quando a maré estiver mais baixa, a verdade será revelada."
+
+[GlobalBooks.TheFloodedDistrict DisAbstractItem]
+m_ItemName="O Distrito Alagado"
+m_PluralItemName=""
+m_Description="[Trecho de um relatório sobre Dunwall - Por Abe Breen, Guarda da Cidade]\n\nAntes da praga transformar tudo em merda, Rudshore era cheio de advogados e homens de dinheiro, correndo por aí se taxando uns aos outros e coisas do tipo. Todo guarda da Patrulha queria aquele posto, e havia mulheres elegantes por toda parte.\n\nO lugar inteiro inundou anos atrás, justamente quando a praga ficou realmente grave. As pessoas estavam doentes e ninguém estava trabalhando, então a cidade deixou as barragens apodrecerem. Quando a grande se rompeu, ouvi dizer, o rio colocou tudo debaixo d'água. A chique Câmara do Comércio estava lá; e também o maldito Greaves Whale House.\n\nAgora, não há nada além de ratos e gangues e quem sabe o quê. A última coisa que soube é que os Capitães estavam usando o lugar como quarentena para chorões. Você mostra um sinal da praga e é "sua cidadania foi revogada". Por cima do muro você vai, direto para a água."
+
+[GlobalBooks.TheFugueFeast DisAbstractItem]
+m_ItemName="A Festa da Fuga"
+m_PluralItemName=""
+m_Description="[Excerto de um livro sobre celebrações e feriados]\n\nNo final de cada ano, após o último dia do Mês das Canções, começamos a Festa da Fuga.\n\nO novo ano ainda não começou, e assim o tempo que se segue fica 'fora' do calendário. Um período de celebração e banquetes tem início, durante o qual as pessoas abandonam as próprias práticas que as mantêm sãs e saudáveis ao longo do ano.\n\nMuitos deixam suas casas, eufóricos com bebidas ou ervas potentes. Alguns pintam o rosto ou usam máscaras para se ocultarem enquanto perseguem suas paixões sem reservas.\n\nQuando os sinais cosmológicos corretos são observados e é hora do calendário recomeçar, o Alto Supervisor em exercício convoca o hino de expiação e a Festa da Fuga termina.\n\nAs famílias retornam aos seus lares, as esposas aos seus maridos. Inimigos depõem suas armas e os fogos são extintos. Nenhuma queixa é feita contra aqueles que ofenderam outros, desviaram-se dos códigos antigos ou descartaram juramentos; pois este tempo, durante o alinhamento astrológico, não existe e não é registrado.\n\nO dia seguinte inicia o novo ano, marcado no primeiro dia do Mês da Terra, como sempre foi."
+
+[GlobalBooks.TheGoldenCat DisAbstractItem]
+m_ItemName="Mulheres Desaparecidas, Gato Dourado"
+m_PluralItemName=""
+m_Description="Senhor Arrowhoff,\n\nGaranto-lhe que a minha família tem os meios para pagar a si e aos seus associados, caso encontre a minha irmã. Tem o nome e a descrição dela, e tudo o mais que sabemos sobre as suas primeiras semanas em Dunwall, antes de Patrice ter deixado de me escrever.\n\nNo entanto, há um outro detalhe, tão difícil de acreditar que hesitei em mencioná-lo.\n\nExiste um estabelecimento em Dunwall chamado Gato Dourado. Uma casa de banhos, creio eu, embora alguns digam que é um bordel. Acho implausível que Patrice alguma vez estivesse ligada a um lugar desses, mas seria negligente se não partilhasse a informação. Pouco antes de as cartas dela pararem de chegar, o primo de um velho amigo disse que viu Patrice a atuar lá, a cantar e a tocar harpa. Pode não ser nada, mas por favor, investigue.\n\nPor fim, se a sua busca pela cidade não tiver dado frutos até ao Mês do Vento, farei a viagem de Morley pessoalmente para contratar outro agente.\n\nAtenciosamente,\n\nMaddison Kanebright"
+
+[GlobalBooks.TheGreatFugues DisAbstractItem]
+m_ItemName="ESTE LIVRO ESTÁ CORTADO - CORRIJA-O"
+m_PluralItemName=""
+m_Description="ESTE LIVRO FOI REMOVIDO DO JOGO.\nSE VOCÊ O ENCONTRAR NO JOGO, POR FAVOR, REPORTE UM BUG ESPECIFICANDO EM QUAL MAPA/LOCALIZAÇÃO VOCÊ O ENCONTROU.\n\nOBRIGADO!"
+
+[GlobalBooks.TheGreavesWhaleHouse DisAbstractItem]
+m_ItemName="A Casa da Baleia Greaves"
+m_PluralItemName=""
+m_Description="[Excerto de um livro sobre empresas consolidadas em Dunwall]\n\nNos primórdios, quando os navios traziam as grandes baleias mortas, os homens as abatiam e transformavam sua gordura em óleo em caldeirões gigantes nas margens do Wrenhaven. Pequenas equipes mantinham seus próprios tanques, com trabalhadores especializados como alimentadores de fornalha, cortadores, estripadores, carregadores ou filtradores.\n\nInevitavelmente, quando a demanda aumentou, os empresários entraram em cena, seduzindo as melhores equipes com promessas de salários melhores e condições mais seguras. Os armazéns surgiram às margens do Distrito Financeiro de Rudshore quase da noite para o dia. Nenhum era mais organizado, ou como alguns diriam mais implacável, do que a Casa da Baleia Greaves, inaugurada pelo próprio Ebenezer Greaves.\n\nA Casa da Baleia Greaves cresceu rapidamente, absorvendo rivais até dominar o comércio. No seu auge, a operação empregava mais de 300 trabalhadores, sem incluir as crianças que preenchiam funções menores, e muitas vezes trágicas. Aqueles associados à refinaria eram reconhecíveis por seus uniformes industriais de couro da cabeça aos pés e pelas máscaras que usavam para se proteger contra os vapores."
+
+[GlobalBooks.TheHeadAcademyNaturalPhilosophy DisAbstractItem]
+m_ItemName="ESTE LIVRO ESTÁ CORTADO - CORRIJA-O"
+m_PluralItemName=""
+m_Description="ESTE LIVRO FOI REMOVIDO DO JOGO.\nSE VOCÊ O ENCONTRAR NO JOGO, POR FAVOR, REPORTE UM BUG ESPECIFICANDO EM QUAL MAPA/LOCALIZAÇÃO VOCÊ O ENCONTROU.\n\nOBRIGADO!"
+
+[GlobalBooks.TheHungryCosmos DisAbstractItem]
+m_ItemName="O Cosmo Faminto"
+m_PluralItemName=""
+m_Description="[Excerto de uma obra maior sobre o movimento das esferas - Por Anton Sokolov]\n\nUma vez erguida a cortina, torna-se inescapável que habitamos um mundo à deriva em um mar de caos uivante, um terrível redemoinho no qual todos os corpos celestes orbitam um núcleo devorador. Embora a viagem possa levar muitos milhares de vidas, todos os objetos cósmicos são eventualmente arrastados para este nexo faminto e para sempre deixam de existir.\n\nEmbora sejam movidos por redemoinhos no meio celestial, as estrelas oferecem pontos de orientação na negritude de outra forma perigosa. Nosso próprio sol mantém seus planetas próximos em nosso curso inexorável rumo ao esquecimento, dando-nos vida e calor até o fim."
+
+[GlobalBooks.TheLadyofCaltan DisAbstractItem]
+m_ItemName="ESTE LIVRO ESTÁ CORTADO - CORRIJA-O"
+m_PluralItemName=""
+m_Description="ESTE LIVRO FOI REMOVIDO DO JOGO.\nSE VOCÊ O ENCONTRAR NO JOGO, POR FAVOR, REPORTE UM BUG ESPECIFICANDO EM QUAL MAPA/LOCALIZAÇÃO VOCÊ O ENCONTROU.\n\nOBRIGADO!"
+
+[GlobalBooks.TheLeviathansSorrow DisAbstractItem]
+m_ItemName="A Tristeza dos Leviatãs"
+m_PluralItemName=""
+m_Description="[Excerto de um relatório sobre um tratado banido pelo Conselho Comercial de Rudshore]\n\nPouco se sabe sobre Pacotti, creditado com esta série de panfletos que argumentam contra o comércio baleeiro. Embora seja talentoso, seus pontos de vista são absurdos e ameaçam os fundamentos econômicos do Império.\n\n01 Escravização: Sobre a criação e domesticação de baleias, versus caçar as bestas na natureza após "um ciclo de vida natural e livre". Pacotti não oferece soluções para onde essas criaturas massivas e malevolentes poderiam ser "pastoreadas".\n\n02 Dissolução: Lamenta a destruição dos laços "sociais" entre membros do grupo. Pacotti chega a usar o termo "famílias".\n\n03 Harmonia: Bobagens sobre a "maravilha estética" daquilo que é, na realidade, o grande e terrível Oceano que sempre ameaça nos engolir. Inclui argumentos sobre a "natureza gentil" dos brutos, uma noção refutada por marinheiros que retornam à costa, de olhos arregalados com histórias da selvageria das baleias.\n\n04 Perturbação: Aqui Pacotti está em seu terreno mais fraco, emitindo advertências febris contra o deslocamento ou transferência de bestas naturais de seus ambientes nativos."
+
+[GlobalBooks.TheLighthouse DisAbstractItem]
+m_ItemName="O Farol"
+m_PluralItemName=""
+m_Description="[Excerto de uma obra histórica recente sobre a Ilha Kingsparrow]\n\nA Ilha Kingsparrow situa-se no meio do Rio Wrenhaven e, até o século passado, era utilizada apenas por pescadores e para cerimônias religiosas ocasionais.\n\nDurante o período da Insurreição de Morley, um forte e um cais naval foram adicionados à ilha, como forma de proteger a cidade de ataques marítimos.\n\nNa época da Crise da Peste dos Ratos, pouco após a trágica morte da Imperatriz Jessamine Kaldwin, o Regente interino de Dunwall, Hiram Burrows, encomendou a construção de uma instalação militar modernizada e um farol na ilha.\n\nO Farol Burrows, concluído apenas recentemente, é amplamente considerado uma das maravilhas da era moderna, zumbindo com as tecnologias de Sokolov, alimentado por óleo de baleia processado."
+
+[GlobalBooks.TheLitanyonWhiteCliff DisAbstractItem]
+m_ItemName="Litania Sobre o Penhasco Branco"
+m_PluralItemName=""
+m_Description="[Excerto de uma série de invocações do Superintendente - Por Alto Superintendente Abram Templeton]\n\nE eu digo a vocês, irmãos, é aqui que fazemos nossa resistência como uma força justa contra a crescente escuridão. É aqui que nos unimos contra os espíritos do desconhecido que nos arrastariam aos gritos para a noite, para nunca mais retornar aos nossos lares, às nossas famílias! Juntos serviremos como uma vara para aqueles que se desviariam do rebanho, para os cinzentos e nebulosos ermos do Forasteiro. Acenderemos um fogo brilhante com nossas ações virtuosas para que outros não percam o caminho. E àqueles que escolherem vagar, além dos muros de nossos lares, em lugares distantes, nós os atingiremos rapidamente antes que sussurrem a seus vizinhos, enchendo seus corações com estranheza e dúvida."
+
+[GlobalBooks.TheMasqueradePartOne DisAbstractItem]
+m_ItemName="ESTE LIVRO ESTÁ CORTADO - CORRIJA-O"
+m_PluralItemName=""
+m_Description="ESTE LIVRO FOI REMOVIDO DO JOGO.\nSE VOCÊ O ENCONTRAR NO JOGO, POR FAVOR, REPORTE UM BUG ESPECIFICANDO EM QUAL MAPA/LOCALIZAÇÃO VOCÊ O ENCONTROU.\n\nOBRIGADO!"
+
+[GlobalBooks.TheMasqueradePartThree DisAbstractItem]
+m_ItemName="ESTE LIVRO ESTÁ CORTADO - CORRIJA-O"
+m_PluralItemName=""
+m_Description="ESTE LIVRO FOI REMOVIDO DO JOGO.\nSE VOCÊ O ENCONTRAR NO JOGO, POR FAVOR, REPORTE UM BUG ESPECIFICANDO EM QUAL MAPA/LOCALIZAÇÃO VOCÊ O ENCONTROU.\n\nOBRIGADO!"
+
+[GlobalBooks.TheMasqueradePartTwo DisAbstractItem]
+m_ItemName="ESTE LIVRO ESTÁ CORTADO - CORRIJA-O"
+m_PluralItemName=""
+m_Description="ESTE LIVRO FOI REMOVIDO DO JOGO.\nSE VOCÊ O ENCONTRAR NO JOGO, POR FAVOR, REPORTE UM BUG ESPECIFICANDO EM QUAL MAPA/LOCALIZAÇÃO VOCÊ O ENCONTROU.\n\nOBRIGADO!"
+
+[GlobalBooks.TheMetaphysika DisAbstractItem]
+m_ItemName="O Mistério da Metaphysika"
+m_PluralItemName=""
+m_Description="[Excerto de uma obra proibida mais extensa sobre rituais sobrenaturais]\n\nDizem que não devemos sujar as mãos ao combater as forças do Vazio. Meus estudos foram considerados heréticos por meus irmãos, mas as recompensas têm sido inestimáveis. Dominei as mesmas energias empregadas pelo Forasteiro e seus malditos seguidores, evitando sua corrupção.\n\nPrescreverei um método duplo neste texto.\n\n**Indireção:** Como os poderes malsãos do Forasteiro usam a carne viva como conduto, podemos evitar ser contaminados usando a carne de outros.\n\n**Contenção:** Ao usar Canais e Barreiras, podemos concentrar essas energias do Vazio em estado bruto, protegendo-as das perspectivas perversas do Forasteiro."
+
+[GlobalBooks.TheOfficeHighOverseer DisAbstractItem]
+m_ItemName="O Alto Supervisor"
+m_PluralItemName=""
+m_Description="[Ao longo dos séculos, a Abadia do Homem Comum manteve seu lugar como religião dominante nas Ilhas. Seus seguidores não apenas a consideram a única fé significativa, mas, com exceção de algumas variantes toleradas, condenam os adeptos de outras religiões como hereges, causando ativamente danos em vez de harmonia.]\n\n[Um componente essencial para a saúde da Abadia é o Grande Supervisor, venerado por todos os outros Supervisores, pelas mulheres da Ordem Orácula e pelas congregações de cada cidade do Império. O Grande Supervisor é encarregado de interpretar as Sete Estrituras e de iniciar cerimônias importantes, como a Festa da Fuga no final de cada ano calendário.]\n\n[Acima de tudo, o Grande Supervisor deve personificar as Estrituras, servindo como exemplo vivo de sua perfeição.]\n\n[Após a morte do Grande Supervisor em exercício, cabe a um conselho formado por Supervisores mais velhos convocar a Festa das Chaleiras Pintadas, o primeiro passo no árduo processo de escolha de um novo líder para a Abadia.]"
+
+[GlobalBooks.TheOfficeRoyalPhysician DisAbstractItem]
+m_ItemName="ESTE LIVRO ESTÁ CORTADO - CORRIJA-O"
+m_PluralItemName=""
+m_Description="ESTE LIVRO FOI REMOVIDO DO JOGO.\nSE VOCÊ O ENCONTRAR NO JOGO, POR FAVOR, REPORTE UM BUG ESPECIFICANDO EM QUAL MAPA/LOCALIZAÇÃO VOCÊ O ENCONTROU.\n\nOBRIGADO!"
+
+[GlobalBooks.TheOfficeRoyalSpy DisAbstractItem]
+m_ItemName="O Mestre Espião Real"
+m_PluralItemName=""
+m_Description="[Excerto de um registro histórico sobre cargos e patentes governamentais]\n\nDiz-se que o Gabinete do Mestre Espião Real existe desde que há Imperadores e Imperatrizes. No entanto, nos primórdios do Império, esse cargo existia em segredo. Somente após a Insurreição de Morley é que a posição foi publicamente reconhecida, devido ao papel fundamental que o Mestre Espião interino desempenhou em suprimir a rebelião.\n\nOriginalmente, membros das forças armadas ou oficiais da Guarda da Cidade eram indicados para o cargo, escolhidos pelo Almirantado. Nos últimos anos, o Mestre Espião que se despede do cargo tem feito recomendações sobre seu substituto entre o pequeno grupo de agentes de espionagem que o servem. Dessa forma, a continuidade é preservada, já que muitos dos projetos secretos empreendidos pelo governo não são registrados por escrito, apenas comunicados em sussurros, atrás de portas seguras.\n\nIsso leva à crítica mais comum ao Gabinete do Mestre Espião Real: de que ações são tomadas e feitos são cometidos que nem mesmo o Imperador ou a Imperatriz têm conhecimento. Essa falta de supervisão ou responsabilização é um tema comumente debatido nas sessões do Parlamento, mas aqueles que ocupam o cargo de Mestre Espião Real insistem que, para funcionar, o papel deve existir fora da burocracia ou da lei estabelecidas."
+
+[GlobalBooks.TheOutsider DisAbstractItem]
+m_ItemName="O Forasteiro"
+m_PluralItemName=""
+m_Description="[Trecho do diário de um herege conhecido, apreendido antes de sua execução]\n\nPara a maioria, o Forasteiro não passa de uma história infantil destinada a incutir medo daquilo que está além da família, da comunidade.\n\nQuando eu era jovem, minha mãe e eu estávamos em fuga, mudando de uma vila ou cidade costeira para outra. Acampando nas florestas por semanas, sempre com os malditos Supervisores em nossos calcanhares.\n\nÀ noite, ela me contava sobre seus sonhos. Sobre o lugar vazio onde o Forasteiro sussurrava para ela. A cada visita, sua habilidade crescia, até que ela conseguia ver pelos olhos das mariposas e destrancar uma porta ou janela do lado de fora de uma casa.\n\nEu vou encontrar esse lugar vazio. De alguma forma, a chave para abrir o Vazio cairá em minhas mãos. Com o tempo, aprenderei o segredo e ele me chamará como chamou a ela.\n\nChame-me de herege por meus estudos. Arraste-me para sua cela de pedra fria, açoite minha carne e me julgue como apóstata. Queime meu corpo até virar cinzas.\n\nMas continuarei a buscar o reino do qual minha mãe falou. É o significado da minha vida."
+
+[GlobalBooks.TheRatPlagueBornNature DisAbstractItem]
+m_ItemName="A Praga dos Ratos"
+m_PluralItemName=""
+m_Description="[Trecho das anotações de um filósofo natural]\n\nPor mais de um ano, estudei esta praga amaldiçoada, coletando e dissecando milhares de ratos. Dado seu rápido ciclo de gestação e maturação, foi possível criá-los por inúmeras gerações.\n\nOs próprios roedores parecem imunes à praga, mas a transmitem prontamente entre membros de sua própria espécie, talvez através de ácaros.\n\nO sangue dos ratos conta sua própria história, permitindo-me avaliar o número de gerações que um determinado grupo de ratos conviveu com a praga. Assim, uma questão persistente permanece. Os ratos coletados nas partes mais pobres da cidade, nas favelas, exibem as cepas mais antigas da praga. Enquanto aqueles encontrados perto dos cais – onde os ratos estrangeiros portadores da praga presumivelmente teriam entrado em nossa cidade – exibem uma cepa mais jovem da praga.\n\nIsso poderia significar que os ratos foram transportados para as favelas de alguma forma que não é óbvia?\n\nContinuarei minha pesquisa. Se nada mais, sou prova viva de que o Elixir de Sokolov e o Remédio de Piero são muito eficazes para proteger contra a praga, se alguém consumir quantidade suficiente da substância."
+
+[GlobalBooks.TheReproductiveRiverKrusts DisAbstractItem]
+m_ItemName="Reprodução de Crustáceo Fluvial"
+m_PluralItemName=""
+m_Description="[Excerto de um diário da natureza - Por Piero Joplin]\n\nCuriosamente, o crusta-fluvial possui características anatômicas tanto masculinas quanto femininas. Só se pode imaginar o que isso significaria para a sociedade humana, se fosse verdade em nossa própria espécie. Abriríamos mão completamente dos cortejos e danças? Imagine o aumento de eficiência, enquanto todos nos dedicássemos às questões importantes da vida. Filosofia Natural, é claro, mas também indústria e direito. E quando membros idosos da sociedade precisassem ser substituídos por membros mais jovens e vigorosos, poderíamos simplesmente nos engajar no processo de auto-impregnação e produzir a prole desejada.\n\nVoltando ao assunto em questão, embora qualquer crusta-fluvial seja plenamente capaz de se inseminar, também deve ser notado que a reprodução frequentemente ocorre entre crustas individuais. Isso acontece quando os crusta-fluviais vivem em colônias, agrupados uns sobre os outros, como quando estão presos a uma estaca de madeira de um cais. Nesses casos, quando um dos moluscos libera seus fluidos, eles escorrem por outro na colônia, resultando na mistura de linhagens."
+
+[GlobalBooks.TheRoyalBodyGuard DisAbstractItem]
+m_ItemName="O Protetor Real"
+m_PluralItemName=""
+m_Description="[Ao longo dos tempos, os governantes sempre enfrentaram tentativas contra suas vidas. Uma vez por geração, o Império é abalado pela morte de uma figura política ou religiosa poderosa. Por isso, as cidades-estado das Ilhas desenvolveram várias estratégias para proteger seus líderes.\n\nNa capital Dunwall, cada novo Imperador tem o direito de nomear um Protetor Real. Isso vai muito além de um guarda-costas de confiança. Muito mais reverenciado do que os guardas escolhidos a dedo que defendem a Torre de Dunwall ou os provadores de comida, o Protetor Real é uma figura da corte, com enorme liberdade de ação, que mantém companhia constante com o governante mais poderoso do mundo conhecido. Aos doze anos, o jovem monarca participa do processo de seleção, tomando a decisão final sobre quem protegerá sua vida. Embora a maioria dos escolhidos como Protetor Real tenha sido homens, várias vezes ao longo da história, uma mulher cumpriu bem o papel.\n\nPela primeira vez na história de Dunwall, um monarca foi assassinado por seu próprio guarda-costas. No momento desta escrita, com Dunwall sob o domínio da pior praga já registrada, nossa justa Imperatriz Jessamine Kaldwin acaba de ser assassinada. O ato foi cometido por seu ex-Protetor Real transformado em assassino, Corvo Attano, que ainda está preso na Prisão de Coldridge aguardando sua merecida execução. Alguns argumentam que vale a pena notar que Corvo Attano é o primeiro Protetor Real na história do Império nascido fora da Ilha de Gristol.]"
+
+[GlobalBooks.TheRudshoreChamber DisAbstractItem]
+m_ItemName="A Câmara de Comércio de Rudshore"
+m_PluralItemName=""
+m_Description="[Excerto de um livro que abrange os diversos distritos de Dunwall e suas histórias]\n\nAntes o coração financeiro do Império, o Distrito Financeiro de Rudshore era um centro fervilhante de atividade comercial. Nenhum distrito empregava mais advogados, contadores ou, de fato, mais segurança. E nenhuma parte de Dunwall via um fluxo maior de moedas.\n\nQuando as barreiras contra enchentes se romperam e as águas invadiram, o saque que se seguiu foi acompanhado por um período épico de caos e carnificina. Aqueles que puderam retirar-se e mover seus ativos fizeram o que podiam. Outros, com suas riquezas presas em grandes mansões e obras de arte, perderam tudo.\n\nQuando os últimos da alta sociedade haviam se retirado e as luzes se apagaram, Rudshore era uma sombria e decadente casca do que havia sido, habitada por ladrões, cães selvagens e ratos. Antigos grandes palácios do comércio ficaram vazios e assombrados, ou passaram a abrigar assassinos e mercenários, bem como qualquer outro que desejasse se esconder da Guarda da Cidade.\n\nEm meros meses, "o Distrito Inundado" foi estabelecido como o nome mais apropriado para o lugar."
+
+[GlobalBooks.TheSewersBeneathDunwall DisAbstractItem]
+m_ItemName="Os Esgotos Sob Dunwall"
+m_PluralItemName=""
+m_Description="[Excerto de uma breve visão histórica da arquitetura de Dunwall]\n\nAo longo das gerações, os aquedutos e túneis sob a Cidade de Dunwall serviram a uma variedade de propósitos.\n\nNos primeiros dias da história da cidade, vários canais principais eram usados para direcionar o transbordamento do rio durante períodos de inundação. E por um tempo, foi moda entre os aristocratas ricos encomendar passagens de água subterrâneas, dando-lhes acesso às suas propriedades a partir do Rio Wrenhaven e seus afluentes menores. Ao longo dos anos, esses túneis começaram a se interconectar, às vezes por projeto e às vezes por acidente.\n\nA história do sistema de túneis é rica. Como toda criança aprende na escola, os rebeldes usaram os esgotos extensivamente durante a Insurreição de Morley. Como discutido em canções populares de taverna, os amantes costumam encontrar privacidade em alguns dos pontos de entrada mais limpos, com ar fresco trazido pelos ventos do próprio rio. Em uma nota mais sombria, além de ver tráfego de gangues e contrabandistas, rumores dizem que o atual Mestre Espião Real, Hiram Burrows, possui uma rede de informantes que conhecem de cor as curvas e reviravoltas do sistema de esgoto.\n\nAté tempos recentes, os túneis mais antigos sofriam com colapsos repetidos, criando crateras que ocasionalmente engoliam esquinas inteiras. O sistema atual raramente sofre com tais calamidades, uma vez que os esgotos foram reforçados e expandidos pelo Departamento de Planejamento Urbano durante o governo do Imperador Euhorn Kaldwin, o Primeiro."
+
+[GlobalBooks.TheShadowonBitterleaf DisAbstractItem]
+m_ItemName="A Sombra sobre Folha Amarga"
+m_PluralItemName=""
+m_Description="Guiando-me pela luz fraca do fogo que se apagava, vi-a trabalhando. Uma agulha grande movia-se em sua mão, seguindo padrões precisos e esotéricos; nós e laços da arte costureira dos tempos antigos. Sob sua agulha, o corpo dele se contraía e estremecia, sacudindo a mesa de madeira.\n\nUma fascinação mórbida me empurrou para mais perto, até que ela virou seu rosto vazio para mim, pousando a agulha em sua carne. Com um tom refinado, dirigiu-se a mim: "Então você é o amante, presumo. Você também foi infiel, e agora é sua vez de ser consertado.""
+
+[GlobalBooks.TheThirteenMonths DisAbstractItem]
+m_ItemName="Os Treze Meses"
+m_PluralItemName=""
+m_Description="[Trecho de um livro sobre o calendário e a duração apropriada do ano]\n\nComo foi estabelecido há muito tempo, existem treze meses, cada um com 28 dias de duração. Nas últimas horas do ano, o Alto Supervisor anunciará a Festa da Fuga.\n\nO Mês da Terra\nO Mês das Sementes\nO Mês das Redes\nO Mês da Chuva\nO Mês do Vento\nO Mês da Escuridão\nO Mês do Grande Frio\nO Mês do Gelo\nO Mês das Lareiras\nO Mês da Colheita\nO Mês da Madeira\nO Mês dos Clãs\nO Mês das Canções"
+
+[GlobalBooks.TheTower DisAbstractItem]
+m_ItemName="A Torre de Dunwall"
+m_PluralItemName=""
+m_Description="[Excerto de um exame histórico da Torre de Dunwall]\n\nPor mais de um século, a Torre de Dunwall tem sido a capital da Ilha de Gristol e o centro do poder em todas as Ilhas do Império.\n\nGovernantes vêm e vão, cada um acrescentando algo à estrutura. Jardins, observatórios, novas muralhas, piscinas e câmaras interiores especializadas para atender às suas necessidades e caprichos. A Torre de Dunwall resistiu a inúmeras guerras, vários incêndios de grande escala e ao colapso e reconstrução da ala norte.\n\nCom Tyvia e Serkonos se juntando ao Império primeiro, foi Morley que resistiu por mais tempo. Alguns dos conflitos que surgiram também exigiram a maior fortificação da Torre. Tentativas repetidas de assassinato, perto do fim do conflito com Morley, resultaram na criação do cargo de Protetor Real, com cada governante escolhendo seu próprio Protetor Real após cuidadosa consideração."
+
+[GlobalBooks.TheTrialsofAptitude DisAbstractItem]
+m_ItemName="As Provações da Aptidão"
+m_PluralItemName=""
+m_Description="[Excerto de um livro sobre as práticas esotéricas da Abadia]\n\nUma vez que uma criança demonstre a inclinação adequada, ela é marcada. Supervisores são designados para estudar o sujeito, de forma dissimulada, a fim de determinar se essa inclinação é respaldada por condições cosmológicas e outros sinais, que se manifestam ao longo do ano.\n\nAo final do ciclo, aqueles considerados aptos para testes adicionais são removidos de suas casas algumas horas antes do amanhecer e devem iniciar a marcha até um posto avançado fora da cidade.\n\nLá, as crianças passam por preparação e avaliação ritualísticas até a última noite do Mês da Chuva, quando fazem uma peregrinação até Penhasco Branco. Durante uma cerimônia elaborada, determina-se quais das crianças se tornarão Supervisores e quais deverão ser eliminadas."
+
+[GlobalBooks.TheWhalers DisAbstractItem]
+m_ItemName="Os Baleeiros"
+m_PluralItemName=""
+m_Description="[Excerto do relato de um jornalista sobre atividades criminosas organizadas]\n\nUm senhor de idade avançada jurou que seu irmão fora levado pelos "Arpoadores", uma gangue notória associada ao homem chamado Daud.\n\nSegundo Pieter Mansfeld, seu irmão Radof se orgulhava de trabalhar com o Grupo de Cidadãos Responsáveis do Mestre-espião Real, não sentindo vergonha em denunciar o que percebia como negócios obscuros de seus rivais nos mercados de peixe. Mas isso pode ter sido a origem de seus problemas.\n\nNa sexta noite do Mês das Lareiras, Radof irrompeu na casa de Pieter, pálido e em pânico, alegando ter sido perseguido por um grupo de rufiões usando os trajes de couro e máscaras de vapor utilizados pelos homens que trabalham nas fábricas de óleo de baleia. Pieter lhe deu jantar e bebida, mandando-o seguir seu caminho mais tarde naquela noite. Depois disso, Radof nunca mais foi visto."
+
+[GlobalBooks.TheYoungPrinceofTyvia DisAbstractItem]
+m_ItemName="O Jovem Príncipe de Tyvia"
+m_PluralItemName=""
+m_Description="[Excerto de uma peça de teatro]\n\nLord Nathan Bayle, tremendo de indignação\nComo ousa, senhor, trajar-se assim em minha própria casa?! Deveria entregá-lo à Guarda, depravado Tyviano!\n\nPríncipe Kallisarr, aproximando-se\nQue recepção severa para a realeza, senhor. Sua filha me tratou com muito mais hospitalidade. Infelizmente, ela saiu para a noite, deixando-me completamente sozinho.\n\nLord Nathan Bayle, gaguejando, estudando o homem mais jovem diante dele\nO que está fazendo? Saia desta casa! Volte para seu ermo congelado, patife pálido!\n\nPríncipe Kallisarr, sorrindo com malícia, estendendo a mão\nNão há necessidade de raiva entre nós, Lord Bayle. É tão errado eu estar aqui? Como já demonstrei, desenvolvi uma afinidade por você e sua família.\n\nLord Nathan Bayle, ofegante\nOh, céus. Kallisarr, sua pele está tão quente, que queima."
+
+[GlobalBooks.TrainingManualCityGuard DisAbstractItem]
+m_ItemName="ESTE LIVRO ESTÁ CORTADO - CORRIJA-O"
+m_PluralItemName=""
+m_Description="ESTE LIVRO FOI REMOVIDO DO JOGO.\nSE VOCÊ O ENCONTRAR NO JOGO, POR FAVOR, REPORTE UM BUG ESPECIFICANDO EM QUAL MAPA/LOCALIZAÇÃO VOCÊ O ENCONTROU.\n\nOBRIGADO!"
+
+[GlobalBooks.TraveltothePandyssian DisAbstractItem]
+m_ItemName="Viajar para Pandyssia"
+m_PluralItemName=""
+m_Description="[Excerto de uma crônica de viagem - Por Anton Sokolov]\n\nOs homens com quem parti são bons marinheiros. Sem dúvida, metade deles cortou os dentes nos navios piratas patifes que proliferam no Arquipélago de Serkonos. Ou melhor, eram. Metade morreu antes que avistássemos os penhascos vermelhos quebrados que recebem aqueles que visitam o Longínquo Continente, como é chamado. Doenças, brigas internas, envenenados por um cardume (ou seria um bando?) de pequenos peixes que voam sobre as ondas como pássaros, pousando aos centenas pelo convés, picando qualquer um que tocassem com suas farpas tóxicas. Dois arremessados ao mar por ventos demoníacos. O silencioso navegador tiviano, simplesmente morto em sua beliche, envolto em suas peles brancas, olhos arregalados de terror. Poucos cruzaram o Oceano, e a distância até Pandyssia é maior do que a maioria imagina. Mais morreram escalando os penhascos. E agora, com apenas um punhado, eu me vejo diante da maior extensão de terra que existe. Meus aliados estão amedrontados, pois isso está além deles, e agora seu capitão também está morto, picado por algo que se assemelhava a uma toupeira do prado, mas que reagiu com grande fúria apoplética quando manuseado. Assim, cabe a mim liderá-los."
+
+[GlobalBooks.Tyvia DisAbstractItem]
+m_ItemName="A Ilha de Tyvia"
+m_PluralItemName=""
+m_Description="[Excerto de um volume sobre a geografia e cultura de Tyvia]\n\nA mais setentrional das Ilhas, Tyvia é dominada por cordilheiras agressivas que se erguem de planícies congeladas. Viajar entre as cidades envolve jornadas árduas por territórios densamente infestados por ursos terríveis e matilhas de cães adaptados ao clima. Apesar dessas condições, a arte, arquitetura, culinária e moda tyvianas são ornamentadas e complexas, marcadas por um refinamento intrincado que talvez tenha surgido como um contraponto à própria terra fria e severa.\n\nEmbora as pessoas na cidade baixa de Caltain compartilhem muito com seus vizinhos mais próximos em Morley, a maioria dos tyvianos é de uma estirpe à parte, moldada por gerações de vida no frio inóspito. Austeros e majestosos, os tyvianos têm orgulho de seus costumes, culinária e história, e demonstram pouco interesse pelas Ilhas ao sul."
+
+[GlobalBooks.WhaleOilProcessing DisAbstractItem]
+m_ItemName="Processamento de Óleo de Baleia"
+m_PluralItemName=""
+m_Description="[Excerto do fundador da Casa da Baleia Greaves - Por Ebenezer Greaves]\n\nNo mar aberto, eles prendem a fera com ganchos, com linhas lançadas do navio principal e de vários barcos menores. Boias impedem a baleia de mergulhar fundo. Uma vez capturada, um gancho maior é cravado através da cauda, usado para içar a criatura pelo duto. Elas gemem e mugem por algum tempo enquanto os homens as puxam para o convés, depois as içam para o andaime suspenso. O navio ajusta a proa e retorna ao porto de Dunwall, onde a tripulação trabalha na grande criatura, cortando as partes mais gordurosas enquanto ela ainda vive."
+
+[GlobalBooks.WhalePhysiology DisAbstractItem]
+m_ItemName="Vivissecção de Baleia"
+m_PluralItemName=""
+m_Description="[Excerto das anotações de um filósofo natural a bordo de um navio baleeiro]\n\nNotavelmente, cada espécime que tive o prazer de estudar durante a viagem possuía alguma variação menor na fisiologia. Na segunda etapa da viagem, a leste de Tyvia, a tripulação içou a bordo uma fêmea, com cerca de 42 pés de comprimento. Estimo que ela pesava 35 toneladas e o navio ficou baixo, balançando de um lado para o outro durante a noite com seus espasmos.\n\nÀ luz de velas, eu a desmembrei, fazendo esboços e anotações. Contra seus berros, cortei a massa de tentáculos ao redor de sua boca. Dentro, encontrei fileiras e mais fileiras de dentes e uma barbatana correndo ao longo da mandíbula superior. Através dessa estrutura semelhante a uma vassoura, presumo que ela filtrava alimentos da água que eram pequenos demais para serem mastigados."
+
+[LighthouseNotes.Lighthouse_ElevatorKey DisAbstractItem]
+m_ItemName="A chave do elevador do Farol"
+m_PluralItemName="A chave do elevador do farol"
+m_Description="Capitão Pinchfield,\n\nLembre aos seus homens que o elevador do farol é para uso exclusivo de Pessoal Importante e, em caso de emergências. Esta chave deve permanecer onde está.\n\nSe alguém da sua unidade tiver necessidade legítima de usar o elevador, fale com o oficial de plantão. Ele tem uma cópia da chave e pode conceder acesso se julgar apropriado.\n\nEsses são os procedimentos. Obrigado por segui-los."
+
+[PrisonNotes.Prison_BreadNote DisAbstractItem]
+m_ItemName="Mensagem anônima"
+m_PluralItemName="Mensagens anônimas"
+m_Description="Corvo,\n\nQuem somos não importa agora. Saiba apenas que temos fé em você.\n\nAqui está a chave da sua cela. Assim que sair, vá para a Sala de Interrogatório da prisão. Pegue o explosivo que está lá e coloque-o na porta externa. Quando a bomba detonar, corra. Dirija-se ao rio e desapareça nos esgotos. Você encontrará alguns equipamentos úteis escondidos por lá.\n\nUm dos guardas da prisão deixará uma arma logo fora da sua cela.\n\nE boa sorte. Precisamos de você vivo e bem para o que está por vir.\n\n              - Um amigo"
+
+[PrisonNotes.Prison_OfficerReport DisAbstractItem]
+m_ItemName="Relatório do Oficial de Serviço"
+m_PluralItemName="Relatório do Oficial de Serviço"
+m_Description="Relatório do Oficial de Serviço, Interrogatório de Corvo\n\nCorvo Attano, antigo Protetor Real, será trazido para interrogatório. Isto é de extrema importância. O Lorde Regente e o Alto Supervisor Campbell conduzirão o questionamento pessoalmente. Sigam as ordens deles sem hesitação e mantenham o torturador sob controle. Se Corvo morrer em suas mãos, em vez de receber a execução pública que o Lorde Regente deseja, será a sua cabeça que rolará em seguida."
+
+[PrnSewerNotes.PrsnSewer_DeadHermit DisAbstractItem]
+m_ItemName="Nota do Eremita Morto"
+m_PluralItemName=""
+m_Description="Está aqui, perto do Wrenhaven, farei minha última morada. Cheira a Vazio, mas o ensopado de peixe-bruxa da minha avó vai afastar o odor.\n\nLembro-me de velejar por este rio até o grande Oceano, aquela vasta luz cegante e água azul. Eu tinha quinze anos e nossos redes estavam sempre cheias até estourar. Os velhos tempos, antes de tudo virar merda.\n\nSeja como for, ou são as botas da Guarda contra meu crânio, os dentes dos ratos em meus ossos, ou os tremores da peste por toda minha pele. Não importa pra mim."
+
+[PrnSewerNotes.PrsnSewer_DeadWeepers DisAbstractItem]
+m_ItemName="Diário de Damien"
+m_PluralItemName=""
+m_Description="Amanda e eu só tínhamos moedas suficientes para comprar metade do elixir que precisávamos. Até isso já se foi, e não há nada a fazer além de esperar. Estamos muito doentes e não há lugar acima para nos escondermos da Guarda da Cidade. Eles estão invadindo casas por todo o nosso distrito. Então ficaremos aqui e compartilharemos as últimas horas juntos. Nosso fogo manterá os ratos afastados, mas eles herdarão esta cidade.\n--Damien"
+
+[PrnSewerNotes.PrsnSewer_Safe451 DisAbstractItem]
+m_ItemName="A Próxima Tarefa da Jelly"
+m_PluralItemName=""
+m_Description="Jelly,\n  \nSeu pateta, aqui vai mais uma pra você.  \n\n"Aquela velha bruxa, Vovó Trapos, me disse que você vai perder o gosto pelo uísque no mês do Vento. Depois, seus olhos vão escurecer no mês das Sementes. E você vai dar seu último suspiro no mês do Gelo."  \n\nSe quer sua parte, sabe o que fazer."
+
+[PrnSewerNotes.PrsnSewer_Weapons DisAbstractItem]
+m_ItemName="Ao Lorde Protetor"
+m_PluralItemName=""
+m_Description="Saudações, Corvo. Ou devo dizer Lorde Protetor, como você era conhecido antes que esse título fosse injustamente tirado de você.\n\nSomos servos do Império e da verdadeira Imperatriz, um grupo de lealistas que deseja muito encontrá-lo. Leve estas armas, forjadas para você com os melhores materiais das Ilhas, e encontre-se com nosso homem, Samuel, perto de onde estes túneis desembocam no Rio Wrenhaven.\n\nToda pressa e sorte. Compartilhamos um propósito em comum."
+
+[PubNotes.AnonymousNote DisAbstractItem]
+m_ItemName="Nota Anônima"
+m_PluralItemName=""
+m_Description="Quem quer que você seja, devo agradecer por poupar pelo menos parte da minha família. Todos temos inimigos, certamente nós, mulheres Boyle. De certa forma, você me fez um favor, então merece uma recompensa. Passei isso de um dos meus servos através de outro que conhece outro, para um dos seus. Que nunca mais nos cruzem os caminhos."
+
+[PubNotes.AnonymousNote1 DisAbstractItem]
+m_ItemName="Nota do Courier"
+m_PluralItemName=""
+m_Description="Homem mascarado, esta nota é para você. Suas ações não passaram despercebidas. Há um pacote ao lado da sua cama, e uma nota de quem queria que você o tivesse. \n\n--Um Humilde Criado"
+
+[PubNotes.AnonymousNote3 DisAbstractItem]
+m_ItemName="Piero está fora."
+m_PluralItemName=""
+m_Description="Corvo, estou no andar de cima, cuidando de algo importante. Encontre-me se precisar de algo."
+
+[PubNotes.Hub_4_EmilyDaudArt DisAbstractItem]
+m_ItemName="A Representação de Corvo por Emily"
+m_PluralItemName=""
+m_Description="Corvo,\n\nEste é um desenho que fiz de você sem sua máscara assustadora."
+
+[PubNotes.Hub_Apartment_Spy DisAbstractItem]
+m_ItemName="Notas de um antigo vizinho sobre o Cais dos Cães"
+m_PluralItemName=""
+m_Description="O distrito foi abandonado há meses e eu pensei que finalmente estava sozinho. Mas tenho visto movimento no bar do outro lado da rua nas últimas noites. Aquela voz continua me dizendo para me esgueirar até lá esta noite e dar uma olhada no lugar. Com sorte, encontrarei um bar vazio com um estoque cheio de uísque. Isso certamente vai calar aquela voz."
+
+[PubNotes.Hub_Assault_CeceliaBye DisAbstractItem]
+m_ItemName="Uma Carta de Cecelia"
+m_PluralItemName=""
+m_Description="Corvo,\n\nVou fazer uma fuga. Acho que se não tivesse te conhecido, não teria coragem de tentar. Vou tentar te encontrar de novo, um dia, quando tudo isso acabar.\n\nCecelia."
+
+[PubNotes.Hub_Assault_EmilyArt DisAbstractItem]
+m_ItemName="Uma Carta da Emily"
+m_PluralItemName=""
+m_Description="Corvo,\n\nLembra quando eu mencionei um desenho especial que estava fazendo para você? É este. Não sei para onde você foi, mas espero que, quando voltar, veja isso e goste. Gostaria de levá-lo conosco para a Torre de Dunwall. Todos estão agindo estranho esta noite. Samuel estava sussurrando com Callista sobre um lançador de sinalizadores que ela deveria usar para chamá-lo. Ele disse para ela trancar a porta da minha antiga torre. Ouvi o Almirante dizer aos outros que vamos partir esta noite para um lugar chamado Farol, na Ilha de Kingsparrow. Espero que você volte antes disso.\n\n--Emily"
+
+[PubNotes.Hub_Assault_HavelockClue DisAbstractItem]
+m_ItemName="Ordens de Havelock para a Guarda"
+m_PluralItemName=""
+m_Description="Capitão Manning, rastreamos a conspiração até o Pub Hound Pits. Reviste as instalações em busca dos filósofos naturais Piero Joplin e Anton Sokolov. Faça o que for necessário para garantir todos os materiais relacionados ao pilar de arco aprimorado que eles vêm construindo. Interrogue-os minuciosamente e, quando tiver certeza de que obteve tudo o que sabem sobre o pilar, execute os dois. Traga o pilar para mim, junto com seus papéis e gravações.\n\nEles podem ser duas das maiores mentes de nossa era, mas também são traidores que conspiraram com Corvo para derrubar este império.\n\nEstou mantendo a Imperatriz Emily Kaldwin comigo no Farol da Ilha Kingsparrow até termos certeza de que Corvo e seus companheiros conspiradores foram devidamente eliminados.\n\n--Lord Regente Havelock"
+
+[PubNotes.Hub_Assault_MatrinClue DisAbstractItem]
+m_ItemName="Carta Não Enviada"
+m_PluralItemName=""
+m_Description="Houve uma mudança de planos. Não voltarei à Praça Holger. O Lorde Regente Havelock e a futura imperatriz Emily Kaldwin exigem minha presença ali.  \n\nConfio que a Abadia do Homem Comum possa ficar sem seu novo Alto Supervisor por mais uma noite.  \n\n--Alto Supervisor Martin"
+
+[PubNotes.Hub_Assault_PendletonClue DisAbstractItem]
+m_ItemName="Nota para Wallace"
+m_PluralItemName=""
+m_Description="Meu caro Wallace, estamos partindo para um lugar seguro e protegido onde poderemos coordenar a transição de poder para nós mesmos. Assegure-se de que meu audiografo e os melhores vinhos estejam a bordo da embarcação antes do pôr do sol. Esta noite, a equipe será recompensada por sua lealdade e serviço.\n\n--Lord Pendleton"
+
+[PubNotes.Hub_Assault_PieroExecutionOrders_HC DisAbstractItem]
+m_ItemName="Ordem de Havelock para Executar Piero"
+m_PluralItemName=""
+m_Description="Capitão Manning, o filósofo natural Piero Joplin retirou-se para sua oficina e trancou-se lá dentro junto com o traidor Anton Sokolov. Faça o que for necessário para tirá-los de lá e assegure todos os materiais relacionados ao pilar arcano que eles vêm construindo. Interrogue-os minuciosamente e, quando tiver certeza de que extraiu tudo o que ele sabe sobre o pilar, execute os dois. Traga o pilar para mim, junto com seus papéis e gravações.\n\n--Lord Regente Havelock"
+
+[PubNotes.Hub_Assault_PieroExecutionOrders_LC DisAbstractItem]
+m_ItemName="Ordem de Havelock para Executar Piero"
+m_PluralItemName=""
+m_Description="Capitão Manning, o filósofo natural Piero Joplin retirou-se para sua oficina e trancou-se lá dentro. Faça o que for necessário para retirá-lo e assegure todos os materiais relacionados ao pilar arcano que ele vem construindo. Interrogue-o minuciosamente e, quando tiver certeza de que obteve tudo o que ele sabe sobre o pilar, execute-o. Traga-me o pilar, junto com seus papéis e gravações. Se possível, torne seus últimos momentos o mais confortáveis possível.\n\n--Lord Regente Havelock"
+
+[PubNotes.Hub_Assault_SamuelToCallista DisAbstractItem]
+m_ItemName="Carta para Callista"
+m_PluralItemName=""
+m_Description="Callista, não se preocupe. Acredito que ainda há esperança para Emily e Dunwall. Não acredito que Corvo tenha partido. Vou vasculhar o rio em busca dele, mas se você tiver notícias dele, dispare um sinalizador usando o lançador que deixei na torre de Emily e eu voltarei o mais rápido possível. Mantenha esta torre trancada e cuide de si mesma. Emily vai precisar de você quando isso acabar.\n\n--Samuel"
+
+[PubNotes.Hub_Assault_SokolovFinal DisAbstractItem]
+m_ItemName="Determinação de Sokolov"
+m_PluralItemName=""
+m_Description="Ouço tiros de pistola e gritos no inconfundível ritmo de execuções. Não há dúvida de que logo virão me buscar, e estou gravando minhas últimas palavras. Mas decido que a maior mente que o Império já conheceu não será apagada numa cela úmida que cheira a urina velha. Se me derem até a menor oportunidade, vou surpreendê-los correndo para a relativa segurança da oficina de Piero. Até meu rival mais amargo é preferível ao destino que me aguarda quando aqueles soldados brutais chegarem. Dignidade seja amaldiçoada, devo à humanidade continuar vivendo.  \n--Anton Sokolov"
+
+[PubNotes.Hub_Assault_WantedHC DisAbstractItem]
+m_ItemName="Aviso Geral"
+m_PluralItemName=""
+m_Description="Fiquem atentos aos membros da conspiração. Alguns ainda estão foragidos. Se forem descobertos, devem ser mortos imediatamente. Levem os corpos para o canil, mas não os mexam de nenhuma outra forma.\n\nPiero Joplin – Desaparecido – Interroguem, depois executem  \nAnton Sokolov – Desaparecido – Interroguem, depois executem  \nLydia Brooklaine – Encontrada morta  \nWallace Higgins – Encontrado morto  \nCallista Curnow – Encontrada morta  \nCorvo Attano – Acredita-se morto, tratem como desaparecido – Matem à vista  \nSamuel Beechworth – Desaparecido – Matem à vista  \n\nColoquem os cadáveres em sacos e guardem no quintal. Não perturbem nem revistem os corpos de nenhuma outra forma.\n\n–-Lord Regente Havelock"
+
+[PubNotes.Hub_Assault_WantedLC DisAbstractItem]
+m_ItemName="Aviso Geral"
+m_PluralItemName=""
+m_Description="Fiquem atentos aos membros da conspiração. Alguns ainda estão foragidos. Se descobertos, devem ser mortos imediatamente. Levem os corpos para o canil, mas não devem ser mexidos de outra forma.\n\nPiero Joplin – Desaparecido – Interrogar, depois executar\nAnton Sokolov – Desaparecido – Interrogar, depois executar\nLydia Brooklaine – Encontrada Morta\nWallace Higgins – Encontrado Morto\nCorvo Attano – Acredita-se morto, considere desaparecido – Matar à vista\nSamuel Beechworth – Desaparecido – Matar à vista\n\nA mulher na torre é Callista Curnow e uma vítima das circunstâncias, apenas no lugar errado na hora errada. Não a perturbem, mas não a deixem sair das instalações. Ela está sob minha proteção.\n\n– Lorde Regente Havelock"
+
+[PubNotes.Hub_Piero_BatteryRefillerInstructions DisAbstractItem]
+m_ItemName="Estação de Reabastecimento de Óleo de Baleia"
+m_PluralItemName=""
+m_Description="Sokolov não tem mais vantagem no que diz respeito ao fornecimento de óleo de baleia. O bom Almirante pagou pela instalação do meu próprio sistema, que me permitirá trabalhar neste local.\n\nO Distribuidor de Tanques de Óleo, quando ativado, produzirá um recipiente vazio para ser preenchido.\n\nQuando o tanque vazio é mantido próximo à Bomba de Reabastecimento de Tanques de Óleo, o atrator magnético deve capturar o tanque e fixá-lo na configuração correta. Usar a alavanca iniciará o processo de reabastecimento.\n\nUma vez concluído o reabastecimento, o tanque pode ser removido e colocado em serviço. É necessário extremo cuidado ao manusear os tanques cheios. Eles são bastante instáveis.\n\nO sistema é sólido e bem projetado. Parece que a Greaves Oil Company fez algo corretamente, por uma vez."
+
+[PubNotes.Hub_Piero_InventoryNote DisAbstractItem]
+m_ItemName="O Pedido de Piero é Negado"
+m_PluralItemName=""
+m_Description="Piero,\n\nNão. Não vou autorizar essas compras. Um saco de Cristal em Pó? Minério de Tyvia? O que há de errado com os metais de Gristol? Penas de Kingsparrow? Se precisa de penas, sacrifique seu próprio travesseiro.\n\nTalvez na Academia tudo que você precisava fosse pago por tarifas e distribuído à vontade, mas este é o meu bar, ou o que sobrou dele, e estamos operando com um orçamento. Estamos ficando sem óleo, comida, elixir, materiais de construção e tudo mais, então você precisa desacelerar.\n\nEnquanto estou bancando as despesas, não vou aprovar suas compras a menos que sejam absolutamente necessárias. Chega de fios de cobre ou ervas especiais. Se precisa dessas coisas, saia e vá catar. Metade da cidade está em ruínas, então ninguém vai sentir falta das porcarias estranhas que você parece precisar.\n\n--Almirante Havelock"
+
+[PubNotes.Hub_Piero_PortalDoorNote DisAbstractItem]
+m_ItemName="A Porta para Lugar Nenhum de Piero"
+m_PluralItemName=""
+m_Description="A "porta para lugar nenhum" provou ser um risco à segurança, mas para mim este projeto é uma fonte inesgotável de inspiração. Com a aplicação adequada de energias, acredito que posso transformar o batente da porta em uma espécie de janela, uma que permitirá a um viajante percorrer a distância da minha oficina até algum ponto distante e arbitrário em um único passo. Atualmente, o passo leva a uma queda livre, direto para o pátio, mas com o tempo ele preencherá lacunas que desafiarão a mente. Tal trabalho está a muitos anos de distância, com certeza, mas se eu sobreviver a esta praga, tenho certeza de que terei sucesso."
+
+[PubNotes.Hub_Sewer_MysteryMeetingSpot DisAbstractItem]
+m_ItemName="Uma Nota Antiga"
+m_PluralItemName=""
+m_Description="Sinto muito, mas não estarei presente para a próxima reunião. Nem nunca mais, aliás. O que aconteceu aqui foi antinatural e me deixa enjoado só de lembrar. Deixei o resultado de nossos trabalhos aqui para você guardar, mas espero que os ratos o consumam antes de você voltar. Adeus."
+
+[StreetsNotes.Boyle_Invitation DisAbstractItem]
+m_ItemName="Convite para a festa de Boyle"
+m_PluralItemName=""
+m_Description="Caro Senhor Bunting,  \n\nTrês dias a partir de agora, você está cordialmente convidado para uma noite de entretenimento no coração do Distrito da Mansão. Junte-se a nós para a Festa do Ano, o Baile de Máscaras Anual da Mansão Boyle. O tema deste ano é Viver Bem em Tempos Terríveis, então escolha sua máscara de acordo.  \n\nPor favor, responda à Margaret, nossa chefe dos criados, até o meio da semana.  \n\n--Lady Boyle"
+
+[StreetsNotes.Bunting DisAbstractItem]
+m_ItemName="Bandeirinha"
+m_PluralItemName=""
+m_Description="Este negociante de arte, Bunting, é um homem de bom gosto. Se ainda há alguém em Dunwall com algo que valha a pena roubar, é ele. Então, quem abrir o cofre recebe o dobro da parte normal.\n\n--Slackjaw"
+
+[StreetsNotes.Campbell_Heretic_HolgerSquare DisAbstractItem]
+m_ItemName="Relatório oficial da guarda"
+m_PluralItemName=""
+m_Description="A Todos os Oficiais de Vigia:\n\nEstejam cientes que a Avenida Clavering, que leva à Praça Holger, foi interditada até novo aviso. O Gabinete do Alto Superintendente entrou em estado de crise e todas as interações com os Superintendentes devem ser coordenadas através de mim, independentemente de autorizações prévias.\n\nO ex-Alto Superintendente Thaddeus Campbell foi declarado herege, um evento religioso histórico que os Superintendentes aplicam sem exceção ou piedade. Campbell foi destituído de toda autoridade e qualquer um que lhe oferecer auxílio ou abrigo está sujeito a prisão. Isto inclui membros da Vigia.\n\nPrimeiro Capitão Nathan Mortimer  \nLiaison da Abadia"
+
+[StreetsNotes.Campbell_Killed_HolgerSquare DisAbstractItem]
+m_ItemName="Relatório oficial da guarda"
+m_PluralItemName=""
+m_Description="A Todos os Oficiais de Vigia:\n\nEstejam cientes que o Boulevard Clavering, que conduz à Praça Holger, foi interditado até novo aviso. Após o assassinato do Alto Supervisor Thaddeus Campbell, a mais alta figura religiosa do país, todo acesso ao Gabinete do Alto Supervisor estará sujeito à minha aprovação.\n\nPrimeiro Capitão Nathan Mortimer\nLiaison da Abadia"
+
+[StreetsNotes.Campbell_Killed_WatchTower DisAbstractItem]
+m_ItemName="Relatório oficial da guarda"
+m_PluralItemName=""
+m_Description="A Todos os Oficiais de Vigia:\n\nEstejam cientes que a Avenida Clavering, que leva à Praça Holger, foi selada até novo aviso. Uma Torre de Vigia adicional foi erguida na área para garantir contra novos atos de insurreição e violência. Após o assassinato do Alto Supervisor Thaddeus Campbell, a mais alta figura religiosa da terra, todo acesso ao Gabinete do Alto Supervisor estará sujeito à minha aprovação, seja previamente autorizado ou não.\n\nPrimeiro Capitão Nathan Mortimer\nLiaison da Abadia"
+
+[StreetsNotes.ConfiscatedRune DisAbstractItem]
+m_ItemName="Runa Apreendida"
+m_PluralItemName=""
+m_Description="Cabo Meadows,\n\nEncontramos esta runa estranha na mulher que vendia doces na rua acima. Não sabemos como ela morreu, mas como a coisa parece supersticiosa, separamos para os Supervisores. Após o seu turno, leve-a a eles para descarte ou o que quer que façam com essas coisas. Não se esqueça."
+
+[StreetsNotes.Curnow_Died_Docs DisAbstractItem]
+m_ItemName="Relatório oficial da guarda"
+m_PluralItemName=""
+m_Description="A Todo o Pessoal da Guarda Designado para o Boulevard Clavering\n\nConsiderando a recente morte do Capitão Geoff Curnow perto da Praça Holger, uma nova Torre de Vigia foi autorizada para assegurar a área. As tensões permanecem altas após o incidente, que custou a vida de um bom homem. Até que o perpetrador seja identificado, todos os esquadrões são aconselhados a interrogar quaisquer pessoas suspeitas que entrem na área.\n\nNota: O Corpo de Engenharia deve ser elogiado por trabalhar rapidamente para colocar as fortificações adicionais em posição. Óleo de baleia será entregue todas as noites para fornecer energia à nova Torre de Vigia.\n\nMajor Anders Josiah\nUnidade de Engenharia de Defesa"
+
+[StreetsNotes.Curnow_Escaped_Docs DisAbstractItem]
+m_ItemName="Relatório oficial da guarda"
+m_PluralItemName=""
+m_Description="A Todo o Pessoal da Guarda Designado para a Avenida Clavering\n\nDevido à recente tentativa contra a vida do Capitão Geoff Curnow perto da Praça Holger, uma nova Torre de Vigia foi autorizada para assegurar a área. As tensões permanecem altas após o incidente, do qual Curnow só sobreviveu graças ao seu treinamento e raciocínio rápido. Até que o perpetrador seja identificado, todos os esquadrões são aconselhados a interrogar quaisquer pessoas suspeitas que entrem na área.\n\nNota: O Corpo de Engenharia deve ser elogiado por trabalhar rapidamente para colocar as fortificações adicionais em posição. Óleo de baleia será entregue todas as noites para fornecer energia à nova Torre de Vigia.\n\nMajor Anders Josiah\nUnidade de Engenharia de Defesa"
+
+[StreetsNotes.DeadFamily_AbsItm DisAbstractItem]
+m_ItemName="Diário da Mãe"
+m_PluralItemName=""
+m_Description="Oitavo Registro  \nÉ o 4º dia do Mês da Chuva. Morris está doente, e as crianças também. Até agora escapei, o que é sorte, pois coube a mim cuidar deles.  \n\nNono Registro  \nA guarda da cidade vai e vem, batendo nas portas e perguntando por sinais de praga. Até nossos vizinhos não podem ser confiados. Antes, era difícil manter as crianças quietas. Agora elas dormem a maior parte do tempo.  \n\nDécimo Registro  \nAs moscas se instalaram. Eu tento mantê-las afastadas, mas mal consigo me aproximar, elas picam tanto. Na maior parte do tempo, Morris não me responde quando tento falar com ele do outro lado do quarto.  \n\nDécimo Primeiro Registro  \nMorris se foi. Não sei o que farei. Por ora, toda minha esperança está reservada para as crianças. Saindo do apartamento por um tempo perto do amanhecer, encontrei alguns sacos de praga em uma guarita, enquanto não havia ninguém por perto. Levou um tempo, mas consegui colocar Morris em um dos sacos. Pelo menos seu rosto está coberto.  \n\nDécimo Segundo Registro  \nO jovem Robert faleceu. A estrela do meu céu se apagou.  \n\n[Página Faltando]  \n\nDécimo Sétimo Registro  \nElise parou de respirar no meio da noite. Ela era uma garota tão determinada, mal posso acreditar que tenha sucumbido. Ela estava sempre perto enquanto eu cortava peixes-bruxa ou legumes, discutindo comigo sobre tudo.  \n\nDécimo Oitavo Registro  \nÉ o 4º dia do Mês do Vento. Assentou-se em mim que eles estão perdidos para mim, todos eles. Não consigo me decidir a chamar o Contador de Mortos.  \n\nDécimo Nono Registro  \nAgora estou com febre. Nenhum guarda se aproxima mais."
+
+[StreetsNotes.GalvaniAcademyNotice DisAbstractItem]
+m_ItemName="Aviso da Academia Galvani"
+m_PluralItemName=""
+m_Description="Galvani,\n\nO último caso deve chegar dentro de uma semana, contendo todos os componentes que você precisa. Tome cuidado com o fósforo branco. Não podemos ter você pegando mandíbula fosfórica como os curtidores na periferia da cidade, coitados.\n\nSinto muito que você tenha que praticar em segredo. O vivisseccionista deveria ser celebrado! Reverenciado, até! Dissecar ratos deveria ser feito na praça da cidade com uma multidão de alunos ansiosos tomando notas, não em algum quartinho secreto sujo escondido atrás de uma parede de livros.\n\nEnfim, sorte sua ter um velho amigo que nunca deixou a Academia. Avise-me se precisar de mais alguma coisa, mas lembre-se de que pode levar um mês até eu conseguir preparar outro carregamento.\n\nSeu no conhecimento,\nArtemis Moore\nEscriturário de Aquisições e Provedor\nAcademia de Filosofia Natural, Ala Sul\n\nP.S. Da próxima vez que estiver por perto, venha passar uma tarde. Conseguimos nos isolar bem da praga, já que poucos vêm e vão daqui, e temos um estoque considerável de conhaque tiviano."
+
+[StreetsNotes.GalvaniCleaningLady DisAbstractItem]
+m_ItemName="Instruções de Limpeza"
+m_PluralItemName=""
+m_Description="Cara Sra. Benton,\n\nAo limpar meu estudo, peço que restrinja seus esforços estritamente aos pisos. Por favor, a todo custo, evite tentar limpar ou organizar minha estante de livros. Na verdade, seria melhor manter-se afastada dela por completo. Caso contrário, terei que reconsiderar os termos de sua contratação.\n\nAtenciosamente,\nDr. Galvani\n\nP.S. Como estarei fora da cidade por alguns dias, deixei também o pagamento da próxima semana. O banco estava fechado, então receio que esteja faltando metade. Pode contar comigo para o restante na próxima semana, é claro."
+
+[StreetsNotes.GalvaniJournal DisAbstractItem]
+m_ItemName="Diário do Dr. Galvani"
+m_PluralItemName=""
+m_Description="Fui convidado para uma soirée na Mansão Boyle. Claro que não irei. O 28º dia do 7º mês, o Mês do Frio Intenso, é o dia em que conheci Anton Sokolov na Academia. Por que mancharia o aniversário do dia mais importante da minha vida lambendo as botas da aristocracia? Não tenho tempo para tolos. Estarei solucionando o enigma desta peste.\n\nTalvez eu erga uma taça de tinto tiviano."
+
+[StreetsNotes.GalvaniRatFeedSched DisAbstractItem]
+m_ItemName="Registro de Alimentação"
+m_PluralItemName=""
+m_Description="Registro de Alimentação\n\n4º Dia, Mês do Vento -- Restos humanos variados. Apetite forte.\n10º Dia, Mês do Vento -- 1 saco, peras de Tyvia (amassadas, podres). Ratos desinteressados.\n11º Dia, Mês do Vento -- 1 lata, carne de baleia enlatada. Consumida.\n13º Dia, Mês do Vento -- Torso humano. Sem dificuldade para encontrar partes de cadáver.\n17º Dia, Mês do Vento -- Sem alimentação. Agressividade aumentada. Incidente de canibalismo.\n20º Dia, Mês do Vento -- Incidente com a antiga criada. Suspender alimentação até o 1º Dia, Mês da Escuridão."
+
+[StreetsNotes.GrannyFoe DisAbstractItem]
+m_ItemName="Nota da Vovó"
+m_PluralItemName=""
+m_Description="Queridinha,\nVocê não deveria se misturar com aqueles maus rapazes da destilaria. Aquele elixir não melhorou o comportamento deles, e eles não tratam meus passarinhos nada bem.\n\nEles são uma má influência, e estou tentando te avisar. Você começou a cair no meu desagrado, tenho que dizer. Você não quer continuar por esse caminho, quer? \n\nVovó"
+
+[StreetsNotes.GrannyFriend DisAbstractItem]
+m_ItemName="Nota da Vovó"
+m_PluralItemName=""
+m_Description="Querido,\nVocê não deveria se misturar com aqueles maus rapazes da destilaria. Aquele elixir não melhorou o humor deles, e eles não tratam meus passarinhos nada bem.\n\nSe você começar a andar com eles ou com o tal chefe deles, pode cair no meu desagrado. Você não gostaria disso, não é?\n\nVovó"
+
+[StreetsNotes.Griff_Weeper DisAbstractItem]
+m_ItemName="As Últimas Palavras de Griff."
+m_PluralItemName=""
+m_Description="É isso, pelos olhos do Forasteiro. Venho lutando contra a febre há algumas noites, desde que aqueles malditos arruaceiros da Rua da Garrafa me mantiveram encurralado e não pude chegar ao meu estoque de elixir. Tudo que eu queria era ficar na minha, tocar minha lojinha e sobreviver à peste. Dunwall era um bom lugar antes de toda essa confusão com a morte da Imperatriz, a peste e as novas leis do Lorde Regente. Se você encontrar isso, talvez tenha mais sorte do que eu. E se o Queixada ou qualquer um de vocês, idiotas da Rua da Garrafa, estiver lendo isso, espero que a Guarda da Cidade estripa todos vocês.\n\n--Griff"
+
+[StreetsNotes.LetterFromAllison DisAbstractItem]
+m_ItemName="Carta da Allison"
+m_PluralItemName=""
+m_Description="Caro Daniel,\n\nConsegui uma posição como geóloga na Companhia Comercial Horizonte em Serkonos. Em breve faremos nossa primeira pesquisa ao sul de Karnaca. Não demore muito para partir, pois há rumores de que estão negando passagem para fora da cidade. Me espere em Karnaca.\n\nCom amor,\nAllison"
+
+[StreetsNotes.OverseerInvestigate DisAbstractItem]
+m_ItemName="Anotações do Supervisor"
+m_PluralItemName=""
+m_Description="Este lugar cheirava ao Forasteiro. Não desde nossas varreduras em Rudshore, o Distrito Inundado, vi tamanha blasfêmia. \n\nO Superintendente Marcus inventariou as evidências de heresia que coletamos. Vários livros questionáveis, vários frascos contendo cabeças e vísceras de animais, e um altar dedicado às artes negras. \n\nFiquei para trás para examinar mais algumas coisas. Até passar a noite aqui passou pela minha mente. É um pensamento perturbador, mas pode ser útil lembrar-me do que a Abadia do Homem Comum representa, e do dever sacrossanto que assumimos, como Superintendentes.\n\n--Superintendente Warren"
+
+[StreetsNotes.S3_ThugsNewGate DisAbstractItem]
+m_ItemName="Chave do Novo Portão do Bandido"
+m_PluralItemName=""
+m_Description="Pare de deixar o novo portão destrancado. Ele não vai manter nenhum chorão fora se estiver destrancado. Deixe a chave extra na mesa perto da porta depois de trancá-lo."
+
+[StreetsNotes.SecretTreasureNote DisAbstractItem]
+m_ItemName="Nota do Arthur"
+m_PluralItemName=""
+m_Description="Minha querida Gwen,\n\nA cidade vai arder. Vendí tudo, então não me resta nada aqui além de você. Vou esperar por você onde o Boulevard Clavering desmorona no rio. Onde costumávamos nos encontrar. Pegaremos o dinheiro que juntei e subornaremos nosso caminho para embarcar num navio baleeiro de passagem. Não parto sem você. E se você não vier, prefiro virar comida de rato.\n\nCom amor,\nArthur"
+
+[StreetsNotes.SlackElixirPickup DisAbstractItem]
+m_ItemName="Receita para Craxton"
+m_PluralItemName=""
+m_Description="Craxton,\n\nEstarei aí amanhã para verificar o lote. Certifique-se de usar calças desta vez e siga a receita à risca:\n\n1 parte do elixir de Sokolov  \n1 parte de pasta de faia  \n2 partes de água açucarada  \n\nÉ só isso. Quanto mais da coisa real você cortar, menos temos para distribuir e menos moedas eu ganho. Isso aqui não é caridade.\n\nSlackjaw"
+
+[StreetsNotes.SlackJawElixirAccounts DisAbstractItem]
+m_ItemName="Contas de Elixir"
+m_PluralItemName=""
+m_Description="Próximo Lote\n\nFamília Tubbard -- 4 doses  \nFamília Crammling -- 3 doses  \nFamília Braeden -- 5 doses  \nGato Dourado -- 2 caixas  \nAsilo Bitterleaf -- 1 caixa  \nEd Knack -- 1 dose  \nLuther -- 1 dose  \nSally Negra -- 2 caixas  \nGriff -- vencido.  \nTrace Flannery -- 2 doses  \nFamília Pratchet -- 5 doses  \nNelly & Morris Sullivan -- 2 doses"
+
+[StreetsNotes.SlackStillSteps DisAbstractItem]
+m_ItemName="Instruções de Bootleg Still"
+m_PluralItemName=""
+m_Description="Instruções de operação: \n\n1. Anexe um frasco de elixir vazio ao bico antes de ligar o dispositivo.\n2. Abra a válvula.\n3. Coleta o frasco cheio.\n4. Repita até esvaziar.\n\nNão quebre os frascos. Não derrame elixir. Nenhum gole gratuito."
+
+[StreetsNotes.ThugLookOut DisAbstractItem]
+m_ItemName="Ordens do Vigia"
+m_PluralItemName=""
+m_Description="Plante sua bunda no telhado e observe a rua. Veja quem vem ao asilo. E descubra se aquela velha sabe de alguma coisa. Ela é cega, mas talvez tenha ouvido algo.\n\n--Slackjaw"
+
+[StreetsNotes.VIPcombination_AbsItm DisAbstractItem]
+m_ItemName="Reabertura do Gato Dourado"
+m_PluralItemName=""
+m_Description="Senhor Bunting,\n\nSei que tem esperado pela reabertura do Gato Dourado. Deve ter sofrido, meu pobre querido. Então permita-me dar-lhe as boas-vindas à nossa luxuosa reabertura amanhã. Garanto-lhe que tudo foi limpo, de alto a baixo, após aquele toque de peste. Estamos prontos para cuidar de si.\n\nTodos aqui o adoram e metade das raparigas considera-o um amigo.\n\n--Madame Prudência"
+
+[TowerReturnNotes.TowerReturn_Notes_BoyleGuest DisAbstractItem]
+m_ItemName="Registro de Sinais de Corvo na Festa Boyle"
+m_PluralItemName=""
+m_Description="Senhor Regente,\n\nSem dúvida não merece seu tempo e hesito até em mencionar, mas aparentemente na noite do Baile Boyle alguém assinou o livro de visitas como "Corvo Attano". Deve ser uma piada perversa, certamente. No entanto, o senhor pediu para ser notificado de todos os assuntos desse tipo, e, na verdade, nunca localizamos o corpo do Protetor Real, então achei melhor trazer isso à sua atenção. Desculpe incomodá-lo com isso. Sei que a Senhora Boyle lhe era querida.\n\nCapitão Galloway"
+
+[TowerReturnNotes.TowerReturn_Notes_DaudDeal DisAbstractItem]
+m_ItemName="Entrega Secreta"
+m_PluralItemName=""
+m_Description="Senhor Mestre dos Espiões,\n\nTínhamos um acordo específico e eu me planejei com base nele. A Protetora Real não fazia parte desse acordo. Você me garantiu que ela e a menina estariam sozinhas. Então o preço do serviço acabou de subir. Envie as moedas para o ponto de entrega alternativo ou pode ter certeza de que iremos lhe fazer uma visita.\n\n--Daud"
+
+[TowerReturnNotes.TowerReturn_Notes_Decree DisAbstractItem]
+m_ItemName="Decreto Oficial"
+m_PluralItemName=""
+m_Description="DECRETO OFICIAL  \nPor Ordem do Lorde Regente  \n\nEfetivo imediatamente, todo acesso à Torre de Dunwall fica restrito ao tráfego oficial, exclusivamente pela eclusa aquática. O portão frontal está selado, sem exceções.  \n\nEsta ordem emitida pelo Gabinete do General Tobias, com plena autoridade do Lorde Regente."
+
+[TowerReturnNotes.TowerReturn_Notes_EmpressToCorvo DisAbstractItem]
+m_ItemName="Imperatriz para Corvo"
+m_PluralItemName=""
+m_Description="Corvo, senti sua falta enquanto esteve fora. Se eu pudesse confiar essas questões a qualquer outra pessoa, eu as enviaria de bom grado para que você pudesse permanecer perto. Mas não há mais ninguém. A peste levou tantos. O Mestre dos Espiões estava certo em insistir que eu o enviasse. Quando você está longe, cada dia parece um fardo pesado. Até tarefas simples parecem preocupantes. Emily é difícil de lidar. E os grandes problemas da Cidade, o conflito e a peste, todos parecem insuperáveis. Mas quando você está perto, é diferente. Meu coração está em paz."
+
+[TowerReturnNotes.TowerReturn_Notes_RoyalInterrogator DisAbstractItem]
+m_ItemName="Preocupações com o Interrogador Real"
+m_PluralItemName=""
+m_Description="General Tobias, preciso insistir novamente, senhor. O torturador tem entrado no quartel durante a noite.\n\nOntem à noite, o Cabo Huso acordou e encontrou o aberração espreitando-o no escuro. Outros homens relataram que itens pessoais desapareceram, com coisas estranhas deixadas em seus lugares. Sanders disse que encontrou um punhado de dentes embrulhados em seu lenço. Dentes. E Bilson encontrou três cabeças de rato pintadas em um barbante em seu kit de barbear.\n\nSeja o que for isso, tem que parar. Os homens estão nervosos e não sei por quanto tempo conseguirei impedi-los de entrar no quarto daquele bastardo e espancá-lo até a morte enquanto dorme. Não importa como o senhor o chame, carrasco, torturador, Interrogador Real ou troll de cara de morcego, ele precisa ficar fora do quartel.\n\n--Primeiro Comandante Greggory"
+
+[TowerReturnNotes.TowerReturn_Notes_Torturer DisAbstractItem]
+m_ItemName="Influências do Forasteiro"
+m_PluralItemName=""
+m_Description="Irmão,\n\nCom o coração ansioso, respondo à tua carta. Se a tua suspeita for verdadeira, tenho graves receios sobre aqueles que presidem à Torre de Dunwall. Só recentemente resolvi os meus desentendimentos com a Abadia, e surpreendeu-me que alguns estejam a fazer campanha para que eu assuma o manto de Alto Supervisor, mas apesar de tudo o que se passa, espero aconselhar-te pessoalmente neste assunto.\n\nDa última vez que escreveste, especulaste que o mudo que serve como torturador na Torre de Dunwall poderá ser um seguidor do Forasteiro. Ele tem uma aparência estranha, a língua é torcida e não consegue falar, e um cão de caça segue-o por todo o lado. Acrescenta a isto os gemidos incompreensíveis e a ladainha de sussurros repetidos que ouves vindo dos seus aposentos à noite e parece certo.\n\nA princípio, achei difícil acreditar. Como poderia alguém que admiro tanto, como o Lorde Regente, permitir que isto acontecesse sem controlo na sua própria casa? Certamente ele deve respeitar as Sete Estrituras? Mas agora vejo as peças dispostas diante de mim. Devo dizer-te, alinha-se com uma visão experienciada por uma das nossas irmãs da Seita Oracular. Vindo até mim à noite, ela disse: "O silêncio inflige dor e a sombra de um cão segue a marionete do Forasteiro."
+
+A tua posição na Torre tem sido de grande utilidade para a nossa ordem e não há vergonha em reportares-me. És um Supervisor, primeiro e acima de tudo, e é o teu único dever proteger o mundo dos homens das influências malévolas do Forasteiro. Não contes isto a outros e aguarda as minhas instruções. Devo perguntar-me até que ponto esta corrupção se espalhou na Torre de Dunwall.
+
+--Martin"

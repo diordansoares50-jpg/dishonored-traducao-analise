@@ -1,0 +1,145 @@
+﻿[TheWorld:PersistentLevel.Main_Sequence.==0_Objectives==.DisSeqAct_UpdateTaskTarget_29 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Target"
+
+[TheWorld:PersistentLevel.Main_Sequence.==0_Objectives==.DisSeqAct_UpdateTaskTarget_32 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Clue"
+
+[TheWorld:PersistentLevel.Main_Sequence.==0_Objectives==.DisSeqAct_UpdateTaskTarget_35 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Clue"
+
+[TheWorld:PersistentLevel.Main_Sequence.==0_Objectives==.DisSeqAct_UpdateTaskTarget_36 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Clue"
+
+[TheWorld:PersistentLevel.Main_Sequence.==0_Objectives==.DisSeqAct_UpdateTaskTarget_37 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Clue"
+
+[TheWorld:PersistentLevel.Main_Sequence.==2_Scoring==.DisSeqAct_SetTutorialMessage_0 DisSeqAct_SetTutorialMessage]
+m_TutorialMessage=""
+m_TutorialMessage_Gamepad=""
+
+[TheWorld:PersistentLevel.Main_Sequence.==2_Scoring==.DisSeqAct_ShowLocationDiscovery_1 DisSeqAct_ShowLocationDiscovery]
+m_LocationName="VICTORY"
+
+[TheWorld:PersistentLevel.Main_Sequence.==2_Scoring==.DisSeqAct_ShowLocationDiscovery_6 DisSeqAct_ShowLocationDiscovery]
+m_LocationName=""
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_DialogScriptedChoice_0 DisSeqAct_DialogScriptedChoice]
+m_Title=""
+m_Choices[0]=(m_ChoiceText="")
+m_Choices[1]=(m_ChoiceText="")
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_SetTutorialMessage_23 DisSeqAct_SetTutorialMessage]
+m_TutorialMessage="Do NOT get spotted. If you get spotted, your target will try to escape."
+m_TutorialMessage_Gamepad=""
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_SetTutorialMessage_24 DisSeqAct_SetTutorialMessage]
+m_TutorialMessage="Collect the four clues without being detected to discover who your target is and execute him or her."
+m_TutorialMessage_Gamepad=""
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_SetTutorialMessage_25 DisSeqAct_SetTutorialMessage]
+m_TutorialMessage="Look for rat holes to bypass enemies."
+m_TutorialMessage_Gamepad=""
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_SetTutorialMessage_6 DisSeqAct_SetTutorialMessage]
+m_TutorialMessage="Look for rat holes to bypass enemies."
+m_TutorialMessage_Gamepad=""
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_SetTutorialMessage_7 DisSeqAct_SetTutorialMessage]
+m_TutorialMessage="Chandeliers are good hiding spots."
+m_TutorialMessage_Gamepad=""
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_SetTutorialMessage_8 DisSeqAct_SetTutorialMessage]
+m_TutorialMessage="You can hide behind curtains too."
+m_TutorialMessage_Gamepad=""
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_SetTutorialMessage_9 DisSeqAct_SetTutorialMessage]
+m_TutorialMessage="Sneak by unnoticed using attic trapdoors."
+m_TutorialMessage_Gamepad=""
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_ShowLocationDiscovery_0 DisSeqAct_ShowLocationDiscovery]
+m_LocationName="Target Located"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_ShowLocationDiscovery_10 DisSeqAct_ShowLocationDiscovery]
+m_LocationName="You killed an innocent!"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_ShowLocationDiscovery_11 DisSeqAct_ShowLocationDiscovery]
+m_LocationName="The target has escaped!"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_ShowLocationDiscovery_12 DisSeqAct_ShowLocationDiscovery]
+m_LocationName="You died!"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_ShowLocationDiscovery_2 DisSeqAct_ShowLocationDiscovery]
+m_LocationName="Clue Found (1 remaining)"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_ShowLocationDiscovery_3 DisSeqAct_ShowLocationDiscovery]
+m_LocationName="You have killed the target!"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_ShowLocationDiscovery_4 DisSeqAct_ShowLocationDiscovery]
+m_LocationName="Clue Found (2 remaining)"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_ShowLocationDiscovery_7 DisSeqAct_ShowLocationDiscovery]
+m_LocationName="Clue Found (3 remaining)"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_ShowLocationDiscovery_8 DisSeqAct_ShowLocationDiscovery]
+m_LocationName="A body has been discovered!"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_ShowLocationDiscovery_9 DisSeqAct_ShowLocationDiscovery]
+m_LocationName="The target knows you're here. He or she is escaping!"
+
+[TheWorld:PersistentLevel.Main_Sequence.==0_Objectives==.DisSeqAct_DLC05_MarkerControl_0 DisSeqAct_DLC05_MarkerControl]
+m_TargetName="Target"
+
+[TheWorld:PersistentLevel.Main_Sequence.==0_Objectives==.DisSeqAct_DLC05_MarkerControl_1 DisSeqAct_DLC05_MarkerControl]
+m_TargetName="Clue"
+
+[TheWorld:PersistentLevel.Main_Sequence.==0_Objectives==.DisSeqAct_DLC05_MarkerControl_2 DisSeqAct_DLC05_MarkerControl]
+m_TargetName="Clue"
+
+[TheWorld:PersistentLevel.Main_Sequence.==0_Objectives==.DisSeqAct_DLC05_MarkerControl_3 DisSeqAct_DLC05_MarkerControl]
+m_TargetName="Clue"
+
+[TheWorld:PersistentLevel.Main_Sequence.==0_Objectives==.DisSeqAct_DLC05_MarkerControl_4 DisSeqAct_DLC05_MarkerControl]
+m_TargetName="Clue"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_GameOver_0 DisSeqAct_GameOver]
+m_Reason="You died!"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_GameOver_1 DisSeqAct_GameOver]
+m_Reason="An innocent has been killed!"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_GameOver_2 DisSeqAct_GameOver]
+m_Reason="The target has escaped!"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_GameOver_3 DisSeqAct_GameOver]
+m_Reason="You have killed the target!"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_GameOver_4 DisSeqAct_GameOver]
+m_Reason="You killed an innocent!"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_DLC05_ShowWaveNumber_4 DisSeqAct_DLC05_ShowWaveNumber]
+m_CustomText="A body has been discovered!"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_DLC05_ShowWaveNumber_6 DisSeqAct_DLC05_ShowWaveNumber]
+m_CustomText="You have killed the target!"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_DLC05_ShowWaveNumber_5 DisSeqAct_DLC05_ShowWaveNumber]
+m_CustomText="The target knows you're here. He or she is escaping!"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_DLC05_ShowWaveNumber_3 DisSeqAct_DLC05_ShowWaveNumber]
+m_CustomText="Clue Found (1 remaining)"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_DLC05_ShowWaveNumber_2 DisSeqAct_DLC05_ShowWaveNumber]
+m_CustomText="Clue Found (2 remaining)"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_DLC05_ShowWaveNumber_1 DisSeqAct_DLC05_ShowWaveNumber]
+m_CustomText="Clue Found (3 remaining)"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_DLC05_ShowWaveNumber_0 DisSeqAct_DLC05_ShowWaveNumber]
+m_CustomText="Target Located"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_GameOver_0 DisSeqAct_GameOver]
+m_Reason="You have met your demise"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_GameOver_1 DisSeqAct_GameOver]
+m_Reason="An innocent has been killed"
+

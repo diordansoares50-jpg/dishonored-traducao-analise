@@ -1,0 +1,48 @@
+﻿[Twk_Pawn_Calista DisTweaks_NPCPawn]
+m_BusyText="Este personagem está ocupado"
+m_CannotStealMessage="Você não pode carregar mais munição deste tipo"
+
+[Twk_Pawn_Calista:DisTweaks_InteractableInterface_36 DisTweaks_InteractableInterface]
+m_Name="Callista Curnow"
+m_InteractText=""
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Twk_Pawn_Calista_Bath DisTweaks_NPCPawn]
+m_BusyText="Este personagem está ocupado"
+m_CannotStealMessage="Você não pode carregar mais munição deste tipo"
+
+[Twk_Pawn_Calista_Bath:DisTweaks_InteractableInterface_36 DisTweaks_InteractableInterface]
+m_Name="Callista Curnow"
+m_InteractText=""
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Twk_Pawn_Calista_Killable DisTweaks_NPCPawn]
+m_BusyText="Este personagem está ocupado"
+m_CannotStealMessage="Você não pode carregar mais munição deste tipo"
+
+[Twk_Pawn_Calista_Killable:DisTweaks_InteractableInterface_36 DisTweaks_InteractableInterface]
+m_Name="Callista Curnow"
+m_InteractText=""
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Twk_Pawn_Callista_Hub7 DisTweaks_NPCPawn]
+m_BusyText="Este personagem está ocupado"
+m_CannotStealMessage="Você não pode carregar mais munição deste tipo"
+
+[Twk_Pawn_Callista_Hub7:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Callista Curnow"
+m_InteractText=""
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+

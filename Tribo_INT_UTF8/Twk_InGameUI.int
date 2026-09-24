@@ -1,0 +1,262 @@
+﻿[Twk_GFxMoviePlayerHUD DisTweaks_GFxMoviePlayerHUD]
+m_InteractionTexts[0]=""
+m_InteractionTexts[1]="`GBA_Jump`"
+m_InteractionTexts[2]="`GBA_Use`"
+m_InteractionTexts[3]="`GBA_Block` [Segure]"
+m_InteractionTexts[4]="`GBA_Primary`"
+m_InteractionTexts[5]="`GBA_Primary`"
+m_InteractionTexts[6]="`GBA_Block` + `GBA_Primary`"
+m_InteractionTexts[7]=""
+m_InteractionTexts[8]="`GBA_Use` Soltar"
+m_InteractionTexts[9]="`GBA_Primary` Lançar"
+m_InteractionTexts[10]="`GBA_Use` Soltar"
+m_InteractionTexts[11]="`GBA_Primary` Lançar"
+m_InteractionTexts[12]="`GBA_Use` Soltar"
+m_InteractionTexts[13]="`GBA_Jump` Descer"
+m_InteractionTexts[14]="`GBA_Use` Sair"
+m_InteractionTexts[15]="Pressione repetidamente `GBA_Primary` !"
+m_InteractionTexts[16]="Pressione repetidamente `GBA_Primary` !"
+m_InteractionTexts[17]="`GBA_Zoom` Sair da luneta"
+m_InteractionTexts[18]="`GBA_Use` Mudar nível do zoom"
+m_InteractionTexts[19]="Use `KEY_LStick` para se inclinar"
+m_InteractionTexts[20]="`GBA_Use` Cancelar preparação"
+m_InteractionTexts[21]="`GBA_Secondary` Terminar Dobra Temporal"
+m_InteractionTexts[22]="`GBA_Use` Cancelar Teleporte"
+m_InteractionTexts[23]="`GBA_Secondary` Terminar Visão Noturna"
+m_InteractionTexts[24]="`GBA_Use` Cancelar Possessão"
+m_InteractionTexts[25]="`GBA_Secondary` Terminar Possessão"
+m_InteractionTexts[26]=""
+m_InteractionTexts[27]="`GBA_Use` Usar"
+m_InteractionTexts[28]=""
+m_InteractionTexts[29]="`GBA_Use` Falar"
+m_InteractionTexts[30]="`GBA_Use` Roubar"
+m_InteractionTexts[31]="`GBA_Use` Roubar"
+m_InteractionTexts[32]="Segure `GBA_Use` para carregar"
+m_InteractionTexts[33]="`GBA_Use` Disarmar e roubar"
+m_InteractionTexts_Gamepad[0]=""
+m_InteractionTexts_Gamepad[1]=""
+m_InteractionTexts_Gamepad[2]=""
+m_InteractionTexts_Gamepad[3]=""
+m_InteractionTexts_Gamepad[4]=""
+m_InteractionTexts_Gamepad[5]=""
+m_InteractionTexts_Gamepad[6]="`GBA_Lean_Gamepad`"
+m_InteractionTexts_Gamepad[7]=""
+m_InteractionTexts_Gamepad[8]=""
+m_InteractionTexts_Gamepad[9]=""
+m_InteractionTexts_Gamepad[10]=""
+m_InteractionTexts_Gamepad[11]=""
+m_InteractionTexts_Gamepad[12]=""
+m_InteractionTexts_Gamepad[13]=""
+m_InteractionTexts_Gamepad[14]="`KEY_B` Sair"
+m_InteractionTexts_Gamepad[15]=""
+m_InteractionTexts_Gamepad[16]=""
+m_InteractionTexts_Gamepad[17]=""
+m_InteractionTexts_Gamepad[18]=""
+m_InteractionTexts_Gamepad[19]=""
+m_InteractionTexts_Gamepad[20]=""
+m_InteractionTexts_Gamepad[21]=""
+m_InteractionTexts_Gamepad[22]=""
+m_InteractionTexts_Gamepad[23]=""
+m_InteractionTexts_Gamepad[24]=""
+m_InteractionTexts_Gamepad[25]=""
+m_InteractionTexts_Gamepad[26]=""
+m_InteractionTexts_Gamepad[27]=""
+m_InteractionTexts_Gamepad[28]=""
+m_InteractionTexts_Gamepad[29]=""
+m_InteractionTexts_Gamepad[30]=""
+m_InteractionTexts_Gamepad[31]=""
+m_InteractionTexts_Gamepad[32]=""
+m_InteractionTexts_Gamepad[33]=""
+m_AdrenalineKillTexts[0]="`GBA_Block` + `GBA_Primary`"
+m_AdrenalineKillTexts[1]="`GBA_Block` + `GBA_Primary` ou `GBA_Block` + `GBA_Primary` duas vezes"
+m_AdrenalineKillTexts_Gamepad[0]="`GBA_Lean_Gamepad`"
+m_AdrenalineKillTexts_Gamepad[1]="`GBA_Lean_Gamepad` ou `GBA_Lean_Gamepad` duas vezes"
+m_RuneFoundMessage="`c/`t Runas encontradas"
+m_BoneCharmFoundMessage="`c/`t Encantos de Ossos encontrados"
+m_PressKeyToReadChapterNoteMessage="Pistas da missão atualizadas<br />Pressione `GBA_Journal` para ler"
+m_PressKeyToEquipBoneCharms="Novo Encanto de Ossos adquirido<br />Pressione `GBA_Journal` para equipar"
+m_PressKeyToBuyPowers="Nova Runa adquirida<br />Pressione `GBA_Journal` para adquirir Poderes"
+m_PressKeyToAdrenalineKill[0]="Segure `GBA_Block` e pressione `GBA_Primary` perto de um inimigo<br />para executar uma Morte por Adrenalina"
+m_PressKeyToAdrenalineKill[1]="Segure `GBA_Block` e pressione `GBA_Primary` perto de um inimigo<br />para executar uma Morte por Adrenalina ou segure `GBA_Block` e pressione `GBA_Primary` duas vezes<br />para executar uma Dupla Morte por Adrenalina"
+m_PressKeyToAdrenalineKill_Gamepad[0]="Pressione `GBA_Lean_Gamepad` perto de um inimigo para executar uma Morte por Adrenalina"
+m_PressKeyToAdrenalineKill_Gamepad[1]="Pressione `GBA_Lean_Gamepad` perto de um inimigo para executar uma Morte por Adrenalina,<br />ou pressione `GBA_Lean_Gamepad` duas vezes para executar uma Dupla Morte por Adrenalina"
+m_NewObjectivePopupTitle="Novo Objetivo"
+m_UpdatedObjectivePopupTitle="Objetivo Atualizado"
+m_CompletedObjectivePopupTitle="Objetivo Concluído"
+m_FailedObjectivePopupTitle="Objetivo Fracassado"
+
+[Twk_GFxMoviePlayerMenuBase DisTweaks_GFxMoviePlayerMenuBase]
+m_MissionSavePrefix="MISSÃO - "
+m_AutosavePrefix="SALVAMENTO AUTOMÁTICO - "
+m_QuicksavePrefix="SAVE RÁPIDO - "
+m_CorruptedSave="Arquivo salvo corrompido"
+m_DateFormat="day/month/year - hour:minute:second"
+m_SettingsCategory_General="Geral"
+m_SettingsSubCategory_GameplaySettings="Jogabilidade"
+m_SettingsSubCategory_HUDSettings="Interface do Usuário"
+m_SettingsCategory_Controls="Controles"
+m_SettingsSubCategory_KeyboardMapping="Configuração de Teclado"
+m_SettingsSubCategory_MouseSettings="Configuração de Mouse"
+m_SettingsSubCategory_GamepadSettings="Configuração do Controle"
+m_SettingsCategory_Graphics="Gráficos"
+m_SettingsSubMenu_VideoSettings="Configuração de Vídeo"
+m_SettingsCategory_System="Sistema"
+m_SettingsSubMenu_DeviceSelection="Dispositivo de Armazenamento"
+m_SettingsCategory_Audio="Áudio"
+m_GamepadMapping1[0]="Pular"
+m_GamepadMapping1[1]="Modo sigiloso"
+m_GamepadMapping1[2]="Usar/Guardar armas (Segurar)"
+m_GamepadMapping1[3]="Abaixar (Segurar)/Morte por Adrenalina"
+m_GamepadMapping1[4]="Pausar"
+m_GamepadMapping1[5]="Diário"
+m_GamepadMapping1[6]="Roda de Acesso Rápido (Segurar)"
+m_GamepadMapping1[7]="Bloquear/Esquivar"
+m_GamepadMapping1[8]="Dispositivo/Poder"
+m_GamepadMapping1[9]="Ataque com espada"
+m_GamepadMapping1[10]="Se mover"
+m_GamepadMapping1[11]="Correr"
+m_GamepadMapping1[12]="Olhar ao redor"
+m_GamepadMapping1[13]="Zoom"
+m_GamepadMapping1[14]="Favorito 1"
+m_GamepadMapping1[15]="Favorito 2"
+m_GamepadMapping1[16]="Favorito 3"
+m_GamepadMapping1[17]="Favorito 4/Poção"
+m_GamepadMapping2[0]="Pular"
+m_GamepadMapping2[1]="Modo sigiloso"
+m_GamepadMapping2[2]="Usar/Guardar armas (Segurar)"
+m_GamepadMapping2[3]="Abaixar (Segurar)/Morte por Adrenalina"
+m_GamepadMapping2[4]="Pausar"
+m_GamepadMapping2[5]="Diário"
+m_GamepadMapping2[6]="Dispositivo/Poder"
+m_GamepadMapping2[7]="Ataque com espada"
+m_GamepadMapping2[8]="Roda de Acesso Rápido (Segurar)"
+m_GamepadMapping2[9]="Bloquear/Esquivar"
+m_GamepadMapping2[10]="Se mover"
+m_GamepadMapping2[11]="Correr"
+m_GamepadMapping2[12]="Olhar ao redor"
+m_GamepadMapping2[13]="Zoom"
+m_GamepadMapping2[14]="Favorito 1"
+m_GamepadMapping2[15]="Favorito 2"
+m_GamepadMapping2[16]="Favorito 3"
+m_GamepadMapping2[17]="Favorito 4/Poção"
+m_GamepadMapping3[0]="Pular"
+m_GamepadMapping3[1]="Modo sigiloso"
+m_GamepadMapping3[2]="Usar/Guardar armas (Segurar)"
+m_GamepadMapping3[3]="Abaixar (Segurar)/Morte por Adrenalina"
+m_GamepadMapping3[4]="Pausar"
+m_GamepadMapping3[5]="Diário"
+m_GamepadMapping3[6]="Bloquear/Esquivar"
+m_GamepadMapping3[7]="Roda de Acesso Rápido (Segurar)"
+m_GamepadMapping3[8]="Dispositivo/Poder"
+m_GamepadMapping3[9]="Ataque com espada"
+m_GamepadMapping3[10]="Se mover"
+m_GamepadMapping3[11]="Correr"
+m_GamepadMapping3[12]="Olhar ao redor"
+m_GamepadMapping3[13]="Zoom"
+m_GamepadMapping3[14]="Favorito 1"
+m_GamepadMapping3[15]="Favorito 2"
+m_GamepadMapping3[16]="Favorito 3"
+m_GamepadMapping3[17]="Favorito 4/Poção"
+m_GamepadMapping4[0]="Usar/Guardar armas (Segurar)"
+m_GamepadMapping4[1]="Abaixar (Segurar)/Morte por Adrenalina"
+m_GamepadMapping4[2]="Pular"
+m_GamepadMapping4[3]="Roda de Acesso Rápido (Segurar)"
+m_GamepadMapping4[4]="Pausar"
+m_GamepadMapping4[5]="Diário"
+m_GamepadMapping4[6]="Correr"
+m_GamepadMapping4[7]="Dispositivo/Poder"
+m_GamepadMapping4[8]="Bloquear/Esquivar"
+m_GamepadMapping4[9]="Ataque com espada"
+m_GamepadMapping4[10]="Se mover"
+m_GamepadMapping4[11]="Modo sigiloso"
+m_GamepadMapping4[12]="Olhar ao redor"
+m_GamepadMapping4[13]="Zoom"
+m_GamepadMapping4[14]="Favorito 1"
+m_GamepadMapping4[15]="Favorito 2"
+m_GamepadMapping4[16]="Favorito 3"
+m_GamepadMapping4[17]="Favorito 4/Poção"
+
+[Twk_GFxMoviePlayerNote DisTweaks_GFxMoviePlayerNote]
+m_Maps[0].m_MapTitle=""
+m_Maps[1].m_MapTitle="O Distrito Residencial"
+m_Maps[1].m_Legend[0]=(m_Description="Você está aqui")
+m_Maps[1].m_Legend[1]=(m_Description="Mansão Boyle")
+m_Maps[2].m_MapTitle="Ponte de Kaldwin"
+m_Maps[2].m_Legend[0]=(m_Description="Você está aqui")
+m_Maps[2].m_Legend[1]=(m_Description="Portão Sul")
+m_Maps[2].m_Legend[2]=(m_Description="Ponte Levadiça")
+m_Maps[2].m_Legend[3]=(m_Description="Subestação Midrow")
+m_Maps[2].m_Legend[4]=(m_Description="Extremo Norte")
+m_Maps[3].m_MapTitle="Gato Dourado"
+m_Maps[3].m_Legend[0]=(m_Description="Você está aqui")
+m_Maps[3].m_Legend[1]=(m_Description="Entrada principal do Gato Dourado")
+m_Maps[3].m_Legend[2]=(m_Description="Para o Distrito da Destilaria")
+m_Maps[4].m_MapTitle="Gato Dourado"
+m_Maps[4].m_Legend[0]=(m_Description="Você está aqui")
+m_Maps[4].m_Legend[1]=(m_Description="Entrada principal")
+m_Maps[4].m_Legend[2]=(m_Description="Sauna")
+m_Maps[4].m_Legend[3]=(m_Description="Sala Prateada")
+m_Maps[4].m_Legend[4]=(m_Description="Sala de Marfim")
+m_Maps[4].m_Legend[5]=(m_Description="2º Andar")
+m_Maps[4].m_Legend[6]=(m_Description="Sala de Fumantes")
+m_Maps[4].m_Legend[7]=(m_Description="Sala Dourada")
+m_Maps[4].m_Legend[8]=(m_Description="Escritório da Madame")
+m_Maps[4].m_Legend[9]=(m_Description="Dormitório")
+m_Maps[4].m_Legend[10]=(m_Description="3º Andar")
+m_Maps[5].m_MapTitle="Farol de KingSparrow"
+m_Maps[5].m_Legend[0]=(m_Description="Localização atual")
+m_Maps[5].m_Legend[1]=(m_Description="Farol")
+m_Maps[5].m_Legend[2]=(m_Description="Forte de Kingsparrow")
+m_Maps[6].m_MapTitle="Praça Holger"
+m_Maps[6].m_Legend[0]=(m_Description="Você está aqui")
+m_Maps[6].m_Legend[1]=(m_Description="Escritório do Prelado Supervisor")
+m_Maps[6].m_Legend[2]=(m_Description="Para o Pátio de Trás")
+m_Maps[7].m_MapTitle="Escritório do Prelado Supervisor"
+m_Maps[7].m_Legend[0]=(m_Description="Você está aqui")
+m_Maps[7].m_Legend[1]=(m_Description="Para a Praça Holger")
+m_Maps[7].m_Legend[2]=(m_Description="Sala do Memorial")
+m_Maps[7].m_Legend[3]=(m_Description="Salão Principal")
+m_Maps[7].m_Legend[4]=(m_Description="Sala do Memorial")
+m_Maps[7].m_Legend[5]=(m_Description="Para o Pátio de Trás")
+m_Maps[7].m_Legend[6]=(m_Description="Para os Canis")
+m_Maps[7].m_Legend[7]=(m_Description="Câmara de Reuniões")
+m_Maps[7].m_Legend[8]=(m_Description="Arquivo")
+m_Maps[7].m_Legend[9]=(m_Description="Sala de Interrogatório")
+m_Maps[8].m_MapTitle="Escritório do Prelado Supervisor"
+m_Maps[8].m_Legend[0]=(m_Description="Você está aqui")
+m_Maps[8].m_Legend[1]=(m_Description="Para a Praça Holger")
+m_Maps[8].m_Legend[2]=(m_Description="Sala do Memorial")
+m_Maps[8].m_Legend[3]=(m_Description="Salão Principal")
+m_Maps[8].m_Legend[4]=(m_Description="Sala do Memorial")
+m_Maps[8].m_Legend[5]=(m_Description="Para o Pátio de Trás")
+m_Maps[8].m_Legend[6]=(m_Description="Para os Canis")
+m_Maps[8].m_Legend[7]=(m_Description="Câmara de Reuniões")
+m_Maps[8].m_Legend[8]=(m_Description="Arquivo")
+m_Maps[8].m_Legend[9]=(m_Description="Sala de Interrogatório")
+m_Maps[9].m_MapTitle="Distrito da Destilaria"
+m_Maps[9].m_Legend[0]=(m_Description="Você está aqui")
+m_Maps[9].m_Legend[1]=(m_Description="Para a Praça Holger")
+m_Maps[9].m_Legend[2]=(m_Description="Para o Gato Dourado")
+m_Maps[9].m_Legend[3]=(m_Description="Para a Destilaria Old Dunwall")
+m_Maps[9].m_Legend[4]=(m_Description="Clavering Boulevard")
+m_Maps[10].m_MapTitle="Torre de Dunwall"
+m_Maps[10].m_Legend[0]=(m_Description="Você está aqui")
+m_Maps[10].m_Legend[1]=(m_Description="Entrada")
+m_Maps[10].m_Legend[2]=(m_Description="1º Andar")
+m_Maps[10].m_Legend[3]=(m_Description="2º Andar")
+m_Maps[11].m_MapTitle="Farol de Kingsparrow"
+m_Maps[11].m_Legend[0]=(m_Description="Localização atual")
+m_Maps[11].m_Legend[1]=(m_Description="Farol")
+m_Maps[11].m_Legend[2]=(m_Description="Forte de Kingsparrow")
+m_Maps[12].m_MapTitle="Farol de Kingsparrow"
+m_Maps[12].m_Legend[0]=(m_Description="Localização atual")
+m_Maps[12].m_Legend[1]=(m_Description="Farol")
+m_Maps[12].m_Legend[2]=(m_Description="Forte de Kingsparrow")
+m_Maps[13].m_MapTitle="Torre de Dunwall"
+m_Maps[13].m_Legend[0]=(m_Description="Entrada")
+m_Maps[13].m_Legend[1]=(m_Description="1º Andar")
+m_Maps[13].m_Legend[2]=(m_Description="2º Andar")
+
+[Twk_GFxMoviePlayerPauseMenu DisTweaks_GFxMoviePlayerPauseMenu]
+m_PlayerDiedMessage="Você encontrou o seu fim."
+

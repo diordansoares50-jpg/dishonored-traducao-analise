@@ -1,0 +1,45 @@
+﻿[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_SetTutorialMessage_9 DisSeqAct_SetTutorialMessage]
+m_TutorialMessage="Tanque Verde: ativa a Visão Sombria por 15 segundos."
+m_TutorialMessage_Gamepad=""
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_SetTutorialMessage_36 DisSeqAct_SetTutorialMessage]
+m_TutorialMessage="Rodada Especial"
+m_TutorialMessage_Gamepad=""
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_SetTutorialMessage_35 DisSeqAct_SetTutorialMessage]
+m_TutorialMessage="Cada tanque destruído aumenta sua pontuação."
+m_TutorialMessage_Gamepad=""
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_SetTutorialMessage_14 DisSeqAct_SetTutorialMessage]
+m_TutorialMessage="Tanque Rosa: restaura 35% da sua saúde."
+m_TutorialMessage_Gamepad=""
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_SetTutorialMessage_13 DisSeqAct_SetTutorialMessage]
+m_TutorialMessage="Tanque Dourado: desacelera o tempo por 2 segundos."
+m_TutorialMessage_Gamepad=""
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_SetTutorialMessage_12 DisSeqAct_SetTutorialMessage]
+m_TutorialMessage="Atire no máximo possível de Tanques de Óleo de Baleia em queda."
+m_TutorialMessage_Gamepad=""
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_SetTutorialMessage_11 DisSeqAct_SetTutorialMessage]
+m_TutorialMessage="RODADA PERFEITA"
+m_TutorialMessage_Gamepad=""
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_SetTutorialMessage_10 DisSeqAct_SetTutorialMessage]
+m_TutorialMessage="Tanque Roxo: cria uma nuvem de fumaça quando atingido."
+m_TutorialMessage_Gamepad=""
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_DialogScriptedChoice_5 DisSeqAct_DialogScriptedChoice]
+m_Title=""
+m_Choices[0]=(m_ChoiceText="Retry")
+m_Choices[1]=(m_ChoiceText="Back to Menu")
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_ShowHUDMessage_25 DisSeqAct_ShowHUDMessage]
+m_Message="Rodada Especial"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_ShowHUDMessage_7 DisSeqAct_ShowHUDMessage]
+m_Message="RODADA PERFEITA"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_GameOver_2 DisSeqAct_GameOver]
+m_Reason="Você encontrou seu fim"

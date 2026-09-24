@@ -1,0 +1,139 @@
+﻿[TheWorld:PersistentLevel.Main_Sequence.Callista_Behavior.DisSeqAct_DialogScriptedChoice_0 DisSeqAct_DialogScriptedChoice]
+m_Title=""
+m_Choices[0]=(m_ChoiceText="Callista, it's Corvo.")
+m_Choices[1]=(m_ChoiceText="Do nothing.")
+
+[TheWorld:PersistentLevel.Main_Sequence.Callista_Behavior.DisSeqAct_DialogScriptedChoice_1 DisSeqAct_DialogScriptedChoice]
+m_Title=""
+m_Choices[0]=(m_ChoiceText="Callista, it's Corvo.")
+m_Choices[1]=(m_ChoiceText="Do nothing.")
+
+[TheWorld:PersistentLevel.Main_Sequence.Callista_Behavior.DisSeqAct_GameOver_0 DisSeqAct_GameOver]
+m_Reason="Callista Está Morta"
+
+[TheWorld:PersistentLevel.Main_Sequence.Dead_Servants.DisSeqAct_AddKey_0 DisSeqAct_AddKey]
+m_Name="Chave da Torre de Emily"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_DialogScriptedChoice_0 DisSeqAct_DialogScriptedChoice]
+m_Title=""
+m_Choices[0]=(m_ChoiceText="Go to Old Dunwall Sewer")
+m_Choices[1]=(m_ChoiceText="Stay at the Hound Pits Pub")
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_DialogScriptedChoice_1 DisSeqAct_DialogScriptedChoice]
+m_Title=""
+m_Choices[0]=(m_ChoiceText="High Chaos")
+m_Choices[1]=(m_ChoiceText="Low Chaos")
+
+[TheWorld:PersistentLevel.Main_Sequence.Objectives.DisSeqAct_UpdateTaskTarget_0 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Receptáculos de Pilar de Arco"
+
+[TheWorld:PersistentLevel.Main_Sequence.Objectives.DisSeqAct_UpdateTaskTarget_10 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Sinal de Samuel"
+
+[TheWorld:PersistentLevel.Main_Sequence.Objectives.DisSeqAct_UpdateTaskTarget_11 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Piero"
+
+[TheWorld:PersistentLevel.Main_Sequence.Objectives.DisSeqAct_UpdateTaskTarget_12 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Piero"
+
+[TheWorld:PersistentLevel.Main_Sequence.Objectives.DisSeqAct_UpdateTaskTarget_13 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Emily"
+
+[TheWorld:PersistentLevel.Main_Sequence.Objectives.DisSeqAct_UpdateTaskTarget_14 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Emily"
+
+[TheWorld:PersistentLevel.Main_Sequence.Objectives.DisSeqAct_UpdateTaskTarget_15 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Sinal de Samuel"
+
+[TheWorld:PersistentLevel.Main_Sequence.Objectives.DisSeqAct_UpdateTaskTarget_16 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Havelock"
+
+[TheWorld:PersistentLevel.Main_Sequence.Objectives.DisSeqAct_UpdateTaskTarget_18 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Callista"
+
+[TheWorld:PersistentLevel.Main_Sequence.Objectives.DisSeqAct_UpdateTaskTarget_19 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Callista"
+
+[TheWorld:PersistentLevel.Main_Sequence.Objectives.DisSeqAct_UpdateTaskTarget_2 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Sacada da Oficina do Piero"
+
+[TheWorld:PersistentLevel.Main_Sequence.Objectives.DisSeqAct_UpdateTaskTarget_3 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Antigo Quarto de Havelock"
+
+[TheWorld:PersistentLevel.Main_Sequence.Objectives.DisSeqAct_UpdateTaskTarget_4 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Posto de Abastecimento"
+
+[TheWorld:PersistentLevel.Main_Sequence.Objectives.DisSeqAct_UpdateTaskTarget_5 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Samuel"
+
+[TheWorld:PersistentLevel.Main_Sequence.Objectives.DisSeqAct_UpdateTaskTarget_6 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Piero"
+
+[TheWorld:PersistentLevel.Main_Sequence.Objectives.DisSeqAct_UpdateTaskTarget_7 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Servos Mortos"
+
+[TheWorld:PersistentLevel.Main_Sequence.Objectives.DisSeqAct_UpdateTaskTarget_8 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Seu Quarto"
+
+[TheWorld:PersistentLevel.Main_Sequence.Objectives.DisSeqAct_UpdateTaskTarget_9 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Callista"
+
+[TheWorld:PersistentLevel.Main_Sequence.Piero_And_Sokolov_Behavior.DisSeqAct_DialogScriptedChoice_1 DisSeqAct_DialogScriptedChoice]
+m_Title=""
+m_Choices[0]=(m_ChoiceText="I've taken care of the guards.")
+m_Choices[1]=(m_ChoiceText="I need you to make something.")
+
+[TheWorld:PersistentLevel.Main_Sequence.Piero_And_Sokolov_Behavior.DisSeqAct_DialogScriptedChoice_10 DisSeqAct_DialogScriptedChoice]
+m_Title=""
+m_Choices[0]=(m_ChoiceText="Here are the blueprints.")
+m_Choices[1]=(m_ChoiceText="I need you to make something.")
+
+[TheWorld:PersistentLevel.Main_Sequence.Piero_And_Sokolov_Behavior.DisSeqAct_DialogScriptedChoice_11 DisSeqAct_DialogScriptedChoice]
+m_Title=""
+m_Choices[0]=(m_ChoiceText="I need you to make something.")
+m_Choices[1]=(m_ChoiceText="Never mind.")
+
+[TheWorld:PersistentLevel.Main_Sequence.Piero_And_Sokolov_Behavior.DisSeqAct_DialogScriptedChoice_2 DisSeqAct_DialogScriptedChoice]
+m_Title=""
+m_Choices[0]=(m_ChoiceText="Goodbye, Piero.")
+m_Choices[1]=(m_ChoiceText="I need you to make something.")
+
+[TheWorld:PersistentLevel.Main_Sequence.Piero_And_Sokolov_Behavior.DisSeqAct_DialogScriptedChoice_3 DisSeqAct_DialogScriptedChoice]
+m_Title=""
+m_Choices[0]=(m_ChoiceText="Here are the blueprints.")
+m_Choices[1]=(m_ChoiceText="I've taken care of the Watch.")
+m_Choices[2]=(m_ChoiceText="I need you to make something.")
+
+[TheWorld:PersistentLevel.Main_Sequence.Piero_And_Sokolov_Behavior.DisSeqAct_DialogScriptedChoice_4 DisSeqAct_DialogScriptedChoice]
+m_Title=""
+m_Choices[0]=(m_ChoiceText="There's no need. I've dealt with the Watch.")
+m_Choices[1]=(m_ChoiceText="Go on...")
+
+[TheWorld:PersistentLevel.Main_Sequence.Piero_And_Sokolov_Behavior.DisSeqAct_DialogScriptedChoice_5 DisSeqAct_DialogScriptedChoice]
+m_Title=""
+m_Choices[0]=(m_ChoiceText="Burn them, Piero.")
+m_Choices[1]=(m_ChoiceText="Put them all to sleep.")
+
+[TheWorld:PersistentLevel.Main_Sequence.Piero_And_Sokolov_Behavior.DisSeqAct_DialogScriptedChoice_6 DisSeqAct_DialogScriptedChoice]
+m_Title=""
+m_Choices[0]=(m_ChoiceText="I've taken care of the Watch.")
+m_Choices[1]=(m_ChoiceText="I need you to make something.")
+
+[TheWorld:PersistentLevel.Main_Sequence.Piero_And_Sokolov_Behavior.DisSeqAct_DialogScriptedChoice_7 DisSeqAct_DialogScriptedChoice]
+m_Title=""
+m_Choices[0]=(m_ChoiceText="I need you to make something.")
+m_Choices[1]=(m_ChoiceText="Never mind.")
+
+[TheWorld:PersistentLevel.Main_Sequence.Piero_And_Sokolov_Behavior.DisSeqAct_DialogScriptedChoice_9 DisSeqAct_DialogScriptedChoice]
+m_Title=""
+m_Choices[0]=(m_ChoiceText="Do you mean these blueprints?")
+m_Choices[1]=(m_ChoiceText="Go on...")
+
+[TheWorld:PersistentLevel.Main_Sequence.Piero_And_Sokolov_Behavior.The_Fate_of_All_Baddies.DisSeqAct_AddDarkness_0 DisSeqAct_AddDarkness]
+m_Text=""
+
+[TheWorld:PersistentLevel.Main_Sequence.Samuel_Behavior.DisSeqAct_DialogScriptedChoice_0 DisSeqAct_DialogScriptedChoice]
+m_Title=""
+m_Choices[0]=(m_ChoiceText="We're going to Kingsparrow Island. That's where they've taken Emily.")
+m_Choices[1]=(m_ChoiceText="Wait here. I'll be back when I'm ready to go.")
+

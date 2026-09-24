@@ -1,0 +1,69 @@
+﻿[TheWorld:PersistentLevel.DisDoor_1 DisDoor]
+m_DoorName=""
+m_MatchingKey=""
+m_MatchingKeys[0]="Lighthouse Elevator Key"
+
+[TheWorld:PersistentLevel.DisDoor_2 DisDoor]
+m_DoorName=""
+m_MatchingKey=""
+m_MatchingKeys[0]="Lighthouse Elevator Key"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_DialogScriptedChoice_0 DisSeqAct_DialogScriptedChoice]
+m_Title=""
+m_Choices[0]=(m_ChoiceText="Go to Burrows Lighthouse")
+m_Choices[1]=(m_ChoiceText="Stay at Kingsparrow Fort")
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_ShowLocationDiscovery_0 DisSeqAct_ShowLocationDiscovery]
+m_LocationName="Portão de Kingsparrow"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_ShowLocationDiscovery_2 DisSeqAct_ShowLocationDiscovery]
+m_LocationName="Forte Kingsparrow"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_UpdateTaskTarget_1 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Portão"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_UpdateTaskTarget_11 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Elevador do Farol"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_UpdateTaskTarget_12 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Elevador do farol"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_UpdateTaskTarget_13 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Acessar o Farol"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_UpdateTaskTarget_14 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Drenagem da Casa do Portão"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_UpdateTaskTarget_15 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Portão"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_UpdateTaskTarget_16 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Passarela do Portão"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_UpdateTaskTarget_18 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Forte"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_UpdateTaskTarget_19 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Entrada à Beira-Mar"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_UpdateTaskTarget_2 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Elevador do Farol"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_UpdateTaskTarget_20 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Entrada do Porto"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_UpdateTaskTarget_21 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Portão"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_UpdateTaskTarget_22 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Portão"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_UpdateTaskTarget_3 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Elevador do Farol"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_UpdateTaskTarget_5 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Portão da Fortaleza"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_UpdateTaskTarget_6 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Forte"
+

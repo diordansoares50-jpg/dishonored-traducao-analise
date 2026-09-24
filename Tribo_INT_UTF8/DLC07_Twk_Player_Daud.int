@@ -1,0 +1,41 @@
+﻿[DLC07_Twk_Player_Daud DisDLC07Tweaks_PlayerPawn]
+m_PowerInhibitedMessage="Disoriented by Overseer Music--Magic Will Not Work!"
+
+[DLC07_Twk_Player_Daud:DisDLC07Tweaks_WhaleBoneCharmCrackedList_0 DisDLC07Tweaks_WhaleBoneCharmCrackedList]
+m_CrackedCharms[0]=(m_Levels=((m_Name="Vengeance",m_Text="Benefit: Build up adrenaline much faster<br/>Penalty: Adrenaline takes less time to cool down")))
+m_CrackedCharms[1]=(m_Levels=((m_Name="Tank",m_Text="Benefit: Damage taken is reduced<br/>Penalty: Overall movement speed is reduced")))
+m_CrackedCharms[2]=(m_Levels=((m_Name="Zephyr",m_Text="Benefit: Overall movement speed is increased<br/>Penalty: Damage taken is increased")))
+m_CrackedCharms[3]=(m_Levels=((m_Name="Splintering Bolts",m_Text="Benefit: Bolts shot from your wristbow do much more damage<br/>Penalty: Bolts almost always break on contact when shot at enemies")))
+m_CrackedCharms[4]=(m_Levels=((m_Name="Shivering Silhouette",m_Text="Benefit: Enemies have a high chance to miss ranged attacks<br/>Penalty: You are more visible to enemies")))
+m_CrackedCharms[5]=(m_Levels=((m_Name="Statuesque",m_Text="Benefit: While standing still, you cannot be seen by enemies unless they are in combat with you<br/>Penalty: Mana does not regenerate")))
+m_CrackedCharms[6]=(m_Levels=((m_Name="Power Slash",m_Text="Benefit: You deal greater damage with your sword<br/>Penalty: You swing your sword slower")))
+m_CrackedCharms[7]=(m_Levels=((m_Name="Witch's Skin",m_Text="Benefit: When taking damage, your mana is drained before your health<br/>Penalty: Mana does not regenerate")))
+m_CrackedCharms[8]=(m_Levels=((m_Name="Leverage",m_Text="Benefit: Pull power distance and speed are increased<br/>Penalty: Mana cost for Pull power is increased")))
+
+[DLC07_Twk_Player_Daud:pCharmListTweaks DisTweaks_WhaleBoneCharmList]
+m_Charms[0]=(m_Levels=((m_Name="Tough Skin",m_Text="Your max health has been slightly increased")))
+m_Charms[1]=(m_Levels=((m_Name="Blood Ox Heart",m_Text="Your max mana has been slightly increased")))
+m_Charms[2]=(m_Levels=((m_Name="Healthy Appetite",m_Text="Food heals you moderately more")))
+m_Charms[3]=(m_Levels=((m_Name="Falling Star",m_Text="Drop-assassinating someone gives you a bit of mana")))
+m_Charms[4]=(m_Levels=((m_Name="Robust",m_Text="Potions give you moderately more health")))
+m_Charms[5]=(m_Levels=((m_Name="Spirited",m_Text="Potions give you moderately more mana")))
+m_Charms[6]=(m_Levels=((m_Name="Spirit Water",m_Text="Drinking from faucets restores a small amount of mana")))
+m_Charms[7]=(m_Levels=((m_Name="Carrion Killer",m_Text="Killing rats gives you some adrenaline")))
+m_Charms[8]=(m_Levels=((m_Name="Strong Arms",m_Text="Choking is faster")))
+m_Charms[9]=(m_Levels=((m_Name="Undertaker",m_Text="You move slightly faster while carrying corpses")))
+m_Charms[10]=(m_Levels=((m_Name="Swift Shadow",m_Text="You move forward slightly faster while in stealth mode")))
+m_Charms[11]=(m_Levels=((m_Name="Whirlwind",m_Text="You swing your sword moderately faster")))
+m_Charms[12]=(m_Levels=((m_Name="Sustained Rage",m_Text="Your adrenaline takes slightly longer to cool down")))
+m_Charms[13]=(m_Levels=((m_Name="Scavenger",m_Text="You find ammo in greater amounts")))
+m_Charms[14]=(m_Levels=((m_Name="Spiritual Pool",m_Text="You regenerate mana slightly faster")))
+m_Charms[15]=(m_Levels=((m_Name="Reinforced Bolts",m_Text="Bolts stuck in enemies break less often")))
+m_Charms[16]=(m_Levels=((m_Name="Fleet Fighter",m_Text="Having your weapons out doesn't slow you")))
+m_Charms[17]=(m_Levels=((m_Name="Water of Life",m_Text="Drinking from fountains recharges a small amount of health")))
+m_Charms[18]=(m_Levels=((m_Name="Bird of Prey",m_Text="Drop assassination gives you a bit of health")))
+m_Charms[19]=(m_Levels=((m_Name="Light As A Shadow",m_Text="Take less damage from falls")))
+m_Charms[20]=(m_Levels=((m_Name="Swift Stalker",m_Text="If your weapons are sheathed, your speed is boosted ")))
+m_Charms[21]=(m_Levels=((m_Name="Hearty Crew",m_Text="Summoned assassins deal more damage")))
+m_Charms[22]=(m_Levels=((m_Name="Overpowering",m_Text="Very easily win contested interactions")))
+m_Charms[23]=(m_Levels=((m_Name="Void Surge",m_Text="Sometimes, when using a power, no mana will be spent")))
+m_Charms[24]=(m_Levels=((m_Name="Submariner",m_Text="Regain health while submerged in water")))
+

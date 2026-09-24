@@ -1,0 +1,28 @@
+﻿[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_DialogScriptedChoice_1 DisSeqAct_DialogScriptedChoice]
+m_Title=""
+m_Choices[0]=(m_ChoiceText="Ir para Clavering Boulevard")
+m_Choices[1]=(m_ChoiceText="Ficar no Escritório do Dr. Galvani")
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_DialogScriptedChoice_3 DisSeqAct_DialogScriptedChoice]
+m_Title=""
+m_Choices[0]=(m_ChoiceText="Ir para Clavering Boulevard")
+m_Choices[1]=(m_ChoiceText="Ficar no Escritório do Dr. Galvani")
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_DialogScriptedChoice_4 DisSeqAct_DialogScriptedChoice]
+m_Title=""
+m_Choices[0]=(m_ChoiceText="Ir para Clavering Boulevard")
+m_Choices[1]=(m_ChoiceText="Ficar no Escritório do Dr. Galvani")
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_SetTutorialMessage_1 DisSeqAct_SetTutorialMessage]
+m_TutorialMessage="Use o Teleporte para se mover de uma cobertura a outra sem que te vejam."
+m_TutorialMessage_Gamepad=""
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_ShowLocationDiscovery_0 DisSeqAct_ShowLocationDiscovery]
+m_LocationName="Sala Secreta do Dr. Galvani"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_ShowLocationDiscovery_1 DisSeqAct_ShowLocationDiscovery]
+m_LocationName="Escritório do Dr. Galvani"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_ShowLocationDiscovery_2 DisSeqAct_ShowLocationDiscovery]
+m_LocationName="Laboratório do Dr. Galvani"
+

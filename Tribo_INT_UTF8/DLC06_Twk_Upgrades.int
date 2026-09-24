@@ -1,0 +1,107 @@
+﻿[DLC06_Twk_Upgrade_Armor DisTweaks_Upgrade]
+m_Name="Improved Armor"
+m_Description="Reduces damage."
+
+[dlc06_Upgrade_BoneCharms DisTweaks_Upgrade]
+m_Name="Bone Charm Capacity Upgrade 1"
+m_Description="Enables one additional bone charm to be active. (Total 4)"
+
+[dlc06_Upgrade_BoneCharms2 DisTweaks_Upgrade]
+m_Name="Bone Charm Capacity Upgrade 2"
+m_Description="Enables one additional bone charm to be active. (Total 5)"
+
+[dlc06_Upgrade_BoneCharms3 DisTweaks_Upgrade]
+m_Name="Bone Charm Capacity Upgrade 3"
+m_Description="Enables one additional bone charm to be active. (Total 6)"
+
+[DLC06_Upgrade_ChkDstBelt DisTweaks_Upgrade]
+m_Name="Chokedust Capacity Upgrade"
+m_Description="Increases chokedust storage capacity by 4 (Total 9) "
+
+[dlc06_Upgrade_ExpBoltCount2 DisTweaks_Upgrade]
+m_Name="Explosive Bolt Capacity Upgrade 1"
+m_Description="Increases explosive bolt capacity by 3 (Total 8)."
+
+[dlc06_Upgrade_ExpBoltCount4 DisTweaks_Upgrade]
+m_Name="Explosive Bolt Capacity Upgrade 2"
+m_Description="Increases explosive bolt capacity by 2 (Total 10)."
+
+[DLC06_Upgrade_GrenadeBelt DisTweaks_Upgrade]
+m_Name="Grenade Capacity Upgrade"
+m_Description="Increases grenade storage capacity by 4 (Total 9). "
+
+[dlc06_Upgrade_InstSleepArrow DisTweaks_Upgrade]
+m_Name="Combat Sleep Darts"
+m_Description="Makes sleep darts effective immediately, even in combat."
+
+[dlc06_Upgrade_InstSleepArrow:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name=""
+m_InteractText=""
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[dlc06_Upgrade_QuiverCount2 DisTweaks_Upgrade]
+m_Name="Bolt Capacity Upgrade 1"
+m_Description="Increases standard bolt capacity by 10 (Total 20)."
+
+[dlc06_Upgrade_QuiverCount4 DisTweaks_Upgrade]
+m_Name="Bolt Capacity Upgrade 2"
+m_Description="Increases standard bolt capacity by 10 (Total 30)."
+
+[dlc06_Upgrade_SilentRun DisTweaks_Upgrade]
+m_Name="Boot Stealth Upgrade 1"
+m_Description="Reduced footstep sounds."
+
+[dlc06_Upgrade_SilentSprint DisTweaks_Upgrade]
+m_Name="Boot Stealth Upgrade 2"
+m_Description="Further reduced footstep sounds. "
+
+[dlc06_Upgrade_SleepDartCount2 DisTweaks_Upgrade]
+m_Name="Sleep Dart Capacity Upgrade 1"
+m_Description="Increases sleep dart capacity by 3 (Total 13)."
+
+[dlc06_Upgrade_SleepDartCount4 DisTweaks_Upgrade]
+m_Name="Sleep Dart Capacity Upgrade 2"
+m_Description="Increases sleep dart capacity by 2 (Total 15)."
+
+[dlc06_Upgrade_Sword DisTweaks_Upgrade]
+m_Name="Sword Crossing Upgrade"
+m_Description="Makes the sword more effective when locking blades and pushing against an enemy."
+
+[dlc06_Upgrade_Wristbow_Acc DisTweaks_Upgrade]
+m_Name="Wristbow Accuracy Upgrade"
+m_Description="Enhances and stabilizes wristbow aim."
+
+[dlc06_Upgrade_Wristbow_Range DisTweaks_Upgrade]
+m_Name="Wristbow Range Upgrade"
+m_Description="Wristbow bolts travel faster, farther."
+
+[DLC06_Upgrd_ArcMine_Capacity DisTweaks_Upgrade]
+m_Name="Arc Mine Capacity"
+m_Description="Increases Arc Mine storage capacity by 3. (Total 6)"
+
+[DLC06_Upgrd_ArcMine_Charges DisTweaks_Upgrade]
+m_Name="Arc Mine Extra Charge"
+m_Description="Adds an extra charge to the Arc Mine."
+
+[DLC06_Upgrd_ArcStnMine_Cap DisTweaks_Upgrade]
+m_Name="Stun Mine Capacity"
+m_Description="Increases Stun Mine storage capacity by 3. (Total 6)"
+
+[DLC06_Upgrd_ArcStnMine_Chrg DisTweaks_Upgrade]
+m_Name="Stun Mine Extra Charge"
+m_Description="Adds an extra charge to the Stun Mine."
+
+[DLC06_Upgrd_ArcStunMine_Unlock DisTweaks_Upgrade]
+m_Name="Stun Mine"
+m_Description="Modification to the Arc Mine design enables a nonlethal version."
+
+[DLC06_Upgrd_Squint1 DisTweaks_Upgrade]
+m_Name="Spyglass"
+m_Description="A collapsible tube crafted from light-weight metals and lenses used to spy remote locations."
+
+[DLC06_Upgrd_Wristbow_ReloadSpeed DisTweaks_Upgrade]
+m_Name="Wristbow Reload Speed Upgrade"
+

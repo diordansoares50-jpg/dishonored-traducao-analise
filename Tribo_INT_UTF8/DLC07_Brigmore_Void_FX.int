@@ -1,0 +1,8 @@
+﻿[Tweaks.DLC07_Painting_VoidTree:DisTweaks_Interactable_PickupBase_89 DisTweaks_Interactable_PickupBase]
+m_Name="Her Branches Reach for Me"
+m_InteractText="`GBA_Use` Pick up"
+
+[Tweaks.EmilyPaintingUse_01_twk:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Her Face is My Smile"
+m_InteractText="`GBA_Use` Replace Painting"
+

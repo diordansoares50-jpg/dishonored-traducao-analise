@@ -1,0 +1,95 @@
+﻿[Battery.WhaleOilBattery_BendTime_twk DisDLC05Tweaks_WhaleOilBattery]
+m_EmptyName="Tanque de Óleo Vazio"
+
+[Battery.WhaleOilBattery_BendTime_twk:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Tanque de Óleo de Baleia"
+m_InteractText="`GBA_Use` Carregar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Battery.WhaleOilBattery_DarkVision_twk DisDLC05Tweaks_WhaleOilBattery]
+m_EmptyName="Tanque de Óleo Vazio"
+
+[Battery.WhaleOilBattery_DarkVision_twk:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name=""
+m_InteractText=""
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Battery.WhaleOilBattery_Health_twk DisDLC05Tweaks_WhaleOilBattery]
+m_EmptyName="Tanque de Óleo Vazio"
+
+[Battery.WhaleOilBattery_Health_twk:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name=""
+m_InteractText=""
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Battery.WhaleOilBattery_Normal_twk DisDLC05Tweaks_WhaleOilBattery]
+m_EmptyName="Tanque de Óleo Vazio"
+
+[Battery.WhaleOilBattery_Normal_twk:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name=""
+m_InteractText=""
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Battery.WhaleOilBattery_Smoke_twk DisDLC05Tweaks_WhaleOilBattery]
+m_EmptyName="Tanque de Óleo Vazio"
+
+[Battery.WhaleOilBattery_Smoke_twk:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name=""
+m_InteractText=""
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Notes.DisclaimerNormal_AbstrInv DisAbstractItem]
+m_ItemName="Gota de Óleo"
+m_PluralItemName=""
+m_Description="Atire no máximo possível de Tanques de Óleo de Baleia em queda.
+
+Você tem uma pistola totalmente melhorada com munição ilimitada.
+
+Pontuação:
+* Cada tanque destruído aumenta sua pontuação.
+* Você ganha um bônus de pontuação se destruir vários tanques ao mesmo tempo.
+* Você ganha um bônus de pontuação se não errar nenhum tanque.
+* Você ganha um bônus de pontuação por boa precisão.
+
+Especial:
+Existem vários tipos de Tanques de Óleo de Baleia:
+* Tanque Comum
+* Tanque Roxo: cria uma nuvem de fumaça quando atingido
+* Tanque Dourado: desacelera o tempo por 2 segundos
+* Tanque Verde: ativa a Visão Sombria por 15 segundos
+* Tanque Rosa: restaura 35% da sua saúde
+
+Fim de Jogo:
+O jogo termina se você morrer."
+
+[Notes.DisclaimerNormal_Pickup DisTweaks_AbstractItemPickupNote]
+m_PressKeyToReadMessage=""
+m_OnPickupMessage=""
+
+[Twk_Inv_PistolOilRain:DisTweaks_InventoryItem_PlayerSpecific_0 DisTweaks_InventoryItem_PlayerSpecific]
+m_Name="Pistola do Corvo"
+m_Description="Feita com maestria e pensada para personalização, esta é a melhor arma de fogo das Ilhas. Permite melhorias de pistola e adiciona dano de dispersão de curto alcance."
+
+[Twk_Proj_BulletOilRain:DisTweaks_InteractableInterface_2 DisTweaks_InteractableInterface]
+m_Name="Bala"
+m_InteractText="Pressione `k para pegar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage="Você não pode carregar mais munição deste tipo"
+

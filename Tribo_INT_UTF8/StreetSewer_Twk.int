@@ -1,0 +1,79 @@
+﻿[Furnace_interact_twk:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Fornalha"
+m_InteractText="`GBA_Use` Colocar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Furnace_Lever_twk DisTweaks_UsableObject]
+m_Stages[0]="(m_InteractTextOverride="`GBA_Use` Acender Fornalha")"
+m_Stages[1]="(m_InteractTextOverride="`GBA_Use` Abrir Fornalha")"
+
+[Furnace_Lever_twk:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Interruptor"
+m_InteractText="`GBA_Use` Usar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Furnace_twk:DisTweaks_InteractableInterface_16 DisTweaks_InteractableInterface]
+m_Name="Alta-Fornalha"
+m_InteractText=" `GBA_Use` Abrir"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[FurnaceGrill_twk:DisTweaks_InteractableInterface_16 DisTweaks_InteractableInterface]
+m_Name="Alta-Fornalha"
+m_InteractText=" `GBA_Use` Abrir"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[GrannyRags_Cameo_twk DisTweaks_AbstractItemPickup]
+m_SingleItemPickupMessage=""
+
+[GrannyRags_Cameo_twk:DisTweaks_Interactable_PickupBase_0 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name="Camafeu da Vovó Esfarrapada"
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Pwn_SewerWoundedThug DisTweaks_NPCPawn]
+m_BusyText="Esse personagem está ocupado"
+m_CannotStealMessage="Você não pode mais carregar esse tipo de munição"
+
+[Pwn_SewerWoundedThug:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Bandido"
+m_InteractText=""
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Pwn_Skeleton_Slackjaw DisTweaks_NPCPawn]
+m_BusyText="Esse personagem está ocupado"
+m_CannotStealMessage="Você não pode mais carregar esse tipo de munição"
+
+[Pwn_Skeleton_Slackjaw:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Cadáver de Slackjaw"
+m_InteractText=""
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Valve_H2U_StrtSewerEntry:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Válvula"
+m_InteractText="Segure `GBA_Use` para girar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+

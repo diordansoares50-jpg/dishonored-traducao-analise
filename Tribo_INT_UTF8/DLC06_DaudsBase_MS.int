@@ -1,0 +1,44 @@
+﻿[DLC06_BoundHandsRope_twk DisTweaks_UsableObject]
+m_UnlockInteractText="`GBA_Use` Unlock"
+m_LockedMessage=""
+m_UnauthorizedMessage=""
+m_FocusMessage=""
+m_FocusLockedMessage=""
+
+[DLC06_BoundHandsRope_twk:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Rope"
+m_InteractText="`GBA_Use` Free Assassin"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[DLC06_MercySword_twk DisTweaks_UsableObject]
+m_UnlockInteractText="`GBA_Use` Unlock"
+m_LockedMessage=""
+m_UnauthorizedMessage=""
+m_FocusMessage=""
+m_FocusLockedMessage=""
+
+[DLC06_MercySword_twk:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Billie's Sword"
+m_InteractText="`GBA_Use` Return the Sword"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[DLC06_RolledNote_Critical_twk DisTweaks_AbstractItemPickupNote]
+m_PressKeyToReadMessage=""
+m_OnPickupMessage="New note added to your journal"
+m_SingleItemPickupMessage=""
+
+[DLC06_RolledNote_Critical_twk:DisTweaks_Interactable_PickupBase_105 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name=""
+m_InteractText="`GBA_Use` Read"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+

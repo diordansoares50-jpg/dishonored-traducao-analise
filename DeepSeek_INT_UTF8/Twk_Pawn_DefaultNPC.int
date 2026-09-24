@@ -1,0 +1,13 @@
+﻿[Twk_Pawn_DefaultNPC DisTweaks_NPCPawn]
+m_BusyText="Este personagem está ocupado"
+m_CannotStealMessage="Você não pode carregar mais munição deste tipo"
+m_AsleepCrosshairText="(Inconsciente)"
+
+[Twk_Pawn_DefaultNPC:DisTweaks_InteractableInterface_4 DisTweaks_InteractableInterface]
+m_Name=""
+m_InteractText=""
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+

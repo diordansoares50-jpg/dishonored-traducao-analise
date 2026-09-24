@@ -1,0 +1,84 @@
+﻿[T1.Pckp_Hrlm_T1_Estermont_Cameo:DisTweaks_Interactable_PickupBase_30 DisTweaks_Interactable_PickupBase]
+m_Name="Estermont Cameo"
+
+[T1.Pckp_Hrlm_T1_Estermont_CigCase:DisTweaks_Interactable_PickupBase_31 DisTweaks_Interactable_PickupBase]
+m_Name="Estojinho de Cigarros de Estermont"
+
+[T1.Pckp_Hrlm_T1_Estermont_JBox:DisTweaks_Interactable_PickupBase_33 DisTweaks_Interactable_PickupBase]
+m_Name="Estermont Caixa de Joias"
+
+[T1.Pckp_Hrlm_T1_Estermont_Medal:DisTweaks_Interactable_PickupBase_34 DisTweaks_Interactable_PickupBase]
+m_Name="Medalha de Guerra de Estermont"
+
+[T1.Pckp_Hrlm_T1_Estermont_Plate:DisTweaks_Interactable_PickupBase_35 DisTweaks_Interactable_PickupBase]
+m_Name="Estermont Prato Decorativo"
+
+[T1.Pckp_Hrlm_T1_Estermont_Sextant:DisTweaks_Interactable_PickupBase_36 DisTweaks_Interactable_PickupBase]
+m_Name="Sextante de Estermont"
+
+[T1.Pckp_Hrlm_T1_Estermont_Statue:DisTweaks_Interactable_PickupBase_32 DisTweaks_Interactable_PickupBase]
+m_Name="Estátua de Peixe de Estermont"
+
+[T1.Pckp_Hrlm_T1_Estermont_Urn:DisTweaks_Interactable_PickupBase_37 DisTweaks_Interactable_PickupBase]
+m_Name="Urna Estermont"
+
+[T1.Pckp_Hrlm_T1_Estermont_Wtch:DisTweaks_Interactable_PickupBase_4 DisTweaks_Interactable_PickupBase]
+m_Name="Relógio de Bolso Estermont"
+
+[T2.DLC06_Pckp_T2_Timsh_Cameo:DisTweaks_Interactable_PickupBase_45 DisTweaks_Interactable_PickupBase]
+m_Name="Timsh Cameo"
+
+[T2.DLC06_Pckp_T2_Timsh_Carmine_Urn:DisTweaks_Interactable_PickupBase_52 DisTweaks_Interactable_PickupBase]
+m_Name="Urna de Timsh"
+
+[T2.DLC06_Pckp_T2_Timsh_CigCase:DisTweaks_Interactable_PickupBase_46 DisTweaks_Interactable_PickupBase]
+m_Name="Estojo de Cigarros Timsh"
+
+[T2.DLC06_Pckp_T2_Timsh_JBox:DisTweaks_Interactable_PickupBase_48 DisTweaks_Interactable_PickupBase]
+m_Name="Caixa de Joias Timsh"
+
+[T2.DLC06_Pckp_T2_Timsh_Medal:DisTweaks_Interactable_PickupBase_49 DisTweaks_Interactable_PickupBase]
+m_Name="Medalha de Guerra de Timsh"
+
+[T2.DLC06_Pckp_T2_Timsh_PcktWtch:DisTweaks_Interactable_PickupBase_15 DisTweaks_Interactable_PickupBase]
+m_Name="Relógio de Bolso de Timsh"
+
+[T2.DLC06_Pckp_T2_Timsh_Plate:DisTweaks_Interactable_PickupBase_50 DisTweaks_Interactable_PickupBase]
+m_Name="Timsh Decor Plate"
+
+[T2.DLC06_Pckp_T2_Timsh_Sextant:DisTweaks_Interactable_PickupBase_51 DisTweaks_Interactable_PickupBase]
+m_Name="Sextante de Timsh"
+
+[T2.DLC06_Pckp_T2_Timsh_Statue:DisTweaks_Interactable_PickupBase_47 DisTweaks_Interactable_PickupBase]
+m_Name="Estatueta do Cão de Timsh"
+
+[T3.DLC06_Pckp_T3_Brigmore_Cameo:DisTweaks_Interactable_PickupBase_60 DisTweaks_Interactable_PickupBase]
+m_Name="Cameu Brigmore"
+
+[T3.DLC06_Pckp_T3_Brigmore_CigCase:DisTweaks_Interactable_PickupBase_61 DisTweaks_Interactable_PickupBase]
+m_Name="Estojo de Cigarros Brigmore"
+
+[T3.DLC06_Pckp_T3_Brigmore_Egg:DisTweaks_Interactable_PickupBase_62 DisTweaks_Interactable_PickupBase]
+m_Name="Ovo de Brigmore"
+
+[T3.DLC06_Pckp_T3_Brigmore_JBox:DisTweaks_Interactable_PickupBase_63 DisTweaks_Interactable_PickupBase]
+m_Name="Caixa de Joias Brigmore"
+
+[T3.DLC06_Pckp_T3_Brigmore_Medal:DisTweaks_Interactable_PickupBase_64 DisTweaks_Interactable_PickupBase]
+m_Name="Medalha de Guerra de Brigmore"
+
+[T3.DLC06_Pckp_T3_Brigmore_Plate:DisTweaks_Interactable_PickupBase_65 DisTweaks_Interactable_PickupBase]
+m_Name="Prato Decorativo Brigmore"
+
+[T3.DLC06_Pckp_T3_Brigmore_Sext:DisTweaks_Interactable_PickupBase_66 DisTweaks_Interactable_PickupBase]
+m_Name="Sextante de Brigmore"
+
+[T3.DLC06_Pckp_T3_Brigmore_Statue:DisTweaks_Interactable_PickupBase_68 DisTweaks_Interactable_PickupBase]
+m_Name="Estatueta da Baleia de Brigmore"
+
+[T3.DLC06_Pckp_T3_Brigmore_Urn:DisTweaks_Interactable_PickupBase_67 DisTweaks_Interactable_PickupBase]
+m_Name="Urna de Brigmore"
+
+[T3.DLC06_Pckp_T3_Brigmore_Watch:DisTweaks_Interactable_PickupBase_20 DisTweaks_Interactable_PickupBase]
+m_Name="Relógio de Bolso Brigmore"
+

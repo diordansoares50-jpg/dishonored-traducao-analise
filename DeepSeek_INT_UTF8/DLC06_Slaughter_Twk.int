@@ -1,0 +1,141 @@
+﻿[desk_micro_twk:DisTweaks_InteractableInterface_16 DisTweaks_InteractableInterface]
+m_Name="Microfone"
+m_InteractText="`GBA_Use` Usar"
+
+[DLC06_Chair_lever_twk DisTweaks_UsableObject]
+m_LockedMessage="Trancado"
+
+[DLC06_Chair_lever_twk:DisTweaks_InteractableInterface_0 DisTweaks_InteractableInterface]
+m_Name="Ativar Cadeira de Interrogatório"
+
+[DLC06_Crane_lever_twk DisTweaks_UsableObject]
+m_UnlockInteractText="`GBA_Use` Desbloquear"
+m_LockedMessage="Potência Necessária"
+
+[DLC06_Crane_lever_twk:DisTweaks_InteractableInterface_0 DisTweaks_InteractableInterface]
+m_Name="Interruptor da Ponte Rolante"
+m_InteractText="`GBA_Use` Usar"
+
+[DLC06_EyePickup_twk:DisTweaks_Interactable_PickupBase_0 DisTweaks_Interactable_PickupBase]
+m_Name="Olho de Baleia"
+
+[DLC06_FakeKey_twk:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Chave da Cela dos Trabalhadores"
+m_InteractText="`GBA_Use` Pegar"
+
+[DLC06_gen_wall_shield_twk DisTweaks_UsableObject]
+m_Stages[1]=(m_InteractTextOverride="`GBA_Use` Close")
+m_UnlockInteractText="`GBA_Use` Desbloquear"
+m_LockedMessage=""
+m_UnauthorizedMessage=""
+m_FocusMessage=""
+m_FocusLockedMessage="`k necessário"
+
+[DLC06_gen_wall_shield_twk:DisTweaks_InteractableInterface_8 DisTweaks_InteractableInterface]
+m_Name="Escudo do Tanque de Óleo de Baleia"
+m_InteractText="`GBA_Use` Abrir"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[DLC06_IntChair_Twk:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Cadeira de Interrogatório"
+m_InteractText="`GBA_Use` Iniciar Interrogatório"
+
+[DLC06_IntValve_Rewind_Twk:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Válvula de Pressão"
+
+[DLC06_IntValve_Twk:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Válvula da Porta de Armazenamento"
+
+[DLC06_IntValveBase_Twk:DisTweaks_InteractableInterface_16 DisTweaks_InteractableInterface]
+m_Name="Válvula de Pressão Desativada"
+m_InteractText="`GBA_Use` Ligar Fluxo de Óleo de Baleia"
+m_CannotUseMessage="Chave de Válvula Necessária"
+
+[DLC06_LTD_ExitSewerHatch:DisTweaks_InteractableInterface_16 DisTweaks_InteractableInterface]
+m_Name="Sair do Matadouro"
+
+[DLC06_LTD_SewerHatch:DisTweaks_InteractableInterface_16 DisTweaks_InteractableInterface]
+m_Name="Entrar no Matadouro"
+
+[DLC06_Machine_lever_twk DisTweaks_UsableObject]
+m_LockedMessage="Trancado"
+
+[DLC06_Machine_lever_twk:DisTweaks_InteractableInterface_0 DisTweaks_InteractableInterface]
+m_Name="Controle de Maquinário"
+
+[DLC06_Sewer_lever_twk DisTweaks_UsableObject]
+m_UnlockInteractText="`GBA_Use` Desbloquear"
+m_LockedMessage=""
+
+[DLC06_Sewer_lever_twk:DisTweaks_InteractableInterface_0 DisTweaks_InteractableInterface]
+m_Name="Controle do Portão do Esgoto"
+m_InteractText="`GBA_Use` Usar"
+
+[DLC06_SewerEntrance_lever_twk DisTweaks_UsableObject]
+m_LockedMessage="Trancado"
+
+[DLC06_SewerEntrance_lever_twk:DisTweaks_InteractableInterface_0 DisTweaks_InteractableInterface]
+m_Name="Controle do Portão do Esgoto"
+
+[DLC06_ShippingCrateBase_twk:DisTweaks_InteractableInterface_16 DisTweaks_InteractableInterface]
+m_Name="Caixa de Transporte"
+m_InteractText="`GBA_Use` Selar Rothwild por Dentro"
+
+[DLC06_ShippingCrateLid_twk:DisTweaks_InteractableInterface_16 DisTweaks_InteractableInterface]
+m_Name="Caixa de Remessa"
+m_InteractText="`GBA_Use` Selar Rothwild por Dentro"
+
+[DLC06_UpperEntrance_lever_twk DisTweaks_UsableObject]
+m_LockedMessage="Trancado"
+
+[DLC06_UpperEntrance_lever_twk:DisTweaks_InteractableInterface_0 DisTweaks_InteractableInterface]
+m_Name="Entrar no Matadouro"
+
+[DLC06_UpperExit_lever_twk DisTweaks_UsableObject]
+m_LockedMessage="Trancado"
+
+[DLC06_UpperExit_lever_twk:DisTweaks_InteractableInterface_0 DisTweaks_InteractableInterface]
+m_Name="Sair do Matadouro"
+
+[DLC06_ValveKey_twk:DisTweaks_Interactable_PickupBase_0 DisTweaks_Interactable_PickupBase]
+m_Name="Chave de Válvula"
+
+[DLC06_Whale_lever_twk DisTweaks_UsableObject]
+m_LockedMessage="Trancado"
+
+[DLC06_Whale_lever_twk:DisTweaks_InteractableInterface_0 DisTweaks_InteractableInterface]
+m_Name="Alavanca de Eletrocussão de Baleia"
+
+[DLC06_WhaleEyePickup_twk:DisTweaks_Interactable_PickupBase_0 DisTweaks_Interactable_PickupBase]
+m_Name="Olho de Baleia"
+
+[GrannyRecipePot_twk DisTweaks_UsableObject]
+m_UnlockInteractText="`GBA_Use` Colocar olho no pote"
+
+[GrannyRecipePot_twk:DisTweaks_InteractableInterface_16 DisTweaks_InteractableInterface]
+m_Name="Panela de Cozinha"
+m_InteractText="`GBA_Use` Colocar olho no pote"
+m_CannotUseMessage="Olho de baleia necessário"
+
+[PunchCard_twk:DisTweaks_Interactable_PickupBase_0 DisTweaks_Interactable_PickupBase]
+m_Name="Cartão do Tempo"
+
+[PunchCardMachine_twk DisTweaks_UsableObject]
+m_UnlockInteractText="`GBA_Use` Cartão do tempo"
+
+[PunchCardMachine_twk:DisTweaks_InteractableInterface_16 DisTweaks_InteractableInterface]
+m_Name="Máquina de Carimbo de Tempo"
+m_InteractText="`GBA_Use` Cartão do Tempo"
+m_CannotUseMessage="Cartão de tempo necessário"
+
+[WhaleEye_interact_twk:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Olho de Baleia"
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+

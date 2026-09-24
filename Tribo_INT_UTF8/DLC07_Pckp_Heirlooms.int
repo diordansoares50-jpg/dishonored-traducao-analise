@@ -1,0 +1,57 @@
+﻿[T2.DLC07_Pckp_Draper_Cameo:DisTweaks_Interactable_PickupBase_45 DisTweaks_Interactable_PickupBase]
+m_Name="Archer Cameo"
+
+[T2.DLC07_Pckp_Draper_Carmine_Urn:DisTweaks_Interactable_PickupBase_52 DisTweaks_Interactable_PickupBase]
+m_Name="Archer Urn"
+
+[T2.DLC07_Pckp_Draper_CigCase:DisTweaks_Interactable_PickupBase_46 DisTweaks_Interactable_PickupBase]
+m_Name="Archer Cigarette Case"
+
+[T2.DLC07_Pckp_Draper_JBox:DisTweaks_Interactable_PickupBase_48 DisTweaks_Interactable_PickupBase]
+m_Name="Archer Jewel Box"
+
+[T2.DLC07_Pckp_Draper_Medal:DisTweaks_Interactable_PickupBase_49 DisTweaks_Interactable_PickupBase]
+m_Name="Archer War Medal"
+
+[T2.DLC07_Pckp_Draper_PcktWtch:DisTweaks_Interactable_PickupBase_15 DisTweaks_Interactable_PickupBase]
+m_Name="Archer Pocket Watch"
+
+[T2.DLC07_Pckp_Draper_Plate:DisTweaks_Interactable_PickupBase_50 DisTweaks_Interactable_PickupBase]
+m_Name="Archer Decor Plate"
+
+[T2.DLC07_Pckp_Draper_Sextant:DisTweaks_Interactable_PickupBase_51 DisTweaks_Interactable_PickupBase]
+m_Name="Archer Sextant"
+
+[T2.DLC07_Pckp_Draper_Statue:DisTweaks_Interactable_PickupBase_47 DisTweaks_Interactable_PickupBase]
+m_Name="Archer Whale Statuette"
+
+[T3.DLC07_Pckp_T3_Brigmore_Cameo:DisTweaks_Interactable_PickupBase_60 DisTweaks_Interactable_PickupBase]
+m_Name="Brigmore Cameo"
+
+[T3.DLC07_Pckp_T3_Brigmore_CigCase:DisTweaks_Interactable_PickupBase_61 DisTweaks_Interactable_PickupBase]
+m_Name="Brigmore Cigarette Case"
+
+[T3.DLC07_Pckp_T3_Brigmore_Egg:DisTweaks_Interactable_PickupBase_62 DisTweaks_Interactable_PickupBase]
+m_Name="Brigmore Egg"
+
+[T3.DLC07_Pckp_T3_Brigmore_JBox:DisTweaks_Interactable_PickupBase_63 DisTweaks_Interactable_PickupBase]
+m_Name="Brigmore Jewel Box"
+
+[T3.DLC07_Pckp_T3_Brigmore_Medal:DisTweaks_Interactable_PickupBase_64 DisTweaks_Interactable_PickupBase]
+m_Name="Brigmore War Medal"
+
+[T3.DLC07_Pckp_T3_Brigmore_Plate:DisTweaks_Interactable_PickupBase_65 DisTweaks_Interactable_PickupBase]
+m_Name="Brigmore Decor Plate"
+
+[T3.DLC07_Pckp_T3_Brigmore_Sext:DisTweaks_Interactable_PickupBase_66 DisTweaks_Interactable_PickupBase]
+m_Name="Brigmore Sextant"
+
+[T3.DLC07_Pckp_T3_Brigmore_Statue:DisTweaks_Interactable_PickupBase_68 DisTweaks_Interactable_PickupBase]
+m_Name="Brigmore Whale Statuette"
+
+[T3.DLC07_Pckp_T3_Brigmore_Urn:DisTweaks_Interactable_PickupBase_67 DisTweaks_Interactable_PickupBase]
+m_Name="Brigmore Urn"
+
+[T3.DLC07_Pckp_T3_Brigmore_Watch:DisTweaks_Interactable_PickupBase_20 DisTweaks_Interactable_PickupBase]
+m_Name="Brigmore Pocket Watch"
+

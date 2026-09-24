@@ -1,0 +1,14 @@
+﻿[TestObjective2 DishonoredObjective]
+m_Description=Sr. Objetivo de Teste
+
+[TestObjective2:DishonoredTask_Collect_0 DishonoredTask_Collect]
+m_Description=Pegue uma daquelas adagas
+
+[TestObjective2:DishonoredTask_Kill_0 DishonoredTask_Kill]
+m_Description=Desperdice um desses caras
+
+[TestObjective2:DishonoredTask_Use_0 DishonoredTask_Use]
+m_Description=Use o Super Switch
+
+[TestObjective2:DishonoredTask_Goto_0 DishonoredTask_Goto]
+m_Description=Vá entrar naquele volume azul

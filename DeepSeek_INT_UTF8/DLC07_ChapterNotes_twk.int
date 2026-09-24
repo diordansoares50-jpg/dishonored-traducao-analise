@@ -1,0 +1,305 @@
+﻿[BRIGMORE.ChapterLog_Brigmore DisAbstractItem]
+m_ItemName="Notas: Brigmore Estate"
+m_PluralItemName=""
+m_Description="O esconderijo de Delilah Copperspoon é a antiga Mansão Brigmore. Infiltre-se na propriedade e encontre-a."
+
+[BRIGMORE.Chapternotes_Brigmore_keyhint DisAbstractItem]
+m_ItemName="Chave da Propriedade"
+m_PluralItemName=""
+m_Description="Uma bruxa chamada Isabelle parece ter a chave da propriedade. Ela está no quintal."
+
+[BRIGMORE.Chapternotes_Brigmore_lanternhint DisAbstractItem]
+m_ItemName="Lanterna Mágica"
+m_PluralItemName=""
+m_Description="A lanterna aparentemente é usada para abrir um portão através de uma das pinturas da Delilah."
+
+[BRIGMORE.Chapternotes_Brigmore_leverhint DisAbstractItem]
+m_ItemName="Uma Alavanca Pesada"
+m_PluralItemName=""
+m_Description="Esta alavanca pertence a algum mecanismo. Talvez seja bom vasculhar os arredores."
+
+[BRIGMORE.Chapternotes_Brigmore_Overhint DisAbstractItem]
+m_ItemName="Menina Kaldwin"
+m_PluralItemName=""
+m_Description="Aparentemente, Emily Kaldwin e as pinturas dela são centrais para os planos de Delilah."
+
+[BRIGMORE.Chapternotes_Brigmore_studiohint DisAbstractItem]
+m_ItemName="Estúdio da Delilah"
+m_PluralItemName=""
+m_Description="Delilah tem um estúdio em algum lugar dentro da mansão. Parece conter algo de valor."
+
+[BRIGMORE.Chapternotes_Brigmore_switchhint DisAbstractItem]
+m_ItemName="Localização da Alavanca Ausente"
+m_PluralItemName=""
+m_Description="Uma tampa mecanizada do túmulo de Jessop Brigmore foi desativada. A alavanca que falta pode estar no galpão de jardim da propriedade."
+
+[Coldridge.ChapterLog_Coldridge DisAbstractItem]
+m_ItemName="Notas: Prisão de Coldridge"
+m_PluralItemName=""
+m_Description="Lizzy Stride, a líder das Enguias Mortas, está em algum lugar dentro da Prisão de Coldridge. A fuga do antigo Lorde Protetor colocou o local em alerta máximo."
+
+[Coldridge.ChapterNotes_AngryPrisoner DisAbstractItem]
+m_ItemName="Prisioneiro Furioso"
+m_PluralItemName=""
+m_Description="O Prisioneiro na cela D03 tem um acerto de contas com um dos guardas. Abrir sua cela poderia criar uma boa distração."
+
+[Coldridge.ChapterNotes_ArcPylon DisAbstractItem]
+m_ItemName="Pilar de Arco"
+m_PluralItemName=""
+m_Description="Um Pilar de Arco guarda a entrada. Prisioneiros em fuga não têm chance contra ele."
+
+[Coldridge.ChapterNotes_CrazedPrisoner_A15 DisAbstractItem]
+m_ItemName="Prisioneiro Instável"
+m_PluralItemName=""
+m_Description="O homem na cela A15 parece instável. Abrir sua cela poderia criar uma distração."
+
+[Coldridge.ChapterNotes_CrazedPrisoner_D22 DisAbstractItem]
+m_ItemName="Prisioneiro Instável"
+m_PluralItemName=""
+m_Description="O homem na cela D22 parece instável. Abrir sua cela poderia criar uma distração."
+
+[Coldridge.ChapterNotes_Disguise DisAbstractItem]
+m_ItemName="Disfarce de Supervisor"
+m_PluralItemName=""
+m_Description="Você vestiu um disfarce de Superintendente para se infiltrar na Prisão Coldridge. Os guardas da prisão chamaram um Superintendente para investigar uma cena oculta na sala de interrogatório, e provavelmente esperam que você interprete o papel."
+
+[Coldridge.ChapterNotes_Hatter DisAbstractItem]
+m_ItemName="O Chapeleiro"
+m_PluralItemName=""
+m_Description="O Chapeleiro na cela D11 quer Lizzy Stride morta."
+
+[Coldridge.ChapterNotes_Helpful DisAbstractItem]
+m_ItemName="Guarda Útil"
+m_PluralItemName=""
+m_Description="Os guardas estão sendo executados no pátio. Eles podem ter informações úteis para compartilhar se fossem poupados."
+
+[Coldridge.ChapterNotes_LizzyCarry DisAbstractItem]
+m_ItemName="`GBA_Use` Carregar"
+m_PluralItemName=""
+m_Description="Lizzy Stride não consegue andar, ela precisará ser carregada para fora de Coldridge."
+
+[Coldridge.ChapterNotes_LizzyStride DisAbstractItem]
+m_ItemName="Passo de Lizzy"
+m_PluralItemName=""
+m_Description="Lizzy Stride é a líder das Enguias e uma prisioneira difícil. Foram tomadas precauções extras para mantê-la trancada."
+
+[Coldridge.ChapterNotes_Logbook DisAbstractItem]
+m_ItemName="O Diário de Bordo"
+m_PluralItemName=""
+m_Description="Um livro de registro de todas as transferências dentro da prisão é mantido na guarita entre as seções C e D. O número da cela da Lizzy deve estar lá."
+
+[Coldridge.ChapterNotes_Offlimits DisAbstractItem]
+m_ItemName="Proibido"
+m_PluralItemName=""
+m_Description="Os controles das celas acima do pátio, dos blocos de celas dos prisioneiros e do pátio de execução são proibidos."
+
+[Coldridge.ChapterNotes_StrideCell_A00 DisAbstractItem]
+m_ItemName="Célula do Stride"
+m_PluralItemName=""
+m_Description="Lizzy Stride está detida na cela A00"
+
+[Coldridge.ChapterNotes_StrideCell_A21 DisAbstractItem]
+m_ItemName="Célula do Stride"
+m_PluralItemName=""
+m_Description="Lizzy Stride está detida na cela A21"
+
+[Coldridge.ChapterNotes_StrideCell_C28 DisAbstractItem]
+m_ItemName="Célula do Stride"
+m_PluralItemName=""
+m_Description="Lizzy Stride está detida na cela C28"
+
+[Coldridge.ChapterNotes_StrideCell_D24 DisAbstractItem]
+m_ItemName="Célula do Stride"
+m_PluralItemName=""
+m_Description="Lizzy Stride está detida na cela D24"
+
+[DrapersWard.ChapterLog_DrapersWard DisAbstractItem]
+m_ItemName="Notas: Distrito dos Alfaiates"
+m_PluralItemName=""
+m_Description="Lizzy Stride, líder da gangue Enguias Mortas, é a capitã do navio Undine. Ajude Lizzy e use o Undine para navegar rio acima até a Mansão Brigmore."
+
+[DrapersWard.Chapternotes_Mill_Code165 DisAbstractItem]
+m_ItemName="Combinação da Sala de Máquinas"
+m_PluralItemName=""
+m_Description="Combinação da Sala de Máquinas: 165"
+
+[DrapersWard.Chapternotes_Mill_Code238 DisAbstractItem]
+m_ItemName="Combinação da Sala de Máquinas"
+m_PluralItemName=""
+m_Description="Combinação da Sala de Máquinas: 238"
+
+[DrapersWard.Chapternotes_Mill_Code387 DisAbstractItem]
+m_ItemName="Combinação da Sala de Máquinas"
+m_PluralItemName=""
+m_Description="Combinação da Sala de Máquinas: 387"
+
+[DrapersWard.Chapternotes_Mill_Code408 DisAbstractItem]
+m_ItemName="Combinação da Sala de Máquinas"
+m_PluralItemName=""
+m_Description="Combinação da Sala de Máquinas: 408"
+
+[DrapersWard.Chapternotes_Mill_Code572 DisAbstractItem]
+m_ItemName="Combinação da Sala de Máquinas"
+m_PluralItemName=""
+m_Description="Combinação da Sala de Máquinas: 572"
+
+[DrapersWard.Chapternotes_Mill_Code669 DisAbstractItem]
+m_ItemName="Combinação da Sala de Máquinas"
+m_PluralItemName=""
+m_Description="Combinação da Sala de Máquinas: 669"
+
+[DrapersWard.Chapternotes_Mill_Code774 DisAbstractItem]
+m_ItemName="Combinação da Sala de Máquinas"
+m_PluralItemName=""
+m_Description="Combinação da Sala de Máquinas: 774"
+
+[DrapersWard.Chapternotes_Mill_Code837 DisAbstractItem]
+m_ItemName="Combinação da Sala de Máquinas"
+m_PluralItemName=""
+m_Description="Combinação da Sala de Máquinas: 837"
+
+[DrapersWard.Chapternotes_Mill_Code873 DisAbstractItem]
+m_ItemName="Combinação da Sala de Máquinas"
+m_PluralItemName=""
+m_Description="Combinação da Sala de Máquinas: 873"
+
+[DrapersWard.Chapternotes_Mill_Code984 DisAbstractItem]
+m_ItemName="Combinação da Sala de Máquinas"
+m_PluralItemName=""
+m_Description="Combinação da Sala de Máquinas: 984"
+
+[DrapersWard.Chapternotes_Mill_Combohint DisAbstractItem]
+m_ItemName="Bobina do Motor"
+m_PluralItemName=""
+m_Description="É necessária uma combinação para chegar à bobina do motor que opera o moinho. Encontre o Velhote para ver se ele fará um acordo para entregá-la."
+
+[DrapersWard.Chapternotes_Mill_Formulahint DisAbstractItem]
+m_ItemName="Laboratório de Busca"
+m_PluralItemName=""
+m_Description="Procure no laboratório da Enfermeira Trimble pela fórmula do antídoto."
+
+[DrapersWard.Chapternotes_Mill_Gashint DisAbstractItem]
+m_ItemName="Liberação de Gás Tóxico"
+m_PluralItemName=""
+m_Description="Se o Velho morrer ou for desconectado do seu suporte de vida, ele liberará um gás tóxico que matará todos na Fábrica. O gás consegue corroer uma máscara de gás."
+
+[DrapersWard.Chapternotes_Mill_GCode16 DisAbstractItem]
+m_ItemName="Combinação da Sala de Máquinas"
+m_PluralItemName=""
+m_Description="Combinação da Sala de Máquinas: 16..."
+
+[DrapersWard.Chapternotes_Mill_GCode23 DisAbstractItem]
+m_ItemName="Combinação da Sala de Máquinas"
+m_PluralItemName=""
+m_Description="Combinação da Sala de Máquinas: 23..."
+
+[DrapersWard.Chapternotes_Mill_GCode38 DisAbstractItem]
+m_ItemName="Combinação da Sala de Máquinas"
+m_PluralItemName=""
+m_Description="Combinação da Sala de Máquinas: 38..."
+
+[DrapersWard.Chapternotes_Mill_GCode40 DisAbstractItem]
+m_ItemName="Combinação da Sala de Máquinas"
+m_PluralItemName=""
+m_Description="Combinação da Sala de Máquinas: 40..."
+
+[DrapersWard.Chapternotes_Mill_GCode57 DisAbstractItem]
+m_ItemName="Combinação da Sala de Máquinas"
+m_PluralItemName=""
+m_Description="Combinação da Sala de Máquinas: 57..."
+
+[DrapersWard.Chapternotes_Mill_GCode66 DisAbstractItem]
+m_ItemName="Combinação da Sala de Máquinas"
+m_PluralItemName=""
+m_Description="Combinação da Sala de Máquinas: 66..."
+
+[DrapersWard.Chapternotes_Mill_GCode77 DisAbstractItem]
+m_ItemName="Combinação da Sala de Máquinas"
+m_PluralItemName=""
+m_Description="Combinação da Sala de Máquinas: 77..."
+
+[DrapersWard.Chapternotes_Mill_GCode83 DisAbstractItem]
+m_ItemName="Combinação da Sala de Máquinas"
+m_PluralItemName=""
+m_Description="Combinação da Sala de Máquinas: 83..."
+
+[DrapersWard.Chapternotes_Mill_GCode87 DisAbstractItem]
+m_ItemName="Combinação da Sala de Máquinas"
+m_PluralItemName=""
+m_Description="Combinação da Sala de Máquinas: 87..."
+
+[DrapersWard.Chapternotes_Mill_GCode98 DisAbstractItem]
+m_ItemName="Combinação da Sala de Máquinas"
+m_PluralItemName=""
+m_Description="Combinação da Sala de Máquinas: 98..."
+
+[DrapersWard.Chapternotes_Mill_Labhint DisAbstractItem]
+m_ItemName="Enfermeira Trimble"
+m_PluralItemName=""
+m_Description="Trimble é o verdadeiro cérebro por trás da operação do Moinho. Ele só deixa o Velho para atender seus experimentos no laboratório."
+
+[DrapersWard.Chapternotes_Mill_Mechanichint DisAbstractItem]
+m_ItemName="Mecânica do Chapeleiro no Esgoto"
+m_PluralItemName=""
+m_Description="O mecânico do Chapeleiro não retornou de tentar restaurar a água nos esgotos. Ele sabe a combinação da sala das máquinas."
+
+[DrapersWard.Chapternotes_Sewer_MaintKey DisAbstractItem]
+m_ItemName="Chave de Aptidão de Mecânico do Chapeleiro"
+m_PluralItemName=""
+m_Description="A chave do Mecânico Chapeleiro abre o armário em seu apartamento, localizado nas Ruas do Bairro dos Alfaiates."
+
+[DrapersWard.Chapternotes_Ship_Drowning DisAbstractItem]
+m_ItemName="Uma vítima de afogamento"
+m_PluralItemName=""
+m_Description="O amotinado Edgar Wakefield afogou um membro da gangue que era leal a Lizzy e o afundou no rio perto do Undine."
+
+[DrapersWard.Chapternotes_Ship_EdgarLives DisAbstractItem]
+m_ItemName="Misericórdia para um Traidor"
+m_PluralItemName=""
+m_Description="Você manteve Edgar Wakefield vivo quando tinha todas as razões para matá-lo. Esta misericórdia não passou despercebida."
+
+[DrapersWard.Chapternotes_Ship_EngineCoil DisAbstractItem]
+m_ItemName="A Bobina do Motor Roubada"
+m_PluralItemName=""
+m_Description="Os Chapéus Malucos roubaram a Bobina do Motor do navio Undine, dos Enguias Mortas. O navio está inoperante sem ela. É preciso recuperá-la antes que Lizzy possa levá-lo rio acima até a Mansão Brigmore."
+
+[DrapersWard.Chapternotes_Ship_ScoutSpotted DisAbstractItem]
+m_ItemName="Batedor Avistado"
+m_PluralItemName=""
+m_Description="Uma figura misteriosa foi vista observando a Undine e sua tripulação, mas eles se teletransportaram antes que você pudesse investigar mais a fundo."
+
+[DrapersWard.Chapternotes_Street_DressMaker DisAbstractItem]
+m_ItemName="A Costureira"
+m_PluralItemName=""
+m_Description="A costureira do Bairro dos Alfaiates já confeccionou roupas de luxo para Emily Kaldwin, herdeira do trono."
+
+[DrapersWard.Chapternotes_Street_GangWar DisAbstractItem]
+m_ItemName="Guerra de Gangues"
+m_PluralItemName=""
+m_Description="Os Enguias Mortos e os Chapeleiros estão envolvidos em uma guerra de gangues em grande escala."
+
+[DrapersWard.Chapternotes_Street_Granny DisAbstractItem]
+m_ItemName="Receita da Vovó"
+m_PluralItemName=""
+m_Description="Granny Rags preparou uma renovação de seus votos ao Forasteiro. Complete o ritual para coletar o presente de casamento."
+
+[DrapersWard.Chapternotes_Street_Jerome DisAbstractItem]
+m_ItemName="Jerome, o Mercador do Mercado Negro"
+m_PluralItemName=""
+m_Description="Antigo comerciante dos dias de glória do Bairro dos Alfaiates, Jerome agora negocia itens do mercado negro e de difícil obtenção, operando com segurança de seu apartamento com vista para o Canal da Chapelaria."
+
+[DrapersWard.Chapternotes_Street_Oxrush DisAbstractItem]
+m_ItemName="A Flor Oxrush"
+m_PluralItemName=""
+m_Description="A rara flor Oxrush é valorizada por suas propriedades medicinais e alquímicas."
+
+[DrapersWard.Chapternotes_Street_Password DisAbstractItem]
+m_ItemName="Senha do Moinho do Chapeleiro"
+m_PluralItemName=""
+m_Description="Os Chapéus têm uma senha secreta que usam para entrar na Fábrica Têxtil que serve como sua base."
+
+[DrapersWard.Chapternotes_Street_Skinflint DisAbstractItem]
+m_ItemName="Skinflint é um caloteiro."
+m_PluralItemName=""
+m_Description="O Chapeleiro conhecido como Pão-Duro nunca pagou a Jerome pelos produtos que levou. Pão-Duro é um fumante inveterado encarregado de guardar a porta do esgoto perto do canal."
+

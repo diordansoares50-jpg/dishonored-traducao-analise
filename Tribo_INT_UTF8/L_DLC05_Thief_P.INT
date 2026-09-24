@@ -1,0 +1,10 @@
+﻿[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_DialogScriptedChoice_1 DisSeqAct_DialogScriptedChoice]
+m_Title=""
+m_Choices[0]=(m_ChoiceText="Restart Level")
+m_Choices[1]=(m_ChoiceText="Return to Menu")
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_ShowLocationDiscovery_10 DisSeqAct_ShowLocationDiscovery]
+m_LocationName="Resetting Challenge"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_GameOver_5 DisSeqAct_GameOver]
+m_Reason="You have met your demise"

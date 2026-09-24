@@ -1,0 +1,49 @@
+﻿============================================================
+DISHONORED - CONVERSÃƒO PARA UTF-8
+============================================================
+
+REPOSITÃ“RIO:
+C:\Users\Usuario\Documents\GitHub\dishonored-traducao-analise
+
+ORIGEM TRIBO:
+C:\Users\Usuario\Documents\GitHub\dishonored-traducao-analise\Tribo_INT
+
+ORIGEM DEEPSEEK:
+C:\Users\Usuario\Documents\GitHub\dishonored-traducao-analise\DeepSeek_INT
+
+SAÃDAS:
+C:\Users\Usuario\Documents\GitHub\dishonored-traducao-analise\Tribo_INT_UTF8
+C:\Users\Usuario\Documents\GitHub\dishonored-traducao-analise\DeepSeek_INT_UTF8
+
+------------------------------------------------------------
+RESULTADO
+------------------------------------------------------------
+
+Arquivos Tribo convertidos:       658
+Arquivos DeepSeek convertidos:    658
+Erros:                             0
+
+------------------------------------------------------------
+CODIFICAÃ‡Ã•ES DETECTADAS
+------------------------------------------------------------
+
+UTF-16 LE:                         1114
+UTF-8 / UTF-8 BOM:                 100
+Windows-1252:                      100
+Arquivos vazios:                   2
+
+------------------------------------------------------------
+ARQUIVOS DE RELATÃ“RIO
+------------------------------------------------------------
+
+Conversao_UTF8_Relatorio.csv
+Conversao_UTF8_Erros.csv
+Conversao_UTF8_Resumo.txt
+
+------------------------------------------------------------
+IMPORTANTE
+------------------------------------------------------------
+
+As pastas originais Tribo_INT e DeepSeek_INT NÃƒO foram alteradas.
+As novas pastas *_UTF8 sÃ£o apenas cÃ³pias para anÃ¡lise.
+NÃƒO use as cÃ³pias *_UTF8 diretamente no jogo.

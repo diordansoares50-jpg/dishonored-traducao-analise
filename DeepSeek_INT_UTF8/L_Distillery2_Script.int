@@ -1,0 +1,48 @@
+﻿[TheWorld:PersistentLevel.DisDoor_0 DisDoor]
+m_DoorName=""
+m_MatchingKey=""
+m_MatchingKeys[0]="Distillery Reserve Key"
+
+[TheWorld:PersistentLevel.DisDoor_1 DisDoor]
+m_DoorName=""
+m_MatchingKey=""
+m_MatchingKeys[0]="Distillery Reserve Key"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_AddDarkness_0 DisSeqAct_AddDarkness]
+m_Text=""
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_AddDarkness_2 DisSeqAct_AddDarkness]
+m_Text=""
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_AddKey_0 DisSeqAct_AddKey]
+m_Name="A Chave do Hotel Cadeira do Capitão"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_DialogScriptedChoice_1 DisSeqAct_DialogScriptedChoice]
+m_Title=""
+m_Choices[0]=(m_ChoiceText="Go to Bottle Street")
+m_Choices[1]=(m_ChoiceText="Stay at Dunwall Whiskey Distillery")
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_GameOver_0 DisSeqAct_GameOver]
+m_Reason="Você matou o único homem ainda capaz de eliminar os Pendletons."
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_GameOver_1 DisSeqAct_GameOver]
+m_Reason="Você é inimigo do único homem ainda capaz de eliminar os Pendletons."
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_ShowHUDMessage_3 DisSeqAct_ShowHUDMessage]
+m_Message="Nova Pista de Missão Adicionada"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_ShowLocationDiscovery_0 DisSeqAct_ShowLocationDiscovery]
+m_LocationName="Destilaria de Whiskey de Dunwall"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_ShowLocationDiscovery_1 DisSeqAct_ShowLocationDiscovery]
+m_LocationName="Entrando na Zona Neutra"
+
+[TheWorld:PersistentLevel.Main_Sequence.HeartTargets.DisSeqAct_UpdateTaskTarget_0 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Mandíbula Frouxa"
+
+[TheWorld:PersistentLevel.Main_Sequence.HeartTargets.DisSeqAct_UpdateTaskTarget_16 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Distrito da Destilaria"
+
+[TheWorld:PersistentLevel.Main_Sequence.HeartTargets.DisSeqAct_UpdateTaskTarget_7 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Mandíbula Frouxa"
+

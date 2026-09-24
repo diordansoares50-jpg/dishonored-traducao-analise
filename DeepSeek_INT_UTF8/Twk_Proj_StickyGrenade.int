@@ -1,0 +1,16 @@
+﻿[Twk_Proj_StickyGrenade:DisTweaks_InteractableInterface_1 DisTweaks_InteractableInterface]
+m_Name="Granada Pegajosa"
+m_InteractText="`GBA_Use` Carregar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Twk_Proj_StickyGrenade:DisTweaks_InteractableInterface_8 DisTweaks_InteractableInterface]
+m_Name="Granada Pegajosa"
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage="Você não pode carregar mais munição deste tipo"
+

@@ -1,0 +1,69 @@
+﻿[TheWorld:PersistentLevel.DisDoor_1 DisDoor]
+m_DoorName=""
+m_MatchingKey=""
+m_MatchingKeys[0]="Chave do Elevador do Farol"
+
+[TheWorld:PersistentLevel.DisDoor_2 DisDoor]
+m_DoorName=""
+m_MatchingKey=""
+m_MatchingKeys[0]="Chave do Elevador do Farol"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_DialogScriptedChoice_0 DisSeqAct_DialogScriptedChoice]
+m_Title=""
+m_Choices[0]=(m_ChoiceText="Ir para o Farol Burrows")
+m_Choices[1]=(m_ChoiceText="Ficar no Forte de Kingsparrow")
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_ShowLocationDiscovery_0 DisSeqAct_ShowLocationDiscovery]
+m_LocationName="Guarita de Kingsparrow"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_ShowLocationDiscovery_2 DisSeqAct_ShowLocationDiscovery]
+m_LocationName="Forte de Kingsparrow"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_UpdateTaskTarget_1 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Guarita"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_UpdateTaskTarget_11 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Elevador do Farol"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_UpdateTaskTarget_12 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Elevador do Farol"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_UpdateTaskTarget_13 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Acesse o Farol"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_UpdateTaskTarget_14 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Drenagem da Guarita"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_UpdateTaskTarget_15 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Guarita"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_UpdateTaskTarget_16 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Passarela da Guarita"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_UpdateTaskTarget_18 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Forte"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_UpdateTaskTarget_19 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Entrada da Praia"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_UpdateTaskTarget_2 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Elevador do Farol"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_UpdateTaskTarget_20 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Entrada do Porto"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_UpdateTaskTarget_21 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Guarita"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_UpdateTaskTarget_22 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Guarita"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_UpdateTaskTarget_3 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Elevador do Farol"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_UpdateTaskTarget_5 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Guarita"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_UpdateTaskTarget_6 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Forte"
+

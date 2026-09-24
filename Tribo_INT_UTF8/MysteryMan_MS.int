@@ -1,0 +1,199 @@
+﻿[Clues.Clue_Color_Blue DisAbstractItem]
+m_ItemName="Clue"
+m_PluralItemName="Clues"
+m_Description="Your target wears blue clothes."
+
+[Clues.Clue_Color_Blue_Pickup DisTweaks_AbstractItemPickupNote]
+m_PressKeyToReadMessage=""
+m_OnPickupMessage=""
+
+[Clues.Clue_Color_Red DisAbstractItem]
+m_ItemName="Clue"
+m_PluralItemName="Clues"
+m_Description="Your target wears red clothes."
+
+[Clues.Clue_Color_Red_Pickup DisTweaks_AbstractItemPickupNote]
+m_PressKeyToReadMessage=""
+m_OnPickupMessage=""
+
+[Clues.Clue_Gender_Female DisAbstractItem]
+m_ItemName="Clue"
+m_PluralItemName="Clues"
+m_Description="Your target is a woman."
+
+[Clues.Clue_Gender_Female_Pickup DisTweaks_AbstractItemPickupNote]
+m_PressKeyToReadMessage=""
+m_OnPickupMessage=""
+
+[Clues.Clue_Gender_Male DisAbstractItem]
+m_ItemName="Clue"
+m_PluralItemName="Clues"
+m_Description="Your target is a man."
+
+[Clues.Clue_Gender_Male_Pickup DisTweaks_AbstractItemPickupNote]
+m_PressKeyToReadMessage=""
+m_OnPickupMessage=""
+
+[Clues.Clue_Hat_No DisAbstractItem]
+m_ItemName="Clue"
+m_PluralItemName="Clues"
+m_Description="Your target does not wear a helmet, a hat or a mask."
+
+[Clues.Clue_Hat_No_Pickup DisTweaks_AbstractItemPickupNote]
+m_PressKeyToReadMessage=""
+m_OnPickupMessage=""
+
+[Clues.Clue_Hat_Yes DisAbstractItem]
+m_ItemName="Clue"
+m_PluralItemName="Clues"
+m_Description="Your target wears a helmet, a hat or a mask."
+
+[Clues.Clue_Hat_Yes_Pickup DisTweaks_AbstractItemPickupNote]
+m_PressKeyToReadMessage=""
+m_OnPickupMessage=""
+
+[Clues.Clue_PickUp DisTweaks_AbstractItemPickupNote]
+m_PressKeyToReadMessage=""
+m_OnPickupMessage=""
+
+[Clues.Clue_PickUp:pInteractableTweaks_PickupBase DisTweaks_Interactable_PickupBase]
+m_InteractText="`GBA_Use` Pick up"
+
+[Clues.Clue_Pickup_Belt_twk DisTweaks_Key]
+m_Description="Anonymous clue."
+
+[Clues.Clue_Pickup_Belt_twk:pInteractableTweaks_PickupBase DisTweaks_Interactable_PickupBase]
+m_Name=""
+
+[Clues.Clue_PickupSample DisAbstractItem]
+m_ItemName="Clue"
+m_PluralItemName="Clues"
+m_Description="Anonymous clue."
+
+[Clues.Clue_Type_AristoFemale DisAbstractItem]
+m_ItemName="Clue"
+m_PluralItemName="Clues"
+m_Description="Your target is an aristocrat woman."
+
+[Clues.Clue_Type_AristoFemale_Pickup DisTweaks_AbstractItemPickupNote]
+m_PressKeyToReadMessage=""
+m_OnPickupMessage=""
+
+[Clues.Clue_Type_AristoMale DisAbstractItem]
+m_ItemName="Clue"
+m_PluralItemName="Clues"
+m_Description="Your target is an aristocrat man."
+
+[Clues.Clue_Type_AristoMale_Pickup DisTweaks_AbstractItemPickupNote]
+m_PressKeyToReadMessage=""
+m_OnPickupMessage=""
+
+[Clues.Clue_Type_CityGuard DisAbstractItem]
+m_ItemName="Clue"
+m_PluralItemName="Clues"
+m_Description="Your target is a member of the City Watch."
+
+[Clues.Clue_Type_CityGuard_Pickup DisTweaks_AbstractItemPickupNote]
+m_PressKeyToReadMessage=""
+m_OnPickupMessage=""
+
+[Clues.Clue_Type_EliteGuard DisAbstractItem]
+m_ItemName="Clue"
+m_PluralItemName="Clues"
+m_Description="Your target is an elite guard."
+
+[Clues.Clue_Type_EliteGuard_Pickup DisTweaks_AbstractItemPickupNote]
+m_PressKeyToReadMessage=""
+m_OnPickupMessage=""
+
+[Clues.Clue_Type_Prostitute DisAbstractItem]
+m_ItemName="Clue"
+m_PluralItemName="Clues"
+m_Description="Your target is a courtesan."
+
+[Clues.Clue_Type_Prostitute_Pickup DisTweaks_AbstractItemPickupNote]
+m_PressKeyToReadMessage=""
+m_OnPickupMessage=""
+
+[Clues.Clue_Type_Servant DisAbstractItem]
+m_ItemName="Clue"
+m_PluralItemName="Clues"
+m_Description="Your target is a servant."
+
+[Clues.Clue_Type_Servant_Pickup DisTweaks_AbstractItemPickupNote]
+m_PressKeyToReadMessage=""
+m_OnPickupMessage=""
+
+[Notes.DisclaimerExpert_AbstrInv DisAbstractItem]
+m_ItemName="Mystery Foe"
+m_PluralItemName=""
+m_Description="Collect the four clues without being detected to discover who your target is and execute him or her.\n \nThe target is chosen randomly each time you play. \nYou can try to find who your target is without having all the clues, but if you kill an innocent, the challenge is over.\nDo NOT get spotted. If you get spotted, your target will try to escape.\n\nThe clues are placed on the belts of some characters. You'll have to pickpocket them. \n\nScoring: \n* If you kill the right person without having all the clues, you score more points.  \n* Avoiding the guards is worth more points than knocking them unconscious,  which in turn is worth more than killing them.\n\nGame Over: \nThe challenge is over if the target escapes or if you kill an innocent."
+
+[Notes.DisclaimerExpert_Pickup DisTweaks_AbstractItemPickupNote]
+m_PressKeyToReadMessage=""
+m_OnPickupMessage=""
+
+[Notes.DisclaimerNormal_AbstrInv DisAbstractItem]
+m_ItemName="Mystery Foe"
+m_PluralItemName=""
+m_Description="Collect the four clues without being detected to discover who your target is and execute him or her.\n \nThe target is chosen randomly each time you play. \nYou can try to find who your target is without having all the clues, but if you kill an innocent, the challenge is over.\nDo NOT get spotted. If you get spotted, your target will try to escape.\n\nScoring: \n* If you kill the right person without having all the clues, you score more points.  \n* Avoiding the guards is worth more points than knocking them unconscious,  which in turn is worth more than killing them.\n\nGame Over: \nThe challenge is over if the target escapes or if you kill an innocent."
+
+[Notes.DisclaimerNormal_Pickup DisTweaks_AbstractItemPickupNote]
+m_PressKeyToReadMessage=""
+m_OnPickupMessage=""
+
+[Notes.GlobalDistraction_Buffet_AbstrInv DisAbstractItem]
+m_ItemName="Announcement"
+m_PluralItemName=""
+m_Description=""
+
+[Notes.GlobalDistraction_PianoLounge_AbstrInv DisAbstractItem]
+m_ItemName="Announcement"
+m_PluralItemName=""
+m_Description=""
+
+[Notes.GlobalDistraction_Show_AbstrInv DisAbstractItem]
+m_ItemName="Announcement"
+m_PluralItemName=""
+m_Description=""
+
+[Pickup_Twk.Doll_AbtrItm DisAbstractItem]
+m_ItemName="Emily's Doll"
+m_PluralItemName="Emily's Dolls"
+m_Description="Emily's Doll from her childhood."
+
+[Pwn_Tweaks.NPCPlotSettings_twk DisTweaks_NPCPlotSettings]
+m_PlotSettings.m_GameOverWhenHostileToPlayer.m_ScreenMessage=""
+m_PlotSettings.m_GameOverWhenDead.m_ScreenMessage=""
+m_PlotSettings.m_GameOverWhenPossessedByPlayer.m_ScreenMessage=""
+
+[Tweaks.locked_door_twk DisTweaks_Door]
+m_DoorOpenCCW.m_InteractTextOverride=""
+m_DoorOpenCW.m_InteractTextOverride=""
+m_DoorCloseCCW.m_InteractTextOverride="`GBA_Use` Close"
+m_DoorCloseCW.m_InteractTextOverride="`GBA_Use` Close"
+m_DoorSlamOpenCCW.m_InteractTextOverride=""
+m_DoorSlamOpenCW.m_InteractTextOverride=""
+m_FocusLockedMessage=""
+
+[Usable.clock_twk DisTweaks_UsableObject]
+m_LockedMessage=""
+
+[Usable.clock_twk:DisTweaks_InteractableInterface_16 DisTweaks_InteractableInterface]
+m_Name="Clock"
+m_InteractText="`GBA_Use` Set Time"
+
+[Usable.Twk_Map_MysteryMan DisTweaks_AbstractItemPickupNote]
+m_PressKeyToReadMessage=""
+m_OnPickupMessage=""
+m_SingleItemPickupMessage=""
+
+[Usable.Twk_Map_MysteryMan:DisTweaks_Interactable_PickupBase_107 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name="Area Map"
+m_InteractText="`GBA_Use` Look"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+

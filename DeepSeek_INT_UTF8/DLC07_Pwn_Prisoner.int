@@ -1,0 +1,12 @@
+﻿[DLC07_Pwn_Prisoner_Combatant:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Chapeleiro"
+
+[DLC07_Pwn_Prisoner_EliteGuard:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Oficial de Vigia"
+
+[DLC07_Pwn_Prisoner_LowerGuard:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Observar Guarda Baixa"
+
+[DLC07_Pwn_Prisoner_MTall_Thug_1:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Chapeleiro"
+

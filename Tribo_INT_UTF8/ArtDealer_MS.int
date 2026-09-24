@@ -1,0 +1,33 @@
+﻿[door_small_fixed_twk DisTweaks_Door]
+m_DoorOpenCCW.m_InteractTextOverride=""
+m_DoorOpenCW.m_InteractTextOverride=""
+m_DoorCloseCCW.m_InteractTextOverride=""
+m_DoorCloseCW.m_InteractTextOverride=""
+m_DoorSlamOpenCCW.m_InteractTextOverride=""
+m_DoorSlamOpenCW.m_InteractTextOverride=""
+m_UnlockInteractText=""
+m_LockedMessage=""
+m_UnauthorizedMessage=""
+m_FocusMessage=""
+m_FocusLockedMessage=""
+
+[door_small_fixed_twk:DisTweaks_InteractableInterface_41 DisTweaks_InteractableInterface]
+m_Name=""
+m_InteractText=""
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[VIPcombination_twk DisTweaks_AbstractItemPickup]
+m_SingleItemPickupMessage=""
+
+[VIPcombination_twk:DisTweaks_Interactable_PickupBase_0 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name="`i"
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+

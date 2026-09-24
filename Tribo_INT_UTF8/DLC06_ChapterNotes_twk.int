@@ -1,0 +1,140 @@
+﻿[Daud.ChapterLog_Daud DisAbstractItem]
+m_ItemName="Notes: The Surge"
+m_PluralItemName=""
+m_Description="Delilah is a powerful witch who leads a coven that has moved into the ruins of Brigmore Manor. You've returned to your hidden base in the Flooded District to plan your next move."
+
+[Daud.ChapterNotes_Artifact DisAbstractItem]
+m_ItemName="Heretical Artifact"
+m_PluralItemName=""
+m_Description="Overseers are collecting confiscated artifacts at their temporary headquarters."
+
+[Daud.ChapterNotes_Brief DisAbstractItem]
+m_ItemName="Briefing"
+m_PluralItemName=""
+m_Description="Overseers have taken the base by surprise, the assassins are scattered and some are captured. Free them to retake control of the area."
+
+[Daud.ChapterNotes_HumeLetter DisAbstractItem]
+m_ItemName="Hume's Letter"
+m_PluralItemName=""
+m_Description="Overseer Hume is responsible for leading the attack. The assault plans he ignored are in the Overseer's temporary headquarters."
+
+[Slaughter.ChapterLog_Slaughter DisAbstractItem]
+m_ItemName="Notes: A Captain of Industry"
+m_PluralItemName=""
+m_Description="Bundry Rothwild is a ruthless businessman who owns a slaughterhouse and a fleet of whaling ships, including a ship called The Delilah. Infiltrate the Rothwild Slaughterhouse and find out what's behind the name."
+
+[Slaughter.ChapterNotes_Slaughter_Abigail DisAbstractItem]
+m_ItemName="Abigail Ames"
+m_PluralItemName=""
+m_Description="Abigail Ames is an agent for the rival Ramsey Slaughterhouse, with a mission to infiltrate and sabotage Rothwild’s operation."
+
+[Slaughter.ChapterNotes_Slaughter_Butcher DisAbstractItem]
+m_ItemName="The Butchers"
+m_PluralItemName=""
+m_Description="The butchers are fiercely loyal to Bundry Rothwild, and many once ran with the gangs in Dunwall before joining him. In addition to their jobs, they also serve as Rothwild’s enforcers."
+
+[Slaughter.ChapterNotes_Slaughter_Chair DisAbstractItem]
+m_ItemName="Interrogation Chair"
+m_PluralItemName=""
+m_Description="In the meat locker area is a makeshift interrogation chair used to coerce workers and learn their secrets."
+
+[Slaughter.ChapterNotes_Slaughter_Code DisAbstractItem]
+m_ItemName="Mysterious Numbers"
+m_PluralItemName=""
+m_Description="You discovered an old scrap of paper with the numbers seven, two and eight written on it."
+
+[Slaughter.ChapterNotes_Slaughter_Crate DisAbstractItem]
+m_ItemName="The Empty Crate"
+m_PluralItemName=""
+m_Description="An empty crate, fitted for live cargo, is going to be shipped away soon."
+
+[Slaughter.ChapterNotes_Slaughter_FavorAlarm DisAbstractItem]
+m_ItemName="Alarms Disabled"
+m_PluralItemName=""
+m_Description="As a result of your bribe, the alarm system has been disabled and there will be no alert if you begin turning on pressure valves in the refinery area."
+
+[Slaughter.ChapterNotes_Slaughter_Granny DisAbstractItem]
+m_ItemName="Granny's Recipe"
+m_PluralItemName=""
+m_Description="Granny Rags has written down various rituals and formulas to produce items of power."
+
+[Slaughter.ChapterNotes_Slaughter_Saw DisAbstractItem]
+m_ItemName="The Butcher’s Saw"
+m_PluralItemName=""
+m_Description="The whale butchers use a powerful saw that slices up flesh in seconds. It can also fire projectiles for carving hard to reach whale parts. The butchers are devastatingly adept at handling these blades."
+
+[Slaughter.ChapterNotes_Slaughter_Ship DisAbstractItem]
+m_ItemName="Barrister Timsh's Ship"
+m_PluralItemName=""
+m_Description="Barrister Arnold Timsh named a new whaling ship after a painter named Delilah, who captivated him. Then, in an odd panic, he threw her out and rid himself of all links to her."
+
+[Slaughter.ChapterNotes_Slaughter_Sokolov DisAbstractItem]
+m_ItemName="Arc Mines"
+m_PluralItemName=""
+m_Description="Anton Sokolov has donated Arc Mines to Bundry Rothwild. Rothwild allows Sokolov to study whales in the slaughterhouse, and sometimes the favor is returned in the form of designs for prototype tools."
+
+[Slaughter.ChapterNotes_Slaughter_Strike DisAbstractItem]
+m_ItemName="Workers on Strike"
+m_PluralItemName=""
+m_Description="Workers in the Rothwild Slaughterhouse have rebelled against their boss and refuse to work until their conditions are improved. Except for the Butchers, who remain on the job."
+
+[Slaughter.ChapterNotes_Slaughter_Whale DisAbstractItem]
+m_ItemName="Mercy For the Captive Whale"
+m_PluralItemName=""
+m_Description="If enough electrical power is applied, the captive whale can be put down in an instant."
+
+[Timsh.ChapterLog_Timsh DisAbstractItem]
+m_ItemName="Notes: Eminent Domain"
+m_PluralItemName=""
+m_Description="Delilah once painted portraits for Barrister Arnold Timsh, a corrupt aristocrat who uses his legal powers to evict families from their homes and claim property for the Lord Regent, based on false accusations of plague. Barrister Timsh's niece, Thalia, hates him. She has promised to help you locate Delilah, for a price. Meet with Thalia to find out what she knows."
+
+[Timsh.ChapterNotes_LegalPlaza DisAbstractItem]
+m_ItemName="The Legal Plaza"
+m_PluralItemName=""
+m_Description="Timsh's Estate and law offices sit at the head of a wide plaza that marks the center of the Legal District."
+
+[Timsh.ChapterNotes_Timsh_Key DisAbstractItem]
+m_ItemName="Timsh's Key"
+m_PluralItemName=""
+m_Description="Timsh carries an important key with him at all times."
+
+[Timsh.ChapterNotes_Timsh_Outpost DisAbstractItem]
+m_ItemName="An Outpost"
+m_PluralItemName=""
+m_Description="There's an outpost on a rooftop overlooking the Legal Plaza which contains information and supplies. Lieutenant Billie Lurk will be there once she's done scouting."
+
+[Timsh.ChapterNotes_Timsh_Prisoner DisAbstractItem]
+m_ItemName="A Prisoner"
+m_PluralItemName=""
+m_Description="The watchmen have taken a suspicious person captive. He is possibly an old associate of Timsh."
+
+[Timsh.ChapterNotes_Timsh_Timsh1 DisAbstractItem]
+m_ItemName="Timsh's Location"
+m_PluralItemName=""
+m_Description="Timsh is in the lobby on the ground floor."
+
+[Timsh.ChapterNotes_Timsh_Timsh2 DisAbstractItem]
+m_ItemName="Timsh's Location"
+m_PluralItemName=""
+m_Description="Timsh is in his office on the 3rd floor.  "
+
+[Timsh.ChapterNotes_Timsh_Timsh3 DisAbstractItem]
+m_ItemName="Timsh's Location"
+m_PluralItemName=""
+m_Description="Timsh is in his bedroom on the 4th floor."
+
+[Timsh.ChapterNotes_Timsh_Waterfront DisAbstractItem]
+m_ItemName="A Route to the Waterfront"
+m_PluralItemName=""
+m_Description="An apartment somewhere near Timsh's Estate leads back to the rooftops of the waterfront."
+
+[Timsh.ChapterNotes_Timsh_Will1 DisAbstractItem]
+m_ItemName="The Will's Location"
+m_PluralItemName=""
+m_Description="The Will is in a storeroom attached to the lobby on the ground floor."
+
+[Timsh.ChapterNotes_Timsh_Will2 DisAbstractItem]
+m_ItemName="The Will's Location"
+m_PluralItemName=""
+m_Description="The Will is in Timsh's office on the 3rd floor."
+

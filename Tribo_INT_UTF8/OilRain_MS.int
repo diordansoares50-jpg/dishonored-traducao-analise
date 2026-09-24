@@ -1,0 +1,76 @@
+﻿[Battery.WhaleOilBattery_BendTime_twk DisDLC05Tweaks_WhaleOilBattery]
+m_EmptyName="Empty Oil Tank"
+
+[Battery.WhaleOilBattery_BendTime_twk:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Whale Oil Tank"
+m_InteractText=" `GBA_Use` Carry"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Battery.WhaleOilBattery_DarkVision_twk DisDLC05Tweaks_WhaleOilBattery]
+m_EmptyName="Empty Oil Tank"
+
+[Battery.WhaleOilBattery_DarkVision_twk:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name=""
+m_InteractText=""
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Battery.WhaleOilBattery_Health_twk DisDLC05Tweaks_WhaleOilBattery]
+m_EmptyName="Empty Oil Tank"
+
+[Battery.WhaleOilBattery_Health_twk:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name=""
+m_InteractText=""
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Battery.WhaleOilBattery_Normal_twk DisDLC05Tweaks_WhaleOilBattery]
+m_EmptyName="Empty Oil Tank"
+
+[Battery.WhaleOilBattery_Normal_twk:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name=""
+m_InteractText=""
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Battery.WhaleOilBattery_Smoke_twk DisDLC05Tweaks_WhaleOilBattery]
+m_EmptyName="Empty Oil Tank"
+
+[Battery.WhaleOilBattery_Smoke_twk:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name=""
+m_InteractText=""
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Notes.DisclaimerNormal_AbstrInv DisAbstractItem]
+m_ItemName="Oil Drop"
+m_PluralItemName=""
+m_Description="Shoot as many falling Whale Oil Tanks as possible.\n \nYou have a fully upgraded pistol with unlimited ammo.\n\nScoring: \n* Each tank destroyed raises your score.\n* You earn a score bonus if you destroy several tanks at the same time. \n* You earn a score bonus if you don't miss a single tank.\n* You earn a score bonus for good accuracy.\n\nSpecial:\nThere are several types of Whale Oil Tanks:\n* Regular Tank\n* Purple Tank: creates a cloud of smoke when shot\n* Gold Tank: slows time down for 2 seconds\n* Green Tank: enables Dark Vision for 15 seconds\n* Pink Tank: restores 35% of your health\n \nGame Over: \nThe game is over if you die."
+
+[Notes.DisclaimerNormal_Pickup DisTweaks_AbstractItemPickupNote]
+m_PressKeyToReadMessage=""
+m_OnPickupMessage=""
+
+[Twk_Inv_PistolOilRain:DisTweaks_InventoryItem_PlayerSpecific_0 DisTweaks_InventoryItem_PlayerSpecific]
+m_Name="Corvo's Pistol"
+m_Description="Master-crafted with customization in mind, this is the best firearm across the Isles. Allows pistol upgrades and adds short-range spread damage."
+
+[Twk_Proj_BulletOilRain:DisTweaks_InteractableInterface_2 DisTweaks_InteractableInterface]
+m_Name="Bullet"
+m_InteractText="Tap `k to pickup"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage="You can't carry more ammo of this type"
+

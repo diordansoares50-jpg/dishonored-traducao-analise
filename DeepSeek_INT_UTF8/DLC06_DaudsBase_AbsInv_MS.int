@@ -1,0 +1,33 @@
+﻿[DLC06_AbsInv_AttackPlans DisAbstractItem]
+m_ItemName="Plano de Assalto do Supervisor"
+m_PluralItemName=""
+m_Description="Redigido pelo Gabinete do Alto Supervisor, dedicado a localizar e erradicar os assassinos mercenários de Daud e seu esconderijo."
+
+[DLC06_Notes_BoneCharm DisAbstractItem]
+m_ItemName="Artefato Herético"
+m_PluralItemName=""
+m_Description="Por favor, registre este artefato supersticioso. Ele foi encontrado em um dos homens de Daud em uma área de treinamento dentro do prédio comercial. Deve haver uma caixa na sede temporária para itens dessa natureza. Deposite lá depois de criar uma entrada de registro para ele.
+
+Supervisor Marcus"
+
+[DLC06_Notes_Flooded DisAbstractItem]
+m_ItemName="Diário Abandonado"
+m_PluralItemName=""
+m_Description="Consegui arranjar um espaço para mim aqui. Felizmente, Rudshore está praticamente abandonada. Aqui em cima, neste quarto, estou protegido dos ocasionais catadores e das inundações durante as chuvas fortes. Gostaria de voltar ao meu escritório no prédio comercial para ver se consigo encontrar alguns dos meus livros antigos, mas ainda não tive coragem. Eventualmente, vou ficar sem carnes enlatadas e então não terei escolha. Não há necessidade de coragem quando o desespero bate."
+
+[DLC06_Notes_VictoryLetter DisAbstractItem]
+m_ItemName="Carta da Vitória"
+m_PluralItemName=""
+m_Description="Overseer Pike,\n\nTomei o prédio comercial. Um quartel-general temporário foi estabelecido em uma estrutura próxima. Meus homens estão lidando com vários prisioneiros que devem se mostrar muito informativos. Alcançamos uma vitória total aqui, pegando o inimigo de surpresa. Os planos para um ataque coordenado maior eram obviamente desnecessários. Estou confiante de que Daud se mostrará e estará sob nossa custódia em breve.\n\nOverseer Leonard Hume"
+
+[DLC06_Notes_WaterLevel DisAbstractItem]
+m_ItemName="Relatório do Sistema de Bombeamento"
+m_PluralItemName=""
+m_Description="Registro: Água parada, não mais profunda que o tornozelo. Algo deve estar bloqueando o escoamento.
+
+Registro: O escoamento foi desobstruído e a água parada não é mais um problema. Nota: O sistema de bombeamento pode ser insuficiente para situações de alto volume.
+
+Registro: Água na altura da cintura, problemas de escoamento novamente. Os contadores vão ter que nadar até o trabalho se algo não for feito com o sistema de bombeamento.
+
+Registro: Último dia em Rudshore: meu novo posto começa amanhã. Reafirmei minhas preocupações sobre as bombas. Sugiro que meu substituto verifique as pressões das válvulas e a integridade mecânica do sistema imediatamente."
+

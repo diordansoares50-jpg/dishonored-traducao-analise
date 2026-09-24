@@ -1,0 +1,9 @@
+﻿[DLC07_InvPckp_Sword_Thug_DeadEel:pInteractableTweaks_PickupBase DisTweaks_Interactable_PickupBase]
+m_Name="Dead Eel Gaff Hook"
+
+[Grenade.DLC07_Proj_AcidBottle:pArmedInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Bottle of River Krust Acid"
+
+[Grenade.DLC07_Proj_AcidBottle:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Bottle of River Krust Acid"
+

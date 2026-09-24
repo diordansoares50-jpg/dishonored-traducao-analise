@@ -1,0 +1,114 @@
+﻿[BrigmoreNotes.Brig_Gatehouse_Note DisAbstractItem]
+m_ItemName="Sealed Envelope"
+m_PluralItemName="Sealed Envelopes"
+m_Description="Watch the old road. Our spies say Daud might have trailed us to the estate. Hide the lantern in the Jessop Brigmore crypt and protect the painting at all cost lest we be cut off or worse still, trapped inside."
+
+[BrigmoreNotes.Brig_GrannyR_Note DisAbstractItem]
+m_ItemName="Page from An Old Book"
+m_PluralItemName="Pages from an old book"
+m_Description="[A page torn from an old manuscript, written in a scrawling hand]\n\nDrearie waters, hissing daughters.\nCrack three green shells and steal their pearls.\nTurn the spigot and drink from the misery of a broken house.\nGulp and swallow, follow, follow.\nThree wet marbles down the gullet.\n\nDo this for me dearie and I'll give you a birthday gift.\n-Granny\n\n"
+
+[BrigmoreNotes.Brigmore_EmilyPainting_AbsItm DisAbstractItem]
+m_ItemName="Her Branches Reach for Me"
+m_PluralItemName=""
+m_Description="A painting created by Delilah Copperspoon."
+
+[BrigmoreNotes.Brigmore_FirstGraveHoundNote_AbsItm DisAbstractItem]
+m_ItemName="Grave Hounds"
+m_PluralItemName=""
+m_Description="The hounds are bound to the shrine, without it the energies that animate them will cease to function and the hound will collapse. The hounds on the manor grounds have proven useful time and time again. We cannot afford to lose them. I suggest we find a way to make the hounds independant of the hound shrine."
+
+[BrigmoreNotes.Brigmore_GraveHoundNote_AbsItm DisAbstractItem]
+m_ItemName="Grave Hound Concerns"
+m_PluralItemName=""
+m_Description="Once Delilah's ritual is complete we can attempt to address the vulnerability of the Gravehound shrine. It would be unwise to move the shrine from the cellar or modify it in any way at this time. The risk of having the focus disturbed is too great. If anything happens to the focus the hounds will all collapse and it will take us weeks to recover our lost progress."
+
+[BrigmoreNotes.Brigmore_LeverDisableNote_AbsItm DisAbstractItem]
+m_ItemName="Lever Whereabouts"
+m_PluralItemName=""
+m_Description="With Daud on his way, Delilah had me disable the grave switch and put it in the garden shed.\n\n- S"
+
+[BrigmoreNotes.Brigmore_ManaStill_AbsItm DisAbstractItem]
+m_ItemName="Remedy Replication"
+m_PluralItemName=""
+m_Description="I've found a way to replicate Piero's Remedy. I've created a first batch as a test, but I require additional ingredients to continue my work. Until Delilah's Ritual is complete, consider my work on the Remedy on hold."
+
+[BrigmoreNotes.Brigmore_OverseerFriendLetter_AbsItm DisAbstractItem]
+m_ItemName="Help On Your Assignment"
+m_PluralItemName=""
+m_Description="Here brother, \nI've sent you one of the Strictures to guide you on your assignment to Brigmore. My hope is that heeding the warnings of the 6th Stricture will be the utmost of your troubles while dealing with those heretics.\n\nYours,\nBertram"
+
+[BrigmoreNotes.Brigmore_OverseerNote_AbsItm DisAbstractItem]
+m_ItemName="Overseer Interrogation"
+m_PluralItemName=""
+m_Description="I was unable to extract much from this one, he was well trained. Feeding him his former companion elicited mostly useless sounds and mess. I'll try again tomorrow unless he becomes violently deranged, in which case I'll have little choice but to put him down."
+
+[BrigmoreNotes.Brigmore_OverseerOrders_AbsItm DisAbstractItem]
+m_ItemName="Overseer's Orders"
+m_PluralItemName=""
+m_Description="Brother Pradclif,\n\nYou are charged with surveillance of the Mutcherhaven District and surrounding estates. Travel there immediately and report all findings to the office of the High Overseer. If any signs of organized heresy are uncovered send for additional support, do not attempt to handle the situation alone. Remember the strictures and you will not fail.\n\nOverseer Cranton"
+
+[BrigmoreNotes.Brigmore_ReplacementPainting_AbsItm DisAbstractItem]
+m_ItemName="Her Branches Reach for Me"
+m_PluralItemName=""
+m_Description="A painting created by Delilah Copperspoon."
+
+[BrigmoreNotes.Brigmore_RitualNote_AbsItm DisAbstractItem]
+m_ItemName="Painting Ritual"
+m_PluralItemName=""
+m_Description="The Painting of the possession target must be positioned above the altar.\nAfter preparing the ritual, the performer must lay on the altar.\n\nIf the ritual has been prepared correctly, the performer will then enter into the body of the subject of the painting.\n\nWarning: The subject of the painting must be the possession target. Any other painting may trap the performer of the ritual."
+
+[BrigmoreNotes.Brigmore_StorageKey_AbsItm DisAbstractItem]
+m_ItemName="Cyria's Key"
+m_PluralItemName=""
+m_Description="Cyria,\nKeep this key to the alternate entrance to the Gallery. I don't want anyone to disturb me during the ritual. This is to be used in case of emergencies only. I'm trusting you to keep it safe, if anyone comes to you and needs access to the Gallery, I'm leaving it up to you to decide if it's important enough to risk interferring with the ritual.\nDelilah"
+
+[BrigmoreNotes.Brigmore_StorageKeyCopy_AbsItm DisAbstractItem]
+m_ItemName="Copy of the Key"
+m_PluralItemName=""
+m_Description="Audra,\nI've made a copy of the key as you requested. It's an old lock, but nothing I couldn't handle. As you asked, I have told no one of this copy. I hope it serves you well.\nSincerely Yours,\nKeymaster Briston"
+
+[BrigmoreNotes.BrigmoreLantern_AbsItm DisAbstractItem]
+m_ItemName="Strange Lantern"
+m_PluralItemName=""
+m_Description="Said to be able to bring paintings to life..."
+
+[BrigmoreNotes.BrigmoreLever_AbsItm DisAbstractItem]
+m_ItemName="A Heavy Lever"
+m_PluralItemName=""
+m_Description="Perhaps it can be used elsewhere..."
+
+[BrigmoreNotes.BrigmoreStash_AbsItm DisAbstractItem]
+m_ItemName="Cache of Violent Amenities"
+m_PluralItemName=""
+m_Description="Perhaps it can be used elsewhere..."
+
+[BrigmoreNotes.Butler_Note DisAbstractItem]
+m_ItemName="Butler's Note"
+m_PluralItemName="Butler's Note"
+m_Description="They are on to me.\n\nThe urn will have to stay here, Reggie, until we can return by boat and claim it. The master's key, however, will go with me and -- since you are nowhere to be seen -- I have little choice but to scale the rocks by the waterfall and make my escape cross country. Leave me out to dry on this one and I'll put a bullet hole in your skull.\n\n-Y."
+
+[BrigmoreNotes.Magic_Lantern_Book DisAbstractItem]
+m_ItemName="Delilah's Journal"
+m_PluralItemName="Delilah's Journal"
+m_Description="Now that the painting is finished, I will sit in young lady Emily’s skin and wear her face like a mummer’s mask. Havelock and his lickspittles will put the child on the throne, but it is ME they will be crowning. Delilah. The kitchen girl from Dunwall tower. They called me Sokolov’s apprentice, but whose paintings reach through to the spirit? Mine. They will never know their blunder, but I will be sure to whisper it into their ears at their executions. \n \nMy followers will bear the lantern to the gallery in order to open the way to the Void.  There, I will use the painting to complete the ritual. My walk into Emily's flesh must be undisturbed.\n \nThe ritual has other uses, which I will explore over time. Any image made by my hand could serve as the focal point for the spell. I imagine one of my enemies as a still life, imprisoned in a bowl of fruit without amusement.\n"
+
+[BrigmoreNotes.Roadside_Shack_Note DisAbstractItem]
+m_ItemName="Lookout Orders"
+m_PluralItemName="Lookout Orders"
+m_Description="S.\n\nDaud has left Drapers Ward on Lizzy Stride's boat and could arrive within hours. Disable the grave switch. Isabelle will lock the manor and wait for further instructions in the back yard.\n\nD."
+
+[BrigmoreNotes.StudioClue1 DisAbstractItem]
+m_ItemName="Delilah's Orders"
+m_PluralItemName="Delilah's Orders"
+m_Description="I've ordered the lantern be placed in my studio in the west wing.  Use it to enter the painting only if your situation is dire.  I will be busy preparing for the ritual and cannot be disturbed.  I trust you can handle Daud should he materialize.\n\n- Delilah   \n \n"
+
+[BrigmoreNotes.StudioClue2 DisAbstractItem]
+m_ItemName="Delilah's Musings"
+m_PluralItemName="Delilah's Musings"
+m_Description="I worked in my studio until late last night and completed the painting of Emily.\n\nWhen Daud kidnapped her I was terrified that he might already know what I was planning. But it seems I overestimated him.\n\nHe turned her over to the conspirators. What a fool! Once young Emily assumes the throne I'll already be looking out of those lovely brown eyes."
+
+[BrigmoreNotes.StudioClue3 DisAbstractItem]
+m_ItemName="Delilah's Notes"
+m_PluralItemName="Delilah's Notes"
+m_Description="Brunhilde came to me last night while I was in my studio in the west wing, finishing the ritual painting of young lady Emily. She informed me that one of our girls allowed herself to get caught and interrogated at Coldridge Prison.\n\nNevertheless, it seems Daud is oblivious to my plans."

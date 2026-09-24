@@ -1,0 +1,167 @@
+﻿[Egg.Egg_AII_1 DisAbstractItem]
+m_ItemName="Ovo de Potterstead"
+m_PluralItemName=""
+m_Description=""
+
+[Egg.Egg_AII_2 DisAbstractItem]
+m_ItemName="Ovo de Cullero"
+m_PluralItemName=""
+m_Description=""
+
+[Egg.Egg_AII_3 DisAbstractItem]
+m_ItemName="Ovo de Wynnedown"
+m_PluralItemName=""
+m_Description=""
+
+[Egg.Egg_AII_4 DisAbstractItem]
+m_ItemName="Ovo de Yaro"
+m_PluralItemName=""
+m_Description=""
+
+[Egg.Egg_AII_5 DisAbstractItem]
+m_ItemName="Ovo de Redmoor"
+m_PluralItemName=""
+m_Description=""
+
+[Egg.Egg_AII_6 DisAbstractItem]
+m_ItemName="Ovo de Driscol"
+m_PluralItemName=""
+m_Description=""
+
+[Egg.Egg_AIP_1:pInteractableTweaks_PickupBase DisTweaks_Interactable_PickupBase]
+m_Name="Ovo de Potterstead"
+
+[Egg.Egg_AIP_2:pInteractableTweaks_PickupBase DisTweaks_Interactable_PickupBase]
+m_Name="Ovo de Cullero"
+
+[Egg.Egg_AIP_3:pInteractableTweaks_PickupBase DisTweaks_Interactable_PickupBase]
+m_Name="Ovo de Wynnedown"
+
+[Egg.Egg_AIP_4:pInteractableTweaks_PickupBase DisTweaks_Interactable_PickupBase]
+m_Name="Ovo de Yaro"
+
+[Egg.Egg_AIP_5:pInteractableTweaks_PickupBase DisTweaks_Interactable_PickupBase]
+m_Name="Ovo de Redmoor"
+
+[Egg.Egg_AIP_6:pInteractableTweaks_PickupBase DisTweaks_Interactable_PickupBase]
+m_Name="Ovo Driscol"
+
+[Hrlm_Cameo:pInteractableTweaks_PickupBase DisTweaks_Interactable_PickupBase]
+m_Name="Cameo - 175 moedas"
+
+[Hrlm_CigCage:pInteractableTweaks_PickupBase DisTweaks_Interactable_PickupBase]
+m_Name="Estojo de Charutos - 90 moedas"
+
+[Hrlm_Egg_Gristol:pInteractableTweaks_PickupBase DisTweaks_Interactable_PickupBase]
+m_Name="Ovo de Corda - 250 moedas"
+
+[Hrlm_FishStatue:pInteractableTweaks_PickupBase DisTweaks_Interactable_PickupBase]
+m_Name="Estatueta de Peixe - 65 moedas"
+
+[Hrlm_HoundStat:pInteractableTweaks_PickupBase DisTweaks_Interactable_PickupBase]
+m_Name="Estatueta de Cão de Caça - 125 moedas"
+
+[Hrlm_Ingot_twk:pInteractableTweaks_PickupBase DisTweaks_Interactable_PickupBase]
+m_Name="Lingote - 100 moedas"
+
+[Hrlm_Jbox:pInteractableTweaks_PickupBase DisTweaks_Interactable_PickupBase]
+m_Name="Caixa de Joias - 350 moedas"
+
+[Hrlm_Map_twk:pInteractableTweaks_PickupBase DisTweaks_Interactable_PickupBase]
+m_Name="Mapa Raro - 75 moedas"
+
+[Hrlm_Medal:pInteractableTweaks_PickupBase DisTweaks_Interactable_PickupBase]
+m_Name="Medalha de Guerra - 35 moedas"
+
+[Hrlm_Plate:pInteractableTweaks_PickupBase DisTweaks_Interactable_PickupBase]
+m_Name="Placa Decorativa - 75 moedas"
+
+[Hrlm_PocketWatch:pInteractableTweaks_PickupBase DisTweaks_Interactable_PickupBase]
+m_Name="Relógio de Bolso - 112 moedas"
+
+[Hrlm_Sextant:pInteractableTweaks_PickupBase DisTweaks_Interactable_PickupBase]
+m_Name="Sextante - 45 moedas"
+
+[Hrlm_Urn:pInteractableTweaks_PickupBase DisTweaks_Interactable_PickupBase]
+m_Name="Urna - 35 moedas"
+
+[Hrlm_WhaleStatue:pInteractableTweaks_PickupBase DisTweaks_Interactable_PickupBase]
+m_Name="Estatueta de Baleia - 200 moedas"
+
+[lamp_switch_twk:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Lâmpada Falsa"
+
+[Notes.Instructions_Hardcore_AbstrInv DisAbstractItem]
+m_ItemName="Ladrão"
+m_PluralItemName=""
+m_Description="Roube os seis Ovos de Corda e saia da mansão.
+
+Infiltre-se na mansão para recuperar os Ovos e tantos objetos de valor quanto possível.
+NÃO seja visto. Ninguém deve saber que você esteve lá.
+Há seis Ovos de Corda para encontrar, além de heranças, pinturas e moedas.
+
+Você não tem poderes sobrenaturais.
+Algumas portas e baús agora estão trancados.
+A localização de muitos objetos de valor mudou.
+
+Pontuação:
+* Evitar os guardas vale mais pontos do que deixá-los inconscientes, o que por sua vez vale mais do que matá-los.
+* Quanto mais saque opcional você coletar, mais pontos você marcará.
+
+Especial:
+Esta mansão está cheia de segredos, procure em todos os lugares.
+Fique atento às 16 figurinhas escondidas.
+
+Fim de Jogo:
+O desafio termina quando você for visto 3 vezes ou morrer."
+
+[Notes.instructions_hardcore_pickup DisTweaks_AbstractItemPickupNote]
+m_PressKeyToReadMessage=""
+m_OnPickupMessage=""
+
+[Notes.Instructions_Normal_AbstrInv DisAbstractItem]
+m_ItemName="Ladrão"
+m_PluralItemName=""
+m_Description="Roube os seis Ovos de Corda e saia da mansão.
+
+Infiltre-se na mansão para recuperar os Ovos e o máximo de objetos de valor possível.
+NÃO seja visto. Ninguém deve saber que você esteve lá.
+Há seis Ovos de Corda para encontrar, além de relíquias familiares, pinturas e moedas.
+
+Pontuação:
+* Evitar os guardas vale mais pontos do que deixá-los inconscientes, o que por sua vez vale mais do que matá-los.
+* Quanto mais saque opcional você coletar, mais pontos ganhará.
+
+Especial:
+Esta mansão está cheia de segredos, procure em todos os lugares.
+
+Fim do Jogo:
+O desafio termina quando você for visto 3 vezes ou morrer."
+
+[Notes.instructions_normal_pickup DisTweaks_AbstractItemPickupNote]
+m_PressKeyToReadMessage=""
+m_OnPickupMessage=""
+
+[Notes.Rhyme2_AbstrInv DisAbstractItem]
+m_ItemName="Uma Pista"
+m_PluralItemName=""
+m_Description="Comportamento suspeito vem em todas as formas.\nNinguém coloca um cinzeiro de cabeça para baixo, por exemplo.\nSimplesmente não é normal.\nSó um pensamento."
+
+[Notes.Rhyme3_AbstrInv DisAbstractItem]
+m_ItemName="Uma Pista"
+m_PluralItemName=""
+m_Description="Não se deve limitar aos clichês.\nNem todas as passagens secretas são ativadas por livros em estantes, por exemplo.\nMas algumas são.\nTambém não se deve ser cego aos clichês."
+
+[Notes.Rhyme_AbstrInv DisAbstractItem]
+m_ItemName="Uma Pista"
+m_PluralItemName=""
+m_Description="Procure o espaço entre o meio e o topo,\npelos três elementos aleatórios que formam o todo,\nsua missão de pilhar tudo que brilha."
+
+[Statue_AII_1 DisAbstractItem]
+m_ItemName="Figurinha Colecionável"
+m_PluralItemName="Figurinhas Colecionáveis"
+m_Description=""
+
+[Statue_AIP_1:pInteractableTweaks_PickupBase DisTweaks_Interactable_PickupBase]
+m_Name="Figurinha Colecionável"
+

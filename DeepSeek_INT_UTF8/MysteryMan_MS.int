@@ -1,0 +1,223 @@
+﻿[Clues.Clue_Color_Blue DisAbstractItem]
+m_ItemName="Pista"
+m_PluralItemName="Pistas"
+m_Description="Seu alvo veste roupas azuis."
+
+[Clues.Clue_Color_Blue_Pickup DisTweaks_AbstractItemPickupNote]
+m_PressKeyToReadMessage=""
+m_OnPickupMessage=""
+
+[Clues.Clue_Color_Red DisAbstractItem]
+m_ItemName="Pista"
+m_PluralItemName="Pistas"
+m_Description="Seu alvo veste roupas vermelhas."
+
+[Clues.Clue_Color_Red_Pickup DisTweaks_AbstractItemPickupNote]
+m_PressKeyToReadMessage=""
+m_OnPickupMessage=""
+
+[Clues.Clue_Gender_Female DisAbstractItem]
+m_ItemName="Pista"
+m_PluralItemName="Pistas"
+m_Description="Seu alvo é uma mulher."
+
+[Clues.Clue_Gender_Female_Pickup DisTweaks_AbstractItemPickupNote]
+m_PressKeyToReadMessage=""
+m_OnPickupMessage=""
+
+[Clues.Clue_Gender_Male DisAbstractItem]
+m_ItemName="Pista"
+m_PluralItemName="Pistas"
+m_Description="Seu alvo é um homem."
+
+[Clues.Clue_Gender_Male_Pickup DisTweaks_AbstractItemPickupNote]
+m_PressKeyToReadMessage=""
+m_OnPickupMessage=""
+
+[Clues.Clue_Hat_No DisAbstractItem]
+m_ItemName="Pista"
+m_PluralItemName="Pistas"
+m_Description="Seu alvo não usa capacete, chapéu ou máscara."
+
+[Clues.Clue_Hat_No_Pickup DisTweaks_AbstractItemPickupNote]
+m_PressKeyToReadMessage=""
+m_OnPickupMessage=""
+
+[Clues.Clue_Hat_Yes DisAbstractItem]
+m_ItemName="Pista"
+m_PluralItemName="Pistas"
+m_Description="Seu alvo usa um capacete, um chapéu ou uma máscara."
+
+[Clues.Clue_Hat_Yes_Pickup DisTweaks_AbstractItemPickupNote]
+m_PressKeyToReadMessage=""
+m_OnPickupMessage=""
+
+[Clues.Clue_PickUp DisTweaks_AbstractItemPickupNote]
+m_PressKeyToReadMessage=""
+m_OnPickupMessage=""
+
+[Clues.Clue_PickUp:pInteractableTweaks_PickupBase DisTweaks_Interactable_PickupBase]
+m_InteractText="`GBA_Use` Pegar"
+
+[Clues.Clue_Pickup_Belt_twk DisTweaks_Key]
+m_Description="Pista anônima."
+
+[Clues.Clue_Pickup_Belt_twk:pInteractableTweaks_PickupBase DisTweaks_Interactable_PickupBase]
+m_Name=""
+
+[Clues.Clue_PickupSample DisAbstractItem]
+m_ItemName="Pista"
+m_PluralItemName="Pistas"
+m_Description="Pista anônima."
+
+[Clues.Clue_Type_AristoFemale DisAbstractItem]
+m_ItemName="Pista"
+m_PluralItemName="Pistas"
+m_Description="Seu alvo é uma mulher aristocrata."
+
+[Clues.Clue_Type_AristoFemale_Pickup DisTweaks_AbstractItemPickupNote]
+m_PressKeyToReadMessage=""
+m_OnPickupMessage=""
+
+[Clues.Clue_Type_AristoMale DisAbstractItem]
+m_ItemName="Pista"
+m_PluralItemName="Pistas"
+m_Description="Seu alvo é um homem aristocrata."
+
+[Clues.Clue_Type_AristoMale_Pickup DisTweaks_AbstractItemPickupNote]
+m_PressKeyToReadMessage=""
+m_OnPickupMessage=""
+
+[Clues.Clue_Type_CityGuard DisAbstractItem]
+m_ItemName="Pista"
+m_PluralItemName="Pistas"
+m_Description="Seu alvo é um membro da Guarda da Cidade."
+
+[Clues.Clue_Type_CityGuard_Pickup DisTweaks_AbstractItemPickupNote]
+m_PressKeyToReadMessage=""
+m_OnPickupMessage=""
+
+[Clues.Clue_Type_EliteGuard DisAbstractItem]
+m_ItemName="Pista"
+m_PluralItemName="Pistas"
+m_Description="Seu alvo é um guarda de elite."
+
+[Clues.Clue_Type_EliteGuard_Pickup DisTweaks_AbstractItemPickupNote]
+m_PressKeyToReadMessage=""
+m_OnPickupMessage=""
+
+[Clues.Clue_Type_Prostitute DisAbstractItem]
+m_ItemName="Pista"
+m_PluralItemName="Pistas"
+m_Description="Seu alvo é uma cortesã."
+
+[Clues.Clue_Type_Prostitute_Pickup DisTweaks_AbstractItemPickupNote]
+m_PressKeyToReadMessage=""
+m_OnPickupMessage=""
+
+[Clues.Clue_Type_Servant DisAbstractItem]
+m_ItemName="Pista"
+m_PluralItemName="Pistas"
+m_Description="Seu alvo é um servo."
+
+[Clues.Clue_Type_Servant_Pickup DisTweaks_AbstractItemPickupNote]
+m_PressKeyToReadMessage=""
+m_OnPickupMessage=""
+
+[Notes.DisclaimerExpert_AbstrInv DisAbstractItem]
+m_ItemName="Inimigo Misterioso"
+m_PluralItemName=""
+m_Description="Colete as quatro pistas sem ser detectado para descobrir quem é seu alvo e executá-lo.
+
+O alvo é escolhido aleatoriamente cada vez que você joga.  
+Você pode tentar descobrir quem é seu alvo sem ter todas as pistas, mas se matar um inocente, o desafio termina.  
+NÃO seja visto. Se você for visto, seu alvo tentará escapar.
+
+As pistas estão colocadas nos cintos de alguns personagens. Você terá que roubá-las.
+
+Pontuação:  
+* Se matar a pessoa certa sem ter todas as pistas, você ganha mais pontos.  
+* Evitar os guardas vale mais pontos do que nocauteá-los, o que por sua vez vale mais do que matá-los.
+
+Fim de Jogo:  
+O desafio termina se o alvo escapar ou se você matar um inocente."
+
+[Notes.DisclaimerExpert_Pickup DisTweaks_AbstractItemPickupNote]
+m_PressKeyToReadMessage=""
+m_OnPickupMessage=""
+
+[Notes.DisclaimerNormal_AbstrInv DisAbstractItem]
+m_ItemName="Inimigo Misterioso"
+m_PluralItemName=""
+m_Description="Colete as quatro pistas sem ser detectado para descobrir quem é o seu alvo e executá-lo.  
+   
+O alvo é escolhido aleatoriamente cada vez que você joga.  
+Você pode tentar descobrir quem é o seu alvo sem ter todas as pistas, mas se matar um inocente, o desafio termina.  
+NÃO seja visto. Se você for visto, seu alvo tentará escapar.  
+
+Pontuação:  
+* Se matar a pessoa certa sem ter todas as pistas, você ganha mais pontos.  
+* Evitar os guardas vale mais pontos do que deixá-los inconscientes, o que por sua vez vale mais do que matá-los.  
+
+Fim do Jogo:  
+O desafio termina se o alvo escapar ou se você matar um inocente."
+
+[Notes.DisclaimerNormal_Pickup DisTweaks_AbstractItemPickupNote]
+m_PressKeyToReadMessage=""
+m_OnPickupMessage=""
+
+[Notes.GlobalDistraction_Buffet_AbstrInv DisAbstractItem]
+m_ItemName="Anúncio"
+m_PluralItemName=""
+m_Description=""
+
+[Notes.GlobalDistraction_PianoLounge_AbstrInv DisAbstractItem]
+m_ItemName="Anúncio"
+m_PluralItemName=""
+m_Description=""
+
+[Notes.GlobalDistraction_Show_AbstrInv DisAbstractItem]
+m_ItemName="Anúncio"
+m_PluralItemName=""
+m_Description=""
+
+[Pickup_Twk.Doll_AbtrItm DisAbstractItem]
+m_ItemName="Boneca da Emily"
+m_PluralItemName="As Bonecas de Emily"
+m_Description="A boneca da Emily de sua infância."
+
+[Pwn_Tweaks.NPCPlotSettings_twk DisTweaks_NPCPlotSettings]
+m_PlotSettings.m_GameOverWhenHostileToPlayer.m_ScreenMessage=""
+m_PlotSettings.m_GameOverWhenDead.m_ScreenMessage=""
+m_PlotSettings.m_GameOverWhenPossessedByPlayer.m_ScreenMessage=""
+
+[Tweaks.locked_door_twk DisTweaks_Door]
+m_DoorOpenCCW.m_InteractTextOverride=""
+m_DoorOpenCW.m_InteractTextOverride=""
+m_DoorCloseCCW.m_InteractTextOverride="`GBA_Use` Fechar"
+m_DoorCloseCW.m_InteractTextOverride="`GBA_Use` Fechar"
+m_DoorSlamOpenCCW.m_InteractTextOverride=""
+m_DoorSlamOpenCW.m_InteractTextOverride=""
+m_FocusLockedMessage=""
+
+[Usable.clock_twk DisTweaks_UsableObject]
+m_LockedMessage=""
+
+[Usable.clock_twk:DisTweaks_InteractableInterface_16 DisTweaks_InteractableInterface]
+m_Name="Relógio"
+m_InteractText="`GBA_Use` Definir Hora"
+
+[Usable.Twk_Map_MysteryMan DisTweaks_AbstractItemPickupNote]
+m_PressKeyToReadMessage=""
+m_OnPickupMessage=""
+m_SingleItemPickupMessage=""
+
+[Usable.Twk_Map_MysteryMan:DisTweaks_Interactable_PickupBase_107 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name="Mapa da Área"
+m_InteractText="`GBA_Use` Olhar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+

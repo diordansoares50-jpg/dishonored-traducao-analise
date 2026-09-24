@@ -1,0 +1,59 @@
+﻿[AG_Tower_Confession_NP DisAbstractItemAudioLog]
+m_ItemName="Confissão do Regente"
+m_PluralItemName=""
+m_Description="O Lorde Regente está dividido e se sente culpado por seu "Plano de Erradicação da Pobreza" e pela forma como ele saiu pela culatra."
+
+[TowerReturn_Notes_Granny DisAbstractItem]
+m_ItemName="Querida"
+m_PluralItemName=""
+m_Description="Ah, queridinho, queridinho. Lá no porão, tão sombrio. Por que você não vem me ver? Quando você estava aqui, nós os fazíamos gritar, não é mesmo? Volte para me visitar e eu lhe darei outro presente, entalhado e brilhante. Você não é muito bom para conversar direito, sabe, mas eu adoro vê-lo trabalhar. Volte e eu lhe contarei histórias, histórias tão boas.
+
+Sua querida Vovó"
+
+[TowerReturn_Notes_Hocking DisAbstractItem]
+m_ItemName="Proibido"
+m_PluralItemName=""
+m_Description="Capitão Briarmont,  
+Preciso pedir que fale com um de seus homens. O Cabo Keyes está sob seu comando, creio eu. De acordo com o oficial de serviço da manhã, Keyes tem ido ao porão para se encontrar com o Interrogador Real. Não faço ideia do que discutem, mas foi relatado que Keyes tem interesse no oculto. De qualquer forma, não sou um Supervisor, então não me importo com como ele passa o tempo quando não está de serviço. Mas mantenha-o longe do torturador. O porão é proibido para nossos homens.  
+
+--Major Hocking"
+
+[TowerReturn_Notes_LosingSupport DisAbstractItem]
+m_ItemName="Perdendo Suporte"
+m_PluralItemName=""
+m_Description="Senhor Regente,
+
+Desde que perdemos o apoio financeiro da família Boyle, a situação está crítica e tivemos que fazer cortes drásticos. Os barcos de patrulha estacionados no Wrenhaven, ao redor da Torre, foram realocados para Northbank, para proteger os poucos carregamentos de alimentos que ainda chegam das fazendas fora de Dunwall.
+
+Senhor, alerto-o agora: isso significa que a abordagem à Torre através da Eclusa Aquática está agora exposta. É improvável que um ataque venha pelo rio, mas sei o quanto o senhor se preocupa.
+
+Ironicamente, há algo a nosso favor: desde que a Eclusa Aquática apresentou defeito no mês passado, aquele idiota que mantém os controles do fluxo do fosso não conseguiu repará-la, e com Sokolov desaparecido, ninguém mais sabe como fazer a maldita coisa funcionar novamente. Portanto, qualquer um que tentasse um ataque pelo rio teria que escalar os canos da Eclusa Aquática, o que é difícil de imaginar.
+
+--General Tobias"
+
+[TowerReturn_Notes_NotSignedMissing DisAbstractItem]
+m_ItemName="Senhora Boyle Desaparecida"
+m_PluralItemName=""
+m_Description="Senhor Regente,  
+Nossa busca pela desaparecida Lady Boyle continua com resultados limitados. Ninguém parece saber o que aconteceu com ela, embora tenha circulado um boato de que ela deixou a festa de barco. Parece improvável, mas, de qualquer forma, a testemunha em questão não viu mais nada, então até essa pista esfriou.  
+
+Sei que a Lady Boyle é querida por você. Tenha certeza de que redobraremos nossos esforços para localizá-la.  
+
+Capitão Galloway"
+
+[TowerReturn_Notes_SignedMissing DisAbstractItem]
+m_ItemName="Senhora Boyle Desaparecida"
+m_PluralItemName=""
+m_Description="Senhor Regente,  
+Nossa busca pela desaparecida Senhora Boyle continua com resultados limitados. Ninguém parece saber o que aconteceu com ela, embora tenha circulado um boato de que ela deixou a festa de barco. Parece improvável, mas, de qualquer forma, a testemunha em questão não viu mais nada, então até essa pista esfriou.  
+
+Além disso, certamente não vale o seu tempo e hesito até em mencionar, mas aparentemente, na noite da Festa Boyle, alguém assinou o livro de visitas como "Corvo Attano". Deve ser uma piada perversa, com certeza. No entanto, o senhor pediu para ser notificado sobre todos os assuntos desse tipo e, na verdade, nunca localizamos o corpo do Protetor Real, então achei melhor trazer isso à sua atenção. Peço desculpas por incomodá-lo com este assunto.  
+
+Sei que a Senhora Boyle lhe é querida. Tenha certeza de que redobraremos nossos esforços para localizá-la.  
+
+Capitão Galloway"
+
+[TowerReturn_Notes_Worship DisAbstractItem]
+m_ItemName="Supervisor Chant"
+m_PluralItemName=""
+m_Description="Restrinja uma mente errante antes que se torne rebelde e dividida. Dois inimigos podem ocupar o mesmo corpo? Não, pois o primeiro o conduzirá para um lado, e o segundo para outro, até que tropecem num fosso. Da mesma forma, dois pensamentos contrários não podem permanecer por muito tempo na mente de um homem, ou ele se tornará fraco de vontade e sujeito a qualquer heresia. Restrinja a língua mentirosa que é como uma faísca na boca de um homem. É uma coisa tão pequena, mas de uma única faísca uma cidade inteira pode ser reduzida a cinzas. O pai de uma mentira sofrerá um castigo multiplicado por cada pessoa a quem ela for transmitida. Restrinja os pés errantes que adoram transgredir. Eles não dão atenção às pedras que marcam os limites dos campos alheios. Vagam por terras estrangeiras, apenas para retornar com as solas enegrecidas pela iniquidade."

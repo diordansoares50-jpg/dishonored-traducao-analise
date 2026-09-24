@@ -1,0 +1,72 @@
+﻿[TheWorld:PersistentLevel.Main_Sequence.Bend_Time_Massacre.DisSeqAct_DLC05_ShowPhaseResults_0 DisSeqAct_DLC05_ShowPhaseResults]
+m_PhaseName="Rodada 6"
+
+[TheWorld:PersistentLevel.Main_Sequence.Bend_Time_Massacre.DisSeqAct_DLC05_DialogScriptedChoice_2 DisSeqAct_DLC05_DialogScriptedChoice]
+m_Title="Escolher Câmera"
+m_Choices[0]=(m_ChoiceText="Library")
+m_Choices[1]=(m_ChoiceText="Planning Room")
+m_Choices[2]=(m_ChoiceText="Lounge")
+
+[TheWorld:PersistentLevel.Main_Sequence.Bend_Time_Massacre.DisSeqAct_ShowHUDMessage_0 DisSeqAct_ShowHUDMessage]
+m_Message="Aguardando efeitos..."
+
+[TheWorld:PersistentLevel.Main_Sequence.Bend_Time_Massacre.DisSeqAct_ShowLocationDiscovery_19 DisSeqAct_ShowLocationDiscovery]
+m_LocationName="Rodada Bônus Concluída"
+
+[TheWorld:PersistentLevel.Main_Sequence.Bend_Time_Massacre.DisSeqAct_ShowLocationDiscovery_20 DisSeqAct_ShowLocationDiscovery]
+m_LocationName="Rodada Bônus Falhou"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_DLC05_ShowWaveNumber_0 DisSeqAct_DLC05_ShowWaveNumber]
+m_CustomText=""
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_DLC05_ShowWaveNumber_11 DisSeqAct_DLC05_ShowWaveNumber]
+m_CustomText="Rodada 6 - Bônus de Eliminação Progressiva"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_DLC05_ShowWaveNumber_12 DisSeqAct_DLC05_ShowWaveNumber]
+m_CustomText="Rodada 6 - Bônus do Herói"
+
+[TheWorld:PersistentLevel.Main_Sequence.Bend_Time_Massacre.DisSeqAct_DLC05_ShowWaveNumber_3 DisSeqAct_DLC05_ShowWaveNumber]
+m_CustomText="Rodada Bônus Falhou: Alguém Morreu"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_SetTutorialMessage_1 DisSeqAct_SetTutorialMessage]
+m_TutorialMessage=""
+m_TutorialMessage_Gamepad=""
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_SetTutorialMessage_4 DisSeqAct_SetTutorialMessage]
+m_TutorialMessage="Desafio Bônus. Você terá 20 segundos para matar 10 inimigos usando apenas sua espada e o Piscar."
+m_TutorialMessage_Gamepad=""
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_SetTutorialMessage_14 DisSeqAct_SetTutorialMessage]
+m_TutorialMessage=""
+m_TutorialMessage_Gamepad=""
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_SetTutorialMessage_15 DisSeqAct_SetTutorialMessage]
+m_TutorialMessage=""
+m_TutorialMessage_Gamepad=""
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_SetTutorialMessage_20 DisSeqAct_SetTutorialMessage]
+m_TutorialMessage="Você terá 20 segundos para matar 15 inimigos. Quebre o vidro para massacrar."
+m_TutorialMessage_Gamepad=""
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_SetTutorialMessage_21 DisSeqAct_SetTutorialMessage]
+m_TutorialMessage="Desafio Bônus. Você terá 20 segundos para salvar todos os 20 inimigos dos tanques de óleo de baleia em chamas. Depressa!"
+m_TutorialMessage_Gamepad=""
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_ShowLocationDiscovery_15 DisSeqAct_ShowLocationDiscovery]
+m_LocationName="Rodada 6"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_ShowLocationDiscovery_23 DisSeqAct_ShowLocationDiscovery]
+m_LocationName="Rodada 6 - Bônus do Herói"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_ShowLocationDiscovery_24 DisSeqAct_ShowLocationDiscovery]
+m_LocationName="Rodada 6 - Bônus Processo de Eliminação"
+
+[TheWorld:PersistentLevel.Main_Sequence.Environmental.DisSeqAct_DLC05_MarkerControl_0 DisSeqAct_DLC05_MarkerControl]
+m_TargetName="Tanque de Óleo de Baleia"
+
+[TheWorld:PersistentLevel.Main_Sequence.Environmental.DisSeqAct_DLC05_MarkerControl_5 DisSeqAct_DLC05_MarkerControl]
+m_TargetName=""
+
+[TheWorld:PersistentLevel.Main_Sequence.The_Victims.DisSeqAct_ShowLocationDiscovery_21 DisSeqAct_ShowLocationDiscovery]
+m_LocationName="Rodada Bônus Falhou: Alguém Morreu"
+

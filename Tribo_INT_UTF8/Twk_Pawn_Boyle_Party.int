@@ -1,0 +1,392 @@
+﻿[Pwn_AristoParty_MTall_1Pwn_AristoParty_MTall_1 DisTweaks_NPCPawn]
+m_BusyText="Esse personagem está ocupado"
+m_CannotStealMessage="Você não pode mais carregar esse tipo de munição"
+
+[Pwn_AristoParty_MTall_1Pwn_AristoParty_MTall_1:DisTweaks_InteractableInterface_5 DisTweaks_InteractableInterface]
+m_Name="Convidado da Festa"
+m_InteractText=""
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Pwn_AristoParty_MTall_2Pwn_AristoParty_MTall_2 DisTweaks_NPCPawn]
+m_BusyText="Esse personagem está ocupado"
+m_CannotStealMessage="Você não pode mais carregar esse tipo de munição"
+
+[Pwn_AristoParty_MTall_2Pwn_AristoParty_MTall_2:DisTweaks_InteractableInterface_5 DisTweaks_InteractableInterface]
+m_Name="Convidado da Festa"
+m_InteractText=""
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Pwn_AristoParty_MTall_3Pwn_AristoParty_MTall_3 DisTweaks_NPCPawn]
+m_BusyText="Esse personagem está ocupado"
+m_CannotStealMessage="Você não pode mais carregar esse tipo de munição"
+
+[Pwn_AristoParty_MTall_3Pwn_AristoParty_MTall_3:DisTweaks_InteractableInterface_5 DisTweaks_InteractableInterface]
+m_Name="Convidado da Festa"
+m_InteractText=""
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Pwn_AristoParty_MTall_4Pwn_AristoParty_MTall_4 DisTweaks_NPCPawn]
+m_BusyText="Esse personagem está ocupado"
+m_CannotStealMessage="Você não pode mais carregar esse tipo de munição"
+
+[Pwn_AristoParty_MTall_4Pwn_AristoParty_MTall_4:DisTweaks_InteractableInterface_5 DisTweaks_InteractableInterface]
+m_Name="Convidado da Festa"
+m_InteractText=""
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Pwn_AristoParty_MTall_5Pwn_AristoParty_MTall_5 DisTweaks_NPCPawn]
+m_BusyText="Esse personagem está ocupado"
+m_CannotStealMessage="Você não pode mais carregar esse tipo de munição"
+
+[Pwn_AristoParty_MTall_5Pwn_AristoParty_MTall_5:DisTweaks_InteractableInterface_5 DisTweaks_InteractableInterface]
+m_Name="Convidado da Festa"
+m_InteractText=""
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Pwn_AristoParty_MTall_6Pwn_AristoParty_MTall_6 DisTweaks_NPCPawn]
+m_BusyText="Esse personagem está ocupado"
+m_CannotStealMessage="Você não pode mais carregar esse tipo de munição"
+
+[Pwn_AristoParty_MTall_6Pwn_AristoParty_MTall_6:DisTweaks_InteractableInterface_5 DisTweaks_InteractableInterface]
+m_Name="Convidado da Festa"
+m_InteractText=""
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Pwn_EliteGuard_MTall_0_Party DisTweaks_NPCPawn]
+m_BusyText="Esse personagem está ocupado"
+m_CannotStealMessage="Você não pode mais carregar esse tipo de munição"
+
+[Pwn_EliteGuard_MTall_0_Party:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Oficial da Guarda"
+m_InteractText=""
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Pwn_EliteGuard_MTall_1_Helm1_Party DisTweaks_NPCPawn]
+m_BusyText="Esse personagem está ocupado"
+m_CannotStealMessage="Você não pode mais carregar esse tipo de munição"
+
+[Pwn_EliteGuard_MTall_1_Helm1_Party:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Oficial da Guarda"
+m_InteractText=""
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Pwn_EliteGuard_MTall_1_Party DisTweaks_NPCPawn]
+m_BusyText="Esse personagem está ocupado"
+m_CannotStealMessage="Você não pode mais carregar esse tipo de munição"
+
+[Pwn_EliteGuard_MTall_1_Party:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Oficial da Guarda"
+m_InteractText=""
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Pwn_EliteGuard_MTall_2_Doorman DisTweaks_NPCPawn]
+m_BusyText="Esse personagem está ocupado"
+m_CannotStealMessage="Você não pode mais carregar esse tipo de munição"
+
+[Pwn_EliteGuard_MTall_2_Doorman:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Porteiro"
+m_InteractText=""
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Pwn_EliteGuard_MTall_2_Helm1_Party DisTweaks_NPCPawn]
+m_BusyText="Esse personagem está ocupado"
+m_CannotStealMessage="Você não pode mais carregar esse tipo de munição"
+
+[Pwn_EliteGuard_MTall_2_Helm1_Party:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Oficial da Guarda"
+m_InteractText=""
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Pwn_EliteGuard_MTall_2_Party DisTweaks_NPCPawn]
+m_BusyText="Esse personagem está ocupado"
+m_CannotStealMessage="Você não pode mais carregar esse tipo de munição"
+
+[Pwn_EliteGuard_MTall_2_Party:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Oficial da Guarda"
+m_InteractText=""
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Pwn_EliteGuard_MTall_3_Helm1_Party DisTweaks_NPCPawn]
+m_BusyText="Esse personagem está ocupado"
+m_CannotStealMessage="Você não pode mais carregar esse tipo de munição"
+
+[Pwn_EliteGuard_MTall_3_Helm1_Party:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Oficial da Guarda"
+m_InteractText=""
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Pwn_EliteGuard_MTall_3_Party DisTweaks_NPCPawn]
+m_BusyText="Esse personagem está ocupado"
+m_CannotStealMessage="Você não pode mais carregar esse tipo de munição"
+
+[Pwn_EliteGuard_MTall_3_Party:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Oficial da Guarda"
+m_InteractText=""
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Pwn_EliteGuard_MTall_4_Helm1_Party DisTweaks_NPCPawn]
+m_BusyText="Esse personagem está ocupado"
+m_CannotStealMessage="Você não pode mais carregar esse tipo de munição"
+
+[Pwn_EliteGuard_MTall_4_Helm1_Party:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Oficial da Guarda"
+m_InteractText=""
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Pwn_EliteGuard_MTall_4_Party DisTweaks_NPCPawn]
+m_BusyText="Esse personagem está ocupado"
+m_CannotStealMessage="Você não pode mais carregar esse tipo de munição"
+
+[Pwn_EliteGuard_MTall_4_Party:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Oficial da Guarda"
+m_InteractText=""
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Pwn_EliteGuard_MTall_5_Helm1_Party DisTweaks_NPCPawn]
+m_BusyText="Esse personagem está ocupado"
+m_CannotStealMessage="Você não pode mais carregar esse tipo de munição"
+
+[Pwn_EliteGuard_MTall_5_Helm1_Party:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Oficial da Guarda"
+m_InteractText=""
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Pwn_EliteGuard_MTall_5_Party DisTweaks_NPCPawn]
+m_BusyText="Esse personagem está ocupado"
+m_CannotStealMessage="Você não pode mais carregar esse tipo de munição"
+
+[Pwn_EliteGuard_MTall_5_Party:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Oficial da Guarda"
+m_InteractText=""
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Pwn_MusicOverseer_Party DisTweaks_NPCPawn]
+m_BusyText="Esse personagem está ocupado"
+m_CannotStealMessage="Você não pode mais carregar esse tipo de munição"
+
+[Pwn_MusicOverseer_Party:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Supervisor"
+m_InteractText=""
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Twk_Pawn_Boyle_Aristocrat1 DisTweaks_NPCPawn]
+m_BusyText="Esse personagem está ocupado"
+m_CannotStealMessage="Você não pode mais carregar esse tipo de munição"
+
+[Twk_Pawn_Boyle_Aristocrat1:DisTweaks_InteractableInterface_2 DisTweaks_InteractableInterface]
+m_InteractText=""
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Twk_Pawn_Boyle_Aristocrat2 DisTweaks_NPCPawn]
+m_BusyText="Esse personagem está ocupado"
+m_CannotStealMessage="Você não pode mais carregar esse tipo de munição"
+
+[Twk_Pawn_Boyle_Aristocrat2:DisTweaks_InteractableInterface_7 DisTweaks_InteractableInterface]
+m_InteractText=""
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Twk_Pawn_Boyle_Aristocrat3 DisTweaks_NPCPawn]
+m_BusyText="Esse personagem está ocupado"
+m_CannotStealMessage="Você não pode mais carregar esse tipo de munição"
+
+[Twk_Pawn_Boyle_Aristocrat3:DisTweaks_InteractableInterface_9 DisTweaks_InteractableInterface]
+m_InteractText=""
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Twk_Pawn_Boyle_Aristocrat4 DisTweaks_NPCPawn]
+m_BusyText="Esse personagem está ocupado"
+m_CannotStealMessage="Você não pode mais carregar esse tipo de munição"
+
+[Twk_Pawn_Boyle_Aristocrat4:DisTweaks_InteractableInterface_10 DisTweaks_InteractableInterface]
+m_InteractText=""
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Twk_Pawn_Boyle_AristoF1 DisTweaks_NPCPawn]
+m_BusyText="Esse personagem está ocupado"
+m_CannotStealMessage="Você não pode mais carregar esse tipo de munição"
+
+[Twk_Pawn_Boyle_AristoF1:DisTweaks_InteractableInterface_11 DisTweaks_InteractableInterface]
+m_Name="Convidado da Festa"
+m_InteractText=""
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Twk_Pawn_Boyle_AristoF2 DisTweaks_NPCPawn]
+m_BusyText="Esse personagem está ocupado"
+m_CannotStealMessage="Você não pode mais carregar esse tipo de munição"
+
+[Twk_Pawn_Boyle_AristoF2:DisTweaks_InteractableInterface_12 DisTweaks_InteractableInterface]
+m_Name="Convidado da Festa"
+m_InteractText=""
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Twk_Pawn_Boyle_AristoF3 DisTweaks_NPCPawn]
+m_BusyText="Esse personagem está ocupado"
+m_CannotStealMessage="Você não pode mais carregar esse tipo de munição"
+
+[Twk_Pawn_Boyle_AristoF3:DisTweaks_InteractableInterface_13 DisTweaks_InteractableInterface]
+m_Name="Convidado da Festa"
+m_InteractText=""
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Twk_Pawn_Boyle_AristoF4 DisTweaks_NPCPawn]
+m_BusyText="Esse personagem está ocupado"
+m_CannotStealMessage="Você não pode mais carregar esse tipo de munição"
+
+[Twk_Pawn_Boyle_AristoF4:DisTweaks_InteractableInterface_14 DisTweaks_InteractableInterface]
+m_Name="Convidado da Festa"
+m_InteractText=""
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Twk_Pawn_Boyle_Mattie DisTweaks_NPCPawn]
+m_BusyText="Esse personagem está ocupado"
+m_CannotStealMessage="Você não pode mais carregar esse tipo de munição"
+
+[Twk_Pawn_Boyle_Mattie:DisTweaks_InteractableInterface_12 DisTweaks_InteractableInterface]
+m_Name="Mattie"
+m_InteractText=""
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Twk_Pawn_Boyle_MissWhite DisTweaks_NPCPawn]
+m_BusyText="Esse personagem está ocupado"
+m_CannotStealMessage="Você não pode mais carregar esse tipo de munição"
+
+[Twk_Pawn_Boyle_MissWhite:DisTweaks_InteractableInterface_13 DisTweaks_InteractableInterface]
+m_Name="Srta. White"
+m_InteractText=""
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Twk_Pawn_LordBrisby DisTweaks_NPCPawn]
+m_BusyText="Esse personagem está ocupado"
+m_CannotStealMessage="Você não pode mais carregar esse tipo de munição"
+
+[Twk_Pawn_LordBrisby:DisTweaks_InteractableInterface_15 DisTweaks_InteractableInterface]
+m_Name="Lorde Brisby"
+m_InteractText=""
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Twk_Pawn_LordBrisby_NoCorpseReaction DisTweaks_NPCPawn]
+m_BusyText="Esse personagem está ocupado"
+m_CannotStealMessage="Você não pode mais carregar esse tipo de munição"
+
+[Twk_Pawn_LordBrisby_NoCorpseReaction:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Lorde Brisby"
+m_InteractText=""
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Twk_Pawn_LordShaw DisTweaks_NPCPawn]
+m_BusyText="Esse personagem está ocupado"
+m_CannotStealMessage="Você não pode mais carregar esse tipo de munição"
+
+[Twk_Pawn_LordShaw:DisTweaks_InteractableInterface_16 DisTweaks_InteractableInterface]
+m_Name="Lorde Shaw"
+m_InteractText=""
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Twk_Pawn_Ramsey DisTweaks_NPCPawn]
+m_BusyText="Esse personagem está ocupado"
+m_CannotStealMessage="Você não pode mais carregar esse tipo de munição"
+
+[Twk_Pawn_Ramsey:DisTweaks_InteractableInterface_15 DisTweaks_InteractableInterface]
+m_Name="Ramsey"
+m_InteractText=""
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+

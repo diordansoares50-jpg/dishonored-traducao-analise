@@ -1,0 +1,53 @@
+﻿[ApartmentDoor_Locked_twk DisTweaks_Door]
+m_UnlockInteractText="`GBA_Use` Desbloquear"
+m_LockedMessage="Trancado"
+
+[DLC07_CeremonialTray_Twk DisTweaks_UsableObject]
+m_UnlockInteractText="`GBA_Use` Colocar o anel na bandeja"
+
+[DLC07_CeremonialTray_Twk:DisTweaks_InteractableInterface_16 DisTweaks_InteractableInterface]
+m_Name="Bandeja Cerimonial"
+m_InteractText="`GBA_Use` Coloque o anel na bandeja"
+m_CannotUseMessage="Você deve ter uma aliança de casamento"
+
+[DLC07_DW_Trap_twk:DisTweaks_InteractableInterface_2 DisTweaks_InteractableInterface]
+m_Name=""
+m_InteractText=""
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[DLC07_GrannyRitualTray:DisTweaks_InteractableInterface_8 DisTweaks_InteractableInterface]
+m_Name="Bandeja de Ritual"
+m_InteractText="`GBA_Use` Colocar Aliança de Casamento Aqui"
+
+[DLC07_KeyLockSafe DisTweaks_UsableObject]
+m_Stages[1]=(m_InteractTextOverride="`GBA_Use` Close")
+m_LockedMessage="Chave Necessária"
+
+[DLC07_KeyLockSafe:DisTweaks_InteractableInterface_6 DisTweaks_InteractableInterface]
+m_Name="Seguro"
+m_InteractText="`GBA_Use` Abrir"
+
+[DLC07_LTD_Street_To_River DisTweaks_UsableObject]
+m_LockedMessage="Está emperrado"
+
+[DLC07_LTD_Street_To_River:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Porta para a Orla do Rio do Bairro dos Alfaiates"
+
+[DLC07_LTD_Street_To_Sewer DisTweaks_UsableObject]
+m_LockedMessage="Está emperrado"
+
+[DLC07_LTD_Street_To_Sewer:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Porta para os Esgotos do Bairro dos Alfaiates"
+
+[DLC07_RitualRing_twk:DisTweaks_Interactable_PickupBase_0 DisTweaks_Interactable_PickupBase]
+m_Name="Aliança de Casamento"
+
+[DLC07_RitualTray:DisTweaks_InteractableInterface_16 DisTweaks_InteractableInterface]
+m_Name="Para os Canis"
+
+[Door_Transitions.DLC07_LTD_Street_To_Mill:DisTweaks_InteractableInterface_16 DisTweaks_InteractableInterface]
+m_Name="Para os Canis"
+

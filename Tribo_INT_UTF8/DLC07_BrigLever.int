@@ -1,0 +1,67 @@
+﻿[DLC07_BrigGrave_Lever_twk DisTweaks_UsableObject]
+m_Stages[0]=(m_InteractTextOverride="`GBA_Use` Operate Crypt Door")
+m_Stages[1]=(m_InteractTextOverride="`GBA_Use` Operate Crypt Door")
+
+[DLC07_BrigGrave_Lever_twk:pInteractableTweaks DisTweaks_InteractableInterface]
+m_InteractText="`GBA_Use` Use"
+
+[Door_Transitions.LTD_BrigExt_to_BrigInt DisTweaks_UsableObject]
+m_UnlockInteractText="`GBA_Use` Unlock"
+m_LockedMessage="Locked. You need the `k"
+m_UnauthorizedMessage=""
+m_FocusMessage=""
+m_FocusLockedMessage=""
+
+[Door_Transitions.LTD_BrigExt_to_BrigInt:DisTweaks_InteractableInterface_16 DisTweaks_InteractableInterface]
+m_Name="Door to Brigmore Manor"
+m_InteractText="`k Open"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Door_Transitions.LTD_BrigInt_To_BrigExt DisTweaks_UsableObject]
+m_UnlockInteractText="`GBA_Use` Unlock"
+m_LockedMessage="Locked. You need the `k"
+m_UnauthorizedMessage=""
+m_FocusMessage=""
+m_FocusLockedMessage=""
+
+[Door_Transitions.LTD_BrigInt_To_BrigExt:DisTweaks_InteractableInterface_16 DisTweaks_InteractableInterface]
+m_Name="Door to Brigmore Exterior"
+m_InteractText="`k Open"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Door_Transitions.LTD_CryptToInterior_twk DisTweaks_UsableObject]
+m_UnlockInteractText="`GBA_Use` Unlock"
+m_LockedMessage="Locked. You need the `k"
+m_UnauthorizedMessage=""
+m_FocusMessage=""
+m_FocusLockedMessage=""
+
+[Door_Transitions.LTD_CryptToInterior_twk:DisTweaks_InteractableInterface_16 DisTweaks_InteractableInterface]
+m_Name="Door to Brigmore Manor"
+m_InteractText="`k Open"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Door_Transitions.LTD_InteriorToCrypt_twk DisTweaks_UsableObject]
+m_UnlockInteractText="`GBA_Use` Unlock"
+m_LockedMessage="Locked. You need the `k"
+m_UnauthorizedMessage=""
+m_FocusMessage=""
+m_FocusLockedMessage=""
+
+[Door_Transitions.LTD_InteriorToCrypt_twk:DisTweaks_InteractableInterface_16 DisTweaks_InteractableInterface]
+m_Name="Door to Brigmore Crypt"
+m_InteractText="`k Open"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+

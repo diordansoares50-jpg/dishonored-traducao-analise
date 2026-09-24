@@ -1,0 +1,7 @@
+﻿[DLC01_Accuracy DishonoredObjective]
+m_Description="Kill ten targets as fast as you can."
+
+[DLC01_Accuracy:DishonoredTask_Custom_9 DishonoredTask_Custom]
+m_Description="Kill ten targets as fast as you can."
+m_Status=""
+

@@ -1,0 +1,12 @@
+﻿[Pickups.RewireTool_twk DisTweaks_AbstractItemPickup]
+m_SingleItemPickupMessage=""
+
+[Pickups.RewireTool_twk:DisTweaks_Interactable_PickupBase_26 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name="Ferramenta de Reconfiguração"
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage="Você não pode carregar mais ferramentas de reparo"
+

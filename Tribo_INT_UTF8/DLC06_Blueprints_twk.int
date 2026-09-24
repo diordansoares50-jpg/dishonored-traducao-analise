@@ -1,0 +1,12 @@
+﻿[AbstractItems.DLC06_BP_ArcMine_twk DisTweaks_AbstractItemPickup]
+m_SingleItemPickupMessage="New Arc Mine items and upgrades available"
+
+[AbstractItems.DLC06_BP_Armor_twk DisTweaks_AbstractItemPickup]
+m_SingleItemPickupMessage="New upgrade available: Improved Armor"
+
+[AbstractItems.DLC06_BP_Boots_twk DisTweaks_AbstractItemPickup]
+m_SingleItemPickupMessage="New upgrade available: Boot Stealth 1"
+
+[AbstractItems.DLC06_BP_ExpBolts_twk DisTweaks_AbstractItemPickup]
+m_SingleItemPickupMessage="New item available: Explosive Bolt"
+

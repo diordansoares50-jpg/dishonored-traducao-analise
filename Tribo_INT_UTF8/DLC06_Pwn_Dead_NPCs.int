@@ -1,0 +1,8 @@
+﻿[DLC06_PwnDead_Empress:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Empress Jessamine Kaldwin"
+
+[DLC06_PwnDead_Weeper_F:DisTweaks_InteractableInterface_3 DisTweaks_InteractableInterface]
+m_Name="Weeper Corpse"
+
+[DLC06_PwnDead_Weeper_MTall_1:DisTweaks_InteractableInterface_3 DisTweaks_InteractableInterface]
+m_Name="Weeper Corpse"

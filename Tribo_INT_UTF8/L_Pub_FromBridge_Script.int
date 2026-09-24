@@ -1,0 +1,17 @@
+﻿[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_DialogScriptedChoice_0 DisSeqAct_DialogScriptedChoice]
+m_Title=""
+m_Choices[0]=(m_ChoiceText="Hora de descansar.")
+m_Choices[1]=(m_ChoiceText="Eu não quero dormir ainda.")
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_GameOver_2 DisSeqAct_GameOver]
+m_Reason="A Conspiração dos Legalistas foi dissolvida."
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_ShowLocationDiscovery_0 DisSeqAct_ShowLocationDiscovery]
+m_LocationName="Aposentos de Corvo"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_ShowLocationDiscovery_1 DisSeqAct_ShowLocationDiscovery]
+m_LocationName="Bar Cova do Cão"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_UpdateTaskTarget_0 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Cama de Corvo"
+

@@ -1,0 +1,15 @@
+﻿[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_DialogScriptedChoice_0 DisSeqAct_DialogScriptedChoice]
+m_Title=""
+m_Choices[0]=(m_ChoiceText="High Chaos")
+m_Choices[1]=(m_ChoiceText="Low Chaos")
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_DialogScriptedChoice_1 DisSeqAct_DialogScriptedChoice]
+m_Title=""
+m_Choices[0]=(m_ChoiceText="Go to the Textile Mill")
+m_Choices[1]=(m_ChoiceText="Stay in Drapers Ward Streets")
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_DialogScriptedChoice_2 DisSeqAct_DialogScriptedChoice]
+m_Title=""
+m_Choices[0]=(m_ChoiceText="Go to the Riverfront")
+m_Choices[1]=(m_ChoiceText="Stay in Drapers Ward Streets")
+

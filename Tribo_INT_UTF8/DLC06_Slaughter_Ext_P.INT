@@ -1,0 +1,15 @@
+﻿[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_DialogScriptedChoice_10 DisSeqAct_DialogScriptedChoice]
+m_Title=""
+m_Choices[0]=(m_ChoiceText="Enter Slaughterhouse")
+m_Choices[1]=(m_ChoiceText="Stay at Slaughterhouse Sewer")
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_DialogScriptedChoice_7 DisSeqAct_DialogScriptedChoice]
+m_Title=""
+m_Choices[0]=(m_ChoiceText="Enter Slaughterhouse")
+m_Choices[1]=(m_ChoiceText="Stay at Slaughterhouse Yard")
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_DialogScriptedChoice_9 DisSeqAct_DialogScriptedChoice]
+m_Title=""
+m_Choices[0]=(m_ChoiceText="Enter Slaughterhouse")
+m_Choices[1]=(m_ChoiceText="Stay at Slaughterhouse Yard")
+

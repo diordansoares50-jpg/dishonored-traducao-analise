@@ -1,0 +1,53 @@
+﻿[ApartmentDoor_Locked_twk DisTweaks_Door]
+m_UnlockInteractText="`GBA_Use` Unlock"
+m_LockedMessage="Locked"
+
+[DLC07_CeremonialTray_Twk DisTweaks_UsableObject]
+m_UnlockInteractText="`GBA_Use` Put the ring on the tray"
+
+[DLC07_CeremonialTray_Twk:DisTweaks_InteractableInterface_16 DisTweaks_InteractableInterface]
+m_Name="Ceremonial Tray"
+m_InteractText=" `GBA_Use` Put the ring on the tray"
+m_CannotUseMessage="You must have a wedding ring"
+
+[DLC07_DW_Trap_twk:DisTweaks_InteractableInterface_2 DisTweaks_InteractableInterface]
+m_Name=""
+m_InteractText=""
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[DLC07_GrannyRitualTray:DisTweaks_InteractableInterface_8 DisTweaks_InteractableInterface]
+m_Name="Ritual Tray"
+m_InteractText="`GBA_Use` Place Wedding Band Here"
+
+[DLC07_KeyLockSafe DisTweaks_UsableObject]
+m_Stages[1]=(m_InteractTextOverride="`GBA_Use` Close")
+m_LockedMessage="Key Required"
+
+[DLC07_KeyLockSafe:DisTweaks_InteractableInterface_6 DisTweaks_InteractableInterface]
+m_Name="Safe"
+m_InteractText="`GBA_Use` Open"
+
+[DLC07_LTD_Street_To_River DisTweaks_UsableObject]
+m_LockedMessage="It's Jammed"
+
+[DLC07_LTD_Street_To_River:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Door to Drapers Ward Riverfront"
+
+[DLC07_LTD_Street_To_Sewer DisTweaks_UsableObject]
+m_LockedMessage="It's Jammed"
+
+[DLC07_LTD_Street_To_Sewer:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Door to Drapers Ward Sewers"
+
+[DLC07_RitualRing_twk:DisTweaks_Interactable_PickupBase_0 DisTweaks_Interactable_PickupBase]
+m_Name="Wedding Band"
+
+[DLC07_RitualTray:DisTweaks_InteractableInterface_16 DisTweaks_InteractableInterface]
+m_Name="To the Kennels"
+
+[Door_Transitions.DLC07_LTD_Street_To_Mill:DisTweaks_InteractableInterface_16 DisTweaks_InteractableInterface]
+m_Name="To the Kennels"
+

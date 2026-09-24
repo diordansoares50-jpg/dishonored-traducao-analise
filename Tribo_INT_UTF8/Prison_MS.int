@@ -1,0 +1,95 @@
+﻿[Bomb_Usable_Twk DisTweaks_UsableObject]
+m_UnlockInteractText="`GBA_Use` Destrancar"
+m_LockedMessage=""
+m_UnauthorizedMessage=""
+m_FocusMessage=""
+m_FocusLockedMessage=""
+
+[Bomb_Usable_Twk:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Porta Externa"
+m_InteractText=" `GBA_Use` Plantar a Bomba"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Cell_door_twk DisTweaks_Door]
+m_DoorOpenCCW.m_InteractTextOverride=""
+m_DoorOpenCW.m_InteractTextOverride=""
+m_DoorCloseCCW.m_InteractTextOverride="`GBA_Use` Fechar"
+m_DoorCloseCW.m_InteractTextOverride="`GBA_Use` Fechar"
+m_DoorSlamOpenCCW.m_InteractTextOverride=""
+m_DoorSlamOpenCW.m_InteractTextOverride=""
+m_UnlockInteractText="`GBA_Use` Destrancar"
+m_LockedMessage=""
+m_UnauthorizedMessage=""
+m_FocusMessage=""
+
+[Cell_door_twk:DisTweaks_InteractableInterface_31 DisTweaks_InteractableInterface]
+m_Name="Porta da Cela"
+m_InteractText="`GBA_Use` Abrir"
+m_AltInteractText="Segure `GBA_Use` para olhar pelo buraco da fechadura"
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[CellHallway_door_twk DisTweaks_Door]
+m_DoorOpenCCW.m_InteractTextOverride=""
+m_DoorOpenCW.m_InteractTextOverride=""
+m_DoorCloseCCW.m_InteractTextOverride="`GBA_Use` Fechar"
+m_DoorCloseCW.m_InteractTextOverride="`GBA_Use` Fechar"
+m_DoorSlamOpenCCW.m_InteractTextOverride=""
+m_DoorSlamOpenCW.m_InteractTextOverride=""
+m_UnlockInteractText="`GBA_Use` Destrancar"
+m_LockedMessage=""
+m_UnauthorizedMessage=""
+m_FocusMessage=""
+
+[CellHallway_door_twk:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Porta do Corredor das Celas"
+m_InteractText="`GBA_Use` Abrir"
+m_AltInteractText="Segure `GBA_Use` para olhar pelo buraco da fechadura"
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[LTD_PrisonToSewer_door:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Porta Indestrutível"
+m_InteractText="`GBA_Use` Ir para o Esgoto"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[sink_prison_01_twk:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Torneira"
+m_InteractText=" `GBA_Use` Beber"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[wall_lever_01_twk DisTweaks_UsableObject]
+m_LockedMessage="Bloqueado"
+
+[wall_lever_01_twk:DisTweaks_InteractableInterface_0 DisTweaks_InteractableInterface]
+m_Name="Interruptor"
+m_InteractText="`GBA_Use` Usar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Weapons.Gun_Prison_twk DisTweaks_InventoryPickup]
+m_SingleAmmoPickupMessage=""
+m_EmptyPickupMessage=""
+
+[Weapons.Gun_Prison_twk:DisTweaks_Interactable_PickupBase_2 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name="Pistola"
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage="Você pegou `n balas"
+m_AltUseMessage=""
+m_CannotUseMessage="Você não pode mais carregar esse tipo de munição"
+

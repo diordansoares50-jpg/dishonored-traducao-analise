@@ -1,0 +1,18 @@
+﻿[BrigmoreLever_twk:DisTweaks_Interactable_PickupBase_0 DisTweaks_Interactable_PickupBase]
+m_Name="Uma alavanca pesada"
+
+[DLC07_BrigLever:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Interruptor de Túmulo"
+m_InteractText="`GBA_Use` Usar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[DLC07_BrigPainting:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Onde Se Abriu, Eu Entrei"
+m_InteractText="`GBA_Use` Usar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""

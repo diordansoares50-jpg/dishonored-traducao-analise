@@ -1,0 +1,50 @@
+﻿[Guards.DLC06_Pwn_ArmyMan_0:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Private"
+
+[Guards.DLC06_Pwn_GeneralTurnbull_1:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="General Turnbull"
+
+[Guards.DLC06_Pwn_James:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Thalia's Bodyguard"
+
+[Guards.DLC06_Pwn_Lawyer_MTall_1:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Lawyer"
+
+[Guards.DLC06_Pwn_Lawyer_MTall_2:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Lawyer"
+
+[Guards.DLC06_Pwn_NPCNonLethal_MTall_1:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Roland"
+
+[Guards.DLC06_Pwn_PistolThug_0:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Hatter Gang Member"
+
+[Guards.DLC06_Pwn_PistolThug_1:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Hatter Gang Member"
+
+[Guards.DLC06_Pwn_PistolThug_Chauncy:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Chauncy"
+
+[Guards.DLC06_Pwn_TimshCaptain:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Estate Captain"
+
+[Guards.DLC06_Pwn_TimshElite_0:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Estate Officer"
+
+[Guards.DLC06_Pwn_TimshGuard_0:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Estate Guard"
+
+[Guards.DLC06_Pwn_TimshGuard_1:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Estate Guard"
+
+[Guards.DLC06_Pwn_TimshGuard_1a:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Estate Guard"
+
+[Guards.DLC06_Pwn_TimshGuard_1b:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Estate Guard"
+
+[Guards.DLC06_Pwn_TimshGuard_2:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Estate Guard"
+
+[Guards.DLC06_Pwn_TrapWoman_1:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Woman"

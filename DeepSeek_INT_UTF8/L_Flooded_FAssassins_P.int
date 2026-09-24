@@ -1,0 +1,10 @@
+﻿[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_DialogScriptedChoice_3 DisSeqAct_DialogScriptedChoice]
+m_Title=""
+m_Choices[0]=(m_ChoiceText="Go to Rudshore Market")
+m_Choices[1]=(m_ChoiceText="Stay in Central Rudshore")
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_DialogScriptedChoice_1 DisSeqAct_DialogScriptedChoice]
+m_Title=""
+m_Choices[0]=(m_ChoiceText="Go to the Gateward Tunnel")
+m_Choices[1]=(m_ChoiceText="Stay in Daud's Base")
+

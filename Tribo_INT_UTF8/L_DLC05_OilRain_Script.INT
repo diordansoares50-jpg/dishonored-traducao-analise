@@ -1,0 +1,45 @@
+﻿[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_SetTutorialMessage_9 DisSeqAct_SetTutorialMessage]
+m_TutorialMessage="Green Tank: enables Dark Vision for 15 seconds."
+m_TutorialMessage_Gamepad=""
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_SetTutorialMessage_36 DisSeqAct_SetTutorialMessage]
+m_TutorialMessage="Special Round"
+m_TutorialMessage_Gamepad=""
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_SetTutorialMessage_35 DisSeqAct_SetTutorialMessage]
+m_TutorialMessage="Each tank destroyed raises your score."
+m_TutorialMessage_Gamepad=""
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_SetTutorialMessage_14 DisSeqAct_SetTutorialMessage]
+m_TutorialMessage="Pink Tank: restores 35% of your health."
+m_TutorialMessage_Gamepad=""
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_SetTutorialMessage_13 DisSeqAct_SetTutorialMessage]
+m_TutorialMessage="Gold Tank: slows time down for 2 seconds."
+m_TutorialMessage_Gamepad=""
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_SetTutorialMessage_12 DisSeqAct_SetTutorialMessage]
+m_TutorialMessage="Shoot as many falling Whale Oil Tanks as possible."
+m_TutorialMessage_Gamepad=""
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_SetTutorialMessage_11 DisSeqAct_SetTutorialMessage]
+m_TutorialMessage="PERFECT ROUND"
+m_TutorialMessage_Gamepad=""
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_SetTutorialMessage_10 DisSeqAct_SetTutorialMessage]
+m_TutorialMessage="Purple Tank: creates a cloud of smoke when shot."
+m_TutorialMessage_Gamepad=""
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_DialogScriptedChoice_5 DisSeqAct_DialogScriptedChoice]
+m_Title=""
+m_Choices[0]=(m_ChoiceText="Retry")
+m_Choices[1]=(m_ChoiceText="Back to Menu")
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_ShowHUDMessage_25 DisSeqAct_ShowHUDMessage]
+m_Message="Special Round"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_ShowHUDMessage_7 DisSeqAct_ShowHUDMessage]
+m_Message="PERFECT ROUND"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_GameOver_2 DisSeqAct_GameOver]
+m_Reason="You have met your demise"

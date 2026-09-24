@@ -1,0 +1,7 @@
+﻿[DLC07_Pwn_Gravehound:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Gravehound"
+
+[DLC07_Twk_Gravehound_Skull_V2:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Gravehound skull"
+m_InteractText="`GBA_Use` Carry"
+

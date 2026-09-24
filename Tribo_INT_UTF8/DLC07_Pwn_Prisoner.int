@@ -1,0 +1,12 @@
+﻿[DLC07_Pwn_Prisoner_Combatant:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Hatter"
+
+[DLC07_Pwn_Prisoner_EliteGuard:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Watch Officer"
+
+[DLC07_Pwn_Prisoner_LowerGuard:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Watch Lower Guard"
+
+[DLC07_Pwn_Prisoner_MTall_Thug_1:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Hatter"
+

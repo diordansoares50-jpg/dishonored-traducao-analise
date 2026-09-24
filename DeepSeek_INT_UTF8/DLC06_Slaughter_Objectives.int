@@ -1,0 +1,261 @@
+﻿[DLC06_Ext_Laborer_Obj DishonoredObjective]
+m_Description="(Opcional) Ajude os trabalhadores a escaparem"
+
+[DLC06_Ext_Laborer_Obj:DishonoredTask_Custom_27 DishonoredTask_Custom]
+m_Description="Recupere a chave da sala de descanso"
+m_Status=""
+
+[DLC06_Ext_Laborer_Obj:DishonoredTask_Custom_28 DishonoredTask_Custom]
+m_Description="Destrave o portão da prisão dos trabalhadores"
+m_Status=""
+
+[DLC06_Ext_Laborer_Obj:DishonoredTask_Custom_42 DishonoredTask_Custom]
+m_Description="Falar com trabalhadores"
+m_Status=""
+
+[DLC06_Ext_Laborer_Obj:DishonoredTask_Custom_58 DishonoredTask_Custom]
+m_Description="Desativar a Parede de Luz"
+m_Status=""
+
+[DLC06_GrannySlaughter_Obj DishonoredObjective]
+m_Description="(Opcional) Receita da Vovó: o Olho Choroso"
+
+[DLC06_GrannySlaughter_Obj:DishonoredTask_Custom_54 DishonoredTask_Custom]
+m_Description="Encontre os ingredientes para completar a receita da Vovó"
+m_Status=""
+
+[DLC06_GrannySlaughter_Obj:DishonoredTask_Custom_85 DishonoredTask_Custom]
+m_Description="Encontre um chorão que não chora mais"
+m_Status=""
+
+[DLC06_GrannySlaughter_Obj:DishonoredTask_Custom_86 DishonoredTask_Custom]
+m_Description="Coloque o olho da baleia na panela de cozimento"
+m_Status=""
+
+[DLC06_GrannySlaughter_Obj:DishonoredTask_Custom_87 DishonoredTask_Custom]
+m_Description="Recupere o olho de uma baleia, recém-morto"
+m_Status=""
+
+[DLC06_GrannySlaughter_Obj:DishonoredTask_Custom_88 DishonoredTask_Custom]
+m_Description="Coloque o cadáver do chorão perto das marcas ocultas"
+m_Status=""
+
+[DLC06_Slaughter_Crate_Obj DishonoredObjective]
+m_Description="Carga de Saída (Não Letal)"
+
+[DLC06_Slaughter_Crate_Obj:DishonoredTask_Custom_27 DishonoredTask_Custom]
+m_Description="Carregar Bundry Rothwild até a caixa de envio"
+m_Status=""
+
+[DLC06_Slaughter_Escape_Obj DishonoredObjective]
+m_Description="Sair da Rua do Matadouro"
+
+[DLC06_Slaughter_Escape_Obj:DishonoredTask_Custom_27 DishonoredTask_Custom]
+m_Description="Fuja do Matadouro Rothwild"
+m_Status=""
+
+[DLC06_Slaughter_Escape_Obj:DishonoredTask_Custom_41 DishonoredTask_Custom]
+m_Description="Encontre-se com Billie Lurk para se preparar para partir"
+m_Status=""
+
+[DLC06_Slaughter_Escape_Obj:DishonoredTask_Custom_64 DishonoredTask_Custom]
+m_Description="Ajude Billie Lurk a escapar do Supervisor da Caixa de Música"
+m_Status=""
+
+[DLC06_Slaughter_Favor1_Obj DishonoredObjective]
+m_Description="(Favor) Saquear o cofre do Oficial de Vigia"
+
+[DLC06_Slaughter_Favor1_Obj:DishonoredTask_Custom_27 DishonoredTask_Custom]
+m_Description="Encontre a combinação escrita na parede"
+m_Status=""
+
+[DLC06_Slaughter_Favor1_Obj:DishonoredTask_Custom_41 DishonoredTask_Custom]
+m_Description="Abra o cofre do Oficial de Vigia"
+m_Status=""
+
+[DLC06_Slaughter_Favor2_Obj DishonoredObjective]
+m_Description="(Favor) A Runa sob o Matadouro"
+
+[DLC06_Slaughter_Favor2_Obj:DishonoredTask_Custom_27 DishonoredTask_Custom]
+m_Description="Recupere a Runa de um túnel de manutenção dentro do matadouro"
+m_Status=""
+
+[DLC06_Slaughter_FindAbigail_Obj DishonoredObjective]
+m_Description="(Opcional) Encontrar Abigail Ames"
+
+[DLC06_Slaughter_FindAbigail_Obj:DishonoredTask_Custom_27 DishonoredTask_Custom]
+m_Description="Localize e auxilie Abigail Ames"
+m_Status=""
+
+[DLC06_Slaughter_Mercy_Obj DishonoredObjective]
+m_Description="(Opcional) Liberte a baleia cativa de seu sofrimento"
+
+[DLC06_Slaughter_Mercy_Obj:DishonoredTask_Custom_27 DishonoredTask_Custom]
+m_Description="Conecte os tanques de óleo de baleia ao sistema elétrico"
+m_Status=""
+
+[DLC06_Slaughter_Mercy_Obj:DishonoredTask_Custom_41 DishonoredTask_Custom]
+m_Description="Ative o interruptor para eletrocutar a baleia"
+m_Status=""
+
+[DLC06_Slaughter_Opt_Sabo_Obj DishonoredObjective]
+m_Description="(Opcional) Destrua o matadouro"
+
+[DLC06_Slaughter_Opt_Sabo_Obj:DishonoredTask_Custom_27 DishonoredTask_Custom]
+m_Description="Ligue quatro válvulas para aumentar a pressão na refinaria"
+m_Status=""
+
+[DLC06_Slaughter_Opt_Sabo_Obj:DishonoredTask_Custom_40 DishonoredTask_Custom]
+m_Description="Volte para Abigail Ames para descobrir o que ela sabe"
+m_Status=""
+
+[DLC06_Slaughter_Req_Sabo_Obj DishonoredObjective]
+m_Description="Destrua o matadouro"
+
+[DLC06_Slaughter_Req_Sabo_Obj:DishonoredTask_Custom_27 DishonoredTask_Custom]
+m_Description="Ligue as válvulas para aumentar a pressão na refinaria"
+m_Status=""
+
+[DLC06_Slaughter_Req_Sabo_Obj:DishonoredTask_Custom_40 DishonoredTask_Custom]
+m_Description="Volte para Abigail Ames para descobrir o que ela sabe"
+m_Status=""
+
+[DLC06_Slaughter_Req_Sabo_Obj:DishonoredTask_Custom_41 DishonoredTask_Custom]
+m_Description="Ligar a refinaria instável [ANTIGO]"
+m_Status=""
+
+[DLC06_Slaughter_Req_Sabo_Obj:DishonoredTask_Custom_61 DishonoredTask_Custom]
+m_Description="Escapar do Matadouro Rothwild [ANTIGO]"
+m_Status=""
+
+[DLC06_Slaughter_Rothwild_Obj DishonoredObjective]
+m_Description="Descubra o segredo de Rothwild"
+
+[DLC06_Slaughter_Rothwild_Obj:DishonoredTask_Custom_27 DishonoredTask_Custom]
+m_Description="Entre no Matadouro Rothwild"
+m_Status=""
+
+[DLC06_Slaughter_Rothwild_Obj:DishonoredTask_Custom_28 DishonoredTask_Custom]
+m_Description="Encontrar Bundry Rothwild"
+m_Status=""
+
+[DLC06_Slaughter_Rothwild_Obj:DishonoredTask_Custom_30 DishonoredTask_Custom]
+m_Description="(Não letal) Empacote Rothwild em uma caixa de transporte"
+m_Status=""
+
+[DLC06_Slaughter_Rothwild_Obj:DishonoredTask_Custom_37 DishonoredTask_Custom]
+m_Description="(Opcional) Perguntar a Abigail Ames"
+m_Status=""
+
+[DLC06_Slaughter_Rothwild_Obj:DishonoredTask_Custom_38 DishonoredTask_Custom]
+m_Description="(Opcional) Coloque Bundry Rothwild na cadeira de interrogatório"
+m_Status=""
+
+[DLC06_Slaughter_Rothwild_Obj:DishonoredTask_Custom_43 DishonoredTask_Custom]
+m_Description="Encontrar Abigail Ames"
+m_Status=""
+
+[DLC06_Slaughter_Rothwild_Obj:DishonoredTask_Custom_44 DishonoredTask_Custom]
+m_Description="(Opcional) Encontrar um cartão de ponto"
+m_Status=""
+
+[DLC06_Slaughter_Rothwild_Obj:DishonoredTask_Custom_45 DishonoredTask_Custom]
+m_Description="(Opcional) Usar máquina de carimbo de tempo"
+m_Status=""
+
+[DLC06_Slaughter_Rothwild_Obj:DishonoredTask_Custom_51 DishonoredTask_Custom]
+m_Description="Voltar para Abigail Ames"
+m_Status=""
+
+[DLC06_Slaughter_Rothwild_Obj:DishonoredTask_Custom_53 DishonoredTask_Custom]
+m_Description="(Não Letal) Carregar Bundry Rothwild até a caixa de envio"
+m_Status=""
+
+[DLC06_Slaughter_Rothwild_Obj:DishonoredTask_Custom_57 DishonoredTask_Custom]
+m_Description="(Opcional) Fale com os trabalhadores trancados nos cais"
+m_Status=""
+
+[DLC06_Slaughter_Rothwild_Obj:DishonoredTask_Custom_59 DishonoredTask_Custom]
+m_Description="Encontre-se com o assassino"
+m_Status=""
+
+[DLC06_Slaughter_Rothwild_Obj:DishonoredTask_Custom_62 DishonoredTask_Custom]
+m_Description="Capture Bundry Rothwild vivo"
+m_Status=""
+
+[DLC06_Slaughter_Rothwild_Obj:DishonoredTask_Custom_63 DishonoredTask_Custom]
+m_Description="Coloque Abigail Ames na cadeira de interrogatório."
+m_Status=""
+
+[DLC06_Slaughter_Rothwild_Obj:DishonoredTask_Custom_65 DishonoredTask_Custom]
+m_Description="Procure por Bundry Rothwild perto de seu escritório"
+m_Status=""
+
+[DLC06_Slaughter_Rothwild_Obj:DishonoredTask_Custom_66 DishonoredTask_Custom]
+m_Description="Pergunta Bundry Rothwild"
+m_Status=""
+
+[DLC06_Slaughter_Rothwild_Obj:DishonoredTask_Custom_67 DishonoredTask_Custom]
+m_Description="(Opcional) Mate Rothwild por Abigail"
+m_Status=""
+
+[DLC06_Slaughter_Rothwild_Obj:DishonoredTask_Custom_68 DishonoredTask_Custom]
+m_Description="Encontre uma forma de interrogar Abigail Ames"
+m_Status=""
+
+[DLC06_Slaughter_Rothwild_Obj:DishonoredTask_Custom_69 DishonoredTask_Custom]
+m_Description="(Opcional) Encontre uma forma de interrogar Bundry Rothwild"
+m_Status=""
+
+[DLC06_Slaughter_Rothwild_Obj:DishonoredTask_Custom_70 DishonoredTask_Custom]
+m_Description="(Opcional) Nocauteie Bundry Rothwild"
+m_Status=""
+
+[DLC06_Slaughter_Rothwild_Obj:DishonoredTask_Custom_71 DishonoredTask_Custom]
+m_Description="Nocauteie Bundry Rothwild"
+m_Status=""
+
+[DLC06_Slaughter_Rothwild_Obj:DishonoredTask_Custom_72 DishonoredTask_Custom]
+m_Description="Encontre uma maneira de interrogar Bundry Rothwild"
+m_Status=""
+
+[DLC06_Slaughter_Rothwild_Obj:DishonoredTask_Custom_73 DishonoredTask_Custom]
+m_Description="Pergunta Abigail Ames"
+m_Status=""
+
+[DLC06_Slaughter_Rothwild_Obj:DishonoredTask_Custom_74 DishonoredTask_Custom]
+m_Description="Coloque Bundry Rothwild na cadeira de interrogatório"
+m_Status=""
+
+[DLC06_Slaughter_Rothwild_Obj:DishonoredTask_Custom_75 DishonoredTask_Custom]
+m_Description="(Opcional) Recuperar a chave da sala de descanso"
+m_Status=""
+
+[DLC06_Slaughter_Rothwild_Obj:DishonoredTask_Custom_76 DishonoredTask_Custom]
+m_Description="(Opcional) Destranque o portão da prisão dos trabalhadores"
+m_Status=""
+
+[DLC06_Slaughter_Rothwild_Obj:DishonoredTask_Custom_77 DishonoredTask_Custom]
+m_Description="(Opcional) Desativar a Parede de Luz"
+m_Status=""
+
+[DLC06_Slaughter_Rothwild_Obj:DishonoredTask_Custom_80 DishonoredTask_Custom]
+m_Description="Ligue quatro válvulas para aumentar a pressão na refinaria"
+m_Status=""
+
+[DLC06_Slaughter_Rothwild_Obj:DishonoredTask_Custom_81 DishonoredTask_Custom]
+m_Description="Volte para Abigail Ames para saber o que ela sabe"
+m_Status=""
+
+[DLC06_Slaughter_Rothwild_Obj:DishonoredTask_Custom_82 DishonoredTask_Custom]
+m_Description="(Opcional) Falar com trabalhadores"
+m_Status=""
+
+[DLC06_Slaughter_Rothwild_Obj:DishonoredTask_Custom_83 DishonoredTask_Custom]
+m_Description="(Opcional) Encontre outra entrada para o matadouro"
+m_Status=""
+
+[DLC06_Slaughter_Rothwild_Obj:DishonoredTask_Custom_84 DishonoredTask_Custom]
+m_Description="(Opcional) Fale com os trabalhadores sobre conseguir um cartão de ponto"
+m_Status=""
+

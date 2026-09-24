@@ -1,0 +1,84 @@
+﻿[Characters.Pwn_Daud_MTall_1:DisTweaks_InteractableInterface_0 DisTweaks_InteractableInterface]
+m_Name="Daud, Assassino da Imperatriz"
+
+[Characters.Pwn_Executioner_Combatant:DisTweaks_InteractableInterface_50 DisTweaks_InteractableInterface]
+m_Name="Torturador"
+m_InteractText="Torturador"
+m_AltInteractText="Torturador"
+m_UseMessage="Torturador"
+
+[Characters.Pwn_Griff_MSmall:DisTweaks_InteractableInterface_15 DisTweaks_InteractableInterface]
+m_Name="Mercador"
+
+[Notes.AbstrInv_Disclaimer_Expert DisAbstractItem]
+m_ItemName="Briga no Beco"
+m_PluralItemName=""
+m_Description="Lute seu caminho através de ondas de inimigos cada vez mais difíceis.
+
+Os inimigos causam muito mais dano.
+
+Pontuação:
+* Cada inimigo abatido concede pontos.
+* Eliminar inimigos de diferentes formas concede mais pontos.
+
+Especial:
+Um Mercador dourado aparecerá ocasionalmente e desaparecerá após 30 segundos.
+Acerte-o para obter suprimentos e sobreviver por mais tempo.
+Elimine-o para obter melhorias para seu equipamento.
+
+Runas aparecem aleatoriamente no ambiente entre algumas rodadas.
+Colete-as para obter um novo poder.
+
+Há facções rivais que lutarão entre si. Você pode usar essa situação a seu favor, mas não marcará pontos a menos que elimine um personagem pessoalmente.
+
+Fim de Jogo:
+O desafio termina se você morrer."
+
+[Notes.AbstrInv_Disclaimer_Normal DisAbstractItem]
+m_ItemName="Briga no Beco"
+m_PluralItemName=""
+m_Description="Lute seu caminho através de ondas de inimigos cada vez mais difíceis.
+
+Pontuação:
+* Cada inimigo abatido concede pontos.
+* Eliminar inimigos de maneiras variadas concede mais pontos.
+
+Especial:
+Um Mercador dourado aparecerá ocasionalmente e desaparecerá após 30 segundos.
+Acerte-o para obter suprimentos e sobreviver por mais tempo.
+Elimine-o para obter melhorias para seu equipamento.
+
+Runas aparecem aleatoriamente no ambiente entre algumas rodadas.
+Colete-as para adquirir um novo poder.
+
+Há facções rivais que lutarão entre si. Você pode usar essa situação a seu favor, mas não marcará pontos a menos que elimine um personagem pessoalmente.
+
+Fim de Jogo:
+O desafio termina se você morrer."
+
+[Notes.Pickup_Disclaimer_Expert DisTweaks_AbstractItemPickupNote]
+m_PressKeyToReadMessage=""
+m_OnPickupMessage=""
+
+[Notes.Pickup_Disclaimer_Normal DisTweaks_AbstractItemPickupNote]
+m_PressKeyToReadMessage=""
+m_OnPickupMessage=""
+
+[Pickups.Twk_Rune:DisTweaks_Interactable_PickupBase_4 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText="(não é possível pegar Runas durante a Possessão)"
+m_Name="Runa de Poder"
+
+[Tweaks.Twk_Bolts_Ammo:DisTweaks_Interactable_PickupBase_99 DisTweaks_Interactable_PickupBase]
+m_Name="Parafusos"
+
+[Tweaks.Twk_Bullets_Ammo:DisTweaks_Interactable_PickupBase_46 DisTweaks_Interactable_PickupBase]
+m_Name="Balas"
+
+[Tweaks.Twk_Elixir_Health:DisTweaks_Interactable_PickupBase_32 DisTweaks_Interactable_PickupBase]
+m_Name="Elixir da Saúde de Sokolov"
+m_CannotUseMessage="Você não pode carregar mais elixires"
+
+[Tweaks.Twk_Elixir_Mana:DisTweaks_Interactable_PickupBase_43 DisTweaks_Interactable_PickupBase]
+m_Name="Remédio Espiritual de Piero"
+m_CannotUseMessage="Você não pode carregar mais remédios"
+

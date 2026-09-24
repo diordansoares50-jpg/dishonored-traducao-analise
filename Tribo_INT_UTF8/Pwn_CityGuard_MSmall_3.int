@@ -1,0 +1,12 @@
+﻿[Pwn_CityGuard_MSmall_3 DisTweaks_NPCPawn]
+m_BusyText="Esse personagem está ocupado"
+m_CannotStealMessage="Você não pode mais carregar esse tipo de munição"
+
+[Pwn_CityGuard_MSmall_3:DisTweaks_InteractableInterface_1 DisTweaks_InteractableInterface]
+m_Name="Guarda da Cidade"
+m_InteractText=""
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+

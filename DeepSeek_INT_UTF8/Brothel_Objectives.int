@@ -1,0 +1,98 @@
+﻿[Emily DishonoredObjective]
+m_Description="Onde Está Emily"
+
+[Emily:DishonoredTask_Custom_0 DishonoredTask_Custom]
+m_Description="Procure no Escritório da Madame para encontrar a localização de Emily"
+m_Status=""
+
+[Emily:DishonoredTask_Custom_1 DishonoredTask_Custom]
+m_Description="Encontre Emily perto da porta VIP do Gato Dourado"
+m_Status=""
+
+[Emily:DishonoredTask_Custom_2 DishonoredTask_Custom]
+m_Description="Encontre a Chave Mestra do Gato Dourado"
+m_Status=""
+
+[Emily:DishonoredTask_Custom_3 DishonoredTask_Custom]
+m_Description="Desbloqueie a porta VIP do Gato Dourado"
+m_Status=""
+
+[Emily:DishonoredTask_Custom_4 DishonoredTask_Custom]
+m_Description="Encontre Emily no dormitório"
+m_Status=""
+
+[Emily:DishonoredTask_Custom_5 DishonoredTask_Custom]
+m_Description="Fale com o almirante Havelock sobre sua próxima missão"
+m_Status=""
+
+[Emily:DishonoredTask_Custom_6 DishonoredTask_Custom]
+m_Description="Vá para o Gato Dourado"
+m_Status=""
+
+[Emily:DishonoredTask_Custom_8 DishonoredTask_Custom]
+m_Description="Fale com o Lorde Pendleton"
+m_Status=""
+
+[Members_of_Parliament DishonoredObjective]
+m_Description="Eliminar os Pendletons"
+
+[Members_of_Parliament:DishonoredTask_Custom_0 DishonoredTask_Custom]
+m_Description="(Opcional) Vá até o Gato Dourado pelo Hotel Captain's Chair"
+m_Status=""
+
+[Members_of_Parliament:DishonoredTask_Custom_1 DishonoredTask_Custom]
+m_Description="Eliminar Lord Morgan Pendleton no Gato Dourado"
+m_Status=""
+
+[Members_of_Parliament:DishonoredTask_Custom_14 DishonoredTask_Custom]
+m_Description="Volte até Samuel, o Barqueiro, para viajar até o Pub da Toca do Cão"
+m_Status=""
+
+[Members_of_Parliament:DishonoredTask_Custom_15 DishonoredTask_Custom]
+m_Description="Elimine os gêmeos Pendleton no Gato Dourado"
+m_Status=""
+
+[Members_of_Parliament:DishonoredTask_Custom_16 DishonoredTask_Custom]
+m_Description="Eliminar Lord Custis Pendleton no Gato Dourado"
+m_Status=""
+
+[Members_of_Parliament:DishonoredTask_Custom_17 DishonoredTask_Custom]
+m_Description="Eliminar Lord Morgan Pendleton na sauna, no andar de baixo"
+m_Status=""
+
+[Members_of_Parliament:DishonoredTask_Custom_18 DishonoredTask_Custom]
+m_Description="Eliminar Lord Morgan Pendleton na sala de marfim, segundo andar"
+m_Status=""
+
+[Members_of_Parliament:DishonoredTask_Custom_19 DishonoredTask_Custom]
+m_Description="Eliminar Lord Custis Pendleton na sala de fumantes, no andar de cima"
+m_Status=""
+
+[Members_of_Parliament:DishonoredTask_Custom_2 DishonoredTask_Custom]
+m_Description="(Não letal) Localize o negociante de arte no Gato Dourado."
+m_Status=""
+
+[Members_of_Parliament:DishonoredTask_Custom_20 DishonoredTask_Custom]
+m_Description="Eliminar Lord Custis Pendleton na sala de ouro, terceiro andar"
+m_Status=""
+
+[Members_of_Parliament:DishonoredTask_Custom_3 DishonoredTask_Custom]
+m_Description="(Não letal) Persuadir o negociante de arte a revelar a combinação do seu cofre"
+m_Status=""
+
+[Members_of_Parliament:DishonoredTask_Custom_4 DishonoredTask_Custom]
+m_Description="Fale com Lorde Pendleton"
+m_Status=""
+
+[Members_of_Parliament:DishonoredTask_Custom_5 DishonoredTask_Custom]
+m_Description="(Não letal) Volte para o Slackjaw com a combinação do cofre"
+m_Status=""
+
+[Members_of_Parliament:DishonoredTask_Custom_8 DishonoredTask_Custom]
+m_Description="Encontre Samuel, o Barqueiro, nas docas e viaje até o Distrito da Destilaria"
+m_Status=""
+
+[Members_of_Parliament:DishonoredTask_Custom_9 DishonoredTask_Custom]
+m_Description="Fale com o Almirante Havelock sobre sua próxima missão"
+m_Status=""
+

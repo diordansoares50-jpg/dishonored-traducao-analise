@@ -1,0 +1,17 @@
+﻿[LTD_tower_door_twk:DisTweaks_InteractableInterface_16 DisTweaks_InteractableInterface]
+m_Name=""
+m_InteractText="Pressione `k para mudar de nível"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[wheel_H2U_2Way_Down2Down_twk:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Manivela"
+m_InteractText="Segurar `GBA_Use` Virar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+m_LockedMessage="Trancado"
+

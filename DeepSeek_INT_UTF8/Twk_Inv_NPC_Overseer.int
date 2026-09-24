@@ -1,0 +1,88 @@
+﻿[Grenade.Twk_Inv_GrenadeOverseer:DisTweaks_InventoryItem_PlayerSpecific_0 DisTweaks_InventoryItem_PlayerSpecific]
+m_Name=""
+m_Description=""
+
+[Grenade.Twk_Proj_Grenade_Overseer:DisTweaks_InteractableInterface_1 DisTweaks_InteractableInterface]
+m_Name="Granada"
+m_InteractText="`GBA_Use` Carregar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Grenade.Twk_Proj_Grenade_Overseer:DisTweaks_InteractableInterface_3 DisTweaks_InteractableInterface]
+m_Name="Granada"
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage="Você não pode carregar mais munição deste tipo"
+
+[Grenade.Twk_Proj_Grenade_Overseer_Flush:DisTweaks_InteractableInterface_2 DisTweaks_InteractableInterface]
+m_Name="Granada"
+m_InteractText="`GBA_Use` Carregar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Grenade.Twk_Proj_Grenade_Overseer_Flush:DisTweaks_InteractableInterface_3 DisTweaks_InteractableInterface]
+m_Name="Granada"
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage="Você não pode carregar mais munição deste tipo"
+
+[Grenade.Twk_Proj_Grenade_Overseer_JumpAway:DisTweaks_InteractableInterface_4 DisTweaks_InteractableInterface]
+m_Name="Granada"
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage="Você não pode carregar mais munição deste tipo"
+
+[Grenade.Twk_Proj_Grenade_Overseer_JumpAway:DisTweaks_InteractableInterface_5 DisTweaks_InteractableInterface]
+m_Name="Granada"
+m_InteractText="`GBA_Use` Carregar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Grenade.Twk_Proj_Grenade_Overseer_Unreachable:DisTweaks_InteractableInterface_3 DisTweaks_InteractableInterface]
+m_Name="Granada"
+m_InteractText="`GBA_Use` Carregar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Grenade.Twk_Proj_Grenade_Overseer_Unreachable:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Granada"
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage="Você não pode carregar mais munição deste tipo"
+
+[Musical.Twk_Inv_MusicAmp_Default:pPlayerSpecific DisTweaks_InventoryItem_PlayerSpecific]
+m_Name=""
+m_Description=""
+
+[Musical.Twk_Weapon_MusicBox_Default:pPlayerSpecific DisTweaks_InventoryItem_PlayerSpecific]
+m_Name=""
+m_Description=""
+
+[Twk_Inv_PistolHMaster:DisTweaks_InventoryItem_PlayerSpecific_1 DisTweaks_InventoryItem_PlayerSpecific]
+m_Name="Pistola da Guarda Municipal"
+m_Description="Armas de fogo modernas, possuídas por oficiais da Guarda da Cidade, veteranos e a nobreza."
+
+[Twk_Inv_SwordOverseer:DisTweaks_InventoryItem_PlayerSpecific_1 DisTweaks_InventoryItem_PlayerSpecific]
+m_Name="Sabre do Supervisor"
+m_Description="Uma arma refinada, feita das melhores ligas de Tyvia e gravada com invocações de proteção contra a corrupção do Vazio."
+
+[Twk_Inv_SwordOverseer_Player:pPlayerSpecific DisTweaks_InventoryItem_PlayerSpecific]
+m_Name="Sabre do Supervisor"
+m_Description="Uma arma refinada, feita das melhores ligas de Tyvia e gravada com invocações de proteção contra a corrupção do Vazio."
+

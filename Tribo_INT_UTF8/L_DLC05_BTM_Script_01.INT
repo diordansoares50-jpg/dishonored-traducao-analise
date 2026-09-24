@@ -1,0 +1,61 @@
+﻿[TheWorld:PersistentLevel.Main_Sequence.Bend_Time_Massacre.DisSeqAct_DLC05_ShowPhaseResults_0 DisSeqAct_DLC05_ShowPhaseResults]
+m_PhaseName="Round 1"
+
+[TheWorld:PersistentLevel.Main_Sequence.Bend_Time_Massacre.DisSeqAct_ShowHUDMessage_0 DisSeqAct_ShowHUDMessage]
+m_Message="Waiting for effects..."
+
+[TheWorld:PersistentLevel.Main_Sequence.Bend_Time_Massacre.DisSeqAct_ShowLocationDiscovery_13 DisSeqAct_ShowLocationDiscovery]
+m_LocationName="Bonus Round Failed"
+
+[TheWorld:PersistentLevel.Main_Sequence.Bend_Time_Massacre.DisSeqAct_ShowLocationDiscovery_14 DisSeqAct_ShowLocationDiscovery]
+m_LocationName="Bonus Round Completed"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_DLC05_ShowWaveNumber_0 DisSeqAct_DLC05_ShowWaveNumber]
+m_CustomText=""
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_DLC05_ShowWaveNumber_1 DisSeqAct_DLC05_ShowWaveNumber]
+m_CustomText="Round 1: Blunt Force Trauma Bonus"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_DLC05_ShowWaveNumber_2 DisSeqAct_DLC05_ShowWaveNumber]
+m_CustomText="Round 1: Execution Bonus"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_SetTutorialMessage_2 DisSeqAct_SetTutorialMessage]
+m_TutorialMessage=""
+m_TutorialMessage_Gamepad=""
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_SetTutorialMessage_4 DisSeqAct_SetTutorialMessage]
+m_TutorialMessage="You will have 10 seconds to kill three enemies. Break glass to massacre."
+m_TutorialMessage_Gamepad=""
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_SetTutorialMessage_5 DisSeqAct_SetTutorialMessage]
+m_TutorialMessage="Bonus Challenge. You will have 15 seconds to kill three enemies using bricks or other found objects. Break glass to massacre."
+m_TutorialMessage_Gamepad=""
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_SetTutorialMessage_19 DisSeqAct_SetTutorialMessage]
+m_TutorialMessage="Bonus Challenge. You will have 20 seconds to kill the Elite and save the Art Dealer."
+m_TutorialMessage_Gamepad=""
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_ShowLocationDiscovery_15 DisSeqAct_ShowLocationDiscovery]
+m_LocationName="Round 1"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_ShowLocationDiscovery_23 DisSeqAct_ShowLocationDiscovery]
+m_LocationName="Round 1: Execution Bonus"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_ShowLocationDiscovery_24 DisSeqAct_ShowLocationDiscovery]
+m_LocationName="Round 1: Blunt Force Trauma Bonus"
+
+[TheWorld:PersistentLevel.Main_Sequence.Environmental.DisSeqAct_DLC05_MarkerControl_0 DisSeqAct_DLC05_MarkerControl]
+m_TargetName="Jar to break the glass"
+
+[TheWorld:PersistentLevel.Main_Sequence.The_Victims.DisSeqAct_DLC05_MarkerControl_0 DisSeqAct_DLC05_MarkerControl]
+m_TargetName="Art Dealer"
+
+[TheWorld:PersistentLevel.Main_Sequence.The_Victims.DisSeqAct_DLC05_MarkerControl_6 DisSeqAct_DLC05_MarkerControl]
+m_TargetName="Brick"
+
+[TheWorld:PersistentLevel.Main_Sequence.The_Victims.DisSeqAct_UpdateTaskTarget_6 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Save the Art Dealer"
+
+[TheWorld:PersistentLevel.Main_Sequence.The_Victims.DisSeqAct_DLC05_MarkerControl_7 DisSeqAct_DLC05_MarkerControl]
+m_TargetName="Kill the Elite"
+

@@ -1,0 +1,24 @@
+﻿[Twk_Pawn_LordRegent DisTweaks_NPCPawn]
+m_BusyText="Este personagem está ocupado"
+m_CannotStealMessage="Você não pode carregar mais munição deste tipo"
+
+[Twk_Pawn_LordRegent:DisTweaks_InteractableInterface_54 DisTweaks_InteractableInterface]
+m_Name="O Lorde Regente"
+m_InteractText=""
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Twk_Pawn_LordRegentPrison DisTweaks_NPCPawn]
+m_BusyText="Este personagem está ocupado"
+m_CannotStealMessage="Você não pode carregar mais munição deste tipo"
+
+[Twk_Pawn_LordRegentPrison:DisTweaks_InteractableInterface_54 DisTweaks_InteractableInterface]
+m_Name="Mestre Espião Burrows"
+m_InteractText=""
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+

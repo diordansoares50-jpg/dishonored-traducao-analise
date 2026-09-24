@@ -1,0 +1,238 @@
+﻿[TheWorld:PersistentLevel.DisDoor_0 DisDoor]
+m_DoorName=""
+m_MatchingKey=""
+m_MatchingKeys[0]="Corvo's Cell Key"
+
+[TheWorld:PersistentLevel.DisDoor_1 DisDoor]
+m_DoorName=""
+m_MatchingKey=""
+
+[TheWorld:PersistentLevel.DisDoor_17 DisDoor]
+m_DoorName=""
+m_MatchingKey=""
+m_MatchingKeys[0]="Yard Walkway Key"
+
+[TheWorld:PersistentLevel.DisDoor_28 DisDoor]
+m_DoorName=""
+m_MatchingKey=""
+m_MatchingKeys[0]="Cell Hallway Key"
+m_MatchingKeys[1]="Yard Key"
+
+[TheWorld:PersistentLevel.DisDoor_4 DisDoor]
+m_DoorName=""
+m_MatchingKey=""
+m_MatchingKeys[0]="Yard Key"
+
+[TheWorld:PersistentLevel.Main_Sequence.=HUD-Notes-Tutorials=.DisSeqAct_SetTutorialMessage_0 DisSeqAct_SetTutorialMessage]
+m_TutorialMessage="Pressione `GBA_Use` nos corpos para pegar a chave"
+m_TutorialMessage_Gamepad=""
+
+[TheWorld:PersistentLevel.Main_Sequence.=HUD-Notes-Tutorials=.DisSeqAct_SetTutorialMessage_1 DisSeqAct_SetTutorialMessage]
+m_TutorialMessage="Pressione `GBA_Journal` para ver o Tutorial de Combate"
+m_TutorialMessage_Gamepad=""
+
+[TheWorld:PersistentLevel.Main_Sequence.=HUD-Notes-Tutorials=.DisSeqAct_SetTutorialMessage_10 DisSeqAct_SetTutorialMessage]
+m_TutorialMessage="Explosão em 1s"
+m_TutorialMessage_Gamepad=""
+
+[TheWorld:PersistentLevel.Main_Sequence.=HUD-Notes-Tutorials=.DisSeqAct_SetTutorialMessage_11 DisSeqAct_SetTutorialMessage]
+m_TutorialMessage="Explosão em 2s"
+m_TutorialMessage_Gamepad=""
+
+[TheWorld:PersistentLevel.Main_Sequence.=HUD-Notes-Tutorials=.DisSeqAct_SetTutorialMessage_12 DisSeqAct_SetTutorialMessage]
+m_TutorialMessage="Explosão em 3s"
+m_TutorialMessage_Gamepad=""
+
+[TheWorld:PersistentLevel.Main_Sequence.=HUD-Notes-Tutorials=.DisSeqAct_SetTutorialMessage_13 DisSeqAct_SetTutorialMessage]
+m_TutorialMessage="Explosão em 4s"
+m_TutorialMessage_Gamepad=""
+
+[TheWorld:PersistentLevel.Main_Sequence.=HUD-Notes-Tutorials=.DisSeqAct_SetTutorialMessage_14 DisSeqAct_SetTutorialMessage]
+m_TutorialMessage="Explosão em 5s"
+m_TutorialMessage_Gamepad=""
+
+[TheWorld:PersistentLevel.Main_Sequence.=HUD-Notes-Tutorials=.DisSeqAct_SetTutorialMessage_15 DisSeqAct_SetTutorialMessage]
+m_TutorialMessage="Explosão em 10s"
+m_TutorialMessage_Gamepad=""
+
+[TheWorld:PersistentLevel.Main_Sequence.=HUD-Notes-Tutorials=.DisSeqAct_SetTutorialMessage_16 DisSeqAct_SetTutorialMessage]
+m_TutorialMessage="Explosão em 9s"
+m_TutorialMessage_Gamepad=""
+
+[TheWorld:PersistentLevel.Main_Sequence.=HUD-Notes-Tutorials=.DisSeqAct_SetTutorialMessage_17 DisSeqAct_SetTutorialMessage]
+m_TutorialMessage="Explosão em 8s"
+m_TutorialMessage_Gamepad=""
+
+[TheWorld:PersistentLevel.Main_Sequence.=HUD-Notes-Tutorials=.DisSeqAct_SetTutorialMessage_18 DisSeqAct_SetTutorialMessage]
+m_TutorialMessage="Explosão em 7s"
+m_TutorialMessage_Gamepad=""
+
+[TheWorld:PersistentLevel.Main_Sequence.=HUD-Notes-Tutorials=.DisSeqAct_SetTutorialMessage_19 DisSeqAct_SetTutorialMessage]
+m_TutorialMessage="Explosão em 6s"
+m_TutorialMessage_Gamepad=""
+
+[TheWorld:PersistentLevel.Main_Sequence.=HUD-Notes-Tutorials=.DisSeqAct_SetTutorialMessage_2 DisSeqAct_SetTutorialMessage]
+m_TutorialMessage="Pressione `GBA_Journal` para ver o Tutorial de Abater"
+m_TutorialMessage_Gamepad=""
+
+[TheWorld:PersistentLevel.Main_Sequence.=HUD-Notes-Tutorials=.DisSeqAct_SetTutorialMessage_20 DisSeqAct_SetTutorialMessage]
+m_TutorialMessage="Pressione `GBA_Sneak` para se esgueirar<BR/>Pressione `GBA_Journal` para ver o Tutorial de Furtividade"
+m_TutorialMessage_Gamepad=""
+
+[TheWorld:PersistentLevel.Main_Sequence.=HUD-Notes-Tutorials=.DisSeqAct_SetTutorialMessage_21 DisSeqAct_SetTutorialMessage]
+m_TutorialMessage="Pressione `GBA_Use` enquanto estiver se esgueirando para roubar bolsos"
+m_TutorialMessage_Gamepad=""
+
+[TheWorld:PersistentLevel.Main_Sequence.=HUD-Notes-Tutorials=.DisSeqAct_SetTutorialMessage_22 DisSeqAct_SetTutorialMessage]
+m_TutorialMessage="Comer e beber restaura um pouco de Saúde"
+m_TutorialMessage_Gamepad=""
+
+[TheWorld:PersistentLevel.Main_Sequence.=HUD-Notes-Tutorials=.DisSeqAct_SetTutorialMessage_23 DisSeqAct_SetTutorialMessage]
+m_TutorialMessage="Pressione `GBA_LeanLeft` ou `GBA_LeanRight` para se inclinar nos cantos"
+m_TutorialMessage_Gamepad="Segure `GBA_Lean_Gamepad` e use o analógico esquerdo para se inclinar nos cantos"
+
+[TheWorld:PersistentLevel.Main_Sequence.=HUD-Notes-Tutorials=.DisSeqAct_SetTutorialMessage_24 DisSeqAct_SetTutorialMessage]
+m_TutorialMessage="Aproxime-se da borda e segure `GBA_Jump` para escalar"
+m_TutorialMessage_Gamepad=""
+
+[TheWorld:PersistentLevel.Main_Sequence.=HUD-Notes-Tutorials=.DisSeqAct_SetTutorialMessage_25 DisSeqAct_SetTutorialMessage]
+m_TutorialMessage="Pressione `GBA_Journal` para ver o Tutorial de Consciência"
+m_TutorialMessage_Gamepad=""
+
+[TheWorld:PersistentLevel.Main_Sequence.=HUD-Notes-Tutorials=.DisSeqAct_SetTutorialMessage_26 DisSeqAct_SetTutorialMessage]
+m_TutorialMessage="Pressione `GBA_Sneak` para se esgueirar"
+m_TutorialMessage_Gamepad=""
+
+[TheWorld:PersistentLevel.Main_Sequence.=HUD-Notes-Tutorials=.DisSeqAct_SetTutorialMessage_28 DisSeqAct_SetTutorialMessage]
+m_TutorialMessage="Um bloqueio bem sincronizado permite que você contra-ataque"
+m_TutorialMessage_Gamepad=""
+
+[TheWorld:PersistentLevel.Main_Sequence.=HUD-Notes-Tutorials=.DisSeqAct_SetTutorialMessage_3 DisSeqAct_SetTutorialMessage]
+m_TutorialMessage="Segure `GBA_Sprint` para correr"
+m_TutorialMessage_Gamepad="Clique em `GBA_Sprint` para correr"
+
+[TheWorld:PersistentLevel.Main_Sequence.=HUD-Notes-Tutorials=.DisSeqAct_SetTutorialMessage_30 DisSeqAct_SetTutorialMessage]
+m_TutorialMessage="Pressione `GBA_Primary` para usar sua espada"
+m_TutorialMessage_Gamepad=""
+
+[TheWorld:PersistentLevel.Main_Sequence.=HUD-Notes-Tutorials=.DisSeqAct_SetTutorialMessage_31 DisSeqAct_SetTutorialMessage]
+m_TutorialMessage="Pressione `GBA_Block` para bloquear"
+m_TutorialMessage_Gamepad=""
+
+[TheWorld:PersistentLevel.Main_Sequence.=HUD-Notes-Tutorials=.DisSeqAct_SetTutorialMessage_32 DisSeqAct_SetTutorialMessage]
+m_TutorialMessage="Pressione `GBA_Secondary` para usar sua pistola"
+m_TutorialMessage_Gamepad=""
+
+[TheWorld:PersistentLevel.Main_Sequence.=HUD-Notes-Tutorials=.DisSeqAct_SetTutorialMessage_4 DisSeqAct_SetTutorialMessage]
+m_TutorialMessage="Pressione `GBA_Wheel` para abrir a roda e usar o elixir"
+m_TutorialMessage_Gamepad=""
+
+[TheWorld:PersistentLevel.Main_Sequence.=HUD-Notes-Tutorials=.DisSeqAct_SetTutorialMessage_5 DisSeqAct_SetTutorialMessage]
+m_TutorialMessage="Use o seu mouse para olhar ao redor"
+m_TutorialMessage_Gamepad="Use `KEY_RightStick` para olhar ao redor"
+
+[TheWorld:PersistentLevel.Main_Sequence.=HUD-Notes-Tutorials=.DisSeqAct_SetTutorialMessage_6 DisSeqAct_SetTutorialMessage]
+m_TutorialMessage="Pressione `GBA_Journal` para ver o Tutorial de Lean"
+m_TutorialMessage_Gamepad=""
+
+[TheWorld:PersistentLevel.Main_Sequence.=HUD-Notes-Tutorials=.DisSeqAct_SetTutorialMessage_7 DisSeqAct_SetTutorialMessage]
+m_TutorialMessage="Segure `GBA_Block` para bloquear ataques de espada inimigos"
+m_TutorialMessage_Gamepad=""
+
+[TheWorld:PersistentLevel.Main_Sequence.=HUD-Notes-Tutorials=.DisSeqAct_SetTutorialMessage_9 DisSeqAct_SetTutorialMessage]
+m_TutorialMessage="Pressione `GBA_Journal` para ver o Tutorial do Diário"
+m_TutorialMessage_Gamepad=""
+
+[TheWorld:PersistentLevel.Main_Sequence.=HUD-Notes-Tutorials=.DisSeqAct_ShowLocationDiscovery_1 DisSeqAct_ShowLocationDiscovery]
+m_LocationName="Seção da Sala de Controle"
+
+[TheWorld:PersistentLevel.Main_Sequence.=HUD-Notes-Tutorials=.DisSeqAct_ShowLocationDiscovery_2 DisSeqAct_ShowLocationDiscovery]
+m_LocationName="Passeio do Quintal"
+
+[TheWorld:PersistentLevel.Main_Sequence.=HUD-Notes-Tutorials=.DisSeqAct_ShowLocationDiscovery_3 DisSeqAct_ShowLocationDiscovery]
+m_LocationName="Sala de Interrogação"
+
+[TheWorld:PersistentLevel.Main_Sequence.=HUD-Notes-Tutorials=.DisSeqAct_ShowLocationDiscovery_4 DisSeqAct_ShowLocationDiscovery]
+m_LocationName="Pátio da Prisão"
+
+[TheWorld:PersistentLevel.Main_Sequence.=HUD-Notes-Tutorials=.DisSeqAct_ShowLocationDiscovery_5 DisSeqAct_ShowLocationDiscovery]
+m_LocationName="Prisão de Coldridge"
+
+[TheWorld:PersistentLevel.Main_Sequence.=Objectives=.DisSeqAct_UpdateTaskTarget_0 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Me Engasgue!"
+
+[TheWorld:PersistentLevel.Main_Sequence.=Objectives=.DisSeqAct_UpdateTaskTarget_1 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Mensagem"
+
+[TheWorld:PersistentLevel.Main_Sequence.=Objectives=.DisSeqAct_UpdateTaskTarget_10 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Chave do Passeio do Quintal"
+
+[TheWorld:PersistentLevel.Main_Sequence.=Objectives=.DisSeqAct_UpdateTaskTarget_11 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Saída da Calçada do Quintal"
+
+[TheWorld:PersistentLevel.Main_Sequence.=Objectives=.DisSeqAct_UpdateTaskTarget_12 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Chave do Caminho do Quintal"
+
+[TheWorld:PersistentLevel.Main_Sequence.=Objectives=.DisSeqAct_UpdateTaskTarget_13 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Sala de Interrogação"
+
+[TheWorld:PersistentLevel.Main_Sequence.=Objectives=.DisSeqAct_UpdateTaskTarget_14 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Pular"
+
+[TheWorld:PersistentLevel.Main_Sequence.=Objectives=.DisSeqAct_UpdateTaskTarget_15 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Subir Aqui"
+
+[TheWorld:PersistentLevel.Main_Sequence.=Objectives=.DisSeqAct_UpdateTaskTarget_16 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Porta Externa"
+
+[TheWorld:PersistentLevel.Main_Sequence.=Objectives=.DisSeqAct_UpdateTaskTarget_17 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Acesso à Passarela"
+
+[TheWorld:PersistentLevel.Main_Sequence.=Objectives=.DisSeqAct_UpdateTaskTarget_18 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Subir Aqui"
+
+[TheWorld:PersistentLevel.Main_Sequence.=Objectives=.DisSeqAct_UpdateTaskTarget_2 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Porta"
+
+[TheWorld:PersistentLevel.Main_Sequence.=Objectives=.DisSeqAct_UpdateTaskTarget_22 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Entrada Principal"
+
+[TheWorld:PersistentLevel.Main_Sequence.=Objectives=.DisSeqAct_UpdateTaskTarget_24 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Entrada do Esgoto"
+
+[TheWorld:PersistentLevel.Main_Sequence.=Objectives=.DisSeqAct_UpdateTaskTarget_26 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Esgotos"
+
+[TheWorld:PersistentLevel.Main_Sequence.=Objectives=.DisSeqAct_UpdateTaskTarget_27 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Arma"
+
+[TheWorld:PersistentLevel.Main_Sequence.=Objectives=.DisSeqAct_UpdateTaskTarget_3 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Armas"
+
+[TheWorld:PersistentLevel.Main_Sequence.=Objectives=.DisSeqAct_UpdateTaskTarget_4 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Corredor da Sala de Controle"
+
+[TheWorld:PersistentLevel.Main_Sequence.=Objectives=.DisSeqAct_UpdateTaskTarget_5 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Sair do Corredor"
+
+[TheWorld:PersistentLevel.Main_Sequence.=Objectives=.DisSeqAct_UpdateTaskTarget_6 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Controle de Porta"
+
+[TheWorld:PersistentLevel.Main_Sequence.=Objectives=.DisSeqAct_UpdateTaskTarget_7 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Explosivo de Corda"
+
+[TheWorld:PersistentLevel.Main_Sequence.=Objectives=.DisSeqAct_UpdateTaskTarget_8 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Entrada da Calçada do Jardim"
+
+[TheWorld:PersistentLevel.Main_Sequence.=Objectives=.DisSeqAct_UpdateTaskTarget_9 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Chave do Pátio"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_DialogScriptedChoice_2 DisSeqAct_DialogScriptedChoice]
+m_Title=""
+m_Choices[0]=(m_ChoiceText="Go to Sewers")
+m_Choices[1]=(m_ChoiceText="Stay at Coldridge Prison")
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_SetTutorialMessage_9 DisSeqAct_SetTutorialMessage]
+m_TutorialMessage="Seis Meses Depois"
+m_TutorialMessage_Gamepad=""
+

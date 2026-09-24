@@ -1,0 +1,12 @@
+﻿[Twk_Pawn_Outsider DisTweaks_NPCPawn]
+m_BusyText="Este personagem está ocupado"
+m_CannotStealMessage="Você não pode carregar mais munição deste tipo"
+
+[Twk_Pawn_Outsider:DisTweaks_InteractableInterface_80 DisTweaks_InteractableInterface]
+m_Name="Sobrevivente"
+m_InteractText=""
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+

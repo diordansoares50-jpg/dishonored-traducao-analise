@@ -1,0 +1,275 @@
+﻿[AbstractInv_Graphs.AG_Bridge_Sokolov DisAbstractItemAudioLog]
+m_ItemName="Observações de Sokolov com a Cobaia 312"
+m_PluralItemName=""
+m_Description="Sokolov grava os resultados de suas pesquisas e experiências com a cobaia humana, uma mulher detida pela Guarda da Cidade e aprisionada na casa de Sokolov."
+
+[AbstractInv_Graphs.AG_Brothel_SlackJaw DisAbstractItemAudioLog]
+m_ItemName="Últimas Palavras de Crowley"
+m_PluralItemName=""
+m_Description="Slackjaw, sou eu, Crowley. Estou gravando isso, no caso de eu não voltar. Você tinha razão, Alguém quer você morto. A Gangue da Bottle Street quer pegar a destilaria. E você não vai acreditar em quem seja. Eu também não, no começo, por isso demorei tanto. Queria ter certeza. Mas já tenho certeza. É... Ei...  Mas o que-?! Ahh! Não! Nããoo - ahhhhh! (Sons de violência que param bruscamente.)"
+
+[AbstractInv_Graphs.AG_DaudRegentDead DisAbstractItemAudioLog]
+m_ItemName="Reflexões sobre a morte do Lorde Regente"
+m_PluralItemName=""
+m_Description="Comentários de Daud sobre o destino do Lorde Regente."
+
+[AbstractInv_Graphs.AG_DaudRegentLives DisAbstractItemAudioLog]
+m_ItemName="Reflexões sobre a queda do Lorde Regente"
+m_PluralItemName=""
+m_Description="Comentários de Daud sobre o destino do Lorde Regente."
+
+[AbstractInv_Graphs.AG_Galvani_RatSpeculation DisAbstractItemAudioLog]
+m_ItemName="Especulações de Galvani"
+m_PluralItemName=""
+m_Description="Galvani especula sobre a origem dos ratos portadores da peste."
+
+[AbstractInv_Graphs.AG_Ovrsr_AssInterrogation DisAbstractItemAudioLog]
+m_ItemName="Interrogatório do Baleeiro Assassino"
+m_PluralItemName=""
+m_Description="Os Supervisores capturaram uma pessoa misteriosa e mascarada. Estão tentando descobrir sua identidade e os seus motivos."
+
+[AbstractInv_Graphs.AG_Ovrsr_CampbellComplains DisAbstractItemAudioLog]
+m_ItemName="Lamentação de Campbell"
+m_PluralItemName=""
+m_Description="Campbell comenta sobre os acontecimentos mais recentes, como a fuga de Corvo da Prisão Coldridge."
+
+[AbstractInv_Graphs.AG_Ovrsr_MusicBoxSpec DisAbstractItemAudioLog]
+m_ItemName="Caixas de Música do Supervisor"
+m_PluralItemName=""
+m_Description="Um Supervisor comenta sobre a eficácia das caixas de músicas e sobre as possíveis consequências do seu uso."
+
+[AbstractInv_Graphs.AG_PrsnInterrogator_1 DisAbstractItemAudioLog]
+m_ItemName="Interrogatório do Protetor Real"
+m_PluralItemName=""
+m_Description=""
+
+[AbstractInv_Graphs.AG_Pub01a_Havelock DisAbstractItemAudioLog]
+m_ItemName="Diário de Havelock: Entrada 1"
+m_PluralItemName=""
+m_Description="A primeira entrada dos diários militares de Havelock, constando a campanha dos Legalistas."
+
+[AbstractInv_Graphs.AG_Pub01a_Pendleton DisAbstractItemAudioLog]
+m_ItemName="Chegada do Pendleton"
+m_PluralItemName=""
+m_Description="Lorde Pendleton chega ao Bar Cova do Cão."
+
+[AbstractInv_Graphs.AG_Pub01a_Piero DisAbstractItemAudioLog]
+m_ItemName="Piero fala sobre a Energia Vital"
+m_PluralItemName=""
+m_Description="Piero sugere que as baleias não podem ser a unica fonte de fluídos com grande concentração de energia."
+
+[AbstractInv_Graphs.AG_Pub01b_Callista DisAbstractItemAudioLog]
+m_ItemName="Callista prepara um plano para a aula"
+m_PluralItemName=""
+m_Description="Callista se prepara para ensinar um novo aluno."
+
+[AbstractInv_Graphs.AG_Pub01b_Havelock DisAbstractItemAudioLog]
+m_ItemName="Diário de Havelock: Entrada 2"
+m_PluralItemName=""
+m_Description="O segundo Diário Militar de Havelock fala da campanha dos Legalistas."
+
+[AbstractInv_Graphs.AG_Pub01b_Pendleton DisAbstractItemAudioLog]
+m_ItemName="Memórias de Lorde Pendleton: Capitulo 27"
+m_PluralItemName=""
+m_Description="Lorde Pendleton grava a história de sua vida."
+
+[AbstractInv_Graphs.AG_Pub01b_Piero DisAbstractItemAudioLog]
+m_ItemName="Especulações de Piero sobre o Espirito"
+m_PluralItemName=""
+m_Description="Piero começa a passar ds limites das funções orgânicas e mecânicas."
+
+[AbstractInv_Graphs.AG_Pub02a_Havelock DisAbstractItemAudioLog]
+m_ItemName="Diario de Havelock: Entrada 3"
+m_PluralItemName=""
+m_Description="O terceiro Diário Militar de Havelock fala da campanha dos conspiradores."
+
+[AbstractInv_Graphs.AG_Pub02a_Pendleton DisAbstractItemAudioLog]
+m_ItemName="Memórias de Lorde Pendleton: Capitulo 28"
+m_PluralItemName=""
+m_Description="Lord Pendleton grava a história de sua vida."
+
+[AbstractInv_Graphs.AG_Pub02a_Piero DisAbstractItemAudioLog]
+m_ItemName="Pesadelos de Piero"
+m_PluralItemName=""
+m_Description="Piero é caçado em seus pesadelos, que lhe trazem tanta inspiração como visões preocupantes."
+
+[AbstractInv_Graphs.AG_Pub02b_Callista DisAbstractItemAudioLog]
+m_ItemName="Carta de Callista"
+m_PluralItemName=""
+m_Description="Callista grava uma carta para seu tio, Geoff Curnow."
+
+[AbstractInv_Graphs.AG_Pub02b_Callista_CurnowDead DisAbstractItemAudioLog]
+m_ItemName="Callista se recorda do seu tio."
+m_PluralItemName=""
+m_Description="Callista recorda com carinho o seu tio, Geoff Curnow."
+
+[AbstractInv_Graphs.AG_Pub02b_Pendleton DisAbstractItemAudioLog]
+m_ItemName="Memórias de Lorde Pendleton: Capitulo 32"
+m_PluralItemName=""
+m_Description="Lorde Pendleton grava a história da sua vida."
+
+[AbstractInv_Graphs.AG_Pub02b_Piero DisAbstractItemAudioLog]
+m_ItemName="Notas sobre as Anomalias de Piero"
+m_PluralItemName=""
+m_Description="As experiências de Piero revelam que pode haver mais sobre a Cova do Cão do que se sabe."
+
+[AbstractInv_Graphs.AG_Pub02b_Samuel DisAbstractItemAudioLog]
+m_ItemName="Samuel encontra um Audiógrafo"
+m_PluralItemName=""
+m_Description="Samuel recupera um audiógrafo abandonado para gravar suas reflexões."
+
+[AbstractInv_Graphs.AG_Pub03a_Callista DisAbstractItemAudioLog]
+m_ItemName="Callista Fala dormindo"
+m_PluralItemName=""
+m_Description="Emily faz uma gravação das coisas que Callista diz enquanto dorme."
+
+[AbstractInv_Graphs.AG_Pub03a_Pendleton DisAbstractItemAudioLog]
+m_ItemName="Pendleton Retrata sua família"
+m_PluralItemName=""
+m_Description="Lorde Pendleton pensa alto sobre a morte de seus irmãos e o futuro da Lady Emily."
+
+[AbstractInv_Graphs.AG_Pub03a_Piero DisAbstractItemAudioLog]
+m_ItemName="Piero descobre sobre Sokolov"
+m_PluralItemName=""
+m_Description="Piero descobre que seu maior rival em breve se unirá com os Legalistas."
+
+[AbstractInv_Graphs.AG_Pub04a_Callista DisAbstractItemAudioLog]
+m_ItemName="Relatório do Progresso de Callista"
+m_PluralItemName=""
+m_Description="Callista grava um relatório sobre a formação de Lady Emily."
+
+[AbstractInv_Graphs.AG_Pub04a_Havelock DisAbstractItemAudioLog]
+m_ItemName="Diário de Havelock: Entrada 4"
+m_PluralItemName=""
+m_Description="O quarto Diário Militar de Havelock fala da campanha dos Legalistas."
+
+[AbstractInv_Graphs.AG_Pub04a_Pendleton DisAbstractItemAudioLog]
+m_ItemName="Memórias de Lorde Pendleton: Capitulo 41"
+m_PluralItemName=""
+m_Description="Lorde Pendleton grava a história de sua vida."
+
+[AbstractInv_Graphs.AG_Pub04a_Piero DisAbstractItemAudioLog]
+m_ItemName="Piero fala de Sokolov"
+m_PluralItemName=""
+m_Description="Piero fala de suas frustrações com seu rival, Anton Sokolov."
+
+[AbstractInv_Graphs.AG_Pub04b_Emily DisAbstractItemAudioLog]
+m_ItemName="Lições de Emily"
+m_PluralItemName=""
+m_Description="Emily grava suas lições."
+
+[AbstractInv_Graphs.AG_Pub04b_Pendleton DisAbstractItemAudioLog]
+m_ItemName="Pendleton preocupado com um duelo"
+m_PluralItemName=""
+m_Description="Lorde Pendleton procura uma maneira de sair de uma confusão: Um duelo poderia ocasionar sua morte"
+
+[AbstractInv_Graphs.AG_Pub04b_Piero DisAbstractItemAudioLog]
+m_ItemName="Piero fantasia"
+m_PluralItemName=""
+m_Description="Piero se acalma preparando um elogio a seu rival."
+
+[AbstractInv_Graphs.AG_Pub04b_Samuel DisAbstractItemAudioLog]
+m_ItemName="Samuel inicia um Diário"
+m_PluralItemName=""
+m_Description="Samuel decide gravar um diário de capitão falando das suas viagens."
+
+[AbstractInv_Graphs.AG_Pub05a_Callista DisAbstractItemAudioLog]
+m_ItemName="Callista fala sobre Emily"
+m_PluralItemName=""
+m_Description="Callista informa sobre o desafio de ter Lady Emily a seus cuidados."
+
+[AbstractInv_Graphs.AG_Pub05a_Emily DisAbstractItemAudioLog]
+m_ItemName="Emily reclama da escola"
+m_PluralItemName=""
+m_Description="Emily fala de suas frustrações quanto ao estilo de lecionar de Callista."
+
+[AbstractInv_Graphs.AG_Pub05a_Piero DisAbstractItemAudioLog]
+m_ItemName="Poste Arco de Piero"
+m_PluralItemName=""
+m_Description="Piero teve alguns contratempos com o desenvolvimento de uma versão mais potente do Poste Arco."
+
+[AbstractInv_Graphs.AG_Pub05b_Pendleton DisAbstractItemAudioLog]
+m_ItemName="Pendleton mostra sinais de tensão"
+m_PluralItemName=""
+m_Description="Lorde Pendleton juntamente com seu servo, tenta gravar outro capitulo da história de sua vida."
+
+[AbstractInv_Graphs.AG_Pub05b_Samuel DisAbstractItemAudioLog]
+m_ItemName="Samuel demonstra orgulho de seu papel."
+m_PluralItemName=""
+m_Description="Samuel reflete sobre o trabalho que ele teve que desempenhar na definição de uma nova era para o império."
+
+[AbstractInv_Graphs.AG_Pub05bHC_Samuel DisAbstractItemAudioLog]
+m_ItemName="Samuel lamenta seu trabalho"
+m_PluralItemName=""
+m_Description="Samuel tenta limpar sua consciência sobre o seu papel em várias mortes."
+
+[AbstractInv_Graphs.AG_Pub06a_Emily DisAbstractItemAudioLog]
+m_ItemName="Emily conta uma história"
+m_PluralItemName=""
+m_Description="Emily lembra de alguns acontecimentos na sua estadia no Gato Dourado."
+
+[AbstractInv_Graphs.AG_Pub06a_Pendleton DisAbstractItemAudioLog]
+m_ItemName="Pendleton planeja o futuro"
+m_PluralItemName=""
+m_Description="Lorde Pendleton acha que os tempos difíceis estão apenas começando."
+
+[AbstractInv_Graphs.AG_Pub06a_Piero DisAbstractItemAudioLog]
+m_ItemName="Piero especula seu futuro"
+m_PluralItemName=""
+m_Description="Piero vê um futuro brilhante a sua frente."
+
+[AbstractInv_Graphs.AG_Pub06aHC_Piero DisAbstractItemAudioLog]
+m_ItemName="Piero questiona seu futuro"
+m_PluralItemName=""
+m_Description="Piero vê que chegou em um ponto que não há volta, e é possível que haja um futuro incerto adiante."
+
+[AbstractInv_Graphs.AG_Pub07_Havelock DisAbstractItemAudioLog]
+m_ItemName="Diário de Havelock: Entrada Cinco"
+m_PluralItemName=""
+m_Description="O quinto Diário Militar de Havelock fala da Campanha dos Legalistas."
+
+[AbstractInv_Graphs.AG_Pub07a_Callista_CurnowAlive DisAbstractItemAudioLog]
+m_ItemName="Pedido de Callista"
+m_PluralItemName=""
+m_Description="Callista grava um pedido de ajuda para recuperar Emily das mãos dos Legalistas."
+
+[AbstractInv_Graphs.AG_Pub07a_Callista_CurnowDead DisAbstractItemAudioLog]
+m_ItemName="Últimas Palavras de Callista"
+m_PluralItemName=""
+m_Description="Callista grava um pedido de ajuda para recuperar Emily das mãos dos Legalistas."
+
+[AbstractInv_Graphs.AG_Pub07a_Pendleton DisAbstractItemAudioLog]
+m_ItemName="Pendleton aceita seu futuro"
+m_PluralItemName=""
+m_Description="Lorde Pendleton finalmente tem seu poder garantido e se prepara para retomar sua vida de luxo."
+
+[AbstractInv_Graphs.AG_Pub07a_Piero_HC DisAbstractItemAudioLog]
+m_ItemName="Piero se sente usado"
+m_PluralItemName=""
+m_Description="Piero percebe que foi usado pelos Legalistas e que está com os seus dias contados."
+
+[AbstractInv_Graphs.AG_Pub07a_Piero_LC_SokolovAlive DisAbstractItemAudioLog]
+m_ItemName="Piero encontra um novo aliado"
+m_PluralItemName=""
+m_Description="Ao usar Piero e Sokolov, os Legalistas criaram um vínculo entre dois gênios. Juntos, planejam fazer coisas maravilhosas."
+
+[AbstractInv_Graphs.AG_Pub07a_Samuel DisAbstractItemAudioLog]
+m_ItemName="Samuel fica cauteloso"
+m_PluralItemName=""
+m_Description="Samuel está inquieto devido aos acontecimentos e decide ser mais cauteloso."
+
+[AbstractInv_Graphs.AG_Tower_Confession DisAbstractItemAudioLog]
+m_ItemName="Confissão do Lorde Regente"
+m_PluralItemName=""
+m_Description="O Lorde Regente, Hiram Burrows, está em choque devido ao seu "Plano de Erradicação da Pobreza" ter sido um fracasso."
+
+[AbstractInv_Graphs.AG_Tower_Empress DisAbstractItemAudioLog]
+m_ItemName="Mensagem da Imperatriz para Emily"
+m_PluralItemName=""
+m_Description="A Imperatriz grava uma mensagem para sua filha, Emily, falando de Corvo e dos tempos ruins."
+
+[AbstractInv_Graphs.AG_Tower_EmpressToCorvo DisAbstractItemAudioLog]
+m_ItemName="Mensagem da Imperatriz para Corvo"
+m_PluralItemName=""
+m_Description="A Imperatriz grava uma mensagem para corvo enquanto o Lorde Protetor está fora."
+

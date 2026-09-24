@@ -1,0 +1,74 @@
+﻿[ShopInventory.Bullets_Store_Ammo_twk DisTweaks_StatPickup]
+m_SingleAmmoPickupMessage="Você pegou uma bala"
+m_EmptyPickupMessage=""
+
+[ShopInventory.Bullets_Store_Ammo_twk:DisTweaks_Interactable_PickupBase_0 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name="Balas"
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage="Você pegou `n balas"
+m_AltUseMessage=""
+m_CannotUseMessage="Você não pode mais carregar esse tipo de munição"
+
+[Stores.Twk_Store_Base DisTweaks_Store]
+m_CostFormat="`c moedas"
+
+[Stores.Twk_Store_Craftsman DisTweaks_Store]
+m_StoreSubSections[1]="Melhorias de Armas"
+m_StoreSubSections[2]="Melhorias de Equipamentos"
+m_StoreItems[0]=(m_Name="Seta para Besta",m_Description="Munição para a Besta.")
+m_StoreItems[1]=(m_Name="Seta Incendiária",m_Description="Seta pesada que imola inimigos.")
+m_StoreItems[2]=(m_Name="Seta Tranquilizante",m_Description="Coloca o inimigo para dormir.")
+m_StoreItems[3]=(m_Name="Bala",m_Description="Munição para qualquer pistola comum.")
+m_StoreItems[4]=(m_Name="Bala Explosiva",m_Description="Explode no impacto.")
+m_StoreItems[5]=(m_Name="Navalha de Mola",m_Description="Uma armadilha que pode ser colocada em qualquer superfície. ")
+m_StoreItems[6]=(m_Name="Granada",m_Description="Uma granada explosiva.")
+m_StoreItems[7]=(m_Name="Granada Adesiva",m_Description="Uma granada que gruda no inimigo e na maioria das superfícies. ")
+m_StoreItems[8]=(m_Name="Remédio Espiritual de Piero",m_Description="Recupera mana.")
+m_StoreItems[9]=(m_Name="Elixir de Saúde de Sokolov",m_Description="Recupera saúde.")
+m_StoreItems[10]=(m_Name="Ferramenta de Religação",m_Description="Permite que você reprograme circuitos e manipule sistemas de segurança para ganhar uma vantagem. É gasto com o uso.")
+m_StoreItems[11]=(m_Name="Runa",m_Description="Um pedaço de osso de baleia esculpido.")
+m_StoreItems[12]=(m_Name="Licor da Rua King",m_Description="Um licor raro e caro que contém essência de orquídea de Morley e traços de gordura de baleia purificada.")
+m_StoreItems[13]=(m_Name="Precisão da Besta",m_Description="Reduz a dispersão e estabiliza a mira da besta.")
+m_StoreItems[14]=(m_Name="Alcance da Besta",m_Description="As setas para besta chegam mais longe e mais rápido.")
+m_StoreItems[15]=(m_Name="Recarga da Besta",m_Description="Recarga mais rápida. Permite habilitar a recarga automática.")
+m_StoreItems[16]=(m_Name="Dardos Tranquilizantes de Combate",m_Description="O efeito sedativo dos dardos tranquilizantes é imediato, inclusive em combate.")
+m_StoreItems[17]=(m_Name="Melhoria da Pistola de Corvo",m_Description="Permite melhorar a pistola e adiciona o dano de dispersão de curto alcance. <br>§C_BLUE§Desbloqueia: §C§ <br>Precisão da Pistola 1 <br>Carregador da Pistola 1 <br>Recarga da Pistola 1")
+m_StoreItems[18]=(m_Name="Precisão da Pistola 1",m_Description="Reduz a dispersão e estabiliza a mira da pistola. <br>§C_BLUE§Desbloqueia: §C§<br>Precisão da Pistola 2")
+m_StoreItems[19]=(m_Name="Precisão da Pistola 2",m_Description="Reduz ainda mais a dispersão e estabiliza a mira da pistola.")
+m_StoreItems[20]=(m_Name="Carregador da Pistola 1",m_Description="Adiciona 1 bala ao carregador. (Total de 2)<br>§C_BLUE§Desbloqueia: §C§ <br>Carregador da Pistola 2")
+m_StoreItems[21]=(m_Name="Carregador da Pistola 2",m_Description="Adiciona outra bala ao carregador. (Total de 3)<br>§C_BLUE§Desbloqueia: §C§<br>Carregador da Pistola 3")
+m_StoreItems[22]=(m_Name="Carregador da Pistola 3",m_Description="Adiciona outra bala ao carregador. (Total de 4)")
+m_StoreItems[23]=(m_Name="Recarga da Pistola 1",m_Description="Recarga mais rápida. <br>§C_BLUE§Desbloqueia: §C§<br>Recarga da Pistola 2")
+m_StoreItems[24]=(m_Name="Recarga da Pistola 2",m_Description="Recarga mais rápida. Permite habilitar a recarga automática.")
+m_StoreItems[25]=(m_Name="Disparo explosivo da pistola",m_Description="Permite o uso de balas explosivas na sua pistola.")
+m_StoreItems[26]=(m_Name="Alcance da Navalha de Mola",m_Description="Aumenta o alcance das armadilhas de Navalha de Mola.")
+m_StoreItems[27]=(m_Name="Granada Adesiva",m_Description="Desbloqueia granadas que grudam no alvo.")
+m_StoreItems[28]=(m_Name="Choque de Espadas",m_Description="Torna a espada mais eficaz ao chocar-se com a espada do inimigo e ao empurrar.")
+m_StoreItems[29]=(m_Name="Ótica da Máscara 1",m_Description="Permite que você amplie sua visão. Pressione `GBA_Zoom` para usar o zoom.")
+m_StoreItems[30]=(m_Name="Ótica da Máscara 2",m_Description="Oferece outro nível de ampliação. Pressione `GBA_Use` enquanto estiver usando o zoom.")
+m_StoreItems[31]=(m_Name="Armadura Melhorada",m_Description="Reduz os danos sofridos.")
+m_StoreItems[32]=(m_Name="Botas Sigilosas 1",m_Description="Reduz o ruído dos passos. <br>§C_BLUE§Desbloqueia: §C§<br>Botas Sigilosas 2")
+m_StoreItems[33]=(m_Name="Botas Sigilosas 2",m_Description="Reduz ainda mais o ruído dos passos.")
+m_StoreItems[34]=(m_Name="Capacidade de Balas 1",m_Description="Aumenta a capacidade de armazenamento de balas em 10. (Total de 20) <br>§C_BLUE§Desbloqueia: §C§ <br>Capacidade de Balas 2")
+m_StoreItems[35]=(m_Name="Capacidade de Balas 2",m_Description="Aumenta a capacidade de armazenamento de balas em 10. (Total de 30)")
+m_StoreItems[36]=(m_Name="Capacidade de Setas 1",m_Description="Aumenta a capacidade de setas comuns em 10. (Total de 20) <br>§C_BLUE§Desbloqueia: §C§<br>Capacidade de Setas 2")
+m_StoreItems[37]=(m_Name="Capacidade de Setas 2",m_Description="Aumenta a capacidade de setas comuns em 10. (Total de 30)")
+m_StoreItems[38]=(m_Name="Capacidade de Granadas",m_Description="Aumenta a capacidade de armazenamento de granadas em 4. (Total de 9)")
+m_StoreItems[39]=(m_Name="Capacidade de Navalhas de Mola",m_Description="Aumenta a capacidade de armazenamento de navalhas de mola em 4. (Total de 9)")
+m_StoreItems[40]=(m_Name="Capacidade de Encantos de Ossos 1",m_Description="Permite ativar um Encanto de Ossos a mais. (Total de 4) <br>§C_BLUE§Desbloqueia: §C§<br>Capacidade de Encantos de Ossos 2")
+m_StoreItems[41]=(m_Name="Capacidade de Encantos de Ossos 2",m_Description="Permite ativar dois Encantos de Ossos a mais. (Total de 6) ")
+
+m_CostFormat="`c moedas"
+
+[Stores.Twk_Store_GriffShop DisTweaks_Store]
+m_StoreItems[0]=(m_Name="Elixir de Sokolov",m_Description="Um restaurador criado pelo famoso inventor Anton Sokolov")
+m_StoreItems[1]=(m_Name="Balas dos Guardas",m_Description="Balas roubadas de uma remessa dos guardas.")
+m_StoreItems[2]=(m_Name="Planta: Ampliação de Lentes",m_Description="Um diagrama para melhorar a estabilidade de um jogo de lentes. Piero pode usa-la para melhorar as lentes de aumento da sua máscara.")
+m_StoreItems[3]=(m_Name="Planta: Fórmula de Sokolov",m_Description="A fórmula do Elixir de Saúde de Sokolov. Piero pode usa-la para destilar um líquido que restabelece a saúde e protege contra a peste dos ratos.")
+m_StoreItems[4]=(m_Name="Dardos Tranquilizantes",m_Description="Um dardo com a ponta banhada em veneno vegetal.")
+m_StoreItems[5]=(m_Name="Setas",m_Description="Projéteis letais tirados dos telhados.")
+m_StoreItems[6]=(m_Name="Ferramenta de Religação",m_Description="Permite que você reprograme circuitos e manipule sistemas de segurança para ganhar uma vantagem. É gasto com o uso.")
+m_CostFormat="`c moedas"
+

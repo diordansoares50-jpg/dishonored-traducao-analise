@@ -1,0 +1,8 @@
+﻿[Tweaks.DLC07_Painting_VoidTree:DisTweaks_Interactable_PickupBase_89 DisTweaks_Interactable_PickupBase]
+m_Name="Seus Ramos Me Alcançam"
+m_InteractText="`GBA_Use` Pegar"
+
+[Tweaks.EmilyPaintingUse_01_twk:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="O Sorriso Dela é o Meu Sorriso"
+m_InteractText="`GBA_Use` Substituir Pintura"
+

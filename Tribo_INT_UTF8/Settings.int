@@ -1,0 +1,279 @@
+﻿[ProfileSettingIDs]
+
+; Keyboard mapping
+PSI_GBA_MoveForward=Mover-se para frente
+PSI_GBA_MoveBackward=Mover-se para trás
+PSI_GBA_StrafeLeft=Mover-se para esquerda
+PSI_GBA_StrafeRight=Mover-se para direita
+PSI_GBA_Jump=Saltar
+PSI_GBA_Sneak=Mover-se sigilosamente
+PSI_GBA_Sprint=Correr
+PSI_GBA_LeanLeft=Inclinar-se para esquerda
+PSI_GBA_LeanRight=Inclinar-se para direita
+PSI_GBA_Use=Usar
+PSI_GBA_Primary=Ataque com espada
+PSI_GBA_Secondary=Poder/Dispositivo
+PSI_GBA_Block=Bloquear/Sufocar
+PSI_GBA_Zoom=Zoom
+PSI_GBA_Wheel=Roda de Acesso Rápido
+PSI_GBA_NextItem=Próximo item do atalho
+PSI_GBA_PrevItem=Item do atalho anterior
+PSI_GBA_HealthElixir=Elixir de Saúde
+PSI_GBA_ManaElixir=Elixir de Mana
+PSI_GBA_Journal=Diário
+PSI_GBA_OpenNotes=Notas
+PSI_GBA_OpenPowers=Menu de Poderes
+PSI_GBA_OpenBoneCharms=Menu de Encantos de Ossos
+PSI_GBA_OpenInventory=Inventário
+PSI_GBA_QuickSave=Save rápido
+PSI_GBA_QuickLoad=Carregamento rápido
+PSI_GBA_Shortcut_0=Atalho 1
+PSI_GBA_Shortcut_1=Atalho 2
+PSI_GBA_Shortcut_2=Atalho 3
+PSI_GBA_Shortcut_3=Atalho 4
+PSI_GBA_Shortcut_4=Atalho 5
+PSI_GBA_Shortcut_5=Atalho 6
+PSI_GBA_Shortcut_6=Atalho 7
+PSI_GBA_Shortcut_7=Atalho 8
+PSI_GBA_Shortcut_8=Atalho 9
+PSI_GBA_Shortcut_9=Atalho 10
+
+; Mouse settings
+PSI_Mouse_Sensitivity=Sensibilidade
+PSI_Mouse_bSmooting=Suavização
+PSI_Mouse_bInvertY=Inverter Eixo Y
+PSI_Mouse_bAutoAim=Mira automática
+PSI_Mouse_AutoAimStrength=Força da mira automática
+PSI_Mouse_bFriction=Assistência da mira
+PSI_Mouse_FrictionStrength=Força da assistência da mira
+
+; Gamepad settings
+PSI_Gamepad_BindingSet=Controles
+PSI_Gamepad_bVibration=Vibração
+PSI_Gamepad_LookXSensitivity=Sensibilidade do Eixo X
+PSI_Gamepad_LookYSensitivity=Sensibilidade do Eixo Y
+PSI_Gamepad_bInvertY=Inverter Eixo Y
+PSI_Gamepad_bAutoAim=Mira automática
+PSI_Gamepad_AutoAimStrength=Força da mira automática
+PSI_Gamepad_bFriction=Assistência da mira
+PSI_Gamepad_FrictionStrength=Força da assistência da mira
+
+; HUD settings
+PSI_HUD_Visibility=Mostrar indicador de Saúde/Mana
+PSI_HUD_bShowObjectivePopups=Mostrar pop-up dos objetivos
+PSI_HUD_bShowTutorialNotifications=Mostrar notificações do tutorial
+PSI_HUD_bShowInteractions=Mostrar interações
+PSI_HUD_bShowHighlight=Mostrar o foco destacado
+PSI_HUD_bShowPickupLog=Mostrar log dos itens pegos
+PSI_HUD_bShowContextualIcons=Mostrar icones contextuais
+PSI_HUD_bShowPlayerStance=Mostrar postura do jogador
+PSI_HUD_bShowObjectiveMarkers=Mostrar indicadores de objetivos
+PSI_HUD_bShowGrenadeMarkers=Mostrar indicadores de granadas
+PSI_HUD_bShowAwarenessMarkers=Mostrar indicadores de discrição
+PSI_HUD_bShowHeartTargetMarkers=Mostrar indicadores do Coração
+PSI_HUD_CrosshairStyle=Estilo da mira
+PSI_HUD_bCrosshairMovement=Movimento da mira
+PSI_HUD_CrosshairOpacity=Opacidade da mira
+
+; Gameplay settings
+PSI_Gameplay_bAutoUseManaElixir=Uso automático de Elixires de Mana
+PSI_Gameplay_KillCamMode=Modo Câmera da Morte
+PSI_Gameplay_Difficulty=Dificuldade
+PSI_Gameplay_bAutoSaveInMenu=Salvamento automático no Diário
+PSI_Gameplay_HeadBobAmount=Movimento da cabeça
+PSI_Gameplay_CameraRelativeClimbing=Subida em correntes relacionada à câmera
+
+; Graphics
+PSI_Graphics_Gamma=Brilho
+PSI_GraphicsPC_Resolution=Resolução
+PSI_GraphicsPC_bFullScreen=Tela Cheia
+PSI_GraphicsPC_bVSync=Sincronismo Vertical
+PSI_GraphicsPC_FOV=Campo Visual
+PSI_GraphicsPC_TextureDetails=Detalhes das Texturas
+PSI_GraphicsPC_ModelDetails=Detalhes dos Modelos
+PSI_GraphicsPC_LightShaftEnable=Eixos de Luz
+PSI_GraphicsPC_AntiAliasingMode=Modo Anti-Serrilhado
+PSI_GraphicsPC_RatShadows=Sombra dos Ratos
+
+; Audio
+PSI_Audio_GlobalVolume=Volume Geral
+PSI_Audio_MusicVolume=Volume da Música
+PSI_Audio_SFXVolume=Volume dos Efeitos
+PSI_Audio_VoicesVolume=Volume das Vozes
+PSI_Audio_SubtitlesMode=Legendas
+PSI_AudioPC_SpeakerConfiguration=Configuração dos Alto-Falantes
+
+[ProfileSettingValues]
+
+; EPadBindingSets
+PBS_1=Tipo A
+PBS_2=Tipo B
+PBS_3=Tipo C
+PBS_4=Tipo D
+
+; EBooleanParameter
+BP_False=Não
+BP_True=Sim
+BP_DefaultFalse=Não
+BP_DefaultTrue=Sim
+
+; EHUDVisibility
+HV_Off=Não
+HV_Contextual=Contextual
+HV_Always=Sempre
+
+; ECrosshairStyle
+CS_Off=Não
+CS_Simple=Simples
+CS_Normal=Normal
+
+; EKillCamMode
+KCM_Off=Não
+KCM_Normal=Normal
+KCM_Frequent=Frequente
+
+; EDifficulty
+EDifficulty_Easy=Fácil
+EDifficulty_Normal=Normal
+EDifficulty_Hard=Difícil
+EDifficulty_VeryHard=Muito Difícil
+
+; ETextureDetails
+TextureDetails_Low=Baixo
+TextureDetails_Medium=Médio
+TextureDetails_High=Alto
+
+; EModelDetails
+ModelDetails_Normal=Normal
+ModelDetails_High=Alto
+
+; EPostProcessQuality
+PostProcessQuality_Normal=Normal
+PostProcessQuality_High=Alto
+
+; EAntialiasingMode
+AntialiasingMode_Off=Não
+AntialiasingMode_MLAA=MLAA
+AntialiasingMode_FXAA=FXAA
+
+; ESubtitlesMode
+SubtitlesMode_Off=Off
+SubtitlesMode_Dialogs=Diálogos Principais
+SubtitlesMode_All=Todos os Diálogos
+
+; ESpeakerConfigurationProfile
+SpeakerConfiguration_Auto=Automático
+SpeakerConfiguration_Stereo=Estéreo
+SpeakerConfiguration_5Point1=5.1
+
+[Keys]
+Unbound_Game=Não atribuido
+Unbound_Menu=--
+MouseX=Mouse X
+MouseY=Mouse Y
+MouseScrollUp=Rolagem do Mouse para cima
+MouseScrollDown=Rolagem do Mouse para baixo
+LeftMouseButton=Botão Esquerdo do Mouse
+RightMouseButton=Botão Direito do Mouse
+MiddleMouseButton=Botão Central do Mouse
+ThumbMouseButton=Botão Polegar do Mouse
+ThumbMouseButton2=Botão Polegar do Mouse 2
+BackSpace=Backspace
+Tab=Tab
+Enter=Enter
+Pause=Pause
+CapsLock=Caps Lock
+Escape=Esc
+SpaceBar=Espaço
+PageUp=Cima
+PageDown=Baixo
+End=End
+Home=Home
+Left=Esquerda
+Up=Cima
+Right=Direita
+Down=Baixo
+Insert=Insert
+Delete=Delete
+Zero=Zero
+One=Um
+Two=Dois
+Three=Três
+Four=Quatro
+Five=Cinco
+Six=Seis
+Seven=Sete
+Eight=Oito
+Nine=Nove
+A=A
+B=B
+C=C
+D=D
+E=E
+F=F
+G=G
+H=H
+I=I
+J=J
+K=K
+L=L
+M=M
+N=N
+O=O
+P=P
+Q=Q
+R=R
+S=S
+T=T
+U=U
+V=V
+W=W
+X=X
+Y=Y
+Z=Z
+NumPadZero=Num. Pad Zero
+NumPadOne=Num. Pad Um
+NumPadTwo=Num. Pad Dois
+NumPadThree=Num. Pad Três
+NumPadFour=Num. Pad Quatro
+NumPadFive=Num. Pad Cinco
+NumPadSix=Num. Pad Seis
+NumPadSeven=Num. Pad Sete
+NumPadEight=Num. Pad Oito
+NumPadNine=Num. Pad Nove
+Multiply=Multiplicação
+Add=Soma
+Subtract=Subtração
+Decimal=Decimal
+Divide=Divisão
+F1=F1
+F2=F2
+F3=F3
+F4=F4
+F5=F5
+F6=F6
+F7=F7
+F8=F8
+F9=F9
+F10=F10
+F11=F11
+F12=F12
+NumLock=Num Lock
+ScrollLock=Scroll Lock
+LeftShift=Shift Esquerdo
+RightShift=Shift Direito
+LeftControl=Ctrl Esquerdo
+RightControl=Ctrl Direito
+LeftAlt=Alt Esquerdo
+RightAlt=Alt Direito
+Semicolon=Ponto e Vírgula
+Equals=Igual
+Comma=Vírgula
+Underscore=Sublinhar
+Period=Período
+Slash=Barra
+Tilde=Til
+LeftBracket=Colchete Esquerdo
+Backslash=Contrabarra
+RightBracket=Colchete Direito
+Quote=Citação

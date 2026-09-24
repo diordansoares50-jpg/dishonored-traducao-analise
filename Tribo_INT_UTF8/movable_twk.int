@@ -1,0 +1,1040 @@
+﻿[adjustable_wrench_01_twk:DisTweaks_InteractableInterface_54 DisTweaks_InteractableInterface]
+m_Name="Chave de Boca Ajustável"
+m_InteractText="`GBA_Use` Carregar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Ashtray_01_twk:DisTweaks_InteractableInterface_43 DisTweaks_InteractableInterface]
+m_Name="Cinzeiro"
+m_InteractText="`GBA_Use` Carregar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[AshTray_02_twk:DisTweaks_InteractableInterface_54 DisTweaks_InteractableInterface]
+m_Name="Cinzeiro"
+m_InteractText="`GBA_Use` Carregar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[assassin_mask_twk:DisTweaks_InteractableInterface_54 DisTweaks_InteractableInterface]
+m_Name="Máscara"
+m_InteractText="`GBA_Use` Carregar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[balloons_01_twk:DisTweaks_InteractableInterface_20 DisTweaks_InteractableInterface]
+m_Name=""
+m_InteractText="`GBA_Use` Carregar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[balloons_02_twk:DisTweaks_InteractableInterface_20 DisTweaks_InteractableInterface]
+m_Name=""
+m_InteractText="`GBA_Use` Carregar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Base.BreakableNavBlockBase:DisTweaks_InteractableInterface_30 DisTweaks_InteractableInterface]
+m_Name=""
+m_InteractText=""
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Base.CapaceteMovableBase:DisTweaks_InteractableInterface_11 DisTweaks_InteractableInterface]
+m_Name="Capacete"
+m_InteractText="`GBA_Use` Carregar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Base.LargeMoveableBase:DisTweaks_InteractableInterface_12 DisTweaks_InteractableInterface]
+m_Name=""
+m_InteractText="`GBA_Use` Carregar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Base.MoveableBase:DisTweaks_InteractableInterface_15 DisTweaks_InteractableInterface]
+m_Name=""
+m_InteractText="`GBA_Use` Carregar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Base.StaticBreakableBase:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name=""
+m_InteractText=""
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[bathroom_mirrors_02_twk:DisTweaks_InteractableInterface_6 DisTweaks_InteractableInterface]
+m_Name=""
+m_InteractText="`GBA_Use` Carregar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[beer_pint_full_twk:DisTweaks_InteractableInterface_10 DisTweaks_InteractableInterface]
+m_Name="Copo"
+m_InteractText="`GBA_Use` Carregar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[beer_pint_twk:DisTweaks_InteractableInterface_10 DisTweaks_InteractableInterface]
+m_Name="Copo"
+m_InteractText="`GBA_Use` Carregar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[BookStack_twk:DisTweaks_InteractableInterface_4 DisTweaks_InteractableInterface]
+m_Name="Livros em Branco"
+m_InteractText="`GBA_Use` Carregar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[bottle_01_twk:DisTweaks_InteractableInterface_5 DisTweaks_InteractableInterface]
+m_Name="Garrafa Vazia"
+m_InteractText="`GBA_Use` Carregar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[box_books_twk:DisTweaks_InteractableInterface_54 DisTweaks_InteractableInterface]
+m_Name="Livros"
+m_InteractText="`GBA_Use` Carregar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[boyle_vase_01_twk:DisTweaks_InteractableInterface_43 DisTweaks_InteractableInterface]
+m_Name="Vaso"
+m_InteractText="`GBA_Use` Carregar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[breakable_glass_01_big_twk:DisTweaks_InteractableInterface_41 DisTweaks_InteractableInterface]
+m_Name=""
+m_InteractText=""
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[breakable_glass_01_twk:DisTweaks_InteractableInterface_41 DisTweaks_InteractableInterface]
+m_Name=""
+m_InteractText=""
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[brick_01_twk:DisTweaks_InteractableInterface_54 DisTweaks_InteractableInterface]
+m_Name="Ladrilho"
+m_InteractText="`GBA_Use` Carregar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[brothel_cushions_01_twk:DisTweaks_InteractableInterface_54 DisTweaks_InteractableInterface]
+m_Name="Almofada"
+m_InteractText="`GBA_Use` Carregar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[brothel_cushions_02_twk:DisTweaks_InteractableInterface_54 DisTweaks_InteractableInterface]
+m_Name="Almofada"
+m_InteractText="`GBA_Use` Carregar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[brothelwindow_01_twk:DisTweaks_InteractableInterface_41 DisTweaks_InteractableInterface]
+m_Name=""
+m_InteractText=""
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[bucket_01_twk:DisTweaks_InteractableInterface_7 DisTweaks_InteractableInterface]
+m_Name="Balde"
+m_InteractText="`GBA_Use` Carregar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[butterfly_case_01_twk:DisTweaks_InteractableInterface_54 DisTweaks_InteractableInterface]
+m_Name="Caixa de Borboletas"
+m_InteractText="`GBA_Use` Carregar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[butterfly_case_02_twk:DisTweaks_InteractableInterface_54 DisTweaks_InteractableInterface]
+m_Name="Caixa de Borboletas"
+m_InteractText="`GBA_Use` Carregar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[candle_stick_01_twk:DisTweaks_InteractableInterface_43 DisTweaks_InteractableInterface]
+m_Name="Candelabro"
+m_InteractText="`GBA_Use` Carregar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[chair_rich_01_twk:DisTweaks_InteractableInterface_41 DisTweaks_InteractableInterface]
+m_Name=""
+m_InteractText=""
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[chamber_pot_twk:DisTweaks_InteractableInterface_8 DisTweaks_InteractableInterface]
+m_Name=""
+m_InteractText="`GBA_Use` Carregar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[city_watch_sign_wood_01_twk:DisTweaks_InteractableInterface_41 DisTweaks_InteractableInterface]
+m_Name=""
+m_InteractText=""
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[city_watch_sign_wood_01b_twk:DisTweaks_InteractableInterface_34 DisTweaks_InteractableInterface]
+m_Name=""
+m_InteractText=""
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[city_watch_sign_wood_01c_twk:DisTweaks_InteractableInterface_34 DisTweaks_InteractableInterface]
+m_Name=""
+m_InteractText=""
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[city_watch_sign_wood_02_twk:DisTweaks_InteractableInterface_41 DisTweaks_InteractableInterface]
+m_Name=""
+m_InteractText=""
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[CityCapacete_twk:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Capacete"
+m_InteractText="`GBA_Use` Carregar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[clippers_01_twk:DisTweaks_InteractableInterface_54 DisTweaks_InteractableInterface]
+m_Name="Cortadores"
+m_InteractText="`GBA_Use` Carregar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[clock_01_twk:DisTweaks_InteractableInterface_9 DisTweaks_InteractableInterface]
+m_Name="Relógio"
+m_InteractText="`GBA_Use` Carregar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[coffin_01_twk:DisTweaks_InteractableInterface_41 DisTweaks_InteractableInterface]
+m_Name=""
+m_InteractText=""
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Corvos_hand_01_twk:DisTweaks_InteractableInterface_54 DisTweaks_InteractableInterface]
+m_Name="Minha Mão Esquerda"
+m_InteractText="`GBA_Use` Carregar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[crate_05_twk:DisTweaks_InteractableInterface_41 DisTweaks_InteractableInterface]
+m_Name=""
+m_InteractText=""
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[cupboard_01b_twk:DisTweaks_InteractableInterface_36 DisTweaks_InteractableInterface]
+m_Name=""
+m_InteractText=""
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[destilling_bottle_01_twk:DisTweaks_InteractableInterface_54 DisTweaks_InteractableInterface]
+m_Name="Equipamento de Laboratório"
+m_InteractText="`GBA_Use` Carregar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[destilling_bottle_02_twk:DisTweaks_InteractableInterface_54 DisTweaks_InteractableInterface]
+m_Name="Equipamento de Laboratório"
+m_InteractText="`GBA_Use` Carregar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[display_case_01b_twk:DisTweaks_InteractableInterface_37 DisTweaks_InteractableInterface]
+m_Name=""
+m_InteractText=""
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[dissection_board_01_twk:DisTweaks_InteractableInterface_54 DisTweaks_InteractableInterface]
+m_Name="Placa de Dissecção"
+m_InteractText="`GBA_Use` Carregar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[DrinkingGlass_twk:DisTweaks_InteractableInterface_10 DisTweaks_InteractableInterface]
+m_Name="Copo"
+m_InteractText="`GBA_Use` Carregar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[EliteCapacete_twk:DisTweaks_InteractableInterface_11 DisTweaks_InteractableInterface]
+m_Name="Capacete"
+m_InteractText="`GBA_Use` Carregar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[flooded_wood_plank_01_twk:DisTweaks_InteractableInterface_42 DisTweaks_InteractableInterface]
+m_Name="Tábuas de Madeira"
+m_InteractText=""
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[guardStationWindow_01_twk:DisTweaks_InteractableInterface_41 DisTweaks_InteractableInterface]
+m_Name=""
+m_InteractText=""
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[hammer_01_twk:DisTweaks_InteractableInterface_54 DisTweaks_InteractableInterface]
+m_Name="Martelo"
+m_InteractText="`GBA_Use` Carregar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[harp_01b_twk:DisTweaks_InteractableInterface_39 DisTweaks_InteractableInterface]
+m_Name=""
+m_InteractText=""
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[JellyCake_Green_twk:DisTweaks_InteractableInterface_54 DisTweaks_InteractableInterface]
+m_Name="Garrafa Vazia"
+m_InteractText="`GBA_Use` Carregar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[JellyCake_Red_twk:DisTweaks_InteractableInterface_54 DisTweaks_InteractableInterface]
+m_Name="Garrafa Vazia"
+m_InteractText="`GBA_Use` Carregar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[lab_bottle_01_twk:DisTweaks_InteractableInterface_54 DisTweaks_InteractableInterface]
+m_Name="Garrafa Vazia"
+m_InteractText="`GBA_Use` Carregar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[lab_bottle_02_twk:DisTweaks_InteractableInterface_54 DisTweaks_InteractableInterface]
+m_Name="Garrafa Vazia"
+m_InteractText="`GBA_Use` Carregar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[lab_bottle_03_twk:DisTweaks_InteractableInterface_54 DisTweaks_InteractableInterface]
+m_Name="Garrafa Vazia"
+m_InteractText="`GBA_Use` Carregar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[lab_bottle_04_twk:DisTweaks_InteractableInterface_54 DisTweaks_InteractableInterface]
+m_Name="Garrafa Vazia"
+m_InteractText="`GBA_Use` Carregar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[lab_large_bottle_01_twk:DisTweaks_InteractableInterface_54 DisTweaks_InteractableInterface]
+m_Name="Garrafa Vazia"
+m_InteractText="`GBA_Use` Carregar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[lab_large_bottle_02_twk:DisTweaks_InteractableInterface_54 DisTweaks_InteractableInterface]
+m_Name="Garrafa Vazia"
+m_InteractText="`GBA_Use` Carregar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Liquor_Bottle_twk:DisTweaks_InteractableInterface_13 DisTweaks_InteractableInterface]
+m_Name="Garrafa de Licor"
+m_InteractText="`GBA_Use` Carregar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[LowerGuardCap_twk:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Capacete"
+m_InteractText="`GBA_Use` Carregar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[metal_stand_01_twk:DisTweaks_InteractableInterface_54 DisTweaks_InteractableInterface]
+m_Name="Garrafa"
+m_InteractText="`GBA_Use` Carregar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[metal_stand_02_twk:DisTweaks_InteractableInterface_54 DisTweaks_InteractableInterface]
+m_Name="Suporte de Latão"
+m_InteractText="`GBA_Use` Carregar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[moucharabie_01_twk:DisTweaks_InteractableInterface_41 DisTweaks_InteractableInterface]
+m_Name=""
+m_InteractText=""
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[over_desk_furniture_01_twk:DisTweaks_InteractableInterface_54 DisTweaks_InteractableInterface]
+m_Name="Pote de Tinta"
+m_InteractText="`GBA_Use` Carregar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[over_desk_furniture_02_twk:DisTweaks_InteractableInterface_54 DisTweaks_InteractableInterface]
+m_Name="Carimbo"
+m_InteractText="`GBA_Use` Carregar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[over_desk_furniture_03_twk:DisTweaks_InteractableInterface_54 DisTweaks_InteractableInterface]
+m_Name="Carimbo"
+m_InteractText="`GBA_Use` Carregar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[over_wastebasket_01_twk:DisTweaks_InteractableInterface_54 DisTweaks_InteractableInterface]
+m_Name="Cesta"
+m_InteractText="`GBA_Use` Carregar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[overseer_wood_divider_twk:DisTweaks_InteractableInterface_41 DisTweaks_InteractableInterface]
+m_Name=""
+m_InteractText=""
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[pan_01_twk:DisTweaks_InteractableInterface_17 DisTweaks_InteractableInterface]
+m_Name="Panela"
+m_InteractText="`GBA_Use` Carregar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[pan_02_cover_twk:DisTweaks_InteractableInterface_18 DisTweaks_InteractableInterface]
+m_Name="Tampa do Pote"
+m_InteractText="`GBA_Use` Carregar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[pan_02_twk:DisTweaks_InteractableInterface_19 DisTweaks_InteractableInterface]
+m_Name="Panela"
+m_InteractText="`GBA_Use` Carregar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[pan_twk:DisTweaks_InteractableInterface_20 DisTweaks_InteractableInterface]
+m_Name="Panela"
+m_InteractText="`GBA_Use` Carregar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[pedestal_table_01_twk:DisTweaks_InteractableInterface_21 DisTweaks_InteractableInterface]
+m_Name="Mesa com Perna Central"
+m_InteractText="`GBA_Use` Carregar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[piano_01_cap_twk:DisTweaks_InteractableInterface_40 DisTweaks_InteractableInterface]
+m_Name=""
+m_InteractText=""
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[piano_cap_twk:DisTweaks_InteractableInterface_29 DisTweaks_InteractableInterface]
+m_Name=""
+m_InteractText="`GBA_Use` Carregar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[pillow_01_twk:DisTweaks_InteractableInterface_54 DisTweaks_InteractableInterface]
+m_Name="Almofada"
+m_InteractText="`GBA_Use` Carregar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Pot_01_twk:DisTweaks_InteractableInterface_22 DisTweaks_InteractableInterface]
+m_Name="Pote"
+m_InteractText="`GBA_Use` Carregar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[prison_canteen_dish_01_twk:DisTweaks_InteractableInterface_54 DisTweaks_InteractableInterface]
+m_Name="Prato"
+m_InteractText="`GBA_Use` Carregar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[prison_canteen_dish_02_twk:DisTweaks_InteractableInterface_54 DisTweaks_InteractableInterface]
+m_Name="Prato"
+m_InteractText="`GBA_Use` Carregar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[prison_loudspeaker_twk:DisTweaks_InteractableInterface_29 DisTweaks_InteractableInterface]
+m_Name="Tábua de Madeira"
+m_InteractText="`GBA_Use` Carregar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[prison_metal_cone_01_twk:DisTweaks_InteractableInterface_17 DisTweaks_InteractableInterface]
+m_Name="Cone de Metal"
+m_InteractText="`GBA_Use` Carregar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[pub_bottle_01_twk:DisTweaks_InteractableInterface_5 DisTweaks_InteractableInterface]
+m_Name="Garrafa Vazia"
+m_InteractText="`GBA_Use` Carregar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[pub_bottle_02_twk:DisTweaks_InteractableInterface_5 DisTweaks_InteractableInterface]
+m_Name="Garrafa Vazia"
+m_InteractText="`GBA_Use` Carregar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[pub_bottle_03_twk:DisTweaks_InteractableInterface_5 DisTweaks_InteractableInterface]
+m_Name="Garrafa Vazia"
+m_InteractText="`GBA_Use` Carregar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[radiator_01_twk:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name=""
+m_InteractText=""
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[rat_foetus_01_twk:DisTweaks_InteractableInterface_54 DisTweaks_InteractableInterface]
+m_Name="Feto de Rato"
+m_InteractText="`GBA_Use` Carregar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[rectangular_plate_twk:DisTweaks_InteractableInterface_23 DisTweaks_InteractableInterface]
+m_Name="Bandeja de Metal"
+m_InteractText="`GBA_Use` Carregar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[screwdriver_01_twk:DisTweaks_InteractableInterface_54 DisTweaks_InteractableInterface]
+m_Name="Chave de Fenda"
+m_InteractText="`GBA_Use` Carregar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[shelf_assets_box_01_twk:DisTweaks_InteractableInterface_54 DisTweaks_InteractableInterface]
+m_Name="Caixa"
+m_InteractText="`GBA_Use` Carregar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[shelf_assets_box_01b_twk:DisTweaks_InteractableInterface_54 DisTweaks_InteractableInterface]
+m_Name="Caixa"
+m_InteractText="`GBA_Use` Carregar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[shelf_assets_can_01_twk:DisTweaks_InteractableInterface_54 DisTweaks_InteractableInterface]
+m_Name="Lata Vazia"
+m_InteractText="`GBA_Use` Carregar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[shelf_assets_can_01b_twk:DisTweaks_InteractableInterface_54 DisTweaks_InteractableInterface]
+m_Name="Lata Vazia"
+m_InteractText="`GBA_Use` Carregar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[shelf_assets_drawers_01_twk:DisTweaks_InteractableInterface_54 DisTweaks_InteractableInterface]
+m_Name="Gavetas"
+m_InteractText="`GBA_Use` Carregar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[shelf_assets_drawers_01b_twk:DisTweaks_InteractableInterface_54 DisTweaks_InteractableInterface]
+m_Name="Gavetas"
+m_InteractText="`GBA_Use` Carregar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[shelf_assets_drawers_02_twk:DisTweaks_InteractableInterface_54 DisTweaks_InteractableInterface]
+m_Name="Gavetas"
+m_InteractText="`GBA_Use` Carregar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[shelf_assets_drawers_02b_twk:DisTweaks_InteractableInterface_54 DisTweaks_InteractableInterface]
+m_Name="Gavetas"
+m_InteractText="`GBA_Use` Carregar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[shelf_assets_papers_01_twk:DisTweaks_InteractableInterface_54 DisTweaks_InteractableInterface]
+m_Name="Pergaminho em Branco"
+m_InteractText="`GBA_Use` Carregar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[shelf_assets_papers_01b_twk:DisTweaks_InteractableInterface_54 DisTweaks_InteractableInterface]
+m_Name="Pergaminho em Branco"
+m_InteractText="`GBA_Use` Carregar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[shelf_assets_papers_02_twk:DisTweaks_InteractableInterface_54 DisTweaks_InteractableInterface]
+m_Name="Pergaminho em Branco"
+m_InteractText="`GBA_Use` Carregar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[shelf_assets_papers_02b_twk:DisTweaks_InteractableInterface_54 DisTweaks_InteractableInterface]
+m_Name="Pergaminho em Branco"
+m_InteractText="`GBA_Use` Carregar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[speaker_01_twk:DisTweaks_InteractableInterface_38 DisTweaks_InteractableInterface]
+m_Name=""
+m_InteractText=""
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[sunroofGlass_01_twk:DisTweaks_InteractableInterface_41 DisTweaks_InteractableInterface]
+m_Name=""
+m_InteractText=""
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[support_rope_01_twk:DisTweaks_InteractableInterface_54 DisTweaks_InteractableInterface]
+m_Name="Poste de Metal"
+m_InteractText="`GBA_Use` Carregar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[support_rope_02_twk:DisTweaks_InteractableInterface_54 DisTweaks_InteractableInterface]
+m_Name="Barra de Metal"
+m_InteractText="`GBA_Use` Carregar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[tavern_glass_panel_01_twk:DisTweaks_InteractableInterface_6 DisTweaks_InteractableInterface]
+m_Name=""
+m_InteractText="`GBA_Use` Carregar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[TeaCup_twk:DisTweaks_InteractableInterface_24 DisTweaks_InteractableInterface]
+m_Name="Xícara de Chá"
+m_InteractText="`GBA_Use` Carregar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[test_tub_01_twk:DisTweaks_InteractableInterface_54 DisTweaks_InteractableInterface]
+m_Name="Garrafa"
+m_InteractText="`GBA_Use` Carregar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[ThugHat1_twk:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Capacete"
+m_InteractText="`GBA_Use` Carregar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[ThugHat2_twk:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Capacete"
+m_InteractText="`GBA_Use` Carregar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[tyvian_urn_twk:DisTweaks_InteractableInterface_43 DisTweaks_InteractableInterface]
+m_Name="Urna"
+m_InteractText="`GBA_Use` Carregar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[utensil_twk:DisTweaks_InteractableInterface_25 DisTweaks_InteractableInterface]
+m_Name="Utensílios"
+m_InteractText="`GBA_Use` Carregar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[vase_02_twk:DisTweaks_InteractableInterface_43 DisTweaks_InteractableInterface]
+m_Name="Vaso"
+m_InteractText="`GBA_Use` Carregar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Vase_twk:DisTweaks_InteractableInterface_26 DisTweaks_InteractableInterface]
+m_Name="Vaso"
+m_InteractText="`GBA_Use` Carregar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[whale_bone_brk2_twk:DisTweaks_InteractableInterface_29 DisTweaks_InteractableInterface]
+m_Name="Tábua de Madeira"
+m_InteractText="`GBA_Use` Carregar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[whale_bone_brk3_twk:DisTweaks_InteractableInterface_29 DisTweaks_InteractableInterface]
+m_Name="Tábua de Madeira"
+m_InteractText="`GBA_Use` Carregar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[whale_bone_brk4_twk:DisTweaks_InteractableInterface_29 DisTweaks_InteractableInterface]
+m_Name="Tábua de Madeira"
+m_InteractText="`GBA_Use` Carregar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[whale_bone_brk5_twk:DisTweaks_InteractableInterface_29 DisTweaks_InteractableInterface]
+m_Name="Tábua de Madeira"
+m_InteractText="`GBA_Use` Carregar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[whale_bone_brk6_twk:DisTweaks_InteractableInterface_29 DisTweaks_InteractableInterface]
+m_Name="Tábua de Madeira"
+m_InteractText="`GBA_Use` Carregar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[whale_bone_brk7_twk:DisTweaks_InteractableInterface_29 DisTweaks_InteractableInterface]
+m_Name="Tábua de Madeira"
+m_InteractText="`GBA_Use` Carregar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[wheelbarrow_twk:DisTweaks_InteractableInterface_41 DisTweaks_InteractableInterface]
+m_Name=""
+m_InteractText=""
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[wood_plank_02_step2_twk:DisTweaks_InteractableInterface_41 DisTweaks_InteractableInterface]
+m_Name="Tábuas de Madeira"
+m_InteractText=""
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[wood_plank_02_twk:DisTweaks_InteractableInterface_41 DisTweaks_InteractableInterface]
+m_Name="Tábuas de Madeira"
+m_InteractText=""
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[wood_plank_04_twk:DisTweaks_InteractableInterface_42 DisTweaks_InteractableInterface]
+m_Name="Tábuas de Madeira"
+m_InteractText=""
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[wood_plank_200_twk:DisTweaks_InteractableInterface_29 DisTweaks_InteractableInterface]
+m_Name="Tábua de Madeira"
+m_InteractText="`GBA_Use` Carregar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[wood_plank_400_twk:DisTweaks_InteractableInterface_28 DisTweaks_InteractableInterface]
+m_Name="Tábua de Madeira"
+m_InteractText="`GBA_Use` Carregar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[wood_plank_group_05_twk:DisTweaks_InteractableInterface_41 DisTweaks_InteractableInterface]
+m_Name="Tábuas de Madeira"
+m_InteractText=""
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[wooden_bench_twk:DisTweaks_InteractableInterface_41 DisTweaks_InteractableInterface]
+m_Name=""
+m_InteractText=""
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[wooden_chair_twk:DisTweaks_InteractableInterface_41 DisTweaks_InteractableInterface]
+m_Name=""
+m_InteractText=""
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[wooden_table_twk:DisTweaks_InteractableInterface_41 DisTweaks_InteractableInterface]
+m_Name=""
+m_InteractText=""
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+

@@ -1,0 +1,84 @@
+﻿[Pickups.Hemlock_twk DisTweaks_AbstractItemPickup]
+m_SingleItemPickupMessage=""
+
+[Pickups.Hemlock_twk:DisTweaks_Interactable_PickupBase_9 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name="Essência de Cicuta"
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Pickups.NettleSeeds_twk DisTweaks_AbstractItemPickup]
+m_SingleItemPickupMessage=""
+
+[Pickups.NettleSeeds_twk:DisTweaks_Interactable_PickupBase_18 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name="Ervas Medicinais"
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Pickups.PowderedCrystal_twk DisTweaks_AbstractItemPickup]
+m_SingleItemPickupMessage=""
+
+[Pickups.PowderedCrystal_twk:DisTweaks_Interactable_PickupBase_19 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name="Cristal em Pó"
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Pickups.ProcessedWhaleOil_twk DisTweaks_AbstractItemPickup]
+m_SingleItemPickupMessage=""
+
+[Pickups.ProcessedWhaleOil_twk:DisTweaks_Interactable_PickupBase_10 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name="Óleo de Baleia Processado"
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Pickups.SparrowFeather02_twk DisTweaks_AbstractItemPickup]
+m_SingleItemPickupMessage=""
+
+[Pickups.SparrowFeather02_twk:DisTweaks_Interactable_PickupBase_101 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name="Penas de Kingsparrow"
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Pickups.TyvianOre_twk DisTweaks_AbstractItemPickup]
+m_SingleItemPickupMessage=""
+
+[Pickups.TyvianOre_twk:DisTweaks_Interactable_PickupBase_12 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name="Minério de Tyvian"
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Pickups.Wire_twk DisTweaks_AbstractItemPickup]
+m_SingleItemPickupMessage=""
+
+[Pickups.Wire_twk:DisTweaks_Interactable_PickupBase_23 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name="Fio de Cobre"
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+

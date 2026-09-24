@@ -1,0 +1,24 @@
+﻿[Pwn_SlackJaw_MTall_1 DisTweaks_NPCPawn]
+m_BusyText="Este personagem está ocupado"
+m_CannotStealMessage="Você não pode carregar mais munição deste tipo"
+
+[Pwn_SlackJaw_MTall_1:DisTweaks_InteractableInterface_32 DisTweaks_InteractableInterface]
+m_Name="Mandíbula Frouxa"
+m_InteractText=""
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Pwn_Slackjaw_Sewer DisTweaks_NPCPawn]
+m_BusyText="Este personagem está ocupado"
+m_CannotStealMessage="Você não pode carregar mais munição deste tipo"
+
+[Pwn_Slackjaw_Sewer:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Mandíbula Frouxa"
+m_InteractText=""
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+

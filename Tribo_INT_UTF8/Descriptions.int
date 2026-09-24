@@ -1,0 +1,4 @@
+﻿[Objects]
+DisParticleModuleRainDrops="DisRainDrops"
+InterpTrackDialog="Faixa de Diálogo"
+DisInterpTrackAllowPlayerLook="Permitir que jogadores olhem ângulos"

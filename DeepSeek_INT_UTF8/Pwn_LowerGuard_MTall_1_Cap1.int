@@ -1,0 +1,12 @@
+﻿[Pwn_LowerGuard_MTall_1_Cap1 DisTweaks_NPCPawn]
+m_BusyText="Este personagem está ocupado"
+m_CannotStealMessage="Você não pode carregar mais munição deste tipo"
+
+[Pwn_LowerGuard_MTall_1_Cap1:DisTweaks_InteractableInterface_4 DisTweaks_InteractableInterface]
+m_Name="Observar Guarda Baixa"
+m_InteractText=""
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+

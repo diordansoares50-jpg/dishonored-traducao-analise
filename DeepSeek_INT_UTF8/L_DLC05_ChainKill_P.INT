@@ -1,0 +1,20 @@
+﻿[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_SetTutorialMessage_0 DisSeqAct_SetTutorialMessage]
+m_TutorialMessage="Cada eliminação lhe dá pontos."
+m_TutorialMessage_Gamepad=""
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_SetTutorialMessage_1 DisSeqAct_SetTutorialMessage]
+m_TutorialMessage="Elimine um número crescente de inimigos com menos de 4 segundos entre cada abate."
+m_TutorialMessage_Gamepad=""
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_SetTutorialMessage_2 DisSeqAct_SetTutorialMessage]
+m_TutorialMessage="O cronômetro de contagem regressiva só começa após o primeiro inimigo ser eliminado. Aproveite para preparar suas ações com calma."
+m_TutorialMessage_Gamepad=""
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_SetTutorialMessage_3 DisSeqAct_SetTutorialMessage]
+m_TutorialMessage="Experimente seus poderes sobrenaturais e gadgets."
+m_TutorialMessage_Gamepad=""
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_SetTutorialMessage_4 DisSeqAct_SetTutorialMessage]
+m_TutorialMessage="Também é possível usar o ambiente de forma criativa."
+m_TutorialMessage_Gamepad=""
+

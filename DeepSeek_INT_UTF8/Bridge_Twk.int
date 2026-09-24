@@ -1,0 +1,135 @@
+﻿[door_medium_poor_ext_metal_blocked_twk DisTweaks_Door]
+m_DoorOpenCCW.m_InteractTextOverride=""
+m_DoorOpenCW.m_InteractTextOverride=""
+m_DoorCloseCCW.m_InteractTextOverride="`GBA_Use` Fechar"
+m_DoorCloseCW.m_InteractTextOverride="`GBA_Use` Fechar"
+m_DoorSlamOpenCCW.m_InteractTextOverride=""
+m_DoorSlamOpenCW.m_InteractTextOverride=""
+m_UnlockInteractText="`GBA_Use` Desbloquear"
+m_LockedMessage=""
+m_UnauthorizedMessage=""
+m_FocusMessage=""
+m_FocusLockedMessage="Bloqueado do outro lado"
+
+[door_medium_poor_ext_metal_blocked_twk:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Porta Indestrutível"
+m_InteractText="`GBA_Use` Abrir"
+m_AltInteractText="Segure `GBA_Use` Fechadura"
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[door_small_poor_int_metal_blocked_twk DisTweaks_Door]
+m_DoorOpenCCW.m_InteractTextOverride=""
+m_DoorOpenCW.m_InteractTextOverride=""
+m_DoorCloseCCW.m_InteractTextOverride="`GBA_Use` Fechar"
+m_DoorCloseCW.m_InteractTextOverride="`GBA_Use` Fechar"
+m_DoorSlamOpenCCW.m_InteractTextOverride=""
+m_DoorSlamOpenCW.m_InteractTextOverride=""
+m_UnlockInteractText="`GBA_Use` Desbloquear"
+m_LockedMessage=""
+m_UnauthorizedMessage=""
+m_FocusMessage=""
+m_FocusLockedMessage="Bloqueado do outro lado"
+
+[door_small_poor_int_metal_blocked_twk:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Porta"
+m_InteractText="`GBA_Use` Abrir"
+m_AltInteractText="Segure `GBA_Use` Fechadura"
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[door_small_sewer_01_blocked_twk DisTweaks_Door]
+m_DoorOpenCCW.m_InteractTextOverride=""
+m_DoorOpenCW.m_InteractTextOverride=""
+m_DoorCloseCCW.m_InteractTextOverride="`GBA_Use` Fechar"
+m_DoorCloseCW.m_InteractTextOverride="`GBA_Use` Fechar"
+m_DoorSlamOpenCCW.m_InteractTextOverride=""
+m_DoorSlamOpenCW.m_InteractTextOverride=""
+m_UnlockInteractText="`GBA_Use` Desbloquear"
+m_LockedMessage=""
+m_UnauthorizedMessage=""
+m_FocusMessage=""
+m_FocusLockedMessage="Trancado"
+
+[door_small_sewer_01_blocked_twk:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Porta Inquebrável"
+m_InteractText="`GBA_Use` Abrir"
+m_AltInteractText="Segure `GBA_Use` Fechadura"
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[doors_transition_twk.part1_to_part2:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Para o Extremo Norte"
+m_InteractText="`GBA_Use` Abrir"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[doors_transition_twk.part1a_to_part1b:DisTweaks_InteractableInterface_16 DisTweaks_InteractableInterface]
+m_Name="Para a Ponte Levadiça"
+m_InteractText="`GBA_Use` Abrir"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[doors_transition_twk.part1b_to_part1a:DisTweaks_InteractableInterface_16 DisTweaks_InteractableInterface]
+m_Name="Para o Portão do Lado Sul"
+m_InteractText="`GBA_Use` Abrir"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[doors_transition_twk.part1b_to_part1c:DisTweaks_InteractableInterface_16 DisTweaks_InteractableInterface]
+m_Name="Para a Subestação Midrow"
+m_InteractText="`GBA_Use` Abrir"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[doors_transition_twk.part1c_to_part1b:DisTweaks_InteractableInterface_16 DisTweaks_InteractableInterface]
+m_Name="Para a Ponte Levadiça"
+m_InteractText="`GBA_Use` Abrir"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[doors_transition_twk.part2_to_part1:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Para a Subestação Midrow"
+m_InteractText="`GBA_Use` Abrir"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[safe_painting_interact_close_twk:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Pintura"
+m_InteractText="`GBA_Use` Abrir"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[safe_painting_interact_twk:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Pintura"
+m_InteractText="`GBA_Use` Abrir"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[wall_lever_01_nostatic_twk:DisTweaks_InteractableInterface_0 DisTweaks_InteractableInterface]
+m_Name="Alternar"
+m_InteractText="`GBA_Use` Usar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+

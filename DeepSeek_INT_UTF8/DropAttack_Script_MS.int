@@ -1,0 +1,60 @@
+﻿[Characters.Twk_Pawn_Empress:DisTweaks_InteractableInterface_2 DisTweaks_InteractableInterface]
+m_Name="Imperatriz Jessamine Kaldwin"
+
+[Notes.AbstrInv_Disclaimer_Expert DisAbstractItem]
+m_ItemName="Cascata de Mortes"
+m_PluralItemName=""
+m_Description="Execute Assassinatos por Queda em seus inimigos enquanto tenta chegar à plataforma final o mais rápido possível.
+
+Os inimigos são marcados por um feixe de luz.  
+Para pontuar mais alto nas quedas ou ir mais rápido, você pode sair do caminho marcado.  
+Se cair no Vazio, você reinicia na última plataforma alcançada.
+
+Você sofre dano por queda, então acertar seus Assassinatos por Queda é sua melhor chance de sobrevivência.  
+Há obstáculos adicionais nesta área.
+
+Pontuação:  
+* Quanto maior a queda antes de um assassinato por queda, mais pontos você ganha.  
+* Quanto mais rápido você chegar ao fim, mais pontos você ganha.
+
+Especial:  
+Se seguir o caminho, pode usar a cor dos feixes de luz como pista:  
+* VERDE: Corra e caia para alcançar o alvo (sem Pulo, sem `GBA_Blink`).  
+* AMARELO: Corra e use o salto de Agilidade para alcançar o alvo (sem `GBA_Blink`).  
+* VERMELHO: Corra e use o salto de Agilidade e `GBA_Blink` para alcançar o alvo.
+
+Fim de Jogo:  
+O jogo acaba se você morrer."
+
+[Notes.AbstrInv_Disclaimer_Normal DisAbstractItem]
+m_ItemName="Cascata de Mortes"
+m_PluralItemName=""
+m_Description="Realize Assassinatos por Queda em seus inimigos enquanto tenta alcançar a plataforma final o mais rápido possível.
+
+Os inimigos são marcados por um feixe de luz.
+Para pontuar mais alto nas quedas ou ir mais rápido, você pode sair do caminho marcado.
+Se você cair no Vazio, reinicia na última plataforma alcançada.
+
+Você não sofre dano por queda.
+
+Pontuação:
+* Quanto maior a queda antes de um assassinato por queda, mais pontos você ganha.
+* Quanto mais rápido você chegar ao fim, mais pontos você ganha.
+
+Especial:
+Se você seguir o caminho, pode usar a cor dos feixes de luz como uma pista:
+* VERDE: Corra e caia para alcançar o alvo (Sem Pulo, Sem `GBA_Blink`).
+* AMARELO: Corra e use o salto de Agilidade para alcançar o alvo (Sem `GBA_Blink`).
+* VERMELHO: Corra e use o salto de Agilidade e `GBA_Blink` para alcançar o alvo.
+
+Fim de Jogo:
+Não há fim de jogo."
+
+[Notes.Pickup_Disclaimer_Expert DisTweaks_AbstractItemPickupNote]
+m_PressKeyToReadMessage=""
+m_OnPickupMessage=""
+
+[Notes.Pickup_Disclaimer_Normal DisTweaks_AbstractItemPickupNote]
+m_PressKeyToReadMessage=""
+m_OnPickupMessage=""
+

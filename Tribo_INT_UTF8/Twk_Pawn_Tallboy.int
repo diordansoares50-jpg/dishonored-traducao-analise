@@ -1,0 +1,24 @@
+﻿[Pwn_Tallboy_Wood DisTweaks_TallboyNPCPawn]
+m_BusyText="Esse personagem está ocupado"
+m_CannotStealMessage="Você não pode mais carregar esse tipo de munição"
+
+[Pwn_Tallboy_Wood:DisTweaks_InteractableInterface_3 DisTweaks_InteractableInterface]
+m_Name="Tallboy"
+m_InteractText=""
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Pwn_Tallboy_Wood_SearchLight DisTweaks_TallboyNPCPawn]
+m_BusyText="Esse personagem está ocupado"
+m_CannotStealMessage="Você não pode mais carregar esse tipo de munição"
+
+[Pwn_Tallboy_Wood_SearchLight:DisTweaks_InteractableInterface_2 DisTweaks_InteractableInterface]
+m_Name="Tallboy"
+m_InteractText=""
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+

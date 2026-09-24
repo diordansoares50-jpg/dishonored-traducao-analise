@@ -1,0 +1,104 @@
+﻿[Ovrsr_GetBlackBook DishonoredObjective]
+m_Description="Localizar Emily"
+
+[Ovrsr_GetBlackBook:DishonoredTask_Custom_12 DishonoredTask_Custom]
+m_Description="Pegue o diário de chantagem do Alto Supervisor Campbell"
+m_Status=""
+
+[Ovrsr_KillOverseerCambell DishonoredObjective]
+m_Description="Eliminar o Alto Supervisor Campbell"
+
+[Ovrsr_KillOverseerCambell:DishonoredTask_Custom_0 DishonoredTask_Custom]
+m_Description="Matar o Alto Supervisor Campbell"
+m_Status=""
+
+[Ovrsr_KillOverseerCambell:DishonoredTask_Custom_1 DishonoredTask_Custom]
+m_Description="Pegue seu equipamento com Piero"
+m_Status=""
+
+[Ovrsr_KillOverseerCambell:DishonoredTask_Custom_10 DishonoredTask_Custom]
+m_Description="Passe pela segunda Parede de Luz"
+m_Status=""
+
+[Ovrsr_KillOverseerCambell:DishonoredTask_Custom_11 DishonoredTask_Custom]
+m_Description="(Opcional) Use os becos da Bottle Street para contornar os Muros de Luz"
+m_Status=""
+
+[Ovrsr_KillOverseerCambell:DishonoredTask_Custom_13 DishonoredTask_Custom]
+m_Description="Lide Com o Guarda de Martin Para Conversar em Segurança"
+m_Status=""
+
+[Ovrsr_KillOverseerCambell:DishonoredTask_Custom_14 DishonoredTask_Custom]
+m_Description="Aguarde Campbell e Curnow entrarem na Câmara de Reunião"
+m_Status=""
+
+[Ovrsr_KillOverseerCambell:DishonoredTask_Custom_15 DishonoredTask_Custom]
+m_Description="(Não Letal) Encontre a Marca do Herege na Sala de Interrogação"
+m_Status=""
+
+[Ovrsr_KillOverseerCambell:DishonoredTask_Custom_16 DishonoredTask_Custom]
+m_Description="(Não letal) Use a Marca do Herege no Alto Supervisor Campbell"
+m_Status=""
+
+[Ovrsr_KillOverseerCambell:DishonoredTask_Custom_17 DishonoredTask_Custom]
+m_Description="(Não letal) Leve o corpo inconsciente de Campbell para a cadeira na Sala de Interrogação"
+m_Status=""
+
+[Ovrsr_KillOverseerCambell:DishonoredTask_Custom_18 DishonoredTask_Custom]
+m_Description="(Não letal) Deixe o Alto Superintendente Campbell inconsciente."
+m_Status=""
+
+[Ovrsr_KillOverseerCambell:DishonoredTask_Custom_2 DishonoredTask_Custom]
+m_Description="Pegue a espada e a besta da bancada de trabalho de Piero"
+m_Status=""
+
+[Ovrsr_KillOverseerCambell:DishonoredTask_Custom_3 DishonoredTask_Custom]
+m_Description="Viaje com Samuel, o Barqueiro, para sua primeira missão"
+m_Status=""
+
+[Ovrsr_KillOverseerCambell:DishonoredTask_Custom_4 DishonoredTask_Custom]
+m_Description="Passe pela primeira Parede de Luz"
+m_Status=""
+
+[Ovrsr_KillOverseerCambell:DishonoredTask_Custom_5 DishonoredTask_Custom]
+m_Description="Atravesse o portão para a Praça Holger"
+m_Status=""
+
+[Ovrsr_KillOverseerCambell:DishonoredTask_Custom_6 DishonoredTask_Custom]
+m_Description="Encontre Campbell e Curnow na Câmara de Reuniões do Alto Supervisor"
+m_Status=""
+
+[Ovrsr_KillOverseerCambell:DishonoredTask_Custom_7 DishonoredTask_Custom]
+m_Description="(Opcional) Envenene um ou ambos os copos na Câmara de Reuniões"
+m_Status=""
+
+[Ovrsr_KillOverseerCambell:DishonoredTask_Custom_8 DishonoredTask_Custom]
+m_Description="Fale com o Supervisor Martin na Praça Holger"
+m_Status=""
+
+[Ovrsr_KillOverseerCambell:DishonoredTask_Custom_9 DishonoredTask_Custom]
+m_Description="Use a alavanca de liberação para desbloquear o Supervisor Martin"
+m_Status=""
+
+[Ovrsr_SpareCurnow DishonoredObjective]
+m_Description="(Opcional) Poupar o Capitão Curnow"
+
+[Ovrsr_SpareCurnow:DishonoredTask_Custom_0 DishonoredTask_Custom]
+m_Description="Informe Callista que o Capitão Curnow sobreviveu ao plano contra ele."
+m_Status=""
+
+[Ovrsr_SpareCurnow:DishonoredTask_Custom_1 DishonoredTask_Custom]
+m_Description="Leve o corpo inconsciente do Capitão Curnow para um local seguro"
+m_Status=""
+
+[Ovrsr_SpareCurnow:DishonoredTask_Custom_3 DishonoredTask_Custom]
+m_Description="Garanta que o Capitão Curnow sobreviva à sua visita ao Gabinete do Alto Supervisor"
+m_Status=""
+
+[Ovrsr_SpareOvrsrCambell DishonoredObjective]
+m_Description="(Não Letal) A Marca do Herege"
+
+[Ovrsr_SpareOvrsrCambell:DishonoredTask_Custom_0 DishonoredTask_Custom]
+m_Description="Procure no Arquivo por informações sobre a Marca do Herege, uma ferramenta para expulsar Supervisores"
+m_Status=""
+

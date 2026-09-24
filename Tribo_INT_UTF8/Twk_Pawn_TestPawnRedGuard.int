@@ -1,0 +1,12 @@
+﻿[Twk_Pawn_TestPawnRedGuard DisTweaks_NPCPawn]
+m_BusyText="Esse personagem está ocupado"
+m_CannotStealMessage="Você não pode mais carregar esse tipo de munição"
+
+[Twk_Pawn_TestPawnRedGuard:DisTweaks_InteractableInterface_90 DisTweaks_InteractableInterface]
+m_Name="Guarda da Cidade"
+m_InteractText=""
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+

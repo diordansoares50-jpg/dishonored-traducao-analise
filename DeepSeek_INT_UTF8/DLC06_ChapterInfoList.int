@@ -1,0 +1,28 @@
+﻿[ChapterInfos.ChapterInfo01_NoneLikeHer DisTweaks_ChapterInfo]
+m_ChapterTitle="Ninguém Como Ela"
+m_ChapterDescription="Você não pode esquecer o que fez. Matar a Imperatriz e entregar sua filha Emily ao Lorde Regente o assombra."
+
+[ChapterInfos.ChapterInfo02_TheKillingFloor DisTweaks_ChapterInfo]
+m_ChapterTitle="Um Capitão da Indústria"
+m_ChapterDescription="Bundry Rothwild é um empresário implacável que possui um matadouro e uma frota de navios baleeiros, incluindo um navio chamado The Delilah. Infiltre-se no Matadouro Rothwild e descubra o que está por trás do nome."
+
+[ChapterInfos.ChapterInfo03_EminentDomain DisTweaks_ChapterInfo]
+m_ChapterTitle="Domínio Eminente"
+m_ChapterDescription="Delilah já pintou retratos para o Advogado Arnold Timsh, um aristocrata corrupto que usa seus poderes legais para despejar famílias de suas casas e reivindicar propriedades para o Lorde Regente, com base em acusações falsas de praga. A sobrinha do Advogado Timsh, Thalia, o odeia. Ela prometeu ajudá-lo a localizar Delilah, por um preço. Encontre-se com Thalia para descobrir o que ela sabe."
+
+[ChapterInfos.ChapterInfo04_DaudBase DisTweaks_ChapterInfo]
+m_ChapterTitle="O Surge"
+m_ChapterDescription="Delilah é uma bruxa poderosa que lidera um coven que se mudou para as ruínas da Mansão Brigmore. Você voltou à sua base secreta no Distrito Alagado para planejar seu próximo movimento."
+
+[ChapterTargets.DLC06_ChapterTarget_Captain DisTweaks_ChapterTarget]
+m_TargetName="Leonard Hume"
+
+[ChapterTargets.DLC06_ChapterTarget_Lurk DisTweaks_ChapterTarget]
+m_TargetName="Billie Lurk"
+
+[ChapterTargets.DLC06_ChapterTarget_Rothwild DisTweaks_ChapterTarget]
+m_TargetName="Bundry Rothwild"
+
+[ChapterTargets.DLC06_ChapterTarget_Timsh DisTweaks_ChapterTarget]
+m_TargetName="Advogado Timsh"
+

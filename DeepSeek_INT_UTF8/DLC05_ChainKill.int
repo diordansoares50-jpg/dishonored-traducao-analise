@@ -1,0 +1,96 @@
+﻿[ChainKill DishonoredObjective]
+m_Description="Cadeia de Mortes"
+
+[ChainKill:DishonoredTask_Custom_17 DishonoredTask_Custom]
+m_Description="Organize uma sequência de mortes para eliminar o máximo de pessoas possível!"
+m_Status=""
+
+[ChainKillNormal DishonoredObjective]
+m_Description="Cadeia de Mortes"
+
+[ChainKillNormal:DishonoredTask_Custom_17 DishonoredTask_Custom]
+m_Description="Configure uma cadeia de mortes para eliminar o máximo de pessoas possível!"
+m_Status=""
+
+[CK_Objective_Phase1 DishonoredObjective]
+m_Description="Cadeia de Mortes"
+
+[CK_Objective_Phase1:DishonoredTask_Custom_0 DishonoredTask_Custom]
+m_Description="Matar Todos os Inimigos"
+m_Status=""
+
+[CK_Objective_Phase2 DishonoredObjective]
+m_Description="Cadeia de Mortes - Rodada 2"
+
+[CK_Objective_Phase2:DishonoredTask_Custom_0 DishonoredTask_Custom]
+m_Description="Mate 6 inimigos."
+m_Status=""
+
+[CK_Objective_Phase2:DishonoredTask_Custom_1 DishonoredTask_Custom]
+m_Description="Desafio Bônus: PLACEHOLDER NÃO ESCOLHA WIP."
+m_Status=""
+
+[CK_Objective_Phase2:DishonoredTask_Custom_2 DishonoredTask_Custom]
+m_Description="Desafio de Velocidade: PLACEHOLDER NÃO ESCOLHA WIP."
+m_Status=""
+
+[CK_Objective_Phase3 DishonoredObjective]
+m_Description="Cadeia de Mortes - Rodada 3"
+
+[CK_Objective_Phase3:DishonoredTask_Custom_0 DishonoredTask_Custom]
+m_Description="Mate 10 inimigos."
+m_Status=""
+
+[CK_Objective_Phase3:DishonoredTask_Custom_1 DishonoredTask_Custom]
+m_Description="Desafio Bônus: PLACEHOLDER NÃO ESCOLHA WIP."
+m_Status=""
+
+[CK_Objective_Phase3:DishonoredTask_Custom_2 DishonoredTask_Custom]
+m_Description="Desafio de Velocidade: PLACEHOLDER NÃO ESCOLHA WIP."
+m_Status=""
+
+[CK_Objective_Phase4 DishonoredObjective]
+m_Description="Cadeia de Mortes - Rodada 4"
+
+[CK_Objective_Phase4:DishonoredTask_Custom_0 DishonoredTask_Custom]
+m_Description="Mate 15 inimigos."
+m_Status=""
+
+[CK_Objective_Phase4:DishonoredTask_Custom_1 DishonoredTask_Custom]
+m_Description="Desafio Bônus: PLACEHOLDER NÃO ESCOLHA WIP."
+m_Status=""
+
+[CK_Objective_Phase4:DishonoredTask_Custom_2 DishonoredTask_Custom]
+m_Description="Desafio de Velocidade: PLACEHOLDER NÃO ESCOLHA WIP."
+m_Status=""
+
+[CK_Objective_Phase5 DishonoredObjective]
+m_Description="Cadeia de Mortes - Rodada 5"
+
+[CK_Objective_Phase5:DishonoredTask_Custom_0 DishonoredTask_Custom]
+m_Description="Mate 20 inimigos."
+m_Status=""
+
+[CK_Objective_Phase5:DishonoredTask_Custom_1 DishonoredTask_Custom]
+m_Description="Desafio Bônus: PLACEHOLDER NÃO ESCOLHA WIP."
+m_Status=""
+
+[CK_Objective_Phase5:DishonoredTask_Custom_2 DishonoredTask_Custom]
+m_Description="Desafio de Velocidade: PLACEHOLDER NÃO ESCOLHA WIP."
+m_Status=""
+
+[CK_Objective_Phase6 DishonoredObjective]
+m_Description="Cadeia de eliminações - Rodada Final"
+
+[CK_Objective_Phase6:DishonoredTask_Custom_0 DishonoredTask_Custom]
+m_Description="Mate todos os inimigos na área, o que significa 25 inimigos!"
+m_Status=""
+
+[CK_Objective_Phase6:DishonoredTask_Custom_1 DishonoredTask_Custom]
+m_Description="Desafio Bônus: PLACEHOLDER NÃO ESCOLHA WIP."
+m_Status=""
+
+[CK_Objective_Phase6:DishonoredTask_Custom_2 DishonoredTask_Custom]
+m_Description="Desafio de Velocidade: PLACEHOLDER NÃO ESCOLHA WIP."
+m_Status=""
+

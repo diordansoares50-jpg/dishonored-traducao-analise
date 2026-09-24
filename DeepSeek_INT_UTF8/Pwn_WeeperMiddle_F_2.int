@@ -1,0 +1,12 @@
+﻿[Pwn_WeeperMiddle_F_2 DisTweaks_NPCPawn]
+m_BusyText="Este personagem está ocupado"
+m_CannotStealMessage="Você não pode carregar mais munição deste tipo"
+
+[Pwn_WeeperMiddle_F_2:DisTweaks_InteractableInterface_40 DisTweaks_InteractableInterface]
+m_Name="Chorão"
+m_InteractText=""
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+

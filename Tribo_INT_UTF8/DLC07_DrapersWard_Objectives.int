@@ -1,0 +1,122 @@
+﻿[DLC07_DW_EliminateEdgar_Obj DishonoredObjective]
+m_Description="Eliminate the Dead Eel mutineer Edgar Wakefield"
+
+[DLC07_DW_EliminateEdgar_Obj:DishonoredTask_Custom_0 DishonoredTask_Custom]
+m_Description="Rendezvous with Lizzy Stride on the deck"
+m_Status=""
+
+[DLC07_DW_EliminateEdgar_Obj:DishonoredTask_Custom_1 DishonoredTask_Custom]
+m_Description=" Find Edgar Wakefield on the ship Undine"
+m_Status=""
+
+[DLC07_DW_EliminateEdgar_Obj:DishonoredTask_Custom_2 DishonoredTask_Custom]
+m_Description="Signal Lizzy using the ship's horn"
+m_Status=""
+
+[DLC07_DW_EliminateEdgar_Obj:DishonoredTask_Custom_66 DishonoredTask_Custom]
+m_Description="Travel to the Drapers Ward Riverfront"
+m_Status=""
+
+[DLC07_DW_EliminateEdgar_Obj:DishonoredTask_Custom_89 DishonoredTask_Custom]
+m_Description="Eliminate Edgar Wakefield"
+m_Status=""
+
+[DLC07_DW_FavorFOUR_Obj DishonoredObjective]
+m_Description="(Favor) Abigail Ames sends a Gift"
+
+[DLC07_DW_FavorFOUR_Obj:DishonoredTask_Custom_1 DishonoredTask_Custom]
+m_Description="Find the gift left for you by Abigail Ames"
+m_Status=""
+
+[DLC07_DW_FavorONE_Obj DishonoredObjective]
+m_Description="(Favor) The Sunken Crate"
+
+[DLC07_DW_FavorONE_Obj:DishonoredTask_Custom_66 DishonoredTask_Custom]
+m_Description="Search the crate submerged near the Undine"
+m_Status=""
+
+[DLC07_DW_FavorTHREE_Obj DishonoredObjective]
+m_Description="(Favor) Former Rothwild Laborer"
+
+[DLC07_DW_FavorTHREE_Obj:DishonoredTask_Custom_0 DishonoredTask_Custom]
+m_Description="Contact the Rothwild Laborer that now works for Mr. Hat"
+m_Status=""
+
+[DLC07_DW_FavorTWO_Obj DishonoredObjective]
+m_Description="(Favor) The Hidden Rune"
+
+[DLC07_DW_FavorTWO_Obj:DishonoredTask_Custom_66 DishonoredTask_Custom]
+m_Description="Retrieve the Hidden Rune in Drapers Ward"
+m_Status=""
+
+[DLC07_DW_FenceMission_Obj DishonoredObjective]
+m_Description="Assassinate the Deadbeat"
+
+[DLC07_DW_FenceMission_Obj:DishonoredTask_Custom_66 DishonoredTask_Custom]
+m_Description="Assassinate the Hatter named Skinflint"
+m_Status=""
+
+[DLC07_DW_FenceMission_Obj:DishonoredTask_Custom_89 DishonoredTask_Custom]
+m_Description="Return to Jerome"
+m_Status=""
+
+[DLC07_DW_FindLizzy_Obj DishonoredObjective]
+m_Description="Rendezvous with Lizzy Stride DELETEME"
+
+[DLC07_DW_FindLizzy_Obj:DishonoredTask_Custom_66 DishonoredTask_Custom]
+m_Description="Travel to the Riverfront DELETEME"
+m_Status=""
+
+[DLC07_DW_FindLizzy_Obj:DishonoredTask_Custom_89 DishonoredTask_Custom]
+m_Description="Meet Lizzy on the Ship DELETEME"
+m_Status=""
+
+[DLC07_DW_GrannyRecipe_Obj DishonoredObjective]
+m_Description="Recreate Granny's Wedding"
+
+[DLC07_DW_GrannyRecipe_Obj:DishonoredTask_Custom_0 DishonoredTask_Custom]
+m_Description="Find a Wedding Ring"
+m_Status=""
+
+[DLC07_DW_GrannyRecipe_Obj:DishonoredTask_Custom_1 DishonoredTask_Custom]
+m_Description="Collect the wedding gift"
+m_Status=""
+
+[DLC07_DW_GrannyRecipe_Obj:DishonoredTask_Custom_66 DishonoredTask_Custom]
+m_Description="Bring a groom to the wedding circle"
+m_Status=""
+
+[DLC07_DW_GrannyRecipe_Obj:DishonoredTask_Custom_89 DishonoredTask_Custom]
+m_Description="Bring a bride to the wedding circle"
+m_Status=""
+
+[DLC07_DW_GrannyRecipe_Obj:DishonoredTask_Custom_90 DishonoredTask_Custom]
+m_Description="Place the wedding band on the ceremonial tray"
+m_Status=""
+
+[DLC07_DW_RestoreEngine_Obj DishonoredObjective]
+m_Description="Restore the Ship’s Engine DELETEME"
+
+[DLC07_DW_RestoreEngine_Obj:DishonoredTask_Custom_66 DishonoredTask_Custom]
+m_Description="Return to the Riverfront DELETEME"
+m_Status=""
+
+[DLC07_DW_RestoreEngine_Obj:DishonoredTask_Custom_89 DishonoredTask_Custom]
+m_Description="Install the Engine Coil on the Undine DELETEME"
+m_Status=""
+
+[DLC07_DW_ToBrigmore_Obj DishonoredObjective]
+m_Description="Depart for Brigmore Manor"
+
+[DLC07_DW_ToBrigmore_Obj:DishonoredTask_Custom_66 DishonoredTask_Custom]
+m_Description="Repel the Brigmore Witches"
+m_Status=""
+
+[DLC07_DW_ToBrigmore_Obj:DishonoredTask_Custom_89 DishonoredTask_Custom]
+m_Description="Order Lizzy to set sail"
+m_Status=""
+
+[DLC07_DW_ToBrigmore_Obj:DishonoredTask_Custom_90 DishonoredTask_Custom]
+m_Description="Activate the Undine's Engine from the Bridge"
+m_Status=""
+

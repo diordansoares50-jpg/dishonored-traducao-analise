@@ -1,0 +1,36 @@
+﻿[Pwn_CampbellInChair_MTall_1 DisTweaks_NPCPawn]
+m_BusyText="Este personagem está ocupado"
+m_CannotStealMessage="Você não pode carregar mais munição deste tipo"
+
+[Pwn_CampbellInChair_MTall_1:DisTweaks_InteractableInterface_55 DisTweaks_InteractableInterface]
+m_Name="Alto Supervisor Campbell"
+m_InteractText=""
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Pwn_OverseerCampbell_MTall_1 DisTweaks_NPCPawn]
+m_BusyText="Este personagem está ocupado"
+m_CannotStealMessage="Você não pode carregar mais munição deste tipo"
+
+[Pwn_OverseerCampbell_MTall_1:DisTweaks_InteractableInterface_55 DisTweaks_InteractableInterface]
+m_Name="Alto Supervisor Campbell"
+m_InteractText=""
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Pwn_OverseerCampbell_MTall_1_NoGrenade DisTweaks_NPCPawn]
+m_BusyText="Este personagem está ocupado"
+m_CannotStealMessage="Você não pode carregar mais munição deste tipo"
+
+[Pwn_OverseerCampbell_MTall_1_NoGrenade:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Alto Supervisor Campbell"
+m_InteractText=""
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+

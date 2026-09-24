@@ -1,0 +1,36 @@
+﻿[Bookstack_Moveable_twk:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Pilha de Livros"
+
+[Brick_highdamage_twk:DisTweaks_InteractableInterface_10 DisTweaks_InteractableInterface]
+m_Name="Tijolo Solto"
+
+[Notes.Instructions_Normal_AbstrInv DisAbstractItem]
+m_ItemName="Massacre do Tempo Curvado"
+m_PluralItemName=""
+m_Description="Normal \nQuebre o vidro para iniciar alguns segundos de Dobra do Tempo e use-o para matar o maior número de inimigos possível.\n\nVocê enfrentará uma sucessão de rodadas com situações e recursos diferentes. \nSeus recursos são limitados, mas o ambiente pode oferecer perigos adicionais.\nVocê tem quantas tentativas precisar, mas apenas a pontuação da primeira tentativa bem-sucedida em cada rodada será adicionada ao seu total.\n\nPontuação:\n* Cada eliminação concede pontos. \n* Eliminar inimigos de várias formas concede mais pontos.\n* Limpar uma sala completamente concede pontos extras. \n  \nEspecial:\nCada vez que uma rodada for concluída na primeira tentativa, você terá a possibilidade de jogar uma rodada bônus com um objetivo único. Não estrague essa, você não pode reiniciá-la se falhar. \n\nFim de Jogo: \nNão há fim de jogo. Se você falhar em uma rodada, simplesmente a reinicia."
+
+[Notes.instructions_normal_pickup DisTweaks_AbstractItemPickupNote]
+m_PressKeyToReadMessage=""
+m_OnPickupMessage=""
+
+[tabletopmodel_01_twk:DisTweaks_InteractableInterface_54 DisTweaks_InteractableInterface]
+m_Name="Caixa"
+
+[tabletopmodel_02_twk:DisTweaks_InteractableInterface_54 DisTweaks_InteractableInterface]
+m_Name="Caixa"
+
+[tabletopmodel_03_twk:DisTweaks_InteractableInterface_54 DisTweaks_InteractableInterface]
+m_Name="Caixa"
+
+[tabletopmodel_04_twk:DisTweaks_InteractableInterface_54 DisTweaks_InteractableInterface]
+m_Name="Caixa"
+
+[tabletopmodel_05_twk:DisTweaks_InteractableInterface_54 DisTweaks_InteractableInterface]
+m_Name="Caixa"
+
+[tabletopmodel_06_twk:DisTweaks_InteractableInterface_54 DisTweaks_InteractableInterface]
+m_Name="Caixa"
+
+[Twk_Pawn_BTM_Pendleton3:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Trevor Pendleton"
+

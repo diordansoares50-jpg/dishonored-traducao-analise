@@ -1,0 +1,41 @@
+﻿[DLC07_DWValveBase_Twk:DisTweaks_InteractableInterface_16 DisTweaks_InteractableInterface]
+m_Name="Disabled Water Control Valve"
+m_InteractText="`GBA_Use` Turn on Water Flow"
+m_CannotUseMessage="Water Control Valve Wrench Needed"
+
+[DLC07_IntValve_Rewind_Twk:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Water Control Valve"
+
+[DLC07_WaterControlValve_twk:DisTweaks_Interactable_PickupBase_0 DisTweaks_Interactable_PickupBase]
+m_Name="Water Control Valve Wrench"
+
+[LTD_SewerToEngineRm_twk DisTweaks_UsableObject]
+m_UnlockInteractText="`GBA_Use` Unlock"
+m_LockedMessage="Combination needed"
+m_UnauthorizedMessage=""
+m_FocusMessage=""
+m_FocusLockedMessage=""
+
+[LTD_SewerToEngineRm_twk:DisTweaks_InteractableInterface_16 DisTweaks_InteractableInterface]
+m_Name="Door to the Engine Room"
+m_InteractText="`GBA_Use` Open"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage="Combination needed"
+
+[LTD_SewerToMill_twk DisTweaks_UsableObject]
+m_UnlockInteractText="`GBA_Use` Unlock"
+m_LockedMessage="Combination needed"
+m_UnauthorizedMessage=""
+m_FocusMessage=""
+m_FocusLockedMessage=""
+
+[LTD_SewerToMill_twk:DisTweaks_InteractableInterface_16 DisTweaks_InteractableInterface]
+m_Name="Door to Drapers Ward Textile Mill"
+m_InteractText="`GBA_Use` Open"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+

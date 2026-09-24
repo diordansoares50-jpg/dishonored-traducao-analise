@@ -1,0 +1,9 @@
+﻿[TheWorld:PersistentLevel.DisDoor_4 DisDoor]
+m_DoorName=""
+m_MatchingKey=""
+m_MatchingKeys[0]="Chave da Sala de Controle"
+
+[TheWorld:PersistentLevel.DisDoor_6 DisDoor]
+m_DoorName=""
+m_MatchingKey=""
+

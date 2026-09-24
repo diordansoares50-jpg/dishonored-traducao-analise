@@ -1,0 +1,39 @@
+﻿[ChapterInfos.ChapterInfo01 DisTweaks_ChapterInfo]
+m_ChapterTitle="Sono Conturbado"
+m_ChapterDescription="Você tem estado inquieto desde que assassinou a Imperatriz Jessamine Kaldwin e ajudou no sequestro de sua filha Emily."
+
+[ChapterInfos.ChapterInfo02 DisTweaks_ChapterInfo]
+m_ChapterTitle="Escolhendo Seu Alvo"
+m_ChapterDescription="Os Supervisores atacaram seu esconderijo, alertados pela bruxa Delilah Copperspoon. Agora você está se preparando para retaliar."
+
+[ChapterInfos.ChapterInfo03 DisTweaks_ChapterInfo]
+m_ChapterTitle="Um Adiamento da Execução para Lizzy"
+m_ChapterDescription="Você precisa do barco de Lizzy Stride para chegar à fortaleza de Delilah na Mansão Brigmore. Infelizmente, a líder da gangue das Enguias Mortas está presa na Prisão Coldridge, e você terá que tirá-la de lá."
+
+[ChapterInfos.ChapterInfo04 DisTweaks_ChapterInfo]
+m_ChapterTitle="As Enguias Mortas"
+m_ChapterDescription="Com Lizzy Stride livre, você tem uma capitã para levá-lo rio acima. Infelizmente, o segundo em comando de Lizzy, Edgar Wakefield, está comandando a antiga gangue e não entregará o navio sem luta. Lide com o traidor Wakefield e ajude Lizzy a deixar seu navio em condições de navegar."
+
+[ChapterInfos.ChapterInfo05 DisTweaks_ChapterInfo]
+m_ChapterTitle="A Obra-Prima de Delilah"
+m_ChapterDescription="Delilah e seu coven estão planejando algo que ameaça a todos no Império das Ilhas. Infiltre-se nas ruínas da Mansão Brigmore e detenha Delilah."
+
+[ChapterInfos.ChapterInfo06 DisTweaks_ChapterInfo]
+m_ChapterTitle="Tudo Está Conectado"
+m_ChapterDescription="A ameaça de Delilah chegou ao fim. Você fez suas escolhas, venha o que vier."
+
+[ChapterTargets.DLC07_ChapterTarget_Delilah DisTweaks_ChapterTarget]
+m_TargetName="Delilah Copperspoon"
+
+[ChapterTargets.DLC07_ChapterTarget_Edgar DisTweaks_ChapterTarget]
+m_TargetName="Edgar Wakefield"
+
+[ChapterTargets.DLC07_ChapterTarget_Geezer DisTweaks_ChapterTarget]
+m_TargetName="Mortimer Chapéu"
+
+[ChapterTargets.DLC07_ChapterTarget_Lizzy DisTweaks_ChapterTarget]
+m_TargetName="Passo de Lizzy"
+
+[ChapterTargets.DLC07_ChapterTarget_Trimble DisTweaks_ChapterTarget]
+m_TargetName="William Trimble"
+

@@ -1,0 +1,16 @@
+﻿[generator_wall_shield_twk DisTweaks_UsableObject]
+m_Stages[1]=(m_InteractTextOverride="`GBA_Use` Fechar")
+m_UnlockInteractText="`GBA_Use` Destrancar"
+m_LockedMessage=""
+m_UnauthorizedMessage=""
+m_FocusMessage=""
+m_FocusLockedMessage=""
+
+[generator_wall_shield_twk:DisTweaks_InteractableInterface_8 DisTweaks_InteractableInterface]
+m_Name="Proteção do Tanque de Óleo de Baleia"
+m_InteractText="`GBA_Use` Abrir"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+

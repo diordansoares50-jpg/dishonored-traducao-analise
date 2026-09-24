@@ -1,0 +1,175 @@
+﻿[DisUISelectionType]
+Blink=Teleporte
+BendTime=Dobra Temporal
+WindBlast=Rajada de Vento
+Possess=Possessão
+DarkVision=Visão Noturna
+DevouringSwarm=Enxame Devorador
+Vitality=Vitalidade
+Celerity=Agilidade
+BloodThirsty=Sede de Sangue
+ShadowKill=Disfarce da Morte
+Heart=O Coração
+SpringRazor=Navalha de Mola
+Pistol=Pistola
+Crossbow=Besta
+Grenade=Granada
+Health=Elixir de Saúde de Sokolov
+Mana=Remédio Espiritual de Piero
+
+Blink_1_Description=- Rápido movimento para frente em uma pequena distância. 
+Blink_2_Description=- Rápido movimento para frente em uma pequena distância.\r\rDicas Estratégicas:\rO Teleporte permite que você se mova rapidamente sem ser visto, é muito útil para o sigilo, já que você pode se "teleportar" de um ponto oculto a outro ou de telhado em telhado se você combinar esse poder com o salto. O Teleporte pode ser encadeado com um assassinato ou sufocamento se você usa-lo para se mover rapidamente até um inimigo inconsciente. O custo de mana por usar esse poder é baixo, assim que a parte de recarga da barra de mana permitirá que você use o Teleporte mesmo quando ficar sem poções. O Teleporte também pode ser usado para se mover para cima, em distâncias limitadas. Note que o cursor muda quando você mira para uma superfície ou borda que permite que você suba usando o Teleporte. 
+
+BendTime_1_Description=- Desacelera o tempo por um pequeno momento.  
+BendTime_2_Description=- Desacelera completamente o tempo por um pequeno momento. Você se move normalmente.\r\rDicas Estratégicas:\rO Tempo é parado durante o uso desse poder, mas a sua velocidade de movimento é relativamente mais rápida. A Dobra Temporal é útil para o sigilo e assassinato, já que seus inimigos estarão parados no tempo. Esse poder permite que você passe pelos inimigos sem ser visto ou ataque-os para acertar um golpe letal. Tudo que entrar em contato físico com você entrará no seu tempo e também se moverá mais rápido por um pequeno momento. A Dobra Temporal também é útil para deter projéteis no ar, permitindo que você esquive deles ou pegue-os. 
+
+WindBlast_1_Description=- Um vento poderoso que é capaz de empurrar ou derrubar inimigos e de quebrar portas. 
+WindBlast_2_Description=- Um vento poderoso que é capaz de matar inimigos jogando-os contra as paredes e de quebrar portas.\r\rDicas Estratégicas:\rA Rajada de Vento é útil para quebrar portas de madeira e para combater inimigos, especialmente em grupos. Um inimigo próximo de um corrimão será jogado contra o corrimão. Se um inimigo lançar um projétil moderadamente pesado contra você, como uma granada ou as flechas incendiárias de tallboy, o poder da Rajada de Vento poderá lançar o projétil de volta contra ele se for usado no momento certo. No nível 2, o poder jogará os inimigos contra as paredes com força suficiente para mata-los. 
+
+Possess_1_Description=- Permite controlar animais por um pequeno momento. 
+Possess_2_Description=- Permite controlar humanos por um pequeno momento.\r\rDicas Estratégicas:\rA Possessão é muito poderosa e permite que você se una fisicamente com um animal, como um peixe ou rato, durante um pequeno momento. Você deve ter o caminho livre até o seu alvo. Esse poder é útil para o sigilo, permitindo que você se esconda em pequenos lugares ou se mova por espaços que normalmente seriam muito pequenos para você, como canos de drenagem de água e dutos de ventilação. Se possuir um rato, os inimigos poderão pisar em você. Quando possuir um cão de caça, poderá correr mais rápido. No nível 2, você também poderá possuir humanos. Seu controle de humanos é limitado, de maneira que você não pode se mover rapidamente e nem lutar. Possuir um humano permite que você realize ações simples, como pegar objetos e abrir portas. Os aliados do humano que você estiver possuindo não atacarão você e os dispositivos de segurança sincronizados com o humano que você estiver possuindo, como o Poste Arco e a Parede de Luz, não farão danos em você. Se você cair, possuir um animal ou um humano durante a queda o salvará. 
+
+DarkVision_1_Description=- Para ver no escuro e descobrir seres vivos através das paredes, inclusive os seus campos de visão. Representações do ruído que você faz também são visíveis.  
+DarkVision_2_Description=- Para ver no escuro, ver objetos úteis, ver sistemas de segurança e descobrir seres vivos através das paredes, inclusive os seus campos de visão. Representações do ruído que você faz também são visíveis.\r\rDicas Estratégicas:\rA Visão Noturna é muito útil para o sigilo, ela permite que você veja inimigos através das paredes antes de se aproximar deles. Ver o campo de visão do inimigo lhe dá uma boa vantagem para se infiltrar. Com esse poder ativo, você pode ver representações do ruído que você faz, o que ajuda você a se infiltrar e a entender como funciona o sigilo. No nível 2, você também poderá ver através das paredes os objetos úteis, recursos e dispositivos de segurança, como a Parede de Luz.
+
+DevouringSwarm_1_Description=- Invoca um enxame de ratos que atacarão os demais e se dispersarão depois de um pequeno momento. O enxame também irá devorar os cadáveres.
+DevouringSwarm_2_Description=- Invoca um grande enxame de ratos que atacarão os demais e se dispersarão depois de um pequeno momento. O enxame também irá devorar os cadáveres rapidamente.\r\rDicas Estratégicas:\rLance um enxame de ratos que ataca qualquer um em seu caminho. Isso geralmente é letal contra um ou dois inimigos, mas as vítimas podem contra-atacar; se você lançar os ratos em um grupo de inimigos, pode ser que o grupo consiga matar ratos suficientes para dispersar o enxame. O Enxame Devorador também pode ser usado para eliminar cadáveres rapidamente. Se você também tiver o poder de Possessão, você pode invocar os ratos e possuir um deles. No nível 2, você invoca mais ratos, que infligem mais dano e devoram cadáveres mais rápido.
+
+Vitality_1_Description=- Aumenta a Saúde. 
+Vitality_2_Description=- A regeneração de saúde é melhorada.\r\rDicas Estratégicas:\rNo nível 1, sua saúde é aumentada, permitindo que você aguente mais danos de ataques, explosões ou quedas. No nível 2, a parte da sua barra de saúde que regenera é melhorada de duas maneiras: A regeneração é mais rápida e mais saúde é regenerada. 
+
+Celerity_1_Description=- Aumenta a altura do salto e reduz o dano das quedas.
+Celerity_2_Description=- Aumenta a velocidade de movimento total.\r\rDicas Estratégicas:\rNo nível 1, a habilidade de salto aumentada permite mais exploração vertical, especialmente quando combinada com o Teleporte. No nível 2, essa melhoria aumenta a velocidade da corrida, permitindo que você corra mais rápido em direção a um inimigo desprevinido para assassiná-lo ou para fugir quando estiver ferido. As velocidades de subida e nado também são aumentadas. 
+
+BloodThirsty_1_Description=- Armazena Adrenalina para desencadear execuções corpo-a-corpo brutais. 
+BloodThirsty_2_Description=- Armazena Adrenalina mais rápido para desencadear execuções corpo-a-corpo brutais. Ativa um duplo assassinato com Adrenalina contra vários inimigos que estiverem dentro do alcance.\r\rDicas Estratégicas:\rCom essa melhoria, suas ações em combate permitem que você armazene Adrenalina. Assassinatos, ataques com espada, bloqueios e assassinatos em uma queda aumentam a Adrenalina. Quando você tiver Adrenalina acumulada, pode iniciar um poderoso ataque com espada que mata o inimigo com um só golpe. O nível 2 permite que você armazene Adrenalina mais rápido e ative o duplo assassinato com Adrenalina contra vários inimigos que estiverem dentro do alcance.  
+
+ShadowKill_1_Description=- Os inimigos desprevinidos que não te veem se transformam em cinzas quando morrem. 
+ShadowKill_2_Description=- Todos os inimigos se transformam em cinzas quando morrem.\r\rDicas Estratégicas:\rO Disfarce da Morte faz com que os corpos dos inimigos assassinados se transformem em cinzas se eles estavam desprevinidos na hora em que você os matou. Isso é útil para o sigilo, já que você pode matar um inimigo para que ele desapareça antes que outro volte e o veja. Além disso, com essa melhoria você não precisará mais esconder os corpos, já que eles se transformam em cinzas e desaparecem. No nível 2, essa melhoria funciona mesmo se os inimigos assassinados não estavam desprevinidos. 
+
+
+Blink_ManaCost=Muito Baixo
+BendTime_ManaCost=Muito Alto
+WindBlast_ManaCost=Alto
+Possess_ManaCost=Muito Alto
+DarkVision_ManaCost=Muito Baixo
+DevouringSwarm_ManaCost=Alto
+Vitality_ManaCost=Nenhum
+Celerity_ManaCost=Nenhum
+BloodThirsty_ManaCost=Nenhum
+ShadowKill_ManaCost=Nenhum
+
+Health_Description=Restabelece a saúde. Use a Roda de Acesso Rápido ou o atalho de emergência para usar.
+Mana_Description=Restabelece o mana. Use a Roda de Acesso Rápido para usar.
+
+Blink_1_ShortDescription=Pequeno Teleporte
+Blink_2_ShortDescription=Pequeno Teleporte
+BendTime_1_ShortDescription=Desacelera o Tempo
+BendTime_2_ShortDescription=Para o Tempo
+WindBlast_1_ShortDescription=Vento Forte
+WindBlast_2_ShortDescription=Vento Forte
+Possess_1_ShortDescription=Controla Animais
+Possess_2_ShortDescription=Controla Pessoas
+DarkVision_1_ShortDescription=Vê Através das Paredes
+DarkVision_2_ShortDescription=Vê Através das Paredes
+DevouringSwarm_1_ShortDescription=Invoca Ratos
+DevouringSwarm_2_ShortDescription=Invoca Ratos
+
+Heart_ShortDescription=Revela Runas e Encantos de Ossos
+SpringRazor_ShortDescription=Mina de Proximidade
+
+[DisAmmoType]
+Bullet=Bala Comum
+Bullet_Explosive=Bala Explosiva
+Arrow=Seta da Besta
+Arrow_Sleep=Dardo Tranquilizante
+Arrow_Flare=Seta Incendiária
+SpringRazor=Navalha de Mola
+Grenade=Granada
+StickyGrenade=Granada Adesiva
+
+Bullet_Description=Munição para pistola. Muito barulhenta.
+Bullet_Explosive_Description=Munição para pistola que explode no impacto, infligindo danos na área.
+Arrow_Description=Munição para besta. Muito silenciosa. As vezes podem ser recuperadas dos corpos dos inimigos caídos.
+Arrow_Sleep_Description=Munição para besta que coloca os inimigos para dormir por um pequeno momento.
+Arrow_Flare_Description=Munição incendiária para besta que irá queimar um único inimigo.
+SpringRazor_Description=Quando armado, esse concentrado mecanismo lança uma nuvem de estilhaços. Pode ser fixado em quase todas as superfícies. É ativado por vibração.
+Grenade_Description=Um projétil de metal, cheio de uma mescla feita com óleo de baleia. Pode ser "armado," ou segurado por mais tempo para garantir a explosão na hora certa. 
+StickyGrenade_Description=Uma pequena estrutura que permite grudar granadas no alvo.
+
+[DisKeyNames]
+Gate House Key=Chave da Torre de Entrada
+Guard Quarters Key=Chave do Alojamento dos Guardas
+Sewer Gate Key=Chave do Portão do Esgoto
+Switch=Interruptor
+Whale Oil Closet Key=Chave do Armário de Óleo de Baleia
+Basement Vault Key=Chave da Câmara do Porão
+Esma's Bedroom Key=Chave do Quarto de Esma
+Waverly's Bedroom Key=Chave do Quarto de Waverly
+Dunwall Tower Skeleton Key=Chave Mestra da Torre de Dunwall
+Warehouse Key=Chave do Armazém
+Pratchett's Key=Chave de Pratchett
+Drawbridge Key=Chave da Ponte Levadiça
+Pier Door Key=Chave da Porta do Pier
+Drawbridge Cell Key=Chave da Cela da Ponte Levadiça
+Sokolov's House Key=Chave da Casa de Sokolov
+Golden Cat Master Key=Chave Mestra do Gato Dourado
+Art Dealer's Apartment Key=Chave do Apartamento do Comerciante de Arte
+The Captain's Chair Hotel Key=Chave do Hotel Recanto do Capitão
+Daud's Key=Chave de Daud
+Tenement Key=Chave do Edifício
+Mosley's Warehouse Key=Chave do Armazém de Mosley
+Dunwall Sewer Master Key=Chave Mestra do Esgoto de Dunwall
+It's jammed=Está trancada
+Emily's Tower Key=Chave da Torre de Emily
+Tower Key=Chave da Torre
+Pub Master Room Key=Chave do Salão Principal do Bar
+Piero Workshop Key=Chave da Oficina de Piero
+Havelock's Room Key=Chave do Quarto de Havelock
+Rail Line Station Key=Chave do Escritório do Capataz da Estação
+Abandoned Apartment Key=Chave do Apartamento Abandonado
+Hound Pits Key=Chave da Cova do Cão
+Piero's Workshop Key=Chave da Oficina de Piero
+Servants' Key=Chave dos Servos
+Pub Key=Chave do Bar
+Pendleton's Room Key=Chave do Quarto de Pendleton
+Pub Master Key=Chave Mestra do Bar
+Old Port District Sewer Key=Chave do Esgoto do Distrito do Velho Porto
+Old Port District Sewer=Esgoto do Distrito do Velho Porto 
+Control Room Key=Chave da Sala de Controle
+Key of the Rampart=Chave da Muralha
+Lighthouse Elevator Key=Chave do Elevador do Farol
+Emily's Room Key=Chave do Quarto de Emily
+Interrogation Room Key=Chave da Sala de Interrogatório
+Checkpoint Key=Chave do Controle
+Back Door Key=Chave da Porta de Trás
+Workshop Key=Chave da Oficina
+Back Yard Gate Key=Chave do Portão do Pátio de Trás
+Stocks Key=Chave do Estoque
+Workshop Chest Key=Chave do Cofre da Oficina
+Yard Walkway Key=Chave da Passagem para o Pátio
+Corvo's Cell Key=Chave da Cela de Corvo
+Yard Key=Chave do Pátio
+Cell Hallway Key=Chave do Corredor das Celas
+Dunwall Sewer Gate Key=Chave do Portão do Esgoto de Dunwall
+Art Dealer's Safe Combination=Combinação do Cofre do Comerciante de Arte
+Distillery Master Key=Chave Mestra da Destilaria
+Distillery Reserve Key=Chave Reserva da Destilaria
+Galvani Building Key=Chave do Edifício de Galvani
+Galvani Lab Key=Chave do Laboratório de Galvani
+Galvani Pantry Key=Chave da Copa de Galvani
+Granny's Front Door Key=Chave da Porta da Frente da Vovó
+Granny Front Door Key=Chave da Porta da Frente da Vovó
+Art Dealer's Key=Chave do Comerciante de Arte
+Granny's Key=Chave da Vovó
+Sewer Hatch Key=Chave da Escotilha do Esgoto
+Dunwall Tower Kitchen Key=Chave da Cozinha da Torre de Dunwall
+Lord Regent's Chamber Key=Chave da Câmara do Lorde Regente
+Security Room Key=Chave da Sala de Segurança
+Ground Floor Power Room=Sala de Energia do 1º Andar
+Broadcast Control Station Key=Chave do Posto de Controle de Transmissões
+Regent's Room Key=Chave do Quarto do Regente
+Coach House Door=Chave da Cocheira
+Waterlock side door key=Chave da Porta Lateral do Bloqueio de Água
+Planning Room Key=Chave da Sala de Planejamento
+WaterLockDoor=Porta do Bloqueio de Água

@@ -1,0 +1,10 @@
+﻿[AbstractInv_Graphs.DLC07_Mill_AG_LabKey DisAbstractItemAudioLog]
+m_ItemName="Key Notes"
+m_PluralItemName=""
+m_Description="A mysteriously blank audiograph.\n"
+
+[AbstractInv_Graphs.DLC07_Mill_GreenhowLab DisAbstractItemAudioLog]
+m_ItemName="Trimble Lab Notes"
+m_PluralItemName=""
+m_Description="Note on Trimble background."
+

@@ -1,0 +1,37 @@
+﻿[TheWorld:PersistentLevel.DisDoor_0 DisDoor]
+m_DoorName=""
+m_MatchingKey=""
+m_MatchingKeys[0]="Planning Room Key"
+m_MatchingKeys[1]="Dunwall Tower Skeleton Key"
+
+[TheWorld:PersistentLevel.DisDoor_2 DisDoor]
+m_DoorName=""
+m_MatchingKey=""
+
+[TheWorld:PersistentLevel.DisDoor_3 DisDoor]
+m_DoorName=""
+m_MatchingKey=""
+m_MatchingKeys[0]="Waterlock Side Door Key"
+
+[TheWorld:PersistentLevel.DisDoor_4 DisDoor]
+m_DoorName=""
+m_MatchingKey=""
+
+[TheWorld:PersistentLevel.DisDoor_5 DisDoor]
+m_DoorName=""
+m_MatchingKey=""
+m_MatchingKeys[0]="Coach House Door"
+
+[TheWorld:PersistentLevel.DisDoor_6 DisDoor]
+m_DoorName=""
+m_MatchingKey=""
+m_MatchingKeys[0]="Coach House Door"
+
+[TheWorld:PersistentLevel.DisDoor_7 DisDoor]
+m_DoorName=""
+m_MatchingKey=""
+
+[TheWorld:PersistentLevel.DisDoor_8 DisDoor]
+m_DoorName=""
+m_MatchingKey=""
+

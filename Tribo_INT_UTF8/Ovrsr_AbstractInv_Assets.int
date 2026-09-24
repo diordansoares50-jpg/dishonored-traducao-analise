@@ -1,0 +1,120 @@
+﻿[BlackMailJournal_twk DisTweaks_AbstractItemPickup]
+m_SingleItemPickupMessage=""
+
+[BlackMailJournal_twk:DisTweaks_Interactable_PickupBase_87 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name="`i"
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Tweaks.HereticBrand_twk DisTweaks_AbstractItemPickup]
+m_SingleItemPickupMessage=""
+
+[Tweaks.HereticBrand_twk:DisTweaks_Interactable_PickupBase_23 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name="`i"
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Tweaks.HolgersEyel_twk DisTweaks_AbstractItemPickup]
+m_SingleItemPickupMessage="1 `i"
+
+[Tweaks.HolgersEyel_twk:DisTweaks_Interactable_PickupBase_88 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name="`i"
+m_InteractText="`GBA_Use` Empurrar"
+m_AltInteractText=""
+m_UseMessage="`n `i"
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Tweaks.OvrsrPoisonVial_twk DisTweaks_AbstractItemPickup]
+m_SingleItemPickupMessage=""
+
+[Tweaks.OvrsrPoisonVial_twk:DisTweaks_Interactable_PickupBase_89 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name="`i"
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Tweaks.OvrsrPouch_BlackBook_twk DisTweaks_AbstractItemPickup]
+m_SingleItemPickupMessage=""
+
+[Tweaks.OvrsrPouch_BlackBook_twk:DisTweaks_Interactable_PickupBase_25 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name="Bolsa"
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Tweaks.Pouch_HolgerEye_twk DisTweaks_AbstractItemPickup]
+m_SingleItemPickupMessage=""
+
+[Tweaks.Pouch_HolgerEye_twk:DisTweaks_Interactable_PickupBase_47 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name="Bolsa"
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Tweaks.Twk_DeadOverseerPlaque DisTweaks_AbstractItemPickupNote]
+m_PressKeyToReadMessage=""
+m_OnPickupMessage=""
+m_SingleItemPickupMessage=""
+
+[Tweaks.Twk_DeadOverseerPlaque:DisTweaks_Interactable_PickupBase_54 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name=""
+m_InteractText="`GBA_Use` Ler"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Tweaks.twk_OvrsrUsableGlass:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Copo"
+m_InteractText="`GBA_Use` Envenenar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Tweaks.Twk_TempRolledPaper DisTweaks_AbstractItemPickupNote]
+m_PressKeyToReadMessage=""
+m_OnPickupMessage=""
+m_SingleItemPickupMessage=""
+
+[Tweaks.Twk_TempRolledPaper:DisTweaks_Interactable_PickupBase_90 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name="Carta"
+m_InteractText="`GBA_Use` Ler"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[twk_ovrsrTempGem DisTweaks_AbstractItemPickup]
+m_SingleItemPickupMessage=""
+
+[twk_ovrsrTempGem:DisTweaks_Interactable_PickupBase_38 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name="Opala de Holger"
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage="Opala de Holger (`n `i)"
+m_AltUseMessage=""
+m_CannotUseMessage=""
+

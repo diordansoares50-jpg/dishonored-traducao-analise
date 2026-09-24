@@ -1,0 +1,7 @@
+﻿[FontLib]
+FontLib=DisFonts.fonts_efigs
+FontLib=DisFonts.gfxfontlib
+
+[Fonts]
+TitleFont=Emerge BF
+NormalFont=ChaletComprime-CologneEighty

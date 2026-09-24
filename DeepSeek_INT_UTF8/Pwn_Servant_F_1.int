@@ -1,0 +1,36 @@
+﻿[Pwn_Servant_F_1 DisTweaks_NPCPawn]
+m_BusyText="Este personagem está ocupado"
+m_CannotStealMessage="Você não pode carregar mais munição deste tipo"
+
+[Pwn_Servant_F_1:DisTweaks_InteractableInterface_7 DisTweaks_InteractableInterface]
+m_Name="Empregada"
+m_InteractText=""
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Pwn_Servant_F_1_NoAnxious DisTweaks_NPCPawn]
+m_BusyText="Este personagem está ocupado"
+m_CannotStealMessage="Você não pode carregar mais munição deste tipo"
+
+[Pwn_Servant_F_1_NoAnxious:DisTweaks_InteractableInterface_7 DisTweaks_InteractableInterface]
+m_Name="Empregada"
+m_InteractText=""
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Pwn_ServantLydia_F_1_NoAnxious_HUB DisTweaks_NPCPawn]
+m_BusyText="Este personagem está ocupado"
+m_CannotStealMessage="Você não pode carregar mais munição deste tipo"
+
+[Pwn_ServantLydia_F_1_NoAnxious_HUB:DisTweaks_InteractableInterface_7 DisTweaks_InteractableInterface]
+m_Name="Lídia"
+m_InteractText=""
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+

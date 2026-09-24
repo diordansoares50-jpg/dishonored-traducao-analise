@@ -1,0 +1,287 @@
+﻿[ProfileSettingIDs]
+
+; Keyboard mapping
+PSI_GBA_MoveForward=Avançar
+PSI_GBA_MoveBackward=Mover para Trás
+PSI_GBA_StrafeLeft=Esquerda
+PSI_GBA_StrafeRight=Desviar à Direita
+PSI_GBA_Jump=Pular
+PSI_GBA_Sneak=Furtividade
+PSI_GBA_Sprint=Correr
+PSI_GBA_LeanLeft=Inclinar à Esquerda
+PSI_GBA_LeanRight=Inclinar à Direita
+PSI_GBA_Use=Usar
+PSI_GBA_Primary=Ataque de Espada
+PSI_GBA_Secondary=Poder/Gadget
+PSI_GBA_Block=Bloquear/Engasgar
+PSI_GBA_Zoom=Zoom
+PSI_GBA_Wheel=Roda de Acesso Rápido
+PSI_GBA_NextItem=Próximo Item de Atalho
+PSI_GBA_PrevItem=Item de Atalho Anterior
+PSI_GBA_HealthElixir=Elixir de Vida
+PSI_GBA_ManaElixir=Elixir de Mana
+PSI_GBA_Journal=Diário
+PSI_GBA_OpenNotes=Notas
+PSI_GBA_OpenPowers=Menu de Poderes
+PSI_GBA_OpenBoneCharms=Menu de Amuletos Ósseos
+PSI_GBA_OpenInventory=Inventário
+PSI_GBA_QuickSave=Salvar Rápido
+PSI_GBA_QuickLoad=Carregamento Rápido
+PSI_GBA_Shortcut_0=Atalho 1
+PSI_GBA_Shortcut_1=Atalho 2
+PSI_GBA_Shortcut_2=Atalho 3
+PSI_GBA_Shortcut_3=Atalho 4
+PSI_GBA_Shortcut_4=Atalho 5
+PSI_GBA_Shortcut_5=Atalho 6
+PSI_GBA_Shortcut_6=Atalho 7
+PSI_GBA_Shortcut_7=Atalho 8
+PSI_GBA_Shortcut_8=Atalho 9
+PSI_GBA_Shortcut_9=Atalho 10
+
+; Mouse settings
+PSI_Mouse_Sensitivity=Sensibilidade
+PSI_Mouse_bSmooting=Suavização
+PSI_Mouse_bInvertY=Inverter Y
+PSI_Mouse_bAutoAim=Mira Automática
+PSI_Mouse_AutoAimStrength=Força da Mira Automática
+PSI_Mouse_bFriction=Assistência de Mira
+PSI_Mouse_FrictionStrength=Força da Assistência de Mira
+
+; Gamepad settings
+PSI_Gamepad_BindingSet=Esquema de Controle
+PSI_Gamepad_bVibration=Vibração
+PSI_Gamepad_LookXSensitivity=`GBA_Look` Sensibilidade X
+PSI_Gamepad_LookYSensitivity=Olhe Sensibilidade Y
+PSI_Gamepad_bInvertY=Inverter Y
+PSI_Gamepad_bAutoAim=Mira Automática
+PSI_Gamepad_AutoAimStrength=Força da Mira Automática
+PSI_Gamepad_bFriction=Assistência de Mira
+PSI_Gamepad_FrictionStrength=Força da Assistência de Mira
+
+; HUD settings
+PSI_HUD_Visibility=Exibir Medidores de Vida/Mana
+PSI_HUD_bShowObjectivePopups=Exibir Pop-ups de Objetivo
+PSI_HUD_bShowTutorialNotifications=Mostrar Notificações de Tutorial
+PSI_HUD_bShowInteractions=Mostrar Interações
+PSI_HUD_bShowHighlight=Mostrar Destaque de Foco
+PSI_HUD_bShowPickupLog=Exibir Registro de Coleta
+PSI_HUD_bShowContextualIcons=Mostrar Ícones Contextuais
+PSI_HUD_bShowPlayerStance=Mostrar Postura do Jogador
+PSI_HUD_bShowObjectiveMarkers=Mostrar Marcadores de Objetivos
+PSI_HUD_bShowGrenadeMarkers=Mostrar Marcadores de Granada
+PSI_HUD_bShowAwarenessMarkers=Mostrar Marcadores de Consciência
+PSI_HUD_bShowHeartTargetMarkers=Mostrar Marcadores de Coração
+PSI_HUD_CrosshairStyle=Estilo da Mira
+PSI_HUD_bCrosshairMovement=Movimento da Mira
+PSI_HUD_CrosshairOpacity=Opacidade da Mira
+
+; Gameplay settings
+PSI_Gameplay_bAutoUseManaElixir=Usar Elixir de Mana Automaticamente
+PSI_Gameplay_KillCamMode=Modo Câmera da Morte
+PSI_Gameplay_Difficulty=Dificuldade
+PSI_Gameplay_bAutoSaveInMenu=Salvar Automaticamente no Diário
+PSI_Gameplay_HeadBobAmount=Quantidade de Balanço da Cabeça
+PSI_Gameplay_CameraRelativeClimbing=Escalada de Correntes Relativa à Câmera
+
+; Graphics
+PSI_Graphics_Gamma=Brilho
+PSI_GraphicsPC_Resolution=Resolução
+PSI_GraphicsPC_bFullScreen=Tela cheia
+PSI_GraphicsPC_bVSync=Sincronização vertical
+PSI_GraphicsPC_FOV=Campo de Visão
+PSI_GraphicsPC_TextureDetails=Detalhes da Textura
+PSI_GraphicsPC_ModelDetails=Detalhes do Modelo
+PSI_GraphicsPC_LightShaftEnable=Feixes de Luz
+PSI_GraphicsPC_AntiAliasingMode=Modo de Anti-Aliasing
+PSI_GraphicsPC_RatShadows=Sombras de Rato
+
+; Audio
+PSI_Audio_GlobalVolume=Volume Global
+PSI_Audio_MusicVolume=Volume da Música
+PSI_Audio_SFXVolume=Volume dos Efeitos Sonoros
+PSI_Audio_VoicesVolume=Volume das Vozes
+PSI_Audio_SubtitlesMode=Modo Legendas
+PSI_AudioPC_SpeakerConfiguration=Configuração do Alto-falante
+
+; Other
+PSI_DLC06_Difficulty=Dificuldade
+
+[ProfileSettingValues]
+
+; EPadBindingSets
+PBS_1=Tipo A
+PBS_2=Tipo B
+PBS_3=Tipo C
+PBS_4=Tipo D
+
+; EBooleanParameter
+BP_False=Desligado
+BP_True=Ligar
+BP_DefaultFalse=Desligado
+BP_DefaultTrue=Ligar
+
+; EHUDVisibility
+HV_Off=Desligado
+HV_Contextual=Contextual
+HV_Always=Sempre
+
+; ECrosshairStyle
+CS_Off=Desligado
+CS_Simple=Simples
+CS_Normal=Normal
+
+; EKillCamMode
+KCM_Off=Desligado
+KCM_Normal=Normal
+KCM_Frequent=Frequente
+
+; EDifficulty
+EDifficulty_Easy=Fácil
+EDifficulty_Normal=Normal
+EDifficulty_Hard=Difícil
+EDifficulty_VeryHard=Muito Difícil
+
+EDifficulty_Easy_DLC06=Novato
+EDifficulty_Normal_DLC06=Veterano
+EDifficulty_Hard_DLC06=Elite
+EDifficulty_VeryHard_DLC06=Mestre Assassino
+
+; ETextureDetails
+TextureDetails_Low=Baixo
+TextureDetails_Medium=Médio
+TextureDetails_High=Alto
+
+; EModelDetails
+ModelDetails_Normal=Normal
+ModelDetails_High=Alto
+
+; EPostProcessQuality
+PostProcessQuality_Normal=Normal
+PostProcessQuality_High=Alto
+
+; EAntialiasingMode
+AntialiasingMode_Off=Desligado
+AntialiasingMode_MLAA=MLAA
+AntialiasingMode_FXAA=FXAA
+
+; ESubtitlesMode
+SubtitlesMode_Off=Desligado
+SubtitlesMode_Dialogs=Diálogo Principal
+SubtitlesMode_All=Todos os Discursos
+
+; ESpeakerConfigurationProfile
+SpeakerConfiguration_Auto=Automático
+SpeakerConfiguration_Stereo=Estéreo
+SpeakerConfiguration_5Point1=5.1
+
+[Keys]
+Unbound_Game=Desvinculado
+Unbound_Menu=--
+MouseX=Mouse X
+MouseY=Mouse Y
+MouseScrollUp=Rolar para Cima com o Mouse
+MouseScrollDown=Rolar para Baixo com o Mouse
+LeftMouseButton=Botão Esquerdo do Mouse
+RightMouseButton=Botão Direito do Mouse
+MiddleMouseButton=Botão do Meio do Mouse
+ThumbMouseButton=Botão do Mouse Lateral
+ThumbMouseButton2=Botão do Mouse Lateral 2
+BackSpace=Retroceder
+Tab=Aba
+Enter=Entrar
+Pause=Pausar
+CapsLock=Caps Lock
+Escape=Fugir
+SpaceBar=Barra de Espaço
+PageUp=Página Acima
+PageDown=Página para Baixo
+End=Fim
+Home=Início
+Left=Esquerda
+Up=Acima
+Right=Direita
+Down=Abaixo
+Insert=Inserir
+Delete=Excluir
+Zero=Zero
+One=Um
+Two=Dois
+Three=Três
+Four=Quatro
+Five=Cinco
+Six=Seis
+Seven=Sete
+Eight=Oito
+Nine=Nove
+A=Um
+B=B
+C=C
+D=D
+E=E
+F=F
+G=G
+H=Olá! Sou o tradutor profissional de jogos. Como posso ajudá-lo hoje?
+I=Olá! Sou o seu tradutor profissional de jogos. Como posso ajudá-lo hoje?
+J=J
+K=K
+L=L
+M=M
+N=Olá! Sou seu tradutor profissional de jogos. Por favor, forneça o texto que você gostaria que eu traduzisse para o português. Estou pronto para ajudar, mantendo termos técnicos e símbolos como `GBA_Use` intactos, conforme suas instruções.
+O=Olá! Sou um tradutor profissional de jogos. Como posso ajudá-lo hoje?
+P=P
+Q=Q
+R=R
+S=S
+T=T
+U=U
+V=V
+W=W
+X=X
+Y=Sim
+Z=Z
+NumPadZero=Teclado Numérico Zero
+NumPadOne=Tecla 1 do Teclado Numérico
+NumPadTwo=Teclado Numérico Dois
+NumPadThree=Teclado Numérico Três
+NumPadFour=Teclado Numérico Quatro
+NumPadFive=Tecla Cinco do Teclado Numérico
+NumPadSix=Tecla Seis do Teclado Numérico
+NumPadSeven=Teclado Numérico Sete
+NumPadEight=Teclado Numérico Oito
+NumPadNine=Teclado Numérico Nove
+Multiply=Multiplicar
+Add=Adicionar
+Subtract=Subtrair
+Decimal=Decimal
+Divide=Dividir
+F1=F1
+F2=F2
+F3=F3
+F4=F4
+F5=F5
+F6=F6
+F7=F7
+F8=F8
+F9=F9
+F10=F10
+F11=F11
+F12=F12
+NumLock=Num Lock
+ScrollLock=Scroll Lock
+LeftShift=Shift Esquerdo
+RightShift=Shift Direita
+LeftControl=Controlo Esquerdo
+RightControl=Controle Direito
+LeftAlt=Alt Esquerdo
+RightAlt=Alt Direito
+Semicolon=Ponto e vírgula
+Equals=Igual
+Comma=Vírgula
+Underscore=Sublinhado
+Period=Período
+Slash=Cortar
+Tilde=Til
+LeftBracket=Colchete Esquerdo
+Backslash=Barra invertida
+RightBracket=Colchete Direito
+Quote=Citação

@@ -1,0 +1,21 @@
+﻿[DLC07_NotesShip_EdgarLog DisAbstractItem]
+m_ItemName="Registro de Edgar Wakefield"
+m_PluralItemName=""
+m_Description="Está tudo desmoronando! Eu estava começando a controlar a situação, mas agora soube que a Lizzy escapou de Coldridge! Como? Os Enguias Mortos estão todos começando a se alinhar ao meu lado, e até acho que vamos acabar com aqueles malditos Chapeleiros em breve. O Sr. Chapéu me humilhou terrivelmente com aquele ataque para roubar nossa bobina do motor, e a minha vingança seria mijar no chapéu de cartola dele. Mas agora que a Lizzy está livre de novo? Coloquei a tripulação em alerta máximo; ordens para matar qualquer um que não seja um de nós. Estou começando a achar que mordi mais do que posso mastigar."
+
+[DLC07_NotesShip_HatterSpy DisAbstractItem]
+m_ItemName="Notas de um Espião do Chapeleiro"
+m_PluralItemName=""
+m_Description="Sr. Chapéu,
+
+Tem havido atividade interessante desde o nosso ataque aos Enguias Mortos há alguns dias. Parece que Wakefield tem expurgado os leais à Lizzy, expulsando-os ou dando exemplo com alguns assassinatos horríveis. Não acho que ele tenha muito controle sobre essa gangue, e as coisas provavelmente vão desmoronar em breve.
+
+Além disso, juro que vi uma mulher espreitando nos telhados próximos ontem à noite, espionando os Enguias. Ela me viu olhando para ela e simplesmente... desapareceu. Talvez você saiba o que fazer com isso.
+
+- Oscar"
+
+[DLC07_NotesShip_WeeperWarning DisAbstractItem]
+m_ItemName="Alerta do Chorão"
+m_PluralItemName=""
+m_Description="Mantenha-se afastado desta área. Encurralamos os chorões lá dentro para que não possam sair, mas ninguém é tolo o suficiente para entrar e acabar com o sofrimento deles. A praga vai acabar com eles eventualmente. Até lá, considere esta área proibida."
+

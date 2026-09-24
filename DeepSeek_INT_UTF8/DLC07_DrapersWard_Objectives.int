@@ -1,0 +1,122 @@
+﻿[DLC07_DW_EliminateEdgar_Obj DishonoredObjective]
+m_Description="Eliminar o amotinado da Enguia Morta Edgar Wakefield"
+
+[DLC07_DW_EliminateEdgar_Obj:DishonoredTask_Custom_0 DishonoredTask_Custom]
+m_Description="Encontre-se com Lizzy Stride no convés"
+m_Status=""
+
+[DLC07_DW_EliminateEdgar_Obj:DishonoredTask_Custom_1 DishonoredTask_Custom]
+m_Description="Encontre Edgar Wakefield no navio Undine"
+m_Status=""
+
+[DLC07_DW_EliminateEdgar_Obj:DishonoredTask_Custom_2 DishonoredTask_Custom]
+m_Description="Sinalizar a Lizzy usando a buzina do navio"
+m_Status=""
+
+[DLC07_DW_EliminateEdgar_Obj:DishonoredTask_Custom_66 DishonoredTask_Custom]
+m_Description="Viaje para a Orla Fluvial do Bairro dos Alfaiates"
+m_Status=""
+
+[DLC07_DW_EliminateEdgar_Obj:DishonoredTask_Custom_89 DishonoredTask_Custom]
+m_Description="Eliminar Edgar Wakefield"
+m_Status=""
+
+[DLC07_DW_FavorFOUR_Obj DishonoredObjective]
+m_Description="(Favor) Abigail Ames envia um Presente"
+
+[DLC07_DW_FavorFOUR_Obj:DishonoredTask_Custom_1 DishonoredTask_Custom]
+m_Description="Encontre o presente deixado para você por Abigail Ames"
+m_Status=""
+
+[DLC07_DW_FavorONE_Obj DishonoredObjective]
+m_Description="(Favor) A Caixa Submersa"
+
+[DLC07_DW_FavorONE_Obj:DishonoredTask_Custom_66 DishonoredTask_Custom]
+m_Description="Procure a caixa submersa perto da Undine"
+m_Status=""
+
+[DLC07_DW_FavorTHREE_Obj DishonoredObjective]
+m_Description="(Favor) Ex-Funcionário de Rothwild"
+
+[DLC07_DW_FavorTHREE_Obj:DishonoredTask_Custom_0 DishonoredTask_Custom]
+m_Description="Entre em contato com o Trabalhador Rothwild que agora trabalha para o Sr. Hat."
+m_Status=""
+
+[DLC07_DW_FavorTWO_Obj DishonoredObjective]
+m_Description="(Favor) A Runa Oculta"
+
+[DLC07_DW_FavorTWO_Obj:DishonoredTask_Custom_66 DishonoredTask_Custom]
+m_Description="Recupere a Runa Oculta no Bairro dos Alfaiates"
+m_Status=""
+
+[DLC07_DW_FenceMission_Obj DishonoredObjective]
+m_Description="Assassinar o Caloteiro"
+
+[DLC07_DW_FenceMission_Obj:DishonoredTask_Custom_66 DishonoredTask_Custom]
+m_Description="Assassine o Chapeleiro chamado Pão-Duro"
+m_Status=""
+
+[DLC07_DW_FenceMission_Obj:DishonoredTask_Custom_89 DishonoredTask_Custom]
+m_Description="Voltar para Jerome"
+m_Status=""
+
+[DLC07_DW_FindLizzy_Obj DishonoredObjective]
+m_Description="Encontro com Lizzy Stride DELETEME"
+
+[DLC07_DW_FindLizzy_Obj:DishonoredTask_Custom_66 DishonoredTask_Custom]
+m_Description="Viajar para a Orla do Rio"
+m_Status=""
+
+[DLC07_DW_FindLizzy_Obj:DishonoredTask_Custom_89 DishonoredTask_Custom]
+m_Description="Encontre Lizzy no Navio DELETEME"
+m_Status=""
+
+[DLC07_DW_GrannyRecipe_Obj DishonoredObjective]
+m_Description="Recriar o Casamento da Vovó"
+
+[DLC07_DW_GrannyRecipe_Obj:DishonoredTask_Custom_0 DishonoredTask_Custom]
+m_Description="Encontrar uma Aliança de Casamento"
+m_Status=""
+
+[DLC07_DW_GrannyRecipe_Obj:DishonoredTask_Custom_1 DishonoredTask_Custom]
+m_Description="Pegue o presente de casamento"
+m_Status=""
+
+[DLC07_DW_GrannyRecipe_Obj:DishonoredTask_Custom_66 DishonoredTask_Custom]
+m_Description="Traga um noivo para o círculo do casamento"
+m_Status=""
+
+[DLC07_DW_GrannyRecipe_Obj:DishonoredTask_Custom_89 DishonoredTask_Custom]
+m_Description="Traga uma noiva para o círculo do casamento"
+m_Status=""
+
+[DLC07_DW_GrannyRecipe_Obj:DishonoredTask_Custom_90 DishonoredTask_Custom]
+m_Description="Coloque a aliança na bandeja cerimonial"
+m_Status=""
+
+[DLC07_DW_RestoreEngine_Obj DishonoredObjective]
+m_Description="Restaurar o Motor da Nave"
+
+[DLC07_DW_RestoreEngine_Obj:DishonoredTask_Custom_66 DishonoredTask_Custom]
+m_Description="Voltar à Orla DELETEME"
+m_Status=""
+
+[DLC07_DW_RestoreEngine_Obj:DishonoredTask_Custom_89 DishonoredTask_Custom]
+m_Description="Instale a Bobina do Motor na Undine"
+m_Status=""
+
+[DLC07_DW_ToBrigmore_Obj DishonoredObjective]
+m_Description="Partir para o Solar Brigmore"
+
+[DLC07_DW_ToBrigmore_Obj:DishonoredTask_Custom_66 DishonoredTask_Custom]
+m_Description="Repelar as Bruxas de Brigmore"
+m_Status=""
+
+[DLC07_DW_ToBrigmore_Obj:DishonoredTask_Custom_89 DishonoredTask_Custom]
+m_Description="Ordene que a Lizzy zarpe"
+m_Status=""
+
+[DLC07_DW_ToBrigmore_Obj:DishonoredTask_Custom_90 DishonoredTask_Custom]
+m_Description="Ative o Motor da Undine a partir da Ponte"
+m_Status=""
+

@@ -1,0 +1,8 @@
+﻿[Twk_Inv_SpringRazorPlaced:DisTweaks_InteractableInterface_284 DisTweaks_InteractableInterface]
+m_Name="Navalha de Mola"
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage="Você não pode mais carregar esse tipo de munição"
+

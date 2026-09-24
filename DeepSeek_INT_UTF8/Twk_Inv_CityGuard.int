@@ -1,0 +1,12 @@
+﻿[Twk_Inv_SwordCityGuard:DisTweaks_InventoryItem_PlayerSpecific_1 DisTweaks_InventoryItem_PlayerSpecific]
+m_Name="Espada da Guarda da Cidade"
+m_Description="Espadas padronizadas feitas de aço industrial. Confiáveis e utilitárias."
+
+[Twk_Inv_SwordCityGuard_Player:pPlayerSpecific DisTweaks_InventoryItem_PlayerSpecific]
+m_Name="Espada da Guarda da Cidade"
+m_Description="Espadas padronizadas feitas de aço industrial. Confiáveis e utilitárias."
+
+[Twk_Inv_SwordCityGuardNoDrop:DisTweaks_InventoryItem_PlayerSpecific_1 DisTweaks_InventoryItem_PlayerSpecific]
+m_Name="Espada da Guarda da Cidade"
+m_Description="Espadas padronizadas feitas de aço industrial. Confiáveis e utilitárias."
+

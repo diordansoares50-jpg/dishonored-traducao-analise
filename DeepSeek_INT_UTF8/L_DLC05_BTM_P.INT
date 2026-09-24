@@ -1,0 +1,26 @@
+﻿[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_DLC05_ShowWaveNumber_1 DisSeqAct_DLC05_ShowWaveNumber]
+m_CustomText="Rodada Bônus Concluída"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_DLC05_ShowWaveNumber_3 DisSeqAct_DLC05_ShowWaveNumber]
+m_CustomText="Rodada Bônus Falhou"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_SetTutorialMessage_16 DisSeqAct_SetTutorialMessage]
+m_TutorialMessage="Avance através de uma sequência de rodadas com situações e recursos diferentes."
+m_TutorialMessage_Gamepad=""
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_SetTutorialMessage_17 DisSeqAct_SetTutorialMessage]
+m_TutorialMessage="Quebre o vidro para iniciar o Bend Time."
+m_TutorialMessage_Gamepad=""
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_SetTutorialMessage_18 DisSeqAct_SetTutorialMessage]
+m_TutorialMessage="Você terá alguns segundos de Tempo Curvado para matar o máximo de pessoas possível."
+m_TutorialMessage_Gamepad=""
+
+[TheWorld:PersistentLevel.Main_Sequence.Global_Score.DisSeqAct_ShowHUDMessage_2 DisSeqAct_ShowHUDMessage]
+m_Message="Reiniciando Pontuação"
+
+[TheWorld:PersistentLevel.Main_Sequence.Phase_6.DisSeqAct_DialogScriptedChoice_22 DisSeqAct_DialogScriptedChoice]
+m_Title=""
+m_Choices[0]=(m_ChoiceText="Restart Bend Time Massacre")
+m_Choices[1]=(m_ChoiceText="Return to Menu")
+

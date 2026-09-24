@@ -1,0 +1,48 @@
+﻿[TheWorld:PersistentLevel.DisDoor_44 DisDoor]
+m_DoorName=""
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_ShowHUDMessage_0 DisSeqAct_ShowHUDMessage]
+m_Message="Sem Energia"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_ShowLocationDiscovery_2 DisSeqAct_ShowLocationDiscovery]
+m_LocationName="Rua do Matadouro"
+
+[TheWorld:PersistentLevel.Main_Sequence.Objectives.TaskMarkers.DisSeqAct_UpdateTaskTarget_66 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Marcas Ocultas"
+
+[TheWorld:PersistentLevel.Main_Sequence.Objectives.TaskMarkers.DisSeqAct_UpdateTaskTarget_68 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Chave do Portão"
+
+[TheWorld:PersistentLevel.Main_Sequence.Objectives.TaskMarkers.DisSeqAct_UpdateTaskTarget_73 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Entrada Principal"
+
+[TheWorld:PersistentLevel.Main_Sequence.Objectives.TaskMarkers.DisSeqAct_UpdateTaskTarget_76 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Seguro"
+
+[TheWorld:PersistentLevel.Main_Sequence.Objectives.TaskMarkers.DisSeqAct_UpdateTaskTarget_77 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Parede de Luz"
+
+[TheWorld:PersistentLevel.Main_Sequence.Objectives.TaskMarkers.DisSeqAct_UpdateTaskTarget_80 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Máquina de Carimbo de Tempo"
+
+[TheWorld:PersistentLevel.Main_Sequence.Objectives.TaskMarkers.DisSeqAct_UpdateTaskTarget_81 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Portão"
+
+[TheWorld:PersistentLevel.Main_Sequence.Objectives.TaskMarkers.DisSeqAct_UpdateTaskTarget_84 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Parede de Luz"
+
+[TheWorld:PersistentLevel.Main_Sequence.Objectives.TaskMarkers.DisSeqAct_UpdateTaskTarget_88 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Chave do Portão"
+
+[TheWorld:PersistentLevel.Main_Sequence.Objectives.TaskMarkers.DisSeqAct_UpdateTaskTarget_95 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Trabalhador"
+
+[TheWorld:PersistentLevel.Main_Sequence.Objectives.TaskMarkers.DisSeqAct_UpdateTaskTarget_96 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Panela da Vovó"
+
+[TheWorld:PersistentLevel.Main_Sequence.Objectives.TaskMarkers.DisSeqAct_UpdateTaskTarget_97 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Código de Segurança"
+
+[TheWorld:PersistentLevel.Main_Sequence.ReturnSetup.DisSeqAct_AddDarkness_1 DisSeqAct_AddDarkness]
+m_Text=""
+

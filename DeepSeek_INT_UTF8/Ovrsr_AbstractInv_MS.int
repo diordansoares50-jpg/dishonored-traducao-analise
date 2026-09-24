@@ -1,0 +1,486 @@
+﻿[abstract_items.AbsInv_CarryingCampbell DisAbstractItem]
+m_ItemName="Carregando Campbell"
+m_PluralItemName=""
+m_Description=""
+
+[abstract_items.AbsInv_OvrsrBckYrdBCNote DisAbstractItem]
+m_ItemName="Esconderijo"
+m_PluralItemName=""
+m_Description="Dia 15, Mês da Madeira
+
+Consegui roubar um dos amuletos que estavam quebrando no Armazém A. Quebrando-os! Coisas tão belas e poderosas, e meus irmãos não fazem ideia. Mas nunca me acharão aqui atrás. Ninguém nunca vem aqui atrás. Posso emparedar a porta e nunca me encontrarão. É tudo meu."
+
+[abstract_items.AbsInv_OvrsrLetter01 DisAbstractItem]
+m_ItemName="Sentimos Sua Falta"
+m_PluralItemName=""
+m_Description="Prezado Harold,
+
+Não costumo fazer isso, mas encontrei uma carta que seus pais enviaram quando você foi levado pela primeira vez para Whitecliff. Lembre-se de que temos regras para poupá-lo da decisão de tentar entrar em contato com eles. Não podemos mais andar entre aqueles que buscamos proteger.
+
+"...se você pudesse ao menos ler esta carta para ele. Embora seus motivos possam ser justos, sabemos que ele provavelmente está assustado agora e não podemos estar lá por ele.
+
+Filho, sentimos sua falta. Lamentamos muito não podermos vir até você agora e tirá-lo de onde quer que o tenham levado. Seja forte, filho. Sabemos que você encontrará seu caminho. Por favor, lembre-se de nós e tente nos encontrar quando estiver livre.
+
+Amamos você,
+Mamãe e Papai"
+
+[abstract_items.AbsInv_OvrsrLetter02 DisAbstractItem]
+m_ItemName="Ontem à Noite"
+m_PluralItemName=""
+m_Description="Windham,
+
+A noite passada foi maravilhosa. Neste exato momento, estou imaginando seus braços ao meu redor e seu sopro no meu pescoço. Tive medo por nossas vidas quando seus colegas Supervisores nos encontraram, mas você se mostrou engenhoso como sempre. E não, não levarei suas ofensas e ameaças para o lado pessoal, pois sei que você estava apenas tentando afastar quaisquer suspeitas que eles pudessem ter sobre nós. Espero vê-lo novamente em breve, talvez em duas noites, quando você tiver folga mais uma vez.
+
+- Darion"
+
+[abstract_items.AbsInv_OvrsrLetter03 DisAbstractItem]
+m_ItemName="Aviso Final"
+m_PluralItemName=""
+m_Description="Edmund,
+
+Fiquei sabendo que você sabe onde fica meu santuário. Se eu te pegar rondando a estátua de Holger novamente, na esperança de encontrar e talvez se relacionar com um dos meus convidados, vou te declarar herege e expulsar da cidade.
+
+Atenciosamente,
+Alto Supervisor Campbell"
+
+[abstract_items.AbsInv_OvrsrLetter04 DisAbstractItem]
+m_ItemName="Só Para os Seus Olhos"
+m_PluralItemName=""
+m_Description="Ei Michael,  
+Escondi o nosso estoque na sala do incinerador de cães, debaixo da pilha de cachorros mortos. Antes que você venha reclamar do fedor e da bagunça, lembre-se de que ninguém vai procurar debaixo daqueles cães e encontrar o nosso butim. O código da porta é 217.  
+
+- Peter"
+
+[abstract_items.AbsInv_OvrsrLetter05 DisAbstractItem]
+m_ItemName="Atualização de Combinação"
+m_PluralItemName=""
+m_Description="Wyman,\n\nAtualizei a combinação do cofre do alojamento novamente. É 2 0 3. Como tesoureiro, cabe a você garantir que permaneça secreto desta vez. Não deixe esta carta por aí.\n\nBrandon"
+
+[abstract_items.AbsInv_OvrsrPlaque01 DisAbstractItem]
+m_ItemName="GRANDE SUPERINTENDENTE BENJAMIN HOLGER"
+m_PluralItemName=""
+m_Description="ALTO SUPERVISOR BENJAMIN HOLGER\nSuas palavras nos conduzirão sempre adiante.\n\nFundador da ordem. Autor de Reforma e Tradição.\nFaca cravada em seu olho durante o Cerco de White Cliff."
+
+[abstract_items.AbsInv_OvrsrPlaque02 DisAbstractItem]
+m_ItemName="GRANDE SUPERINTENDENTE JOHN CLAVERING"
+m_PluralItemName=""
+m_Description="ALTO SUPERVISOR JOHN CLAVERING\nQue sua luz guie nosso caminho através da escuridão.\n\nFundamental na construção da Abadia. Suas mãos hábeis iluminaram as primeiras cópias dos Sete Preceitos.\nConsumido pela febre em seu leito."
+
+[abstract_items.AbsInv_OvrsrPlaque03 DisAbstractItem]
+m_ItemName="GRANDE SUPERINTENDENTE FALKE BARROWE"
+m_PluralItemName=""
+m_Description="ALTO SUPERINTENDENTE FALKE BARROWE\nSua mão estará sempre sobre nossos ombros.\n\nContribuiu com vários capítulos para os Ditos dos Superintendentes. Introduziu o Rito do Olho Vigilante.\n\nCaiu de uma escadaria."
+
+[abstract_items.AbsInv_OvrsrPlaque04 DisAbstractItem]
+m_ItemName="ALTO SUPERINTENDENTE ABRAM TEMPLETON"
+m_PluralItemName=""
+m_Description="ALTO SUPERINTENDENTE ABRAM TEMPLETON\nUm pilar da justiça erguido acima das nuvens da iniquidade.\n\nEscreveu a abertura da Ladainha do Penhasco Branco.\nLevado por doença consumptiva."
+
+[abstract_items.AbsInv_OvrsrPlaque05 DisAbstractItem]
+m_ItemName="ALTO SUPERVISOR FRANCIS PERRY"
+m_PluralItemName=""
+m_Description="GRANDE SUPERINTENDENTE FRANCIS PERRY
+Seu sacrifício jamais será esquecido.
+
+Primeiro Superintendente a encontrar e combater pessoalmente uma encarnação do Forasteiro.
+Desaparecido durante a Festa da Fuga, seu corpo jamais foi encontrado."
+
+[abstract_items.AbsInv_OvrsrPlaque06 DisAbstractItem]
+m_ItemName="SUPERVISOR JOHN BRETON"
+m_PluralItemName=""
+m_Description="SUPERINTENDENTE JOHN BRETON\nEle foi uma lâmina erguida em defesa do Homem Comum.\n\nAjudou a esconder o Livro das Estrituras para que não fosse queimado pelos fogos inimigos.\nTranspassado por uma lança durante o Cerco de White Cliff."
+
+[abstract_items.AbsInv_OvrsrPlaque07 DisAbstractItem]
+m_ItemName="GRANDE SUPERINTENDENTE STEVEN GAINSFORD"
+m_PluralItemName=""
+m_Description="GRANDE SUPERINTENDENTE STEVEN GAINSFORD
+Sua mente era uma luz afiada perfurando a escuridão.
+
+Primeiro a descobrir a escala discordante. Um campeão contra as forças da corrupção.
+Morreu testando um arnês projetado para proteger seu usuário de quedas de grandes alturas."
+
+[abstract_items.AbsInv_OvrsrPlaque08 DisAbstractItem]
+m_ItemName="ALTO SUPERINTENDENTE SCOTT GRAFTON"
+m_PluralItemName=""
+m_Description="GRÃO-SUPERVISOR SCOTT GRAFTON\nEle afastou a escuridão para que pudéssemos ter paz.  \n\nPrimeiro Supervisora a penetrar na Pandyssia, para purgar a escuridão onde quer que fosse encontrada.\nMorreu de peste.\nCremado com o Opala de Holger para honrar sua batalha contra a peste."
+
+[abstract_items.AbsInv_OvrsrPlaque09 DisAbstractItem]
+m_ItemName="ALTA ORÁCULA GWEN HORNCROFT"
+m_PluralItemName=""
+m_Description="ALTA ORÁCULA GWEN HORNCROFT  
+Suas visões nos guiaram em nosso momento de maior necessidade.
+
+Primeira mulher a ser iniciada. Fundou a Ordem Oracular.  
+Succumbiu à loucura."
+
+[abstract_items.AbsInv_OvrsrPlaque10 DisAbstractItem]
+m_ItemName="GRANDE SUPERINTENDENTE RHYE MATTSON"
+m_PluralItemName=""
+m_Description="ALTO SUPERVISOR RHYE MATTSON  
+Por sua inovação nossas fileiras agora se expandem.  
+
+Iniciou as Provações de Aptidão.  
+Defenestrado durante a Noite das Janelas Arremessadas."
+
+[abstract_items.AbsInv_OvrsrPlaque11 DisAbstractItem]
+m_ItemName="ALTO SUPERINTENDENTE TYNAN WALLACE"
+m_PluralItemName=""
+m_Description="GRANDE INSPETOR TYNAN WALLACE  
+Seus fogos não deixaram nada além dos justos e verdadeiros.  
+
+Liderou o primeiro dos Grandes Julgamentos. Torturou e queimou mais de 1000 hereges.  
+Morreu na cama de velhice."
+
+[abstract_items.AbsInv_OvrsrPlaque12 DisAbstractItem]
+m_ItemName="ALTA ORÁCULA DALIA SOMONOS"
+m_PluralItemName=""
+m_Description="ALTA ORÁCULA DALIA SOMONOS\nSua mente inquisitiva não deixava espaço para a corrupção se esconder.\n\nPrimeira mulher de sangue do Sul a ingressar na ordem. Estabeleceu relações com Serkonos e fundou uma Capela Orácular lá.\nAssassinada por agentes do Forasteiro."
+
+[abstract_items.AbsInv_OvrsrWitchLetter DisAbstractItem]
+m_ItemName="Esteja Avisado"
+m_PluralItemName=""
+m_Description="Berthold,
+
+Encontrei um de nossos irmãos tentando colocar um pacote nas caixas de correio para que os outros o encontrassem. Acredito que seja a evidência do envolvimento de sua irmã com bruxaria sobre a qual você me falou. Tentei impedi-lo, mas ele insistiu que eu queimaria pelos crimes dela se tentasse encobrir seus atos. Você deve avisá-la. Vejam se vocês dois podem fugir da cidade antes que cheguem até ela.
+
+Seu amigo e irmão."
+
+[abstract_items.AbsInv_SickHoundNote DisAbstractItem]
+m_ItemName="Cão Doente"
+m_PluralItemName=""
+m_Description="Voraz adoeceu. Fui buscar remédio para o cão, mas, enquanto isso, NÃO abra a gaiola dele. Ele é propenso a ataques de violência, e isso colocaria em perigo os outros Supervisores no prédio.
+
+Assinado,
+Mestre de Cães Warton"
+
+[abstract_items.AbsInv_SickHoundNote2 DisAbstractItem]
+m_ItemName="Não Use Esta Alavanca"
+m_PluralItemName=""
+m_Description="É de extrema importância que você não abra esta gaiola sem minha aprovação. Voracious está doente e bastante temperamental. Se sua gaiola for aberta, ele pode atacar e colocar em perigo qualquer um que esteja patrulhando o canil.
+
+Assinado,
+Mestre de Matilha Warton"
+
+[BlackMailJournal_AbsItm DisAbstractItem]
+m_ItemName="Diário de Chantagem"
+m_PluralItemName=""
+m_Description="Um livro negro contendo segredos sobre figuras políticas importantes que o Alto Supervisor Campbell usou para garantir seu status proeminente."
+
+[HereticBrand_AbsItm DisAbstractItem]
+m_ItemName="Marca do Herege"
+m_PluralItemName=""
+m_Description="Um instrumento usado para marcar hereges."
+
+[HolgersEye_AbsItm DisAbstractItem]
+m_ItemName="Olho de Holger"
+m_PluralItemName=""
+m_Description="Um fragmento de uma estátua de mármore."
+
+[InWorldReading.AbsInv_BoyLocation DisAbstractItem]
+m_ItemName="Lista de Abduzidos"
+m_PluralItemName=""
+m_Description="As seguintes crianças foram levadas à fazenda de Godfrey, aguardando passagem para White Cliff no 13º Dia do Mês das Sementes.
+
+Jude Thornton, Ada Hargreve, Nicholas Reynes, Patrick Fagan
+Roland Williams, Zachary Clendon, Thomas Jordan, Kent Hodgson
+
+Ração alocada:
+12 crostas de pão
+1 roda de queijo de boi sanguíneo
+5 latas de peixe-bruxa em salmoura"
+
+[InWorldReading.AbsInv_KenCodeNote DisAbstractItem]
+m_ItemName="Cache de Saque"
+m_PluralItemName=""
+m_Description="Oliver,
+
+Peguei o saque que coletamos e escondi na sala do incinerador. Está debaixo dos cães mortos, para que ninguém vasculhe e encontre.
+
+Consulte suas restrições para descobrir o código da porta: Língua Mentirosa, Olhar Errante, Mente Desviada. Confio que você é devoto e esperto o suficiente para decifrar.
+
+Burke"
+
+[InWorldReading.AbsInv_KenCodeNote_High DisAbstractItem]
+m_ItemName="Cache de Saque"
+m_PluralItemName=""
+m_Description="Oliver,
+
+Juntei o saque que coletamos e escondi na sala do incinerador. Está debaixo dos cães mortos, assim ninguém vai fuçar e encontrar.
+
+Consulte suas regras para descobrir o código da porta: Língua Mentirosa, Olhar Errante, Mente Desviada. Confio que você é devoto e esperto o suficiente para decifrar.
+
+Ah, e cuidado com os ratos. Cada vez mais têm se reunido desde que o Velho Finn vive esquecendo de queimar os cadáveres dos cães.
+
+Burke"
+
+[InWorldReading.AbsInv_OvrsrBCBreaking DisAbstractItem]
+m_ItemName="Mais Ferramentas"
+m_PluralItemName=""
+m_Description="Trevor,\n\nVamos precisar de outro carregamento de ferramentas para destruir esses amuletos de ossos amaldiçoados. Embora tenhamos conseguido desmontar mais de uma dúzia no mês passado, há mais chegando de toda Gristol, e essas coisas são notavelmente resistentes.\n\n- Edgar"
+
+[InWorldReading.AbsInv_OvrsrBookSafeNote DisAbstractItem]
+m_ItemName="Tranca da Estante"
+m_PluralItemName=""
+m_Description="Humphrey,
+
+Embora não possa duvidar da sua engenhosidade ao construir este dispositivo, considerando o peso de sete livros de tamanhos variados, não consigo deixar de questionar a praticidade. Certamente, pode ser um método mais seguro de esconder uma porta atrás de uma estante, mas duvido seriamente que alguém queira ficar controlando todos esses livros. Assim que recuperarmos o que quer que você tenha trancado aí dentro, vamos recuperar os mecanismos que pudermos e pedir a alguns dos homens para jogar essa coisa na água.
+
+Assinado,
+Alto Artífice Bartholomew"
+
+[InWorldReading.AbsInv_OvrsrBowNote DisAbstractItem]
+m_ItemName="Sobre as Bestas"
+m_PluralItemName=""
+m_Description="Campbell,\n\nInicialmente, achamos uma grande descoberta quando encontramos algumas das bestas que os assassinos vinham usando para atormentar nossas patrulhas. No entanto, os modelos que encontramos se mostraram deficientes. Os homens de Daud têm maior precisão e alcance, e juro que os deles recarregam mais rápido. Recomendo que continuemos com pistolas e sabres e consideremos isso uma lição sobre onde residem nossos pontos fortes.\n\nAtenciosamente,\nAlto Artífice Bartholomeu"
+
+[InWorldReading.AbsInv_OvrsrBrothelNote DisAbstractItem]
+m_ItemName="Minhas Garotas"
+m_PluralItemName=""
+m_Description="Campbell,
+
+Não sei como meu antecessor operava, mas de agora em diante, se uma das minhas garotas tentar chantagear você, mande-a de volta para mim no Gato Dourado, em vez de inventar algum plano por conta própria. Tive que substituir três garotas em apenas três meses, e você pode imaginar que o negócio do prazer carnal não está em alta neste buraco assolado pela peste que você chama de cidade.
+
+Madame Prudência"
+
+[InWorldReading.AbsInv_OvrsrComInstruc DisAbstractItem]
+m_ItemName="Instruções do Sistema de Alto-falantes"
+m_PluralItemName=""
+m_Description="Edward,
+
+Esta correspondência escrita está demorando demais. Peço-lhe novamente que solicite a taxa de consulta a Campbell para que eu possa ir pessoalmente ajudá-lo com o sistema de som.
+
+Tudo o que posso fazer à distância é fazer as mesmas perguntas:
+"O recipiente de óleo de baleia está conectado?"
+"O recipiente está carregado?"
+"Todos os cabos estão conectados?"
+
+Envie dinheiro,
+Roy"
+
+[InWorldReading.AbsInv_OvrsrCorvoLog3 DisAbstractItem]
+m_ItemName="Os Movimentos de Corvo Attano"
+m_PluralItemName=""
+m_Description="**Movimentos Conhecidos:** Retornou após uma missão oficial de aproximadamente 2 meses. Após a partida de Gristol, a missão incluiu paradas em outras Grandes Ilhas a pedido da Imperatriz Jessamine Kaldwin. Chegou trazendo más notícias. Imediatamente detido pelo seu assassinato.
+
+**Último Avistamento Confirmado:** Entrou nos esgotos sob a Prisão de Coldridge após escapar da execução em circunstâncias incomuns.
+
+**Depoimentos de Cidadãos: Trey Dover**
+**Confiabilidade:** Moderada, não confirmada
+**Declaração:** Indivíduo correspondente à descrição do alvo foi visto conversando com uma mulher não identificada perto dos portões principais da Academia de Filosofia Natural.
+
+**Depoimentos de Cidadãos: Benjamin Harribey**
+**Confiabilidade:** Baixa, não confirmada
+**Declaração:** Indivíduo correspondente à descrição do alvo foi visto confraternizando com boiadeiros logo fora da cidade.
+
+**Depoimentos de Cidadãos: Charlotte Kadenhead**
+**Confiabilidade:** Baixa, de segunda mão
+**Declaração:** Ouviu-se uma conversa que implicava que uma das partes envolvidas tinha conhecimento sobre o alvo.
+
+**Alianças Suspeitas:** Nenhuma conhecida.
+**Recomendação:** Busca no Distrito da Mansão, baseado na posição anterior de autoridade e privilégio do alvo."
+
+[InWorldReading.AbsInv_OvrsrHereticHowTo DisAbstractItem]
+m_ItemName="Sobre Marcar os Hereges"
+m_PluralItemName=""
+m_Description="A Marca do Herege é reservada para aqueles Supervisores que cometeram atos hediondos contra a ordem, mas não violaram códigos que resultariam em execução. Nenhum contato, auxílio ou abrigo pode ser concedido a quem porta a marca; essa pessoa é para sempre indesejada na Abadia e suas afiliadas.
+
+Quando aplicada, a marca é impressa na testa, para que todos vejam os pecados do destinatário. O composto químico age imediatamente, marcando o herege pelo resto da vida.
+
+A Sala de Interrogatório aqui no Gabinete do Alto Supervisor está preparada para o ritual de marcação, caso seja necessário. O destinatário deve ser amarrado à cadeira de interrogatório e imobilizado enquanto a marca é aplicada. A própria Marca do Herege deve ser armazenada na mesma sala."
+
+[InWorldReading.AbsInv_OvrsrHoundNote DisAbstractItem]
+m_ItemName="Cães Explosivos"
+m_PluralItemName=""
+m_Description="Bartholomeu,
+
+Vi as armações que você tem inventado na sua oficina. Se planeja prender explosivos aos meus preciosos cães e transformá-los em bombas vivas, pode me tirar do seu plano. Eu sou o mestre dos cães aqui, e sem meu treinamento eles nunca farão o que você pede.
+
+Assinado,
+Mestre de Cães Warton"
+
+[InWorldReading.AbsInv_OvrsrItenerary DisAbstractItem]
+m_ItemName="A Visita de Curnow"
+m_PluralItemName=""
+m_Description="Wayland,\n\nO Capitão Curnow e seu séquito estarão aqui esta noite. Assegure-se de que eles sejam autorizados a passar pelo posto de controle sem incidentes. Quero que ele esteja de bom humor quando eu tomar um drinque com ele na sala de reuniões.\n\nAlém disso, esteja preparado para defender o posto de controle por dentro, caso as negociações saiam erradas. Não que eu espere que isso aconteça, mas quero que seus Supervisores estejam preparados caso Curnow e seus homens estejam à altura da reputação da Guarda da Cidade.\n\nAlto Superintendente Campbell"
+
+[InWorldReading.AbsInv_OvrsrPoisonNote DisAbstractItem]
+m_ItemName="Para os Olhos do Alto Supervisor Apenas"
+m_PluralItemName=""
+m_Description="Meu senhor Alto Supervisor,
+
+Fiz como pediu e apliquei o "agente alquímico especial" no copo da esquerda. É insípido e inodoro, e será bastante eficaz. Para esclarecer, seu copo está à direita.
+
+Devo admitir, minhas mãos tremeram ao misturar e servir esta mistura ofensiva. Mas entendo que o senhor sabe coisas que eu não sei, e portanto não questionarei a sabedoria de suas decisões.
+
+Seu nas Estrituras."
+
+[InWorldReading.AbsInv_OvrsrSinLog1 DisAbstractItem]
+m_ItemName="Registro de Deposição #73826"
+m_PluralItemName=""
+m_Description="O Caso de Agatha Harcort
+
+Depoimento de Mary Wallace  
+"Eu senti um cheiro peculiar vindo da janela de Agatha uma noite. Ao olhar pela janela, vi-a queimando sobre um fogo os ossos de algo pequeno, junto com mechas de cabelo."
+
+Depoimento de Herbert Alcott  
+"Em várias noites, ao voltar do trabalho, vi Agatha espiando-me de forma não natural por trás de suas cortinas. No quinto dia, senti uma dor no estômago ao me aproximar de sua casa."
+
+Resultado:  
+A casa de Agatha foi revistada. Vários itens proibidos foram encontrados, e Agatha foi capturada enquanto tentava fugir pela porta dos fundos. Seu interrogatório rendeu pouca informação útil. Casa e propriedade confiscadas para a Abadia. Restos mortais cremados."
+
+[InWorldReading.AbsInv_OvrsrSinLog2 DisAbstractItem]
+m_ItemName="Registro de Divulgação #965"
+m_PluralItemName=""
+m_Description="Nome: Dillon Jacobs  
+Violações Admitidas: Roubo de comida do vizinho  
+Recurso: Metade do salário será entregue ao vizinho por um mês  
+
+Nome: Milicent Ridgeway  
+Violações Admitidas: Adultério  
+Recurso: Um ano de serviço à ordem  
+
+Nome: Robert Young  
+Violações Admitidas: Espionar a vizinha enquanto ela se banhava  
+Recurso: Humilhação pública no tronco por 2 dias"
+
+[InWorldReading.AbsInv_OvrsrSinLog3 DisAbstractItem]
+m_ItemName="Registro de Confisco #2749"
+m_PluralItemName=""
+m_Description="Acusado: Archibald Pelling  
+Recuperado: Efigie do Lorde Regente  
+Sentença: Condenado a 3 anos de prisão em Coldridge  
+
+Acusado: Beatrice Gould  
+Recuperado: Coleção de crânios de animais, entalhados com sigilos pictográficos  
+Sentença: Residência confiscada  
+
+Acusado: Charles Hanley  
+Recuperado: Livro de rituais  
+Sentença: Residência e propriedade apreendidas, banido para o distrito alagado"
+
+[InWorldReading.AbsInv_OvrsrStric1 DisAbstractItem]
+m_ItemName="Olhar Errante"
+m_PluralItemName=""
+m_Description="Restrinja um olhar errante que busca aqui e ali por algo brilhante que facilmente captura a fantasia de um homem num momento, mas traz calamidade no seguinte. Pois os olhos nunca se cansam de ver, nem são rápidos em detectar ilusões. Um homem cujo olhar está corrompido é como um espelho deformado que trocou beleza por feiura e feiura por beleza. Em vez disso, fixe seus olhos no que é edificante e no que é puro, e então você será capaz de reconhecer os monumentos do Forasteiro."
+
+[InWorldReading.AbsInv_OvrsrStric2 DisAbstractItem]
+m_ItemName="Língua Mentirosa"
+m_PluralItemName=""
+m_Description="Refreia a língua mentirosa que é como uma faísca na boca de um homem. É uma coisa tão pequena, mas de uma única faísca uma cidade inteira pode ser reduzida a cinzas."
+
+[InWorldReading.AbsInv_OvrsrStric3 DisAbstractItem]
+m_ItemName="Mãos Inquietas"
+m_PluralItemName=""
+m_Description="Restrinja as mãos inquietas, que rapidamente se tornam as companheiras do Forasteiro. Livres do trabalho honesto, elas se apressam para ganhos sórdidos, buscas vãs e atos de violência. De que valor são as mãos que roubam, matam e destroem? Em vez disso, coloque suas mãos no arado, no garfo e na pá. Pois até o trabalho mais baixo que é rigoroso espreme os músculos como uma esponja, enxaguando as impurezas da mente e do corpo."
+
+[InWorldReading.AbsInv_OvrsrStric4 DisAbstractItem]
+m_ItemName="Pés Itinerantes"
+m_PluralItemName=""
+m_Description="Restringe os pés errantes que adoram transgredir. Eles não dão atenção às pedras de limite dos campos alheios. Vagam por terras estrangeiras, só para retornar com as solas enegrecidas pela iniquidade. Onde você se desviou, que agora a destruição vem atrás de você? Você andaria sobre brasas ardentes ou vidros quebrados? Então por que você se infiltra nas casas dos homens honestos, ou nas tocas das coisas ocultas, se o resultado é o mesmo? Você cairá no Vazio! Em vez disso, descanse seus pés sobre uma base firme, para que quando os ventos do Forasteiro uivarem contra você, você permaneça firme e não seja derrubado."
+
+[InWorldReading.AbsInv_OvrsrStric5 DisAbstractItem]
+m_ItemName="Fome Desenfreada"
+m_PluralItemName=""
+m_Description="Restrinja a fome desenfreada ou os intemperantes se levantarão entre vocês como um enxame virulento, devorando tudo por onde passam, até mesmo a imundície. Pois o que entra em um homem, o envenena, e se um homem come imundície, então imundície é o que vomitará. E por um naco de carne, um glutão venderá seu direito de primogenitura, sua família e seus amigos."
+
+[InWorldReading.AbsInv_OvrsrStric6 DisAbstractItem]
+m_ItemName="Carne Desenfreada"
+m_PluralItemName=""
+m_Description="Restrinja os desejos da carne desenfreada. Verdadeiramente, não há meio mais rápido pelo qual a vida inteira de um homem possa ser revirada e peneirada do que pelas depredações do desejo descontrolado. De que vale o encontro com uma prostituta? A atenção de uma mulher dissoluta? Nada. E quanto ao fruto de tais uniões? Apenas a tristeza nasce e a miséria se multiplica."
+
+[InWorldReading.AbsInv_OvrsrStric7 DisAbstractItem]
+m_ItemName="Mente Errante"
+m_PluralItemName=""
+m_Description="Restrinja uma mente errante antes que ela se torne irascível e dividida. Dois inimigos podem ocupar o mesmo corpo? Não, pois o primeiro o conduzirá para um lado, e o segundo para outro, até que tropecem num buraco e quebrem o pescoço. Da mesma forma, dois pensamentos contrários não podem permanecer por muito tempo na mente de um homem, ou ele se tornará fraco de vontade e sujeito a qualquer heresia."
+
+[InWorldReading.AbsInv_OvrsrTemptationPlq DisAbstractItem]
+m_ItemName="Resistir à Tentação"
+m_PluralItemName=""
+m_Description="Que isto sirva como lembrança de nossa causa. Um símbolo do poder do Forasteiro, aqui diante de nós, contido. Não permitamos que ele distorça nossos corações. Nossos olhares não se desviarão para ele, nem nossas mãos se estenderão com ganância inquieta para agarrá-lo."
+
+[InWorldReading.AbsInv_OvrsrValveNote DisAbstractItem]
+m_ItemName="Nota da Oficina do Supervisor"
+m_PluralItemName=""
+m_Description="Supervisor Bloom,\n
+
+Tenho a válvula de reposição para esta porta pronta na oficina. Assim que a instalarmos, poderemos finalmente ver o que está apodrecendo neste depósito de suprimentos há um ano. Venha me procurar quando quiser.
+
+Atenciosamente,
+Alto Artífice Bartholomew"
+
+[InWorldReading.AbsInv_OvrsrValveNote2 DisAbstractItem]
+m_ItemName="Válvula de Substituição"
+m_PluralItemName=""
+m_Description="Humphrey,\n
+
+Você poderia cuidar para que esta válvula seja instalada naquele pequeno depósito de suprimentos perto das docas de carregamento? Os homens têm reclamado dessa coisa por meses agora, como se houvesse algo de valor do outro lado daquela porta que ela deve abrir. Continue resolvendo problemas como este para mim e talvez você se torne um aprendiz.
+
+Assinado,
+Alto Artífice Bartholomew"
+
+[Maps.ovrsr1stFloorMap DisAbstractItem]
+m_ItemName="Escritório do Alto Supervisor: Mapa do 1º Andar"
+m_PluralItemName=""
+m_Description=""
+
+[Maps.ovrsr2ndFloorMap DisAbstractItem]
+m_ItemName="Escritório do Alto Supervisor: Mapa do 2º Andar"
+m_PluralItemName=""
+m_Description=""
+
+[Maps.OvrsrBackMap DisAbstractItem]
+m_ItemName="Mapa do Quintal do Supervisor"
+m_PluralItemName=""
+m_Description=""
+
+[Maps.OvrsrHighLevelMap DisAbstractItem]
+m_ItemName="Mapa do Quintal do Supervisor"
+m_PluralItemName=""
+m_Description=""
+
+[Ovrsr_MBoxNote DisAbstractItem]
+m_ItemName="Caixa de Música"
+m_PluralItemName=""
+m_Description="Supervisor Humphrey,
+
+Deixei-lhe uma cópia de A Música Antiga para que possa familiarizar-se com os princípios que emprego nesta última variação do Dispositivo de Holger, ou a "caixa de música" como os homens a chamam. Como deve saber, ela produz harmonias que tornam inertes energias heréticas ou "magia" através de princípios matemáticos de contrapeso. Leia o livro e depois torne-se útil encontrando-nos alguns sujeitos para testá-la. Esta cidade está repleta de corrupção e superstição, então confio que não terá de procurar muito.
+
+Assinado,
+Alto Artífice Bartholomeu"
+
+[Ovrsr_StocksKey_AbsItm DisAbstractItem]
+m_ItemName="Tecla de Estoque"
+m_PluralItemName=""
+m_Description="A chave dos estoques de Martin. Se você está lendo isso no jogo, algo está errado."
+
+[Ovrsr_ToCampbell DisAbstractItem]
+m_ItemName="Aprendizagem"
+m_PluralItemName=""
+m_Description="Alto Artífice Bartholomew,\n\nAgradeceria que considerasse promover-me formalmente como seu aprendiz, para que eu possa trabalhar com o senhor em tempo integral.\n\nAgradecido,\nHumphrey"
+
+[Ovrsr_ToCampbell01 DisAbstractItem]
+m_ItemName="Aprendizagem, Rascunho 1"
+m_PluralItemName=""
+m_Description="Bartholomeu,
+
+Estou cansado de esfregar seus pisos e tirar o pó de suas prateleiras. Tudo isso na esperança de receber as migalhas de conhecimento que você joga em minha direção. Se você acha que vou ficar esperando para sempre -"
+
+[Ovrsr_ToCampbell02 DisAbstractItem]
+m_ItemName="Aprendizagem, Rascunho 2"
+m_PluralItemName=""
+m_Description="Caro Alto Artífice,
+
+Trata-se da minha escolha para o cargo de seu aprendiz. Se não se importar, agradeceria que examinasse meu registro de serviço dos últimos meses. Verá que tenho sido -"
+
+[Ovrsr_ToCampbell03 DisAbstractItem]
+m_ItemName="Aprendizagem, Rascunho 3"
+m_PluralItemName=""
+m_Description="Alto Artífice,
+
+O próprio Holger me visitou em meus sonhos ontem à noite! Ele me disse que eu realizaria grandes obras para a Abadia, que expulsaria a escuridão onde a encontrasse, que ajudaria a armar meus irmãos com armas que vão além do físico e atingem o próprio coração do Forasteiro! Acredito que estou pronto para esta tarefa -"
+
+[OvrsrPoisonVial_AbsItm DisAbstractItem]
+m_ItemName="Frasco de Veneno"
+m_PluralItemName=""
+m_Description="Um pequeno frasco de veneno inodoro e insípido."
+

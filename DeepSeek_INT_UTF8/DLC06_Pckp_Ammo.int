@@ -1,0 +1,9 @@
+﻿[DLC06_Pckp_Ammo_ExplosiveBolt_Bundle:pInteractableTweaks_PickupBase DisTweaks_Interactable_PickupBase]
+m_Name="Parafusos Explosivos"
+
+[DLC06_Pckp_Ammo_ExplosiveBolt_Single:pInteractableTweaks_PickupBase DisTweaks_Interactable_PickupBase]
+m_Name="Parafuso Explosivo"
+
+[Weapons_Ammo.DLC06_Bolts_Purse_twk:DisTweaks_Interactable_PickupBase_100 DisTweaks_Interactable_PickupBase]
+m_Name="Bolsa de Parafusos"
+

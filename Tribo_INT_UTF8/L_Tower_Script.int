@@ -1,0 +1,91 @@
+﻿[TheWorld:PersistentLevel.Main_Sequence.==Objectives==.DisSeqAct_UpdateTaskTarget_0 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Emily"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_GameOver_0 DisSeqAct_GameOver]
+m_Reason="Você cometeu um crime capital"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_SetTutorialMessage_0 DisSeqAct_SetTutorialMessage]
+m_TutorialMessage="Depois de meses de viagem, você retornou à Torre de Dunwall com notícias."
+m_TutorialMessage_Gamepad=""
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_SetTutorialMessage_2 DisSeqAct_SetTutorialMessage]
+m_TutorialMessage="Ela te enviou em todas as Ilhas em busca de ajuda contra uma terrível peste."
+m_TutorialMessage_Gamepad=""
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_SetTutorialMessage_3 DisSeqAct_SetTutorialMessage]
+m_TutorialMessage="Você é Corvo Attano, Protetor Real da Imperatriz."
+m_TutorialMessage_Gamepad=""
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_ShowLocationDiscovery_0 DisSeqAct_ShowLocationDiscovery]
+m_LocationName="Rio Wrenhaven"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_ShowLocationDiscovery_1 DisSeqAct_ShowLocationDiscovery]
+m_LocationName="Torre de Dunwall"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_UpdateTaskTarget_0 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Imperatriz Jessamine"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_UpdateTaskTarget_1 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Emily"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_UpdateTaskTarget_2 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Esconderijo"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_UpdateTaskTarget_3 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Imperatriz Jessamine"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_UpdateTaskTarget_6 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Esconderijo"
+
+[TheWorld:PersistentLevel.Main_Sequence.SOIREE_Boat.DisSeqAct_SetTutorialMessage_5 DisSeqAct_SetTutorialMessage]
+m_TutorialMessage="Use o mouse para olhar ao redor"
+m_TutorialMessage_Gamepad="Use `KEY_RightStick` para olhar ao redor"
+
+[TheWorld:PersistentLevel.Main_Sequence.SOIREE_Boat.DisSeqAct_SetTutorialMessage_8 DisSeqAct_SetTutorialMessage]
+m_TutorialMessage="Pressione `GBA_MoveForward` `GBA_MoveBackward` `GBA_StrafeLeft` `GBA_StrafeRight` para se mover"
+m_TutorialMessage_Gamepad="Pressione `KEY_LeftStick` para se mover"
+
+[TheWorld:PersistentLevel.Main_Sequence.SOIREE_Emily.DisSeqAct_SetTutorialMessage_0 DisSeqAct_SetTutorialMessage]
+m_TutorialMessage="Pressione `GBA_Sprint` para correr"
+m_TutorialMessage_Gamepad=""
+
+[TheWorld:PersistentLevel.Main_Sequence.SOIREE_Emily.DisSeqAct_SetTutorialMessage_11 DisSeqAct_SetTutorialMessage]
+m_TutorialMessage="Pressione `GBA_Sneak` para entrar no modo sigiloso"
+m_TutorialMessage_Gamepad=""
+
+[TheWorld:PersistentLevel.Main_Sequence.SOIREE_Emily.DisSeqAct_SetTutorialMessage_33 DisSeqAct_SetTutorialMessage]
+m_TutorialMessage="Você saiu da área. O esconde-esconde acabou."
+m_TutorialMessage_Gamepad=""
+
+[TheWorld:PersistentLevel.Main_Sequence.SOIREE_Emily.DisSeqAct_SetTutorialMessage_34 DisSeqAct_SetTutorialMessage]
+m_TutorialMessage="Aviso: Você está saindo da área do esconde-esconde."
+m_TutorialMessage_Gamepad=""
+
+[TheWorld:PersistentLevel.Main_Sequence.SOIREE_Empress_Regent.DisSeqAct_SetTutorialMessage_0 DisSeqAct_SetTutorialMessage]
+m_TutorialMessage="Ataque ou Defenda (Não letal)"
+m_TutorialMessage_Gamepad=""
+
+[TheWorld:PersistentLevel.Main_Sequence.SOIREE_Empress_Regent.DisSeqAct_SetTutorialMessage_1 DisSeqAct_SetTutorialMessage]
+m_TutorialMessage="Segure a tecla de USAR para guardar suas armas"
+m_TutorialMessage_Gamepad=""
+
+[TheWorld:PersistentLevel.Main_Sequence.SOIREE_Empress_Regent.DisSeqAct_SetTutorialMessage_2 DisSeqAct_SetTutorialMessage]
+m_TutorialMessage="Pressione `GBA_Secondary` para usar sua pistola"
+m_TutorialMessage_Gamepad=""
+
+[TheWorld:PersistentLevel.Main_Sequence.SOIREE_Empress_Regent.DisSeqAct_SetTutorialMessage_3 DisSeqAct_SetTutorialMessage]
+m_TutorialMessage=""
+m_TutorialMessage_Gamepad=""
+
+[TheWorld:PersistentLevel.Main_Sequence.SOIREE_Empress_Regent.DisSeqAct_SetTutorialMessage_5 DisSeqAct_SetTutorialMessage]
+m_TutorialMessage="Pressione `GBA_Block` para bloquear"
+m_TutorialMessage_Gamepad=""
+
+[TheWorld:PersistentLevel.Main_Sequence.SOIREE_Empress_Regent.DisSeqAct_SetTutorialMessage_8 DisSeqAct_SetTutorialMessage]
+m_TutorialMessage="Pressione `GBA_Primary` para usar sua espada"
+m_TutorialMessage_Gamepad=""
+
+[TheWorld:PersistentLevel.Main_Sequence.SOIREE_Empress_Regent.DisSeqAct_SetTutorialMessage_9 DisSeqAct_SetTutorialMessage]
+m_TutorialMessage="Entregue a carta à Imperatriz"
+m_TutorialMessage_Gamepad=""
+

@@ -1,0 +1,56 @@
+﻿[Battery.Twk_Attachment_Battery_Center:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name=""
+m_InteractText=""
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Battery.Twk_Attachment_Battery_Center_empty:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name=""
+m_InteractText=""
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Battery.Twk_Attachment_Battery_Left:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name=""
+m_InteractText=""
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Battery.Twk_Attachment_Battery_Right:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name=""
+m_InteractText=""
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Shield.Twk_Attachment_Shield:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name=""
+m_InteractText=""
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[TallboyBow:DisTweaks_InventoryItem_PlayerSpecific_0 DisTweaks_InventoryItem_PlayerSpecific]
+m_Name=""
+m_Description=""
+
+[TallboyBowWithMelee:pPlayerSpecific DisTweaks_InventoryItem_PlayerSpecific]
+m_Name=""
+m_Description=""
+
+[TallboyExplosiveArrow_twk:DisTweaks_InteractableInterface_0 DisTweaks_InteractableInterface]
+m_Name="Seta Incendiária"
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage="Você não pode mais carregar esse tipo de munição"
+

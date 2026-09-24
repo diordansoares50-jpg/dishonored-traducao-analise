@@ -1,0 +1,7 @@
+﻿[DLC01_Accuracy DishonoredObjective]
+m_Description="Mate dez alvos o mais rápido que puder."
+
+[DLC01_Accuracy:DishonoredTask_Custom_9 DishonoredTask_Custom]
+m_Description="Mate dez alvos o mais rápido que puder."
+m_Status=""
+

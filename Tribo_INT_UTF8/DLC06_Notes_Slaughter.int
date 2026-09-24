@@ -1,0 +1,130 @@
+﻿[DLC06_Books_SokolovJournal DisAbstractItem]
+m_ItemName="Anton Sokolov's Lab Journal"
+m_PluralItemName=""
+m_Description=""Vivisection of the third live specimen is almost complete. Careful perforation of the lower diaphragm has brought me closer to observing secretion of the oil but the process retains its mystery. \n\nThis creature has weakened considerably since its capture and its output is quite low. I've attached electrical stimulators to the beast. A mild current increases output by twenty percent, to the considerable complaint of the whale, I might add. Increasing the voltage will likely kill the creature, so further exploration will have to wait on a stronger specimen. For now, the music continues."\n"
+
+[DLC06_Notes_ArcMines DisAbstractItem]
+m_ItemName="Arc Mine Shipment"
+m_PluralItemName=""
+m_Description="Mr. Rothwild,\n\nI have great appreciation for the use of your space and your whales in the advance of my studies. All of Dunwall will be in your debt for your contribution to my work. In light of your recent - difficulties - I have prepared for you a gift of my latest defensive technology, the Arc Mine. It is based on my Arc Pylon, and will provide superb protection against intruders and those who would interfere with our efforts. I am certain the device will serve you well.\n\nAnton Sokolov"
+
+[DLC06_Notes_Confessions DisAbstractItem]
+m_ItemName="Worker Signatures"
+m_PluralItemName=""
+m_Description="I, (the undersigned), agree to renounce any association with any employee union, to abstain from discussing such matters at any time, and to promptly report any co-workers that encourage union views. I agree that all grievances will be taken up with Bundry Rothwild and his staff in an open and fair manner.\n- Gerald Harper\n- Richard Moser\n- J. A. Manderly\n- Sylvia Proctor\n- Lawrence Spinner\n- Maddie Cranston"
+
+[DLC06_Notes_CraneBattery DisAbstractItem]
+m_ItemName="Depleted Tanks"
+m_PluralItemName=""
+m_Description="Frank, I told you to have this thing replenished with a full tank at all times! We have a shipment coming in soon and this crane better be working by the time it arrives or someone will be demoted to sewer cleanup.\n\nCainin"
+
+[DLC06_Notes_FavorCode DisAbstractItem]
+m_ItemName="Injury Report Code"
+m_PluralItemName=""
+m_Description="5 injuries have been reported over the span of 1 week resulting in 2 fatalities."
+
+[DLC06_Notes_GrannyRecipe DisAbstractItem]
+m_ItemName="Granny's Recipe"
+m_PluralItemName=""
+m_Description="[A page torn from an old manuscript, written in a scrawling hand]\n\nThe port side eye of whale, newly dead\nPlop it in the pot, grisly and red\nWeeper, Weeper, weeps no more\nLaid to rest on blood-etched floor\n\nDo this for me dearie and I'll give you a birthday treat.\n-Granny"
+
+[DLC06_Notes_Grenades DisAbstractItem]
+m_ItemName="Explosive Solution"
+m_PluralItemName=""
+m_Description="Luka, we grabbed these from some 'sleeping' Overseers. Next whale carcass that needs carving, try planting these deep in it first. They ought to tenderize things real nice. Even if they don't, it'll be fun. Mind that you don't blow yourself up, though. "
+
+[DLC06_Notes_InterrogateChair DisAbstractItem]
+m_ItemName="Interrogation"
+m_PluralItemName=""
+m_Description="Rothwild,\nThe interrogation chair is set up in the meat locker and fully powered. We have run some test runs on a few of the most problematic laborers. They spill all of their secrets very quickly. They seem to die easily after about 4 treatments. She is ready for you whenever you need  her.\n\nGranville\nButcher Foreman\n\n"
+
+[DLC06_Notes_Negotiations DisAbstractItem]
+m_ItemName="Ames Negotiations"
+m_PluralItemName=""
+m_Description="Mr. Rothwild,\n\nMy research on Abigail Ames has turned up nothing. She has no close kin that we can leverage. Looks like the plague took her sister and mother. Her father died on a whaling ship of your predecessor about ten years ago. As far as blackmail goes, she’s got no secrets I could uncover. Devout as an Overseer, it seems. Not surprising, since she’s rejected every blackmail offer to come her way. I don’t think she’s making a power play; she seems to legitimately have the best interest of the laborers in mind.\n\nAs I interview the workers, it seems she really has them in thrall. They’ll do whatever she says, and their belief in her is absolute. If something happens to her (as in, like an accident or something) I expect they’ll riot. I’ll keep searching for an angle on her, but in the meantime I advise leaving her intact. It might be worth even considering some of her reforms. I know that doesn’t suit you, but at least it would buy some time and get the workers back in here. The Butchers lack the finer skills to keep this place operational.\n\nYour servant,\n\n-G"
+
+[DLC06_Notes_RuneFound DisAbstractItem]
+m_ItemName="Mysterious Object"
+m_PluralItemName=""
+m_Description="Anton,\n\nThis thing was found in the belly of catch number 184 when we were processing it. I’ve seen plenty of weird things in a whale’s gut, but never one of these. Must have consumed it in the deep, and I think it’s been in there quite a while. Don’t ask me how I can tell. If you have any ideas on what this may be, please inform me.\n\nOne of these was recovered back in the Month of Wind, but I haven't seen it, or the man that found it, since then.\n\n-BR"
+
+[DLC06_Notes_RuneHidden DisAbstractItem]
+m_ItemName="Written in Blood"
+m_PluralItemName=""
+m_Description="You are safe now. No one can find you here. No one. No one can reach you here. I almost died trying, and I am a better climber than any of them. But you gave me claws for the climb! You want me as much as I want you. We will stay here until they have forgotten about us. We will stay here for as long as it takes. I feel like sleeping. Don't leave while I sleep, because I need you. I will stay as long as I can. Forever."
+
+[DLC06_Notes_SafeCode1 DisAbstractItem]
+m_ItemName="A Waterlogged Scrap of Paper"
+m_PluralItemName=""
+m_Description="728"
+
+[DLC06_Notes_SafeCode2 DisAbstractItem]
+m_ItemName="Safe Code"
+m_PluralItemName=""
+m_Description="928"
+
+[DLC06_Notes_SafeCode3 DisAbstractItem]
+m_ItemName="Safe Code"
+m_PluralItemName=""
+m_Description="385"
+
+[DLC06_Notes_SafeCode4 DisAbstractItem]
+m_ItemName="Safe Code"
+m_PluralItemName=""
+m_Description="529"
+
+[DLC06_Notes_SafeHagfish DisAbstractItem]
+m_ItemName="Hagfish Warning"
+m_PluralItemName=""
+m_Description="The Hagfish are extremely dangerous this time of year. Please put up signs warning people to stay out of the water and be extra cautious not to fall in.\n\nWe confiscated a boat that was sitting out there the last few days. Had a week's worth of rations. It was put into storage.\n\nDock Patrol"
+
+[DLC06_Notes_SafeHint1 DisAbstractItem]
+m_ItemName="Detain Jack"
+m_PluralItemName=""
+m_Description="That laborer who does maintenance around here - Jack - changed the safe combination this morning and forgot to update the officer on duty. If anyone spots him, detain him immediately. I'm afraid with the way thing are between Rothwild's Butchers and the labor crews, Jack might not be long for the world. And then we'll have to get one of those dumb choffers with a saw up here. \n\nWatch Officer Dosset\n"
+
+[DLC06_Notes_SafeHint2 DisAbstractItem]
+m_ItemName="Hagfish Feast"
+m_PluralItemName=""
+m_Description="Jack,\n\nWe had an appointment. I know you must have had a good reason. You're not so thick as to be taken in by all that Abigail rot, right Jack? My patience is not like the ocean. So this is last time I'll ask you up to my office. Oh, and to give you a little 'work incentive', you better get here before my Butchers find you. If they find you first - well, the hagfish will have themselves a proper feast before the day's out. And don't think because you've been chumming with some of the Watch you're safe.  \n\nBR\n"
+
+[DLC06_Notes_Sewer DisAbstractItem]
+m_ItemName="Rat Poison"
+m_PluralItemName=""
+m_Description="We need to rid the sewer of the rat infestation. Make sure you set this crate of potted meat aside so we can lace it with rat poison. After it is poisoned, take it down to the docks so we can get it into the sewers below.\n\nCaptain Galloway"
+
+[DLC06_Notes_ShipContract DisAbstractItem]
+m_ItemName="Purchase Contract for 'the Delilah'"
+m_PluralItemName=""
+m_Description="I, Barrister Arnold Timsh, agree to the sale of the good whaling ship 'Delilah' to Rothwild Whaling Industries, Inc. All responsibility for the ownership and operation of the vessel are transferred to Rothwild, and all responsibilities under the Shipping and Maritime Codes of the Empire transfer to the new owner. Barrister Timsh is hereby absolved of any claims held against the vessel. The subsequent disposition of the Delilah's officers and crew are at the discretion of Rothwild Whaling Industries. Copies of this agreement are held by both parties and placed on file in the Office of Whaling Oversight in Dunwall."
+
+[DLC06_Notes_Shipment DisAbstractItem]
+m_ItemName="Shipment Manifest"
+m_PluralItemName=""
+m_Description="Captain Whithers,\n\nAll of the cargo destined for Samara, Tyvia has been approved. Please delay loading until just before departure. There is a special delivery that was to be prepared by Foreman Ames, but she has been detained at the moment, so that particular shipment is suspended for now. If the 'special package' has not been prepared by sundown, you may depart on schedule and other arrangements will be made.\n\nRemember, only our approved list of crewmen are allowed to handle this delicate cargo.\n\n-Marine Clerk Willamina Boward"
+
+[DLC06_Notes_SlghtrCard DisAbstractItem]
+m_ItemName="Main Door Code"
+m_PluralItemName=""
+m_Description="Please have the security officer change the code immediately. The new code will be 8485.\n\n"
+
+[DLC06_Notes_SlghtrCode DisAbstractItem]
+m_ItemName="Time Card"
+m_PluralItemName=""
+m_Description="--> 00:02\n--> 10:05"
+
+[DLC06_Notes_SokolovCold DisAbstractItem]
+m_ItemName="Sokolov Complains About the Cold"
+m_PluralItemName=""
+m_Description="Mr. Rothwild,\nI understand your need to maintain smooth operations, and I do appreciate that you have donated a space for me to carry out the Academy’s research on these beasts, but I must protest that my annex is located in a freezing meat locker. While the Tyvian nature of this room reminds me of my home, it also makes my research all the more challenging, and I can assure you that the potential in my work far outstrips the importance of all the whale meat and oil you can harvest. I beseech you for a kinder space, closer to the whale, where I may continue my march toward the future with a focused mind.\n-Anton Sokolov\n"
+
+[DLC06_Notes_TimshNote DisAbstractItem]
+m_ItemName="Contract on the ship 'Delilah'"
+m_PluralItemName=""
+m_Description="I, Barrister Arnold Timsh, agree to the sale of the good whaling ship 'Delilah' to Rothwild Whaling Industries, Inc. All responsibility for the ownership and operation of the vessel are transferred to Rothwild, and all responsibilities under the Shipping and Maritime Codes of the Empire transfer to the new owner. Barrister Timsh is absolved of any claims held against the vessel. The subsequent disposition of the Delilah's officers and crew are at the discretion of Rothwild Whaling Industries. Copies of this agreement are held by both parties and placed on file in the Office of Whaling Oversight in Dunwall."
+
+[DLC06_Notes_WhaleShocker DisAbstractItem]
+m_ItemName="Electrocuting A Whale"
+m_PluralItemName=""
+m_Description="I’ve set up this device to stimulate the whale’s nervous system, with the intention that doing so will prolong oil secretions and squeeze more of the precious fluid from each catch. Unfortunately, this device can lead to the instant death of the beast if too much power is used. Filling both tanks and activating the device extinguishes all life function in an instant. A painless and quick experience for the whale, but at the loss of the additional revenue that can be generated by sustaining it as long as possible.\n\n-Anton Sokolov"
+

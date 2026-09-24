@@ -1,0 +1,84 @@
+﻿[Objects.Key_Hub_Havelock DisTweaks_Key]
+m_Description="Uma chave velha e enferrujada."
+
+[Objects.Key_Hub_Havelock:DisTweaks_Interactable_PickupBase_71 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name="`k"
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Objects.Key_Hub_Sewer DisTweaks_Key]
+m_Description="Uma chave velha e enferrujada."
+
+[Objects.Key_Hub_Sewer:DisTweaks_Interactable_PickupBase_108 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name="Chave do Esgoto do Distrito do Porto Antigo"
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Objects.Key_Hub_Tower DisTweaks_Key]
+m_Description="Uma chave velha e enferrujada."
+
+[Objects.Key_Hub_Tower:DisTweaks_Interactable_PickupBase_71 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name="`k"
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Objects.Key_PhysicsOff_twk DisTweaks_Key]
+m_Description="Uma chave velha e enferrujada."
+
+[Objects.Key_PhysicsOff_twk:DisTweaks_Interactable_PickupBase_70 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name="`k"
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Objects.Key_PhysicsOn_twk DisTweaks_Key]
+m_Description="Uma chave velha e enferrujada."
+
+[Objects.Key_PhysicsOn_twk:DisTweaks_Interactable_PickupBase_33 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name="`k"
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Ovrsr_workshopKey_Twk DisTweaks_Key]
+m_Description="Uma chave velha e enferrujada."
+
+[Ovrsr_workshopKey_Twk:DisTweaks_Interactable_PickupBase_84 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name="`k"
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Usables.LighthouseKey_Twk DisTweaks_Key]
+m_Description="Uma chave velha e enferrujada."
+
+[Usables.LighthouseKey_Twk:DisTweaks_Interactable_PickupBase_0 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name="`k"
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+

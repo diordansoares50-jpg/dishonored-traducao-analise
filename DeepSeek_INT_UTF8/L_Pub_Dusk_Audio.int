@@ -1,0 +1,99 @@
+﻿[TheWorld:PersistentLevel.DisDoor_0 DisDoor]
+m_DoorName=""
+m_MatchingKey=""
+m_MatchingKeys[0]="Old Port District Sewer Key"
+
+[TheWorld:PersistentLevel.DisDoor_1 DisDoor]
+m_DoorName=""
+m_MatchingKey=""
+m_MatchingKeys[0]="Pub Key"
+
+[TheWorld:PersistentLevel.DisDoor_11 DisDoor]
+m_DoorName=""
+m_MatchingKey=""
+m_MatchingKeys[0]="Pub Key"
+
+[TheWorld:PersistentLevel.DisDoor_12 DisDoor]
+m_DoorName=""
+m_MatchingKey=""
+m_MatchingKeys[0]="Pub Key"
+
+[TheWorld:PersistentLevel.DisDoor_13 DisDoor]
+m_DoorName=""
+m_MatchingKey=""
+
+[TheWorld:PersistentLevel.DisDoor_14 DisDoor]
+m_DoorName=""
+m_MatchingKey=""
+m_MatchingKeys[0]="Havelock's Room Key"
+
+[TheWorld:PersistentLevel.DisDoor_17 DisDoor]
+m_DoorName=""
+m_MatchingKey=""
+m_MatchingKeys[0]="Pub Key"
+
+[TheWorld:PersistentLevel.DisDoor_19 DisDoor]
+m_DoorName=""
+m_MatchingKey=""
+m_MatchingKeys[0]="Pendleton's Room Key"
+m_MatchingKeys[1]="Pub Master Key"
+
+[TheWorld:PersistentLevel.DisDoor_23 DisDoor]
+m_DoorName=""
+m_MatchingKey=""
+m_MatchingKeys[0]="Pub Key"
+
+[TheWorld:PersistentLevel.DisDoor_24 DisDoor]
+m_DoorName=""
+m_MatchingKey=""
+m_MatchingKeys[0]="Servants' Key"
+
+[TheWorld:PersistentLevel.DisDoor_26 DisDoor]
+m_DoorName=""
+m_MatchingKey=""
+
+[TheWorld:PersistentLevel.DisDoor_29 DisDoor]
+m_DoorName=""
+m_MatchingKey=""
+m_MatchingKeys[0]="Pub Key"
+
+[TheWorld:PersistentLevel.DisDoor_3 DisDoor]
+m_DoorName=""
+m_MatchingKey=""
+m_MatchingKeys[0]="Servants' Key"
+
+[TheWorld:PersistentLevel.DisDoor_31 DisDoor]
+m_DoorName=""
+m_MatchingKey=""
+m_MatchingKeys[0]="Emily's Tower Key"
+
+[TheWorld:PersistentLevel.DisDoor_33 DisDoor]
+m_DoorName=""
+m_MatchingKey=""
+m_MatchingKeys[0]="Piero's Workshop Key"
+
+[TheWorld:PersistentLevel.DisDoor_4 DisDoor]
+m_DoorName=""
+m_MatchingKey=""
+m_MatchingKeys[0]="Piero's Workshop Key"
+
+[TheWorld:PersistentLevel.DisDoor_5 DisDoor]
+m_DoorName=""
+m_MatchingKey=""
+m_MatchingKeys[0]="Hound Pits Key"
+
+[TheWorld:PersistentLevel.DisDoor_6 DisDoor]
+m_DoorName=""
+m_MatchingKey=""
+m_MatchingKeys[0]="Pub Key"
+
+[TheWorld:PersistentLevel.DisDoor_8 DisDoor]
+m_DoorName=""
+m_MatchingKey=""
+m_MatchingKeys[0]="Emily's Tower Key"
+
+[TheWorld:PersistentLevel.DisDoor_9 DisDoor]
+m_DoorName=""
+m_MatchingKey=""
+m_MatchingKeys[0]="Abandoned Apartment Key"
+

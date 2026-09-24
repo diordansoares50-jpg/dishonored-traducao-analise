@@ -1,0 +1,8 @@
+﻿[DLC06_Plot_Lieutenant DisTweaks_NPCPlotSettings]
+m_PlotSettings.m_GameOverWhenHostileToPlayer.m_ScreenMessage="Irreconcilable Hostilities"
+m_PlotSettings.m_GameOverWhenDead.m_ScreenMessage="Irreconcilable Hostilities"
+m_PlotSettings.m_GameOverWhenPossessedByPlayer.m_ScreenMessage="Irreconcilable Hostilities"
+
+[DLC06_Pwn_Assassin_Lieut_Base:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Billie Lurk"
+

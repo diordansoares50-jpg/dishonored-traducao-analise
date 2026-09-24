@@ -1,0 +1,7 @@
+﻿[CatchMe_KillTarget DishonoredObjective]
+m_Description="Mate o aristocrata"
+
+[CatchMe_KillTarget:DishonoredTask_Custom_18 DishonoredTask_Custom]
+m_Description="Mate-o!"
+m_Status=""
+

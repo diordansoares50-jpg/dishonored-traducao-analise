@@ -1,0 +1,33 @@
+﻿[DLC07_Notes_BrokenFan DisAbstractItem]
+m_ItemName="Ventilador Quebrado"
+m_PluralItemName=""
+m_Description="Não use o sistema de ventilação até que o motor da ventoinha seja substituído. Esta coisa quase saiu do seu eixo de acionamento. Eu avisarei quando estiver de volta e pronto para funcionar."
+
+[DLC07_Notes_DeadMech DisAbstractItem]
+m_ItemName="Lista de Tarefas do Mecânico do Chapeleiro"
+m_PluralItemName=""
+m_Description="[Uma lista de afazeres quase ilegível, manchada de sangue e graxa]
+
+- Arranjar uma nova chave inglesa. O Caranguejo do Rio comeu a antiga.
+- Verificar o Controle de Fluxo de Água para Trimble. Tomara que não haja ratos.
+- Procurar Oxrush no canal. A Maggy gosta de vermelho.
+- Dar à Maggy a chave do meu armário, caso ela precise guardar o equipamento dela no meu apartamento esta semana."
+
+[DLC07_Notes_Station DisAbstractItem]
+m_ItemName="Estação de Controle de Água"
+m_PluralItemName=""
+m_Description="Royer e alguns outros foram adiante até a estação de controle de água para ver por que o fluxo parou, mas eles não retornaram. Houve relatos de ruídos estranhos e alguns dos nossos novos trabalhadores fugiram para a saída. Se alguém não vier me substituir logo, vou deixar este lugar. Estou escrevendo isso para que fique registrado que não abandonei meu posto sem uma causa justa.
+
+Preston P."
+
+[DLC07_Notes_Valve DisAbstractItem]
+m_ItemName="Chave Inglesa Movida"
+m_PluralItemName=""
+m_Description="Alguém pegou a chave inglesa da válvula de controle do fluxo de água. Por favor, peça para alguém encontrá-la e devolvê-la à Estação de Controle de Água."
+
+[Inventory.DLC07_ValveKey_Abst DisAbstractItem]
+m_ItemName="Chave de Controle de Válvula de Água"
+m_PluralItemName=""
+m_Description="Uma chave especializada usada para abrir as válvulas de pressão."
+
+

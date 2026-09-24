@@ -1,0 +1,86 @@
+﻿[DLC01_bootcamp_obj DishonoredObjective]
+m_Description="Do the assassins training"
+
+[DLC01_bootcamp_obj:DishonoredTask_Custom_0 DishonoredTask_Custom]
+m_Description="Through here to start"
+m_Status=""
+
+[DLC01_bootcamp_obj:DishonoredTask_Custom_15 DishonoredTask_Custom]
+m_Description="Hit the 4 training targets"
+m_Status=""
+
+[DLC01_bootcamp_obj:DishonoredTask_Custom_17 DishonoredTask_Custom]
+m_Description="Hit the 4 training targets"
+m_Status=""
+
+[DLC01_bootcamp_obj:DishonoredTask_Custom_19 DishonoredTask_Custom]
+m_Description="Hit the 4 training targets"
+m_Status=""
+
+[DLC01_bootcamp_obj:DishonoredTask_Custom_20 DishonoredTask_Custom]
+m_Description="Go upstairs"
+m_Status=""
+
+[DLC01_bootcamp_obj:DishonoredTask_Custom_22 DishonoredTask_Custom]
+m_Description="Hit the 2 training targets"
+m_Status=""
+
+[DLC01_bootcamp_obj:DishonoredTask_Custom_24 DishonoredTask_Custom]
+m_Description="Avoid the traps"
+m_Status=""
+
+[DLC01_bootcamp_obj:DishonoredTask_Custom_25 DishonoredTask_Custom]
+m_Description="Drop kill the weeper"
+m_Status=""
+
+[DLC01_bootcamp_obj:DishonoredTask_Custom_26 DishonoredTask_Custom]
+m_Description="Hit the 4 training targets"
+m_Status=""
+
+[DLC01_bootcamp_obj:DishonoredTask_Custom_29 DishonoredTask_Custom]
+m_Description="Hit the 2 training targets"
+m_Status=""
+
+[DLC01_bootcamp_objExp DishonoredObjective]
+m_Description="Do the assassins training"
+
+[DLC01_bootcamp_objExp:DishonoredTask_Custom_0 DishonoredTask_Custom]
+m_Description="Through here to start"
+m_Status=""
+
+[DLC01_bootcamp_objExp:DishonoredTask_Custom_15 DishonoredTask_Custom]
+m_Description="Kill the thugs"
+m_Status=""
+
+[DLC01_bootcamp_objExp:DishonoredTask_Custom_17 DishonoredTask_Custom]
+m_Description="Kill the guards"
+m_Status=""
+
+[DLC01_bootcamp_objExp:DishonoredTask_Custom_19 DishonoredTask_Custom]
+m_Description="Kill the weepers"
+m_Status=""
+
+[DLC01_bootcamp_objExp:DishonoredTask_Custom_20 DishonoredTask_Custom]
+m_Description="Go upstairs"
+m_Status=""
+
+[DLC01_bootcamp_objExp:DishonoredTask_Custom_22 DishonoredTask_Custom]
+m_Description="Kill the guards"
+m_Status=""
+
+[DLC01_bootcamp_objExp:DishonoredTask_Custom_24 DishonoredTask_Custom]
+m_Description="Avoid the traps"
+m_Status=""
+
+[DLC01_bootcamp_objExp:DishonoredTask_Custom_25 DishonoredTask_Custom]
+m_Description="kill the weeper"
+m_Status=""
+
+[DLC01_bootcamp_objExp:DishonoredTask_Custom_27 DishonoredTask_Custom]
+m_Description="Kill the assassins"
+m_Status=""
+
+[DLC01_bootcamp_objExp:DishonoredTask_Custom_28 DishonoredTask_Custom]
+m_Description="Shot both guards"
+m_Status=""
+

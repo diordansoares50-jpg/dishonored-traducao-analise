@@ -1,0 +1,107 @@
+﻿[DLC06_Twk_Upgrade_Armor DisTweaks_Upgrade]
+m_Name="Armadura Aprimorada"
+m_Description="Reduz dano."
+
+[dlc06_Upgrade_BoneCharms DisTweaks_Upgrade]
+m_Name="Atualização de Capacidade de Amuleto Ósseo 1"
+m_Description="Permite que um amuleto ósseo adicional esteja ativo. (Total 4)"
+
+[dlc06_Upgrade_BoneCharms2 DisTweaks_Upgrade]
+m_Name="Atualização de Capacidade de Amuleto Ósseo 2"
+m_Description="Permite que um amuleto ósseo adicional esteja ativo. (Total 5)"
+
+[dlc06_Upgrade_BoneCharms3 DisTweaks_Upgrade]
+m_Name="Atualização de Capacidade de Amuleto Ósseo 3"
+m_Description="Permite que um amuleto ósseo adicional esteja ativo. (Total 6)"
+
+[DLC06_Upgrade_ChkDstBelt DisTweaks_Upgrade]
+m_Name="Capacidade de Poeira Sufocante Aprimorada"
+m_Description="Aumenta a capacidade de armazenamento de pó asfixiante em 4 (Total 9)"
+
+[dlc06_Upgrade_ExpBoltCount2 DisTweaks_Upgrade]
+m_Name="Capacidade de Parafuso Explosivo Aprimoramento 1"
+m_Description="Aumenta a capacidade de parafusos explosivos em 3 (Total 8)."
+
+[dlc06_Upgrade_ExpBoltCount4 DisTweaks_Upgrade]
+m_Name="Capacidade de Parafuso Explosivo Aprimorada 2"
+m_Description="Aumenta a capacidade de parafusos explosivos em 2 (Total 10)."
+
+[DLC06_Upgrade_GrenadeBelt DisTweaks_Upgrade]
+m_Name="Aumento de Capacidade de Granada"
+m_Description="Aumenta a capacidade de armazenamento de granadas em 4 (Total 9)."
+
+[dlc06_Upgrade_InstSleepArrow DisTweaks_Upgrade]
+m_Name="Dardos Soníferos de Combate"
+m_Description="Torna os dardos de sono eficazes imediatamente, mesmo em combate."
+
+[dlc06_Upgrade_InstSleepArrow:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name=""
+m_InteractText=""
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[dlc06_Upgrade_QuiverCount2 DisTweaks_Upgrade]
+m_Name="Capacidade de Parafusos Aprimoramento 1"
+m_Description="Aumenta a capacidade padrão de parafusos em 10 (Total 20)."
+
+[dlc06_Upgrade_QuiverCount4 DisTweaks_Upgrade]
+m_Name="Capacidade de Parafuso Aprimoramento 2"
+m_Description="Aumenta a capacidade padrão de parafusos em 10 (Total 30)."
+
+[dlc06_Upgrade_SilentRun DisTweaks_Upgrade]
+m_Name="Aprimoramento de Furtividade de Bota 1"
+m_Description="Reduziu os sons de passos."
+
+[dlc06_Upgrade_SilentSprint DisTweaks_Upgrade]
+m_Name="Aprimoramento de Furtividade de Bota 2"
+m_Description="Reduziu ainda mais os sons de passos."
+
+[dlc06_Upgrade_SleepDartCount2 DisTweaks_Upgrade]
+m_Name="Melhoria de Capacidade de Dardo Sonífero 1"
+m_Description="Aumenta a capacidade de dardos de sono em 3 (Total 13)."
+
+[dlc06_Upgrade_SleepDartCount4 DisTweaks_Upgrade]
+m_Name="Aprimoramento de Capacidade de Dardo Sonífero 2"
+m_Description="Aumenta a capacidade de dardos de sono em 2 (Total 15)."
+
+[dlc06_Upgrade_Sword DisTweaks_Upgrade]
+m_Name="Aprimoramento de Cruzamento de Espadas"
+m_Description="Torna a espada mais eficaz ao travar lâminas e empurrar contra um inimigo."
+
+[dlc06_Upgrade_Wristbow_Acc DisTweaks_Upgrade]
+m_Name="Aprimoramento de Precisão da Besta de Pulso"
+m_Description="Aprimora e estabiliza a mira da besta de pulso."
+
+[dlc06_Upgrade_Wristbow_Range DisTweaks_Upgrade]
+m_Name="Melhoria de Alcance do Arco de Pulso"
+m_Description="Os dardos da besta de pulso viajam mais rápido e mais longe."
+
+[DLC06_Upgrd_ArcMine_Capacity DisTweaks_Upgrade]
+m_Name="Capacidade da Mina de Arco"
+m_Description="Aumenta a capacidade de armazenamento de Mina de Arco em 3. (Total 6)"
+
+[DLC06_Upgrd_ArcMine_Charges DisTweaks_Upgrade]
+m_Name="Carga Extra da Mina de Arco"
+m_Description="Adiciona uma carga extra à Mina de Arco."
+
+[DLC06_Upgrd_ArcStnMine_Cap DisTweaks_Upgrade]
+m_Name="Capacidade de Mina de Atordoamento"
+m_Description="Aumenta a capacidade de armazenamento de Minas de Atordoamento em 3. (Total 6)"
+
+[DLC06_Upgrd_ArcStnMine_Chrg DisTweaks_Upgrade]
+m_Name="Carga Extra da Mina de Atordoamento"
+m_Description="Adiciona uma carga extra à Mina de Atordoamento."
+
+[DLC06_Upgrd_ArcStunMine_Unlock DisTweaks_Upgrade]
+m_Name="Mina de Atordoamento"
+m_Description="Uma modificação no design da Mina de Arco permite uma versão não letal."
+
+[DLC06_Upgrd_Squint1 DisTweaks_Upgrade]
+m_Name="Luneta"
+m_Description="Um tubo dobrável feito de metais leves e lentes usado para espiar locais remotos."
+
+[DLC06_Upgrd_Wristbow_ReloadSpeed DisTweaks_Upgrade]
+m_Name="Melhoria de Velocidade de Recarga da Besta de Pulso"
+

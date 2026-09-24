@@ -1,0 +1,77 @@
+﻿[TheWorld:PersistentLevel.DisDoor_9 DisDoor]
+m_DoorName=""
+m_MatchingKey=""
+
+[TheWorld:PersistentLevel.DisDoor_8 DisDoor]
+m_DoorName=""
+m_MatchingKey=""
+
+[TheWorld:PersistentLevel.DisDoor_7 DisDoor]
+m_DoorName=""
+m_MatchingKey=""
+
+[TheWorld:PersistentLevel.DisDoor_6 DisDoor]
+m_DoorName=""
+m_MatchingKey=""
+
+[TheWorld:PersistentLevel.DisDoor_5 DisDoor]
+m_DoorName=""
+m_MatchingKey=""
+
+[TheWorld:PersistentLevel.DisDoor_4 DisDoor]
+m_DoorName=""
+m_MatchingKey=""
+
+[TheWorld:PersistentLevel.DisDoor_3 DisDoor]
+m_DoorName=""
+m_MatchingKey=""
+
+[TheWorld:PersistentLevel.DisDoor_21 DisDoor]
+m_DoorName=""
+m_MatchingKey=""
+m_MatchingKeys[0]="Waverly's Bedroom Key"
+
+[TheWorld:PersistentLevel.DisDoor_2 DisDoor]
+m_DoorName=""
+m_MatchingKey=""
+
+[TheWorld:PersistentLevel.DisDoor_19 DisDoor]
+m_DoorName=""
+m_MatchingKey=""
+
+[TheWorld:PersistentLevel.DisDoor_17 DisDoor]
+m_DoorName=""
+m_MatchingKey=""
+
+[TheWorld:PersistentLevel.DisDoor_15 DisDoor]
+m_DoorName=""
+m_MatchingKey=""
+
+[TheWorld:PersistentLevel.DisDoor_14 DisDoor]
+m_DoorName=""
+m_MatchingKey=""
+m_MatchingKeys[0]="Esma's Bedroom Key"
+
+[TheWorld:PersistentLevel.DisDoor_12 DisDoor]
+m_DoorName=""
+m_MatchingKey=""
+
+[TheWorld:PersistentLevel.DisDoor_11 DisDoor]
+m_DoorName=""
+m_MatchingKey=""
+m_MatchingKeys[0]="Basement Vault Key"
+
+[TheWorld:PersistentLevel.DisDoor_10 DisDoor]
+m_DoorName=""
+m_MatchingKey=""
+
+[TheWorld:PersistentLevel.DisDoor_1 DisDoor]
+m_DoorName=""
+m_MatchingKey=""
+m_MatchingKeys[0]="Whale Oil Closet Key"
+
+[TheWorld:PersistentLevel.DisDoor_0 DisDoor]
+m_DoorName=""
+m_MatchingKey=""
+m_MatchingKeys[0]="Switch"
+

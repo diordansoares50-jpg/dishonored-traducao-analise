@@ -1,0 +1,30 @@
+﻿[AbstractInv_Graphs.AG_TimshBusiness DisAbstractItemAudioLog]
+m_ItemName="Timsh's Daily Business"
+m_PluralItemName=""
+m_Description="Timsh dictates a correspondence to an associate."
+
+[AbstractInv_Graphs.AG_TimshMother DisAbstractItemAudioLog]
+m_ItemName="Timsh's Message to His Mother"
+m_PluralItemName=""
+m_Description="Timsh's message to his mother in case she wakes up from her comatose state."
+
+[AbstractInv_Graphs.DLC06_RothwildDrunk DisAbstractItemAudioLog]
+m_ItemName="Rothwild's Musings"
+m_PluralItemName=""
+m_Description="Rothwild records his drunken musings in the last hours of the night"
+
+[AbstractInv_Graphs.DLC06_RothwildOffice DisAbstractItemAudioLog]
+m_ItemName="Rothwild's Business"
+m_PluralItemName=""
+m_Description="Rothwild updates the status of his fleet"
+
+[AbstractInv_Graphs.DLC06_Slaughter_PCard DisAbstractItemAudioLog]
+m_ItemName="Time Card Confiscation"
+m_PluralItemName=""
+m_Description="Notes on the slaughterhouse lock-out."
+
+[AbstractInv_Graphs.DLC06_SokolovOffice DisAbstractItemAudioLog]
+m_ItemName="Sokolov's Notes"
+m_PluralItemName=""
+m_Description="Anton Sokolov describes a process for electrocuting a whale."
+

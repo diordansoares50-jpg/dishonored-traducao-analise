@@ -1,0 +1,16 @@
+﻿[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_SetTutorialMessage_5 DisSeqAct_SetTutorialMessage]
+m_TutorialMessage="Luz Vermelha: Sprint + Salto de Agilidade + Piscar"
+m_TutorialMessage_Gamepad=""
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_SetTutorialMessage_6 DisSeqAct_SetTutorialMessage]
+m_TutorialMessage="Desça correndo usando Assassinato em Queda."
+m_TutorialMessage_Gamepad=""
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_SetTutorialMessage_7 DisSeqAct_SetTutorialMessage]
+m_TutorialMessage="Luz Verde: Apenas Corra e caia sobre o inimigo"
+m_TutorialMessage_Gamepad=""
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_SetTutorialMessage_8 DisSeqAct_SetTutorialMessage]
+m_TutorialMessage="Luz Amarela: Sprint + Salto de Agilidade"
+m_TutorialMessage_Gamepad=""
+

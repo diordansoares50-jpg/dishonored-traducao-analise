@@ -1,0 +1,38 @@
+﻿[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_DialogScriptedChoice_4 DisSeqAct_DialogScriptedChoice]
+m_Title=""
+m_Choices[0]=(m_ChoiceText="Go to Boyle Mansion Foyer")
+m_Choices[1]=(m_ChoiceText="Stay in the Courtyard")
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_ShowLocationDiscovery_0 DisSeqAct_ShowLocationDiscovery]
+m_LocationName="Propriedade Boyle"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_UpdateTaskTarget_0 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Festa do Boyle"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_UpdateTaskTarget_1 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Festa do Boyle"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_UpdateTaskTarget_2 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Festa do Boyle"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_UpdateTaskTarget_25 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Senhor Shaw"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_UpdateTaskTarget_8 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Festa do Boyle"
+
+[TheWorld:PersistentLevel.Main_Sequence.Pistols_in_the_Yard.DisSeqAct_ShowHUDMessage_0 DisSeqAct_ShowHUDMessage]
+m_Message="Nova Pista de Missão Adicionada"
+
+[TheWorld:PersistentLevel.Main_Sequence.Pistols_in_the_Yard.DisSeqAct_ShowHUDMessage_1 DisSeqAct_ShowHUDMessage]
+m_Message="Nova Pista de Missão Adicionada"
+
+[TheWorld:PersistentLevel.Main_Sequence.Pistols_in_the_Yard.DisSeqAct_UpdateTaskTarget_0 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Sua Marca"
+
+[TheWorld:PersistentLevel.Main_Sequence.Pistols_in_the_Yard.DisSeqAct_UpdateTaskTarget_26 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Lord Shaw"
+
+[TheWorld:PersistentLevel.Main_Sequence.Pistols_in_the_Yard.DisSeqAct_UpdateTaskTarget_3 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Lord Shaw"
+

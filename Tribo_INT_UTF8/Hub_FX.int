@@ -1,0 +1,8 @@
+﻿[Effects.Samuel_Flare_twk:DisTweaks_InteractableInterface_0 DisTweaks_InteractableInterface]
+m_Name="Seta"
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage="Você não pode mais carregar esse tipo de munição"
+

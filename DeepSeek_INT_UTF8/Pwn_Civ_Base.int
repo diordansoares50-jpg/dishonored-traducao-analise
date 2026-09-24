@@ -1,0 +1,60 @@
+﻿[Pwn_Civ_Base DisTweaks_NPCPawn]
+m_BusyText="Este personagem está ocupado"
+m_CannotStealMessage="Você não pode carregar mais munição deste tipo"
+
+[Pwn_Civ_Base:DisTweaks_InteractableInterface_0 DisTweaks_InteractableInterface]
+m_Name="Sobrevivente"
+m_InteractText=""
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Pwn_Civ_CBase DisTweaks_NPCPawn]
+m_BusyText="Este personagem está ocupado"
+m_CannotStealMessage="Você não pode carregar mais munição deste tipo"
+
+[Pwn_Civ_CBase:DisTweaks_InteractableInterface_4 DisTweaks_InteractableInterface]
+m_Name="Sobrevivente"
+m_InteractText=""
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Pwn_Civ_FBase DisTweaks_NPCPawn]
+m_BusyText="Este personagem está ocupado"
+m_CannotStealMessage="Você não pode carregar mais munição deste tipo"
+
+[Pwn_Civ_FBase:DisTweaks_InteractableInterface_4 DisTweaks_InteractableInterface]
+m_Name="Sobrevivente"
+m_InteractText=""
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Pwn_Civ_MSBase DisTweaks_NPCPawn]
+m_BusyText="Este personagem está ocupado"
+m_CannotStealMessage="Você não pode carregar mais munição deste tipo"
+
+[Pwn_Civ_MSBase:DisTweaks_InteractableInterface_5 DisTweaks_InteractableInterface]
+m_Name="Sobrevivente"
+m_InteractText=""
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Pwn_Civ_MTBase DisTweaks_NPCPawn]
+m_BusyText="Este personagem está ocupado"
+m_CannotStealMessage="Você não pode carregar mais munição deste tipo"
+
+[Pwn_Civ_MTBase:DisTweaks_InteractableInterface_2 DisTweaks_InteractableInterface]
+m_Name="Sobrevivente"
+m_InteractText=""
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+

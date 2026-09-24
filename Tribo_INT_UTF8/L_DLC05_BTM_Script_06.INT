@@ -1,0 +1,72 @@
+﻿[TheWorld:PersistentLevel.Main_Sequence.Bend_Time_Massacre.DisSeqAct_DLC05_ShowPhaseResults_0 DisSeqAct_DLC05_ShowPhaseResults]
+m_PhaseName="Round 6"
+
+[TheWorld:PersistentLevel.Main_Sequence.Bend_Time_Massacre.DisSeqAct_DLC05_DialogScriptedChoice_2 DisSeqAct_DLC05_DialogScriptedChoice]
+m_Title="Choose Camera"
+m_Choices[0]=(m_ChoiceText="Library")
+m_Choices[1]=(m_ChoiceText="Planning Room")
+m_Choices[2]=(m_ChoiceText="Lounge")
+
+[TheWorld:PersistentLevel.Main_Sequence.Bend_Time_Massacre.DisSeqAct_ShowHUDMessage_0 DisSeqAct_ShowHUDMessage]
+m_Message="Waiting for effects..."
+
+[TheWorld:PersistentLevel.Main_Sequence.Bend_Time_Massacre.DisSeqAct_ShowLocationDiscovery_19 DisSeqAct_ShowLocationDiscovery]
+m_LocationName="Bonus Round Completed"
+
+[TheWorld:PersistentLevel.Main_Sequence.Bend_Time_Massacre.DisSeqAct_ShowLocationDiscovery_20 DisSeqAct_ShowLocationDiscovery]
+m_LocationName="Bonus Round Failed"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_DLC05_ShowWaveNumber_0 DisSeqAct_DLC05_ShowWaveNumber]
+m_CustomText=""
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_DLC05_ShowWaveNumber_11 DisSeqAct_DLC05_ShowWaveNumber]
+m_CustomText="Round 6 - Process of Elimination Bonus"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_DLC05_ShowWaveNumber_12 DisSeqAct_DLC05_ShowWaveNumber]
+m_CustomText="Round 6 - Hero Bonus"
+
+[TheWorld:PersistentLevel.Main_Sequence.Bend_Time_Massacre.DisSeqAct_DLC05_ShowWaveNumber_3 DisSeqAct_DLC05_ShowWaveNumber]
+m_CustomText="Bonus Round Failed: Someone Died"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_SetTutorialMessage_1 DisSeqAct_SetTutorialMessage]
+m_TutorialMessage=""
+m_TutorialMessage_Gamepad=""
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_SetTutorialMessage_4 DisSeqAct_SetTutorialMessage]
+m_TutorialMessage="Bonus Challenge. You will have 20 seconds to kill 10 enemies with only your sword and Blink."
+m_TutorialMessage_Gamepad=""
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_SetTutorialMessage_14 DisSeqAct_SetTutorialMessage]
+m_TutorialMessage=""
+m_TutorialMessage_Gamepad=""
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_SetTutorialMessage_15 DisSeqAct_SetTutorialMessage]
+m_TutorialMessage=""
+m_TutorialMessage_Gamepad=""
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_SetTutorialMessage_20 DisSeqAct_SetTutorialMessage]
+m_TutorialMessage="You will have 20 seconds to kill 15 enemies. Break glass to massacre."
+m_TutorialMessage_Gamepad=""
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_SetTutorialMessage_21 DisSeqAct_SetTutorialMessage]
+m_TutorialMessage="Bonus Challenge. You will have 20 seconds to save all 20 enemies from the ignited whale oil tanks. Hurry up!"
+m_TutorialMessage_Gamepad=""
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_ShowLocationDiscovery_15 DisSeqAct_ShowLocationDiscovery]
+m_LocationName="Round 6"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_ShowLocationDiscovery_23 DisSeqAct_ShowLocationDiscovery]
+m_LocationName="Round 6 - Hero Bonus"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_ShowLocationDiscovery_24 DisSeqAct_ShowLocationDiscovery]
+m_LocationName="Round 6 - Process of Elimination Bonus"
+
+[TheWorld:PersistentLevel.Main_Sequence.Environmental.DisSeqAct_DLC05_MarkerControl_0 DisSeqAct_DLC05_MarkerControl]
+m_TargetName="Whale Oil Tank"
+
+[TheWorld:PersistentLevel.Main_Sequence.Environmental.DisSeqAct_DLC05_MarkerControl_5 DisSeqAct_DLC05_MarkerControl]
+m_TargetName=""
+
+[TheWorld:PersistentLevel.Main_Sequence.The_Victims.DisSeqAct_ShowLocationDiscovery_21 DisSeqAct_ShowLocationDiscovery]
+m_LocationName="Bonus Round Failed: Someone Died"
+

@@ -1,0 +1,8 @@
+﻿[OutsiderShrine_twk:DisTweaks_InteractableInterface_16 DisTweaks_InteractableInterface]
+m_Name="Santuário do Forasteiro"
+m_InteractText="`GBA_Use` Ativar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+

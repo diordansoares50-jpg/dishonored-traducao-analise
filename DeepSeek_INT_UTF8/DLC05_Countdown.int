@@ -1,0 +1,10 @@
+﻿[DLC05_Countdown DishonoredObjective]
+m_Description="Alcance o alvo o mais rápido que puder."
+
+[DLC05_Countdown:DishonoredTask_Custom_10 DishonoredTask_Custom]
+m_Description="Alvo"
+m_Status=""
+
+[DLC05_Countdown_Hardcore DishonoredObjective]
+m_Description=""
+

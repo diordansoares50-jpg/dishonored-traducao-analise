@@ -1,0 +1,16 @@
+﻿[Twk_Proj_GrenadeBase:DisTweaks_InteractableInterface_0 DisTweaks_InteractableInterface]
+m_Name=""
+m_InteractText=""
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Twk_Proj_GrenadeBase:DisTweaks_InteractableInterface_10 DisTweaks_InteractableInterface]
+m_Name="Granada"
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage="Você não pode mais carregar esse tipo de munição"
+

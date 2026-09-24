@@ -1,0 +1,10 @@
+﻿[DLC06_Inv_WristbowDaud:pPlayerSpecific DisTweaks_InventoryItem_PlayerSpecific]
+m_Name="Arco de Pulso de Daud"
+m_Description="Uma arma silenciosa e oculta, forjada com os melhores materiais. Usada para disparar virotes, dardos soníferos e virotes explosivos."
+
+[DLC06_Proj_Wristbolt_DELETEME:DisTweaks_InteractableInterface_0 DisTweaks_InteractableInterface]
+m_Name="Parafuso Explosivo"
+
+[DLC06_Proj_WristBolt_Explosive:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Parafuso Explosivo"
+

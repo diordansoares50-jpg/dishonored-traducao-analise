@@ -1,0 +1,48 @@
+﻿[Twk_Pawn_AntonSokolov DisTweaks_NPCPawn]
+m_BusyText="Este personagem está ocupado"
+m_CannotStealMessage="Você não pode carregar mais munição deste tipo"
+
+[Twk_Pawn_AntonSokolov:DisTweaks_InteractableInterface_49 DisTweaks_InteractableInterface]
+m_Name="Anton Sokolov"
+m_InteractText=""
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Twk_Pawn_AntonSokolov_Killable DisTweaks_NPCPawn]
+m_BusyText="Este personagem está ocupado"
+m_CannotStealMessage="Você não pode carregar mais munição deste tipo"
+
+[Twk_Pawn_AntonSokolov_Killable:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Anton Sokolov"
+m_InteractText=""
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Twk_Pawn_AntonSokolovBridge DisTweaks_NPCPawn]
+m_BusyText="Este personagem está ocupado"
+m_CannotStealMessage="Você não pode carregar mais munição deste tipo"
+
+[Twk_Pawn_AntonSokolovBridge:DisTweaks_InteractableInterface_49 DisTweaks_InteractableInterface]
+m_Name="Anton Sokolov"
+m_InteractText=""
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Twk_Pwn_AntonSokolov_Hub7 DisTweaks_NPCPawn]
+m_BusyText="Este personagem está ocupado"
+m_CannotStealMessage="Você não pode carregar mais munição deste tipo"
+
+[Twk_Pwn_AntonSokolov_Hub7:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Anton Sokolov"
+m_InteractText=""
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+

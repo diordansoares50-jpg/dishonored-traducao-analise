@@ -1,0 +1,22 @@
+﻿[Notes.DisclaimerExpert_AbstrInv1 DisAbstractItem]
+m_ItemName="Assassin's Run"
+m_PluralItemName=""
+m_Description="Armed with just a crossbow, proceed through the level and shoot your targets as fast as possible while avoiding to shoot civilians.\n\nThis challenge will test your mobility and your accuracy. \nThe area is full of enemies and hazards.\nEach room is sealed until you shoot every target in it. \nYour Crossbow has an infinite amount of bolts.\n\nScoring:\n* The faster you make it to the end, the more points you score.\n* Be accurate - aim for the head! - and shoot enemies with flair for a better score.\n* Shooting Civilians subtracts from your score.\n\nGame Over: \nThe challenge is over if you die."
+
+[Notes.DisclaimerExpert_Pickup1 DisTweaks_AbstractItemPickupNote]
+m_PressKeyToReadMessage=""
+m_OnPickupMessage=""
+
+[Pwn_AristoParty_1:DisTweaks_InteractableInterface_5 DisTweaks_InteractableInterface]
+m_Name="Civilian"
+
+[Twk_Inv_CrossbowCorvoTraining:DisTweaks_InventoryItem_PlayerSpecific_1 DisTweaks_InventoryItem_PlayerSpecific]
+m_Name="Corvo's Crossbow"
+m_Description="A silent, exotic weapon crafted from the finest materials. Used to launch bolts, sleep darts and incendiary missiles."
+
+[Twk_Inv_PistolCorvoTraining:DisTweaks_InventoryItem_PlayerSpecific_0 DisTweaks_InventoryItem_PlayerSpecific]
+m_Name="Corvo's Pistol"
+m_Description="Master-crafted with customization in mind, this is the best firearm across the Isles. Allows pistol upgrades and adds short-range spread damage."
+
+[Twk_Pawn_1:DisTweaks_InteractableInterface_14 DisTweaks_InteractableInterface]
+m_Name="Civilian"

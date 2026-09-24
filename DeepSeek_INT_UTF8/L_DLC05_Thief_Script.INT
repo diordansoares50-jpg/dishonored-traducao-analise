@@ -1,0 +1,180 @@
+﻿[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_DialogScriptedChoice_0 DisSeqAct_DialogScriptedChoice]
+m_Title=""
+m_Choices[0]=(m_ChoiceText="")
+m_Choices[1]=(m_ChoiceText="")
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_SetTutorialMessage_22 DisSeqAct_SetTutorialMessage]
+m_TutorialMessage="Esta mansão está cheia de segredos, procure em todos os lugares."
+m_TutorialMessage_Gamepad=""
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_SetTutorialMessage_23 DisSeqAct_SetTutorialMessage]
+m_TutorialMessage="Há seis Ovos de Corda para coletar, além de relíquias, pinturas e moedas."
+m_TutorialMessage_Gamepad=""
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_SetTutorialMessage_24 DisSeqAct_SetTutorialMessage]
+m_TutorialMessage="Infiltre-se na mansão para recuperar os Ovos e o máximo de objetos de valor que conseguir."
+m_TutorialMessage_Gamepad=""
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_SetTutorialMessage_25 DisSeqAct_SetTutorialMessage]
+m_TutorialMessage="NÃO seja visto. Ninguém deve saber que você esteve lá."
+m_TutorialMessage_Gamepad=""
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_SetTutorialMessage_26 DisSeqAct_SetTutorialMessage]
+m_TutorialMessage="Roube os seis Ovos de Corda e saia da mansão."
+m_TutorialMessage_Gamepad=""
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_ShowHUDMessage_22 DisSeqAct_ShowHUDMessage]
+m_Message=""
+
+[TheWorld:PersistentLevel.Main_Sequence.Egg_Setup.DisSeqAct_ShowLocationDiscovery_3 DisSeqAct_ShowLocationDiscovery]
+m_LocationName="Você Encontrou Todos os Seis Ovos de Corda - Retorne ao Ponto de Entrada"
+
+[TheWorld:PersistentLevel.Main_Sequence.Egg_Setup.DisSeqAct_ShowLocationDiscovery_4 DisSeqAct_ShowLocationDiscovery]
+m_LocationName="Encontrados 5 Ovos de Corda - Resta Apenas 1"
+
+[TheWorld:PersistentLevel.Main_Sequence.Egg_Setup.DisSeqAct_ShowLocationDiscovery_5 DisSeqAct_ShowLocationDiscovery]
+m_LocationName="Encontrado 1 Ovo de Corda - Restam 5"
+
+[TheWorld:PersistentLevel.Main_Sequence.Egg_Setup.DisSeqAct_ShowLocationDiscovery_6 DisSeqAct_ShowLocationDiscovery]
+m_LocationName="Encontrados 2 Ovos de Corda - Restam 4"
+
+[TheWorld:PersistentLevel.Main_Sequence.Egg_Setup.DisSeqAct_ShowLocationDiscovery_7 DisSeqAct_ShowLocationDiscovery]
+m_LocationName="Encontrados 3 Ovos de Corda - Restam 3"
+
+[TheWorld:PersistentLevel.Main_Sequence.Egg_Setup.DisSeqAct_ShowLocationDiscovery_8 DisSeqAct_ShowLocationDiscovery]
+m_LocationName="Encontrados 4 Ovos de Corda - Restam 2"
+
+[TheWorld:PersistentLevel.Main_Sequence.Egg_Setup.DisSeqAct_UpdateTaskTarget_22 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Mezanino"
+
+[TheWorld:PersistentLevel.Main_Sequence.Egg_Setup.DisSeqAct_UpdateTaskTarget_23 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Ovo de Cullero"
+
+[TheWorld:PersistentLevel.Main_Sequence.Egg_Setup.DisSeqAct_UpdateTaskTarget_24 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Ovo de Wynnedown"
+
+[TheWorld:PersistentLevel.Main_Sequence.Egg_Setup.DisSeqAct_UpdateTaskTarget_25 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Ovo Yaro"
+
+[TheWorld:PersistentLevel.Main_Sequence.Egg_Setup.DisSeqAct_UpdateTaskTarget_28 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Porta dos Fundos"
+
+[TheWorld:PersistentLevel.Main_Sequence.Egg_Setup.DisSeqAct_UpdateTaskTarget_29 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Ovo de Potterstead"
+
+[TheWorld:PersistentLevel.Main_Sequence.Egg_Setup.DisSeqAct_UpdateTaskTarget_30 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Andar Superior"
+
+[TheWorld:PersistentLevel.Main_Sequence.Egg_Setup.DisSeqAct_UpdateTaskTarget_32 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Térreo"
+
+[TheWorld:PersistentLevel.Main_Sequence.Egg_Setup.DisSeqAct_UpdateTaskTarget_48 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Ovo de Redmoor"
+
+[TheWorld:PersistentLevel.Main_Sequence.Egg_Setup.DisSeqAct_UpdateTaskTarget_49 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Ovo Driscol"
+
+[TheWorld:PersistentLevel.Main_Sequence.Egg_Setup.DisSeqAct_UpdateTaskTarget_51 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Porta da Frente"
+
+[TheWorld:PersistentLevel.Main_Sequence.Guard_Status.DisSeqAct_GameOver_4 DisSeqAct_GameOver]
+m_Reason="Peguei! - Fim de Jogo"
+
+[TheWorld:PersistentLevel.Main_Sequence.Guard_Status.DisSeqAct_ShowLocationDiscovery_0 DisSeqAct_ShowLocationDiscovery]
+m_LocationName="Pego! - Fim de Jogo"
+
+[TheWorld:PersistentLevel.Main_Sequence.Guard_Status.DisSeqAct_ShowLocationDiscovery_1 DisSeqAct_ShowLocationDiscovery]
+m_LocationName="Pego! - Restam Duas Chances"
+
+[TheWorld:PersistentLevel.Main_Sequence.Guard_Status.DisSeqAct_ShowLocationDiscovery_2 DisSeqAct_ShowLocationDiscovery]
+m_LocationName="Pego! - Última Chance"
+
+[TheWorld:PersistentLevel.Main_Sequence.Tasks_Setup.DisSeqAct_SetTutorialMessage_16 DisSeqAct_SetTutorialMessage]
+m_TutorialMessage="Você descobriu o conjunto completo de estatuetas colecionáveis."
+m_TutorialMessage_Gamepad=""
+
+[TheWorld:PersistentLevel.Main_Sequence.Tasks_Setup.DisSeqAct_SetTutorialMessage_17 DisSeqAct_SetTutorialMessage]
+m_TutorialMessage="Entre na mansão para começar sua busca pelos seis ovos."
+m_TutorialMessage_Gamepad=""
+
+[TheWorld:PersistentLevel.Main_Sequence.Tasks_Setup.DisSeqAct_SetTutorialMessage_18 DisSeqAct_SetTutorialMessage]
+m_TutorialMessage="Encontre todos os seis ovos e depois volte para fora. Boa sorte."
+m_TutorialMessage_Gamepad=""
+
+[TheWorld:PersistentLevel.Main_Sequence.Tasks_Setup.DisSeqAct_SetTutorialMessage_19 DisSeqAct_SetTutorialMessage]
+m_TutorialMessage="Você encontrou todos os ovos. Retorne ao seu ponto de entrada para concluir o desafio."
+m_TutorialMessage_Gamepad=""
+
+[TheWorld:PersistentLevel.Main_Sequence.Tasks_Setup.DisSeqAct_SetTutorialMessage_20 DisSeqAct_SetTutorialMessage]
+m_TutorialMessage="Você encontrou 2000 moedas em objetos de valor."
+m_TutorialMessage_Gamepad=""
+
+[TheWorld:PersistentLevel.Main_Sequence.Tasks_Setup.DisSeqAct_SetTutorialMessage_21 DisSeqAct_SetTutorialMessage]
+m_TutorialMessage="Você encontrou 100% dos objetos valiosos. Bom trabalho!"
+m_TutorialMessage_Gamepad=""
+
+[TheWorld:PersistentLevel.Main_Sequence.Tasks_Setup.DisSeqAct_ShowLocationDiscovery_9 DisSeqAct_ShowLocationDiscovery]
+m_LocationName="Desafio Concluído"
+
+[TheWorld:PersistentLevel.Main_Sequence.Tasks_Setup.DisSeqAct_UpdateTaskTarget_50 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Ponto de Entrada"
+
+[TheWorld:PersistentLevel.Main_Sequence.Bonus_Setup.DisSeqAct_ShowHUDMessage_24 DisSeqAct_ShowHUDMessage]
+m_Message="Figurinha Colecionável 1/16"
+
+[TheWorld:PersistentLevel.Main_Sequence.Bonus_Setup.DisSeqAct_ShowHUDMessage_25 DisSeqAct_ShowHUDMessage]
+m_Message="Figurinha Colecionável 2/16"
+
+[TheWorld:PersistentLevel.Main_Sequence.Bonus_Setup.DisSeqAct_ShowHUDMessage_26 DisSeqAct_ShowHUDMessage]
+m_Message="Figurinha Colecionável 3/16"
+
+[TheWorld:PersistentLevel.Main_Sequence.Bonus_Setup.DisSeqAct_ShowHUDMessage_27 DisSeqAct_ShowHUDMessage]
+m_Message="Figurinha Colecionável 4/16"
+
+[TheWorld:PersistentLevel.Main_Sequence.Bonus_Setup.DisSeqAct_ShowHUDMessage_28 DisSeqAct_ShowHUDMessage]
+m_Message="Figurinha Colecionável 5/16"
+
+[TheWorld:PersistentLevel.Main_Sequence.Bonus_Setup.DisSeqAct_ShowHUDMessage_29 DisSeqAct_ShowHUDMessage]
+m_Message="Figurinha Colecionável 6/16"
+
+[TheWorld:PersistentLevel.Main_Sequence.Bonus_Setup.DisSeqAct_ShowHUDMessage_30 DisSeqAct_ShowHUDMessage]
+m_Message="Figurinha Colecionável 7/16"
+
+[TheWorld:PersistentLevel.Main_Sequence.Bonus_Setup.DisSeqAct_ShowHUDMessage_31 DisSeqAct_ShowHUDMessage]
+m_Message="Figurinha Colecionável 8/16"
+
+[TheWorld:PersistentLevel.Main_Sequence.Bonus_Setup.DisSeqAct_ShowHUDMessage_32 DisSeqAct_ShowHUDMessage]
+m_Message="Figurinha Colecionável 9/16"
+
+[TheWorld:PersistentLevel.Main_Sequence.Bonus_Setup.DisSeqAct_ShowHUDMessage_33 DisSeqAct_ShowHUDMessage]
+m_Message="Figurinha Colecionável 10/16"
+
+[TheWorld:PersistentLevel.Main_Sequence.Bonus_Setup.DisSeqAct_ShowHUDMessage_34 DisSeqAct_ShowHUDMessage]
+m_Message="Figurinha Colecionável 11/16"
+
+[TheWorld:PersistentLevel.Main_Sequence.Bonus_Setup.DisSeqAct_ShowHUDMessage_35 DisSeqAct_ShowHUDMessage]
+m_Message="Figurinha Colecionável 12/16"
+
+[TheWorld:PersistentLevel.Main_Sequence.Bonus_Setup.DisSeqAct_ShowHUDMessage_36 DisSeqAct_ShowHUDMessage]
+m_Message="Figurinha Colecionável 13/16"
+
+[TheWorld:PersistentLevel.Main_Sequence.Bonus_Setup.DisSeqAct_ShowHUDMessage_37 DisSeqAct_ShowHUDMessage]
+m_Message="Figurinha Colecionável 14/16"
+
+[TheWorld:PersistentLevel.Main_Sequence.Bonus_Setup.DisSeqAct_ShowHUDMessage_38 DisSeqAct_ShowHUDMessage]
+m_Message="Figurinha Colecionável 15/16"
+
+[TheWorld:PersistentLevel.Main_Sequence.Bonus_Setup.DisSeqAct_ShowHUDMessage_23 DisSeqAct_ShowHUDMessage]
+m_Message="Figurinha Colecionável 16/16"
+
+[TheWorld:PersistentLevel.Main_Sequence.Tasks_Setup.DisSeqAct_DLC05_ShowWaveNumber_4 DisSeqAct_DLC05_ShowWaveNumber]
+m_CustomText="Desafio Concluído"
+
+[TheWorld:PersistentLevel.Main_Sequence.Guard_Status.DisSeqAct_DLC05_ShowWaveNumber_3 DisSeqAct_DLC05_ShowWaveNumber]
+m_CustomText="Peguei! - Fim de Jogo"
+
+[TheWorld:PersistentLevel.Main_Sequence.Guard_Status.DisSeqAct_DLC05_ShowWaveNumber_2 DisSeqAct_DLC05_ShowWaveNumber]
+m_CustomText="Preso! - Última Chance"
+
+[TheWorld:PersistentLevel.Main_Sequence.Guard_Status.DisSeqAct_DLC05_ShowWaveNumber_1 DisSeqAct_DLC05_ShowWaveNumber]
+m_CustomText="Pegos! - Restam Duas Chances"

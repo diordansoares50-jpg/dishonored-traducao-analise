@@ -1,0 +1,156 @@
+﻿[Brandy_AbsItm DisAbstractItem]
+m_ItemName="Brandy da King Street"
+m_PluralItemName=""
+m_Description="Um licor raro e caro que contém essência de orquídea Morley e traços de gordura de baleia purificada."
+
+[HavelockBook.Havelock_Journal01 DisAbstractItem]
+m_ItemName="Registro de Havelock, Entrada Um"
+m_PluralItemName=""
+m_Description="Já faz dias que nossos homens foram enviados para esconder armas para Corvo no antigo esgoto. Eles não retornaram, então só posso esperar que tenham conseguido entregar os pacotes. Piero gastou tempo e recursos consideráveis fazendo essas coisas. Se eu pudesse encontrar uma maneira de produzi-las em massa, a Marinha de Dunwall garantiria seu lugar como a força dominante no globo. Mas voltando a Corvo. Ele realmente consegue escapar de Coldridge e, se sim, ele virá até aqui? Pessoalmente, dou a ele uma chance de 1 em 5."
+
+[HavelockBook.Havelock_Journal02 DisAbstractItem]
+m_ItemName="Registro de Havelock, Entrada Dois"
+m_PluralItemName=""
+m_Description="Parece que investimos no homem certo com Corvo. Não só ele libertou Martin do Gabinete do Alto Supervisor, como também entrou nesse ninho de víboras e resolveu Campbell pessoalmente. Com Corvo em nossa companhia, suspeito que não há ninguém no mundo que não possamos alcançar. Agora estamos comprometidos com este caminho. Não há volta.
+
+Registro de Havelock, Entrada Um
+
+Já se passaram dias desde que nossos homens foram despachados para esconder armas para Corvo no esgoto antigo. Eles não retornaram, então só posso esperar que tenham conseguido entregar os pacotes. Piero gastou tempo e recursos consideráveis fazendo essas coisas. Se eu pudesse encontrar uma maneira de produzi-las em massa, a Marinha de Dunwall garantiria seu lugar como a força dominante no globo. Mas voltando a Corvo. Ele realmente conseguirá escapar de Coldridge e, se sim, virá até aqui? Pessoalmente, dou a ele uma chance em cinco."
+
+[HavelockBook.Havelock_Journal03 DisAbstractItem]
+m_ItemName="Registro de Havelock, Terceiro"
+m_PluralItemName=""
+m_Description="Pendleton estava disposto a ir mais longe do que eu imaginava. Ele ofereceu sua própria carne e sangue à causa, e posso ver que ele é verdadeiramente leal ao Império. Eu teria feito o mesmo se meu irmão ainda estivesse vivo hoje? Provavelmente. Sem dúvida. Muitos inocentes devem ser sacrificados pelo bem de Dunwall. Cada guarda leal que cai sob a lâmina de Corvo está dando sua vida pelo Império.
+
+Registro de Havelock Número Dois
+
+Bem, parece que investimos no homem certo com Corvo. Não só ele libertou Martin do Gabinete do Alto Supervisor, como entrou naquele ninho de víboras e resolveu Campbell pessoalmente. Com Corvo em nossa companhia, suspeito que não há ninguém no mundo que não possamos alcançar. Agora estamos comprometidos com este caminho. Não há volta.
+
+Registro de Havelock Número Um
+
+Já se passaram dias desde que nossos homens foram enviados para esconder armas para Corvo no esgoto antigo. Eles não retornaram, então só posso esperar que tenham conseguido entregar os pacotes. Piero gastou tempo e recursos consideráveis fazendo essas coisas. Se eu pudesse encontrar uma maneira de produzi-las em massa, a Marinha de Dunwall garantiria seu lugar como a força dominante no globo. Mas voltando a Corvo. Ele pode realmente escapar de Coldridge e, se sim, ele virá até aqui? Pessoalmente, dou a ele uma chance em cinco."
+
+[HavelockBook.Havelock_Journal04 DisAbstractItem]
+m_ItemName="Registro de Havelock, Quarta Entrada"
+m_PluralItemName=""
+m_Description="Ele está retornando agora com Anton Sokolov sobre os ombros. Simplesmente incrível. Não só Corvo pode projetar força letal, como pode fazer uma extração que eu não achava possível. E em breve as duas maiores mentes do Império estarão aqui. Juntas. Se eu conseguisse fazer essas rivais cooperarem, elas poderiam criar armas e ferramentas de poder inimaginável. Se eu pudesse comandar ambas— Bem, vou esperar e medir suas disposições uma em relação à outra antes de seguir essa linha de pensamento.
+
+Registro de Havelock Três
+
+Pendleton estava disposto a ir mais longe do que eu pensava. Ele serviu sua própria carne e sangue à causa, e posso ver que ele é verdadeiramente leal ao Império. Eu teria feito o mesmo se meu irmão ainda estivesse vivo hoje? Provavelmente. Sem dúvida. Muitos inocentes devem ser sacrificados pelo bem de Dunwall. Todo guarda leal que cai sob a lâmina de Corvo está dando sua vida pelo Império.
+
+Registro de Havelock Dois
+
+Bem, parece que investimos no homem certo com Corvo. Não só ele libertou Martin do Gabinete do Alto Supervisor, como entrou naquele ninho de víboras e resolveu Campbell pessoalmente. Com Corvo em nossa companhia, suspeito que não há ninguém no mundo que não possamos alcançar. Agora estamos comprometidos com este caminho. Não há volta.
+
+Registro de Havelock Um
+
+Já se passaram dias desde que nossos homens foram despachados para esconder armas para Corvo no esgoto antigo. Eles não retornaram, então só posso esperar que tenham conseguido entregar os pacotes. Piero gastou tempo e recursos consideráveis fazendo essas coisas. Se eu encontrasse uma maneira de produzi-las em massa, a Marinha de Dunwall garantiria seu lugar como a força dominante no globo. Mas voltando a Corvo. Ele pode realmente escapar de Coldridge e, se sim, ele virá até aqui? Pessoalmente, dou a ele chances de 1 em 5."
+
+[HavelockBook.Havelock_Journal05 DisAbstractItem]
+m_ItemName="Registro de Havelock Número Cinco"
+m_PluralItemName=""
+m_Description="Teague Martin agora é o Grande Supervisor. Ele é um sujeito astuto e suas ideias nos levaram muito longe. Considerando de onde ele vem, ele deve estar muito satisfeito consigo mesmo. Agora podemos ter certeza de que os Supervisores apoiarão nossas reivindicações, sejam elas quais forem. Há apenas um homem agora entre nós e o controle total do Império. O Lorde Regente logo se verá encarando aquela máscara hedionda de Corvo, disso não tenho dúvida. Mas o que acontece depois disso?
+
+Registro de Havelock Quatro
+
+Ele está retornando agora com Anton Sokolov sobre o ombro. Simplesmente incrível. Não só Corvo pode projetar força letal, como pode fazer uma extração que eu não achava possível. E em breve as duas maiores mentes do Império estarão aqui. Juntas. Se eu conseguir fazer esses rivais cooperarem, eles poderão criar armas e ferramentas de poder inimaginável. Se eu pudesse comandar os dois— Bem, vou esperar e avaliar as disposições deles um com o outro antes de seguir essa linha de pensamento.
+
+Registro de Havelock Três
+
+Pendleton estava disposto a ir mais longe do que eu pensava. Ele entregou sua própria carne e sangue à causa, e posso ver que ele é verdadeiramente leal ao Império. Eu teria feito o mesmo se meu irmão ainda estivesse vivo hoje? Provavelmente. Sem dúvida. Muitos inocentes devem ser sacrificados pelo bem de Dunwall. Todo guarda leal que cai sob a lâmina de Corvo está dando sua vida pelo Império.
+
+Registro de Havelock Dois
+
+Bem, parece que investimos no homem certo com Corvo. Não só ele libertou Martin do Gabinete do Grande Supervisor, como entrou naquele ninho de víboras e resolveu Campbell pessoalmente. Com Corvo em nossa companhia, suspeito que não há ninguém no mundo que não possamos alcançar. Agora estamos comprometidos com este caminho. Não há volta.
+
+Registro de Havelock Um
+
+Já se passaram dias desde que nossos homens foram enviados para esconder armas para Corvo no esgoto antigo. Eles não retornaram, então só posso esperar que tenham conseguido entregar os pacotes. Piero gastou tempo e recursos consideráveis fazendo essas coisas. Se eu pudesse encontrar uma maneira de produzi-las em massa, a Marinha de Dunwall garantiria seu lugar como a força dominante no globo. Mas voltando a Corvo. Ele realmente consegue escapar de Coldridge e, se sim, virá até aqui? Pessoalmente, dou a ele chances de 1 em 5."
+
+[HavelockBook.Havelock_Journal06 DisAbstractItem]
+m_ItemName="Registro de Havelock Número Seis"
+m_PluralItemName=""
+m_Description="Até passarmos por tudo isso e realizarmos a coroação, nada é certo. A Torre de Dunwall tem sua própria cultura. Não há como saber o que poderia acontecer se nos mudássemos para lá cedo demais. Os próximos passos devem ser tratados com cuidado. As coisas estão acontecendo rapidamente agora. Preciso de tempo para pensar.
+
+**Registro de Havelock Número Cinco**
+
+Teague Martin agora é o Alto Supervisor. Ele é esperto e suas ideias nos levaram muito longe. Considerando de onde ele vem, deve estar muito satisfeito consigo mesmo. Agora podemos ter certeza de que os Supervisores apoiarão nossas reivindicações, sejam elas quais forem. Há apenas um homem agora entre nós e o controle total do Império. O Lorde Regente logo se verá encarando aquela máscara hedionda de Corvo, disso não tenho dúvida. Mas o que acontece depois disso?
+
+**Registro de Havelock Número Quatro**
+
+Ele está retornando agora com Anton Sokolov sobre o ombro. Simplesmente incrível. Corvo não só pode projetar força letal, como também realizar uma extração que eu não achava possível. E logo as duas maiores mentes do Império estarão aqui. Juntas. Se eu pudesse fazer esses rivais cooperarem, eles poderiam criar armas e ferramentas de poder inimaginável. Se eu pudesse comandar ambos— Bem, vou esperar e medir suas disposições um com o outro antes de seguir essa linha de pensamento.
+
+**Registro de Havelock Número Três**
+
+Pendleton estava disposto a ir mais longe do que eu pensava. Ele entregou sua própria carne e sangue à causa, e posso ver que ele é verdadeiramente leal ao Império. Eu poderia ter feito o mesmo se meu irmão ainda estivesse vivo hoje? Provavelmente. Sem dúvida. Muitos inocentes devem ser sacrificados pelo bem de Dunwall. Todo guarda leal que cai sob a lâmina de Corvo está dando sua vida pelo Império.
+
+**Registro de Havelock Número Dois**
+
+Bem, parece que investimos no homem certo com Corvo. Ele não só libertou Martin do Escritório do Alto Supervisor, como também entrou naquele ninho de víboras e resolveu Campbell pessoalmente. Com Corvo em nossa companhia, suspeito que não há ninguém no mundo que não possamos alcançar. Agora estamos comprometidos com este caminho. Não há volta.
+
+**Registro de Havelock Número Um**
+
+Já se passaram dias desde que nossos homens foram despachados para esconder armas para Corvo no esgoto antigo. Eles não retornaram, então só posso esperar que tenham conseguido entregar os pacotes. Piero gastou tempo e recursos consideráveis fazendo essas coisas. Se eu pudesse encontrar uma maneira de produzi-las em massa, a Marinha de Dunwall garantiria seu lugar como a força dominante no globo. Mas voltando a Corvo. Ele pode realmente escapar de Coldridge e, se puder, virá até aqui? Pessoalmente, dou a ele chances de 1 em 5."
+
+[HavelockBook.Havelock_Journal07 DisAbstractItem]
+m_ItemName="Registro de Havelock Número Sete"
+m_PluralItemName=""
+m_Description="Nada disso teria sido possível sem Corvo, e por isso serei grato. Mas receio que ele não tivesse a visão para enxergar o futuro que devemos alcançar para Dunwall. Não manteremos nosso domínio sobre o Império com uma menina definindo políticas, e acredito que a lealdade de Corvo às mulheres Kaldwin teria nublado sua mente. Ela é realmente filha dele? Levaremos Dunwall ao ápice de sua força, mas o papel de Corvo nisso jamais poderá ser reconhecido. Ele precisa ser vilipendiado, e quando eu assumir as rédeas da cidade — do Império — serei visto como o herói e protetor.
+
+Registro de Havelock Seis
+
+Até que passemos por tudo isso e realizemos a coroação, nada é certo. A Torre de Dunwall tem sua própria cultura. Não dá para saber o que poderia acontecer se nos mudássemos para lá cedo demais. Os próximos passos devem ser cuidadosamente conduzidos. As coisas estão acontecendo rápido agora. Preciso de tempo para pensar.
+
+Registro de Havelock Cinco
+
+Teague Martin agora é o Alto Superintendente. Ele é astuto e suas ideias nos levaram muito longe. Considerando de onde ele vem, deve estar muito satisfeito consigo mesmo. Agora podemos ter certeza de que os Superintendentes apoiarão nossas reivindicações, sejam elas quais forem. Há apenas um homem agora entre nós e o controle total do Império. O Lorde Regente logo se verá encarando aquela máscara hedionda de Corvo, disso não tenho dúvida. Mas o que acontece depois?
+
+Registro de Havelock Quatro
+
+Ele está voltando agora com Anton Sokolov sobre os ombros. Simplesmente incrível. Corvo não só pode projetar força letal, como também realizar uma extração que eu julgava impossível. E em breve as duas maiores mentes do Império estarão aqui. Juntas. Se eu conseguisse fazer esses rivais cooperarem, eles poderiam criar armas e ferramentas de poder inimaginável. Se eu pudesse comandar ambos... Bem, vou esperar e avaliar as disposições deles um em relação ao outro antes de seguir essa linha de pensamento.
+
+Registro de Havelock Três
+
+Pendleton foi além do que eu imaginava. Ele ofereceu sua própria carne e sangue à causa, e posso ver que ele é verdadeiramente leal ao Império. Eu teria feito o mesmo se meu irmão ainda estivesse vivo hoje? Provavelmente. Sem dúvida. Muitos inocentes devem ser sacrificados pelo bem de Dunwall. Todo guarda leal que cai sob a lâmina de Corvo está dando sua vida pelo Império.
+
+Registro de Havelock Dois
+
+Bem, parece que investimos no homem certo com Corvo. Ele não só libertou Martin do Escritório do Alto Superintendente, como também entrou naquele ninho de víboras e resolveu o caso Campbell pessoalmente. Com Corvo em nossa companhia, suspeito que não há ninguém no mundo que não possamos alcançar. Agora estamos comprometidos com este caminho. Não há volta.
+
+Registro de Havelock Um
+
+Já se passaram dias desde que nossos homens foram despachados para esconder armas para Corvo no esgoto antigo. Eles não retornaram, então só posso esperar que tenham conseguido entregar os pacotes. Piero gastou tempo e recursos consideráveis fazendo essas coisas. Se eu encontrasse uma forma de produzi-las em massa, a Marinha de Dunwall garantiria seu lugar como a força dominante no globo. Mas voltando a Corvo. Ele realmente consegue escapar de Coldridge e, se sim, virá até aqui? Pessoalmente, dou a ele uma chance em cinco."
+
+[HubNotes.PendletonParlimentNote DisAbstractItem]
+m_ItemName="Crise Familiar dos Pendleton"
+m_PluralItemName=""
+m_Description="Prima Anna,
+
+Morgan e Custis continuam a resistir aos meus esforços e não respondem mais às minhas cartas.
+
+Os criados me informam que eles estão ausentes da mansão há algumas semanas. Meus irmãos sempre foram arrogantes, completamente convencidos de sua própria certeza, e não dão a mínima para mais ninguém no mundo, a menos que queiram algo e não possam tomá-lo diretamente. Mas este desacordo sobre a votação iminente no Parlamento atingiu um ponto crítico.
+
+Até agora, o Lorde Regente tem sido um tanto contido em sua autoridade, pelo menos no que diz respeito às propriedades da nobreza. Se Morgan e Custis votarem a seu favor, a lei será alterada e todos estaremos em risco, aristocratas ou não.
+
+Eu lhe imploro, se você souber onde eles estão, que fale com eles.
+
+Lorde Treavor Pendleton"
+
+[PubNotes.PendletonReward DisAbstractItem]
+m_ItemName="Recompensa do Lorde Pendleton."
+m_PluralItemName=""
+m_Description="Corvo,\n\nEste assunto com meus irmãos não tem sido nada agradável, então não desejo discuti-lo mais. No entanto, preciso realmente agradecer a você. Soube que você encontrou outros meios de neutralizá-los, sem tirar suas vidas. Engenhoso. Onde quer que estejam, mesmo que miseráveis, ao menos estão vivos. Então talvez algum dia eu os veja novamente.\n\n--Lord Treavor Pendleton"
+
+[PubNotes.ThePendletonVotes DisAbstractItem]
+m_ItemName="Os Votos de Pendleton"
+m_PluralItemName=""
+m_Description="Havelock, \n\nBravo, senhor. O Lorde Regente está furioso por ter perdido a votação mais recente no Parlamento. Ele contava com o apoio da família Pendleton e esperava resistência limitada. Como você previu, perder o bloco de votos dos Pendleton realmente o atrasou. \n\nE como o orçamento de defesa do Lorde Regente também falhou, ele está ficando desesperado financeiramente. Parece que a maior parte da moeda que ele usa para manter a Guarda da Cidade vem de um aliado próximo. Suspeitamos que seja uma nobre poderosa, talvez sua amante. \n\nVou tentar descobrir mais informações. Como sabemos, se a Guarda não for paga - em moeda e em elixir - a lealdade deles começará a ruir.\n\n--Seu amigo infiltrado"
+
+[PubNotes.WeeperMercyNote DisAbstractItem]
+m_ItemName="Nota de Piero"
+m_PluralItemName=""
+m_Description="Corvo, obrigado por conseguir um chorão vivo para mim. Isto será inestimável para meu velho amigo da Academia de Filosofia Natural, pois espécimes vivos da peste são bastante difíceis de obter. Tenha certeza de que meu colega lidará com esta situação da forma mais humana possível.
+
+--Piero"
+

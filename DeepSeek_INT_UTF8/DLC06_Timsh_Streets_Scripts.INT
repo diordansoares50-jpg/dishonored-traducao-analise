@@ -1,0 +1,96 @@
+﻿[TheWorld:PersistentLevel.Main_Sequence.Favors.DisSeqAct_UpdateTaskTarget_39 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Tanques de Óleo"
+
+[TheWorld:PersistentLevel.Main_Sequence.Favors.DisSeqAct_UpdateTaskTarget_49 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Runa"
+
+[TheWorld:PersistentLevel.Main_Sequence.Favors.DisSeqAct_UpdateTaskTarget_92 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Tanque de Óleo"
+
+[TheWorld:PersistentLevel.Main_Sequence.Favors.DisSeqAct_UpdateTaskTarget_93 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Tanque de Óleo"
+
+[TheWorld:PersistentLevel.Main_Sequence.Guard_Scenes.DisSeqAct_ShowHUDMessage_4 DisSeqAct_ShowHUDMessage]
+m_Message="Nova Pista de Missão Adicionada"
+
+[TheWorld:PersistentLevel.Main_Sequence.Location_Discovery.DisSeqAct_ShowLocationDiscovery_3 DisSeqAct_ShowLocationDiscovery]
+m_LocationName="Distrito Legal à Beira-Mar"
+
+[TheWorld:PersistentLevel.Main_Sequence.Objectives.DisSeqAct_GameOver_0 DisSeqAct_GameOver]
+m_Reason="Thalia não conseguiu te contar sobre Delilah"
+
+[TheWorld:PersistentLevel.Main_Sequence.Objectives.DisSeqAct_UpdateTaskTarget_1 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Sede da Gangue"
+
+[TheWorld:PersistentLevel.Main_Sequence.Objectives.DisSeqAct_UpdateTaskTarget_14 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Chauncy"
+
+[TheWorld:PersistentLevel.Main_Sequence.Objectives.DisSeqAct_UpdateTaskTarget_15 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Mirante do Rio"
+
+[TheWorld:PersistentLevel.Main_Sequence.Objectives.DisSeqAct_UpdateTaskTarget_16 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Chauncy"
+
+[TheWorld:PersistentLevel.Main_Sequence.Objectives.DisSeqAct_UpdateTaskTarget_17 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Thalia"
+
+[TheWorld:PersistentLevel.Main_Sequence.Objectives.DisSeqAct_UpdateTaskTarget_3 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Nota do Membro da Gangue"
+
+[TheWorld:PersistentLevel.Main_Sequence.Objectives.DisSeqAct_UpdateTaskTarget_50 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Chapeleiro"
+
+[TheWorld:PersistentLevel.Main_Sequence.Objectives.DisSeqAct_UpdateTaskTarget_51 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Chapéu Estranho"
+
+[TheWorld:PersistentLevel.Main_Sequence.Objectives.DisSeqAct_UpdateTaskTarget_52 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Avenida do Tesouro"
+
+[TheWorld:PersistentLevel.Main_Sequence.Objectives.DisSeqAct_UpdateTaskTarget_54 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Distrito Jurídico"
+
+[TheWorld:PersistentLevel.Main_Sequence.Objectives.DisSeqAct_UpdateTaskTarget_55 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Território do Chapeleiro"
+
+[TheWorld:PersistentLevel.Main_Sequence.Objectives.DisSeqAct_UpdateTaskTarget_56 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Prateleira de Chaves Vazia"
+
+[TheWorld:PersistentLevel.Main_Sequence.Objectives.DisSeqAct_UpdateTaskTarget_57 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Posto do Capitão"
+
+[TheWorld:PersistentLevel.Main_Sequence.Objectives.DisSeqAct_UpdateTaskTarget_58 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Distrito Jurídico"
+
+[TheWorld:PersistentLevel.Main_Sequence.Objectives.DisSeqAct_UpdateTaskTarget_59 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Chave para o Distrito Legal"
+
+[TheWorld:PersistentLevel.Main_Sequence.Objectives.DisSeqAct_UpdateTaskTarget_60 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Chave para o Distrito Legal"
+
+[TheWorld:PersistentLevel.Main_Sequence.Objectives.DisSeqAct_UpdateTaskTarget_61 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Chapeleiro"
+
+[TheWorld:PersistentLevel.Main_Sequence.Objectives.DisSeqAct_UpdateTaskTarget_62 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Chapeleiro"
+
+[TheWorld:PersistentLevel.Main_Sequence.Objectives.DisSeqAct_UpdateTaskTarget_68 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Chapéu do Território"
+
+[TheWorld:PersistentLevel.Main_Sequence.Objectives.DisSeqAct_UpdateTaskTarget_8 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Território da Gangue do Chapeleiro"
+
+[TheWorld:PersistentLevel.Main_Sequence.Objectives.DisSeqAct_UpdateTaskTarget_9 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Chave"
+
+[TheWorld:PersistentLevel.Main_Sequence.ReturnFromTimshScripting.DisSeqAct_UpdateTaskTarget_58 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Distrito Jurídico"
+
+[TheWorld:PersistentLevel.Main_Sequence.ReturnFromTimshScripting.DisSeqAct_UpdateTaskTarget_64 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Billie Lurk"
+
+[TheWorld:PersistentLevel.Main_Sequence.ReturnFromTimshScripting.DisSeqAct_UpdateTaskTarget_66 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Thalia"
+
+[TheWorld:PersistentLevel.Main_Sequence.ReturnFromTimshScripting.DisSeqAct_UpdateTaskTarget_67 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Thalia e Docks"
+

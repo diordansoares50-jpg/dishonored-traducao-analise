@@ -1,0 +1,14 @@
+﻿[TheWorld:PersistentLevel.DisDoor_14 DisDoor]
+m_DoorName=""
+
+[TheWorld:PersistentLevel.DisDoor_47 DisDoor]
+m_DoorName=""
+
+[TheWorld:PersistentLevel.DisDoor_5 DisDoor]
+m_DoorName=""
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_DialogScriptedChoice_0 DisSeqAct_DialogScriptedChoice]
+m_Title=""
+m_Choices[0]=(m_ChoiceText="Retry")
+m_Choices[1]=(m_ChoiceText="Back to Menu")
+

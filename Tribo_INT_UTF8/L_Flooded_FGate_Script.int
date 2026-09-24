@@ -1,0 +1,64 @@
+﻿[TheWorld:PersistentLevel.DisDoor_25 DisDoor]
+m_DoorName=""
+m_MatchingKey=""
+m_MatchingKeys[0]="Está trancada"
+
+[TheWorld:PersistentLevel.Main_Sequence.0_Starting_Conditions.DisSeqAct_DialogScriptedChoice_2 DisSeqAct_DialogScriptedChoice]
+m_Title=""
+m_Choices[0]=(m_ChoiceText="Eu entreguei Magnus")
+m_Choices[1]=(m_ChoiceText="Eu ajudei Magnus a escapar")
+m_Choices[2]=(m_ChoiceText="Eu matei Magnus")
+m_Choices[3]=(m_ChoiceText="Eu não fiz nada")
+
+[TheWorld:PersistentLevel.Main_Sequence.5_Plague_Victims_Behavior.DisSeqAct_DialogScriptedChoice_0 DisSeqAct_DialogScriptedChoice]
+m_Title=""
+m_Choices[0]=(m_ChoiceText="O pátio de trás está seguro.")
+m_Choices[1]=(m_ChoiceText="Ainda é perigoso. Espere aqui.")
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_AddDarkness_0 DisSeqAct_AddDarkness]
+m_Text=""
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_AddDarkness_1 DisSeqAct_AddDarkness]
+m_Text=""
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_AddDarkness_4 DisSeqAct_AddDarkness]
+m_Text=""
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_DialogScriptedChoice_0 DisSeqAct_DialogScriptedChoice]
+m_Title=""
+m_Choices[0]=(m_ChoiceText="Caos Elevado")
+m_Choices[1]=(m_ChoiceText="Caos Reduzido")
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_ShowLocationDiscovery_0 DisSeqAct_ShowLocationDiscovery]
+m_LocationName="Arredores do Distrito do Antigo Porto"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_ShowLocationDiscovery_1 DisSeqAct_ShowLocationDiscovery]
+m_LocationName="Canal Old Mosley"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_ShowLocationDiscovery_2 DisSeqAct_ShowLocationDiscovery]
+m_LocationName="Portão de Rudshore"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_UpdateTaskTarget_0 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Saída do Serviço"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_UpdateTaskTarget_1 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Saída do Túnel"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_UpdateTaskTarget_2 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Blake"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_UpdateTaskTarget_23 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Área Perigosa"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_UpdateTaskTarget_3 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Túnel que leva ao Portão"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_UpdateTaskTarget_5 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Para o Distrito do Antigo Porto"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_UpdateTaskTarget_6 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Fonte de Energia do Poste Arco"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_UpdateTaskTarget_7 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Portão de Rudshore"
+

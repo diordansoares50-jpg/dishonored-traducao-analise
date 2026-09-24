@@ -1,0 +1,20 @@
+﻿[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_DialogScriptedChoice_1 DisSeqAct_DialogScriptedChoice]
+m_Title=""
+m_Choices[0]=(m_ChoiceText="Ir para o Esgoto")
+m_Choices[1]=(m_ChoiceText="Ficar no Adega")
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_DialogScriptedChoice_2 DisSeqAct_DialogScriptedChoice]
+m_Title=""
+m_Choices[0]=(m_ChoiceText="Ir para os Jardins da Mansão Boyle")
+m_Choices[1]=(m_ChoiceText="Ficar no Salão de Dança")
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_DialogScriptedChoice_4 DisSeqAct_DialogScriptedChoice]
+m_Title=""
+m_Choices[0]=(m_ChoiceText="Ir para o Pátio da Mansão Boyle ")
+m_Choices[1]=(m_ChoiceText="Ficar no Salão")
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_DialogScriptedChoice_5 DisSeqAct_DialogScriptedChoice]
+m_Title=""
+m_Choices[0]=(m_ChoiceText="Ir para a Varanda do Jardim")
+m_Choices[1]=(m_ChoiceText="Ficar no Quarto")
+

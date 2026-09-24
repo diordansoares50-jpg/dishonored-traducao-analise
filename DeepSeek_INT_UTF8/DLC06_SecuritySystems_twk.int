@@ -1,0 +1,128 @@
+﻿[Alarm.DLC06_Alarm_panel_Box_twk:DisTweaks_InteractableInterface_1 DisTweaks_InteractableInterface]
+m_Name="Painel de Alarme"
+
+[Alarm.DLC06_Alarm_panel_twk:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Circuito de Alarme"
+m_UseMessage="Este alarme foi desativado"
+
+[Alarm.DLC06_AlarmBase DisTweaks_AlarmBell]
+m_UnlockInteractText="`GBA_Use` Desbloquear"
+m_LockedMessage=""
+m_UnauthorizedMessage=""
+m_FocusMessage=""
+m_FocusLockedMessage=""
+
+[Alarm.DLC06_AlarmBase:DisTweaks_Interactable_AlarmBell_0 DisTweaks_Interactable_AlarmBell]
+m_UnringAlarmText="`GBA_Use` Silêncio"
+m_Name="Sino de Alarme"
+m_InteractText="`GBA_Use` Anel"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Battery.DLC06_WhaleOilBattery_twk DisTweaks_WhaleOilBattery]
+m_EmptyName="Tanque de Óleo Vazio"
+
+[Battery.DLC06_WhaleOilBattery_twk:DisTweaks_InteractableInterface_0 DisTweaks_InteractableInterface]
+m_Name="Tanque de Óleo de Baleia"
+m_InteractText="`GBA_Use` Carregar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Battery.DLC06_WhaleOilBttry_empty DisTweaks_WhaleOilBattery]
+m_EmptyName="Tanque de Óleo Vazio"
+
+[Battery.DLC06_WhaleOilBttry_empty:DisTweaks_InteractableInterface_0 DisTweaks_InteractableInterface]
+m_Name="Tanque de Óleo de Baleia"
+m_InteractText="`GBA_Use` Carregar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Generic.DLC06_ArcPylon_eye_panel:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Circuito do Pilar de Arco"
+m_UseMessage="Este Pilar de Arco agora prejudicará inimigos em vez de você"
+
+[Generic.DLC06_Arcpylon_eye_panel_box:DisTweaks_InteractableInterface_1 DisTweaks_InteractableInterface]
+m_Name="Painel do Pilar de Arco"
+
+[Generic.DLC06_BulletLauncher:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Lançador de Balas"
+
+[Generic.DLC06_ExplosiveBulletLauncher:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Lançador de Balas Explosivas"
+
+[Generic.DLC06_Generic_eye_panel DisTweaks_UsableObject]
+m_UnlockInteractText="`GBA_Use` Desbloquear"
+m_LockedMessage=""
+m_UnauthorizedMessage="`GBA_Use` Usar"
+m_FocusMessage="Ferramentas de Religação Restantes: `q`"
+m_FocusLockedMessage=""
+
+[Generic.DLC06_Generic_eye_panel:DisTweaks_InteractableInterface_0 DisTweaks_InteractableInterface]
+m_Name="Circuitaria"
+m_InteractText="`GBA_Use` Religar"
+m_AltInteractText=""
+m_UseMessage="Este dispositivo foi agora religado."
+m_AltUseMessage=""
+m_CannotUseMessage="Você não tem ferramentas de remontagem"
+
+[Generic.DLC06_Generic_eye_panel_box DisTweaks_UsableObject]
+m_Stages[1]=(m_InteractTextOverride="`GBA_Use` Close")
+m_UnlockInteractText="`GBA_Use` Desbloquear"
+m_LockedMessage=""
+m_UnauthorizedMessage=""
+m_FocusMessage=""
+m_FocusLockedMessage=""
+
+[Generic.DLC06_Generic_eye_panel_box:DisTweaks_InteractableInterface_1 DisTweaks_InteractableInterface]
+m_Name="Painel de Metal"
+m_InteractText="`GBA_Use` Abrir"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Generic.DLC06_GrenadeLauncher:DisTweaks_InteractableInterface_2 DisTweaks_InteractableInterface]
+m_Name="Lançador de Projéteis"
+m_InteractText="`GBA_Use` Desarmar"
+m_AltInteractText=""
+m_UseMessage="Lançador desarmado"
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Generic.DLC06_Tripwire_DoubleDoor:DisTweaks_InteractableInterface_0 DisTweaks_InteractableInterface]
+m_Name="Armadilha"
+m_InteractText="`GBA_Use` Gatilho"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Generic.DLC06_Tripwire_Hallway:DisTweaks_InteractableInterface_1 DisTweaks_InteractableInterface]
+m_Name="Armadilha"
+m_InteractText="`GBA_Use` Gatilho"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Generic.DLC06_Tripwire_SimpleDoor:DisTweaks_InteractableInterface_2 DisTweaks_InteractableInterface]
+m_Name="Armadilha"
+m_InteractText="`GBA_Use` Gatilho"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Generic.DLC06_WallOfLight_eye_panel:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Circuito da Parede de Luz"
+m_UseMessage="Este Muro de Luz agora irá prejudicar inimigos em vez de você"
+
+[Generic.DLC06_WOL_eye_panel_box:DisTweaks_InteractableInterface_1 DisTweaks_InteractableInterface]
+m_Name="Painel de Porta de Segurança"
+

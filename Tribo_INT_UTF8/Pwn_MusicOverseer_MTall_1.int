@@ -1,0 +1,24 @@
+﻿[Pwn_MusicOverseer_MTall_1 DisTweaks_NPCPawn]
+m_BusyText="Esse personagem está ocupado"
+m_CannotStealMessage="Você não pode mais carregar esse tipo de munição"
+
+[Pwn_MusicOverseer_MTall_1:DisTweaks_InteractableInterface_0 DisTweaks_InteractableInterface]
+m_Name="Supervisor"
+m_InteractText=""
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Pwn_WarfareOverseer_MTall_1 DisTweaks_NPCPawn]
+m_BusyText="Esse personagem está ocupado"
+m_CannotStealMessage="Você não pode mais carregar esse tipo de munição"
+
+[Pwn_WarfareOverseer_MTall_1:DisTweaks_InteractableInterface_2 DisTweaks_InteractableInterface]
+m_Name="Supervisor"
+m_InteractText=""
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+

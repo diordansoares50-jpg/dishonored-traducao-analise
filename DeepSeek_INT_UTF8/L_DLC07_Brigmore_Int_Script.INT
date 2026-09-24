@@ -1,0 +1,67 @@
+﻿[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_ShowLocationDiscovery_4 DisSeqAct_ShowLocationDiscovery]
+m_LocationName="Mansão Brigmore"
+
+[TheWorld:PersistentLevel.Main_Sequence.Lantern_Stuff.DisSeqAct_DialogScriptedChoice_1 DisSeqAct_DialogScriptedChoice]
+m_Title=""
+m_Choices[0]=(m_ChoiceText="Set the lantern near the painting")
+m_Choices[1]=(m_ChoiceText="Wait")
+
+[TheWorld:PersistentLevel.Main_Sequence.Lantern_Stuff.DisSeqAct_DialogScriptedChoice_2 DisSeqAct_DialogScriptedChoice]
+m_Title=""
+m_Choices[0]=(m_ChoiceText="Enter the painting")
+m_Choices[1]=(m_ChoiceText="Wait")
+
+[TheWorld:PersistentLevel.Main_Sequence.Lantern_Stuff.DisSeqAct_DialogScriptedChoice_3 DisSeqAct_DialogScriptedChoice]
+m_Title=""
+m_Choices[0]=(m_ChoiceText="Take the lantern")
+m_Choices[1]=(m_ChoiceText="Wait")
+
+[TheWorld:PersistentLevel.Main_Sequence.Lantern_Stuff.DisSeqAct_ShowHUDMessage_9 DisSeqAct_ShowHUDMessage]
+m_Message="Nova Pista de Missão Adicionada"
+
+[TheWorld:PersistentLevel.Main_Sequence.Lantern_Stuff.DisSeqAct_UpdateTaskTarget_0 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Galeria"
+
+[TheWorld:PersistentLevel.Main_Sequence.Lantern_Stuff.DisSeqAct_UpdateTaskTarget_1 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Galeria"
+
+[TheWorld:PersistentLevel.Main_Sequence.Lantern_Stuff.DisSeqAct_UpdateTaskTarget_2 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Pintura"
+
+[TheWorld:PersistentLevel.Main_Sequence.Lantern_Stuff.DisSeqAct_UpdateTaskTarget_33 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Galeria"
+
+[TheWorld:PersistentLevel.Main_Sequence.LevelTransition.DisSeqAct_DialogScriptedChoice_0 DisSeqAct_DialogScriptedChoice]
+m_Title=""
+m_Choices[0]=(m_ChoiceText="Go to Brigmore Exterior")
+m_Choices[1]=(m_ChoiceText="Stay in Brigmore Manor")
+
+[TheWorld:PersistentLevel.Main_Sequence.LevelTransition.DisSeqAct_DialogScriptedChoice_7 DisSeqAct_DialogScriptedChoice]
+m_Title=""
+m_Choices[0]=(m_ChoiceText="Go to Brigmore Crypt")
+m_Choices[1]=(m_ChoiceText="Stay in Brigmore Manor")
+
+[TheWorld:PersistentLevel.Main_Sequence.ObjectiveMarkers.DisSeqAct_UpdateTaskTarget_3 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Exterior de Brigmore"
+
+[TheWorld:PersistentLevel.Main_Sequence.Objectives.BreadcrumbTrail.DisSeqAct_UpdateTaskTarget_0 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Ala Oeste"
+
+[TheWorld:PersistentLevel.Main_Sequence.Objectives.BreadcrumbTrail.DisSeqAct_UpdateTaskTarget_1 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Ala Oeste"
+
+[TheWorld:PersistentLevel.Main_Sequence.Objectives.BreadcrumbTrail.DisSeqAct_UpdateTaskTarget_2 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Ala Oeste"
+
+[TheWorld:PersistentLevel.Main_Sequence.Objectives.DisSeqAct_ShowHUDMessage_9 DisSeqAct_ShowHUDMessage]
+m_Message="Nova Pista de Missão Adicionada"
+
+[TheWorld:PersistentLevel.Main_Sequence.Objectives.DisSeqAct_UpdateTaskTarget_0 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Ala Oeste"
+
+[TheWorld:PersistentLevel.Main_Sequence.Objectives.DisSeqAct_UpdateTaskTarget_13 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Cheiro de diluente de tinta"
+
+[TheWorld:PersistentLevel.Main_Sequence.Wounded_Overseer.DisSeqAct_ShowHUDMessage_9 DisSeqAct_ShowHUDMessage]
+m_Message="Nova Pista de Missão Adicionada"
+

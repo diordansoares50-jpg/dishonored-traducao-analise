@@ -1,0 +1,16 @@
+﻿[twk_proj_whiskeybottle:DisTweaks_InteractableInterface_6 DisTweaks_InteractableInterface]
+m_Name="Garrafa de Uísque"
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage="Você não pode mais carregar esse tipo de munição"
+
+[twk_proj_whiskeybottle:DisTweaks_WhiskeyBottle_0.DisTweaks_InteractableInterface_11 DisTweaks_InteractableInterface]
+m_Name=""
+m_InteractText=""
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+

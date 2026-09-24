@@ -1,0 +1,30 @@
+﻿[AbstractInv_Graphs.AG_TimshBusiness DisAbstractItemAudioLog]
+m_ItemName="Negócios Diários de Timsh"
+m_PluralItemName=""
+m_Description="Timsh dita uma correspondência para um associado."
+
+[AbstractInv_Graphs.AG_TimshMother DisAbstractItemAudioLog]
+m_ItemName="Mensagem de Timsh para Sua Mãe"
+m_PluralItemName=""
+m_Description="A mensagem de Timsh para sua mãe, caso ela acorde do estado de coma."
+
+[AbstractInv_Graphs.DLC06_RothwildDrunk DisAbstractItemAudioLog]
+m_ItemName="Reflexões de Rothwild"
+m_PluralItemName=""
+m_Description="Rothwild registra seus devaneios embriagados nas últimas horas da noite"
+
+[AbstractInv_Graphs.DLC06_RothwildOffice DisAbstractItemAudioLog]
+m_ItemName="Negócios de Rothwild"
+m_PluralItemName=""
+m_Description="Rothwild atualiza o status de sua frota"
+
+[AbstractInv_Graphs.DLC06_Slaughter_PCard DisAbstractItemAudioLog]
+m_ItemName="Confisco do Cartão de Tempo"
+m_PluralItemName=""
+m_Description="Notas sobre o bloqueio do matadouro."
+
+[AbstractInv_Graphs.DLC06_SokolovOffice DisAbstractItemAudioLog]
+m_ItemName="Notas de Sokolov"
+m_PluralItemName=""
+m_Description="Anton Sokolov descreve um processo para eletrocutar uma baleia."
+

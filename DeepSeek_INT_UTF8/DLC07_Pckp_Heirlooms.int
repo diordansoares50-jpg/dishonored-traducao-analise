@@ -1,0 +1,57 @@
+﻿[T2.DLC07_Pckp_Draper_Cameo:DisTweaks_Interactable_PickupBase_45 DisTweaks_Interactable_PickupBase]
+m_Name="Cameu de Arqueiro"
+
+[T2.DLC07_Pckp_Draper_Carmine_Urn:DisTweaks_Interactable_PickupBase_52 DisTweaks_Interactable_PickupBase]
+m_Name="Urna do Arqueiro"
+
+[T2.DLC07_Pckp_Draper_CigCase:DisTweaks_Interactable_PickupBase_46 DisTweaks_Interactable_PickupBase]
+m_Name="Estojo de Cigarros Archer"
+
+[T2.DLC07_Pckp_Draper_JBox:DisTweaks_Interactable_PickupBase_48 DisTweaks_Interactable_PickupBase]
+m_Name="Caixa de Joias do Arqueiro"
+
+[T2.DLC07_Pckp_Draper_Medal:DisTweaks_Interactable_PickupBase_49 DisTweaks_Interactable_PickupBase]
+m_Name="Medalha de Guerra do Arqueiro"
+
+[T2.DLC07_Pckp_Draper_PcktWtch:DisTweaks_Interactable_PickupBase_15 DisTweaks_Interactable_PickupBase]
+m_Name="Relógio de Bolso do Arqueiro"
+
+[T2.DLC07_Pckp_Draper_Plate:DisTweaks_Interactable_PickupBase_50 DisTweaks_Interactable_PickupBase]
+m_Name="Placa de Decoração de Arqueiro"
+
+[T2.DLC07_Pckp_Draper_Sextant:DisTweaks_Interactable_PickupBase_51 DisTweaks_Interactable_PickupBase]
+m_Name="Arqueiro Sextante"
+
+[T2.DLC07_Pckp_Draper_Statue:DisTweaks_Interactable_PickupBase_47 DisTweaks_Interactable_PickupBase]
+m_Name="Estatueta de Baleia Arqueira"
+
+[T3.DLC07_Pckp_T3_Brigmore_Cameo:DisTweaks_Interactable_PickupBase_60 DisTweaks_Interactable_PickupBase]
+m_Name="Cameu Brigmore"
+
+[T3.DLC07_Pckp_T3_Brigmore_CigCase:DisTweaks_Interactable_PickupBase_61 DisTweaks_Interactable_PickupBase]
+m_Name="Estojo de Cigarros Brigmore"
+
+[T3.DLC07_Pckp_T3_Brigmore_Egg:DisTweaks_Interactable_PickupBase_62 DisTweaks_Interactable_PickupBase]
+m_Name="Ovo de Brigmore"
+
+[T3.DLC07_Pckp_T3_Brigmore_JBox:DisTweaks_Interactable_PickupBase_63 DisTweaks_Interactable_PickupBase]
+m_Name="Caixa de Joias de Brigmore"
+
+[T3.DLC07_Pckp_T3_Brigmore_Medal:DisTweaks_Interactable_PickupBase_64 DisTweaks_Interactable_PickupBase]
+m_Name="Medalha de Guerra de Brigmore"
+
+[T3.DLC07_Pckp_T3_Brigmore_Plate:DisTweaks_Interactable_PickupBase_65 DisTweaks_Interactable_PickupBase]
+m_Name="Prato Decorativo Brigmore"
+
+[T3.DLC07_Pckp_T3_Brigmore_Sext:DisTweaks_Interactable_PickupBase_66 DisTweaks_Interactable_PickupBase]
+m_Name="Sextante de Brigmore"
+
+[T3.DLC07_Pckp_T3_Brigmore_Statue:DisTweaks_Interactable_PickupBase_68 DisTweaks_Interactable_PickupBase]
+m_Name="Estatueta de Baleia de Brigmore"
+
+[T3.DLC07_Pckp_T3_Brigmore_Urn:DisTweaks_Interactable_PickupBase_67 DisTweaks_Interactable_PickupBase]
+m_Name="Urna de Brigmore"
+
+[T3.DLC07_Pckp_T3_Brigmore_Watch:DisTweaks_Interactable_PickupBase_20 DisTweaks_Interactable_PickupBase]
+m_Name="Relógio de Bolso Brigmore"
+

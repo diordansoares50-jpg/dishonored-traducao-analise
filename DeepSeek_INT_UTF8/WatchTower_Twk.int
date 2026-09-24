@@ -1,0 +1,8 @@
+﻿[WatchTowerExplosiveArrow_twk:DisTweaks_InteractableInterface_20 DisTweaks_InteractableInterface]
+m_Name="Bólido Incendiário"
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage="Você não pode carregar mais munição deste tipo"
+

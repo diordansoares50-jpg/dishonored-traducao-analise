@@ -1,0 +1,15 @@
+﻿[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_DialogScriptedChoice_0 DisSeqAct_DialogScriptedChoice]
+m_Title=""
+m_Choices[0]=(m_ChoiceText="End Mission")
+m_Choices[1]=(m_ChoiceText="Stay in the Legal District Waterfront")
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_DialogScriptedChoice_3 DisSeqAct_DialogScriptedChoice]
+m_Title=""
+m_Choices[0]=(m_ChoiceText="Travel to the Legal District")
+m_Choices[1]=(m_ChoiceText="Stay in the Legal District Waterfront")
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_DialogScriptedChoice_4 DisSeqAct_DialogScriptedChoice]
+m_Title=""
+m_Choices[0]=(m_ChoiceText="Travel to the Legal District")
+m_Choices[1]=(m_ChoiceText="Stay in the Legal District Waterfront")
+

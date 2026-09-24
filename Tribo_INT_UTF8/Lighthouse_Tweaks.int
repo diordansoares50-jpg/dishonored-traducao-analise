@@ -1,0 +1,108 @@
+﻿[Characters.Pwn_LadyEmily_Lighthouse_HighChaos DisTweaks_NPCPawn]
+m_BusyText="Esse personagem está ocupado"
+m_CannotStealMessage="Você não pode mais carregar esse tipo de munição"
+
+[Characters.Pwn_LadyEmily_Lighthouse_HighChaos:DisTweaks_InteractableInterface_39 DisTweaks_InteractableInterface]
+m_Name="Lady Emily"
+m_InteractText=""
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Characters.Pwn_LadyEmily_Lighthouse_LowChaos DisTweaks_NPCPawn]
+m_BusyText="Esse personagem está ocupado"
+m_CannotStealMessage="Você não pode mais carregar esse tipo de munição"
+
+[Characters.Pwn_LadyEmily_Lighthouse_LowChaos:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Lady Emily"
+m_InteractText=""
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Characters.Twk_Pawn_Boatman_Lighthouse DisTweaks_NPCPawn]
+m_BusyText="Esse personagem está ocupado"
+m_CannotStealMessage="Você não pode mais carregar esse tipo de munição"
+
+[Characters.Twk_Pawn_Boatman_Lighthouse:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Samuel Beechworth"
+m_InteractText=""
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Characters.Twk_Pawn_Havelock_HC DisTweaks_NPCPawn]
+m_BusyText="Esse personagem está ocupado"
+m_CannotStealMessage="Você não pode mais carregar esse tipo de munição"
+
+[Characters.Twk_Pawn_Havelock_HC:DisTweaks_InteractableInterface_32 DisTweaks_InteractableInterface]
+m_Name="Almirante Havelock"
+m_InteractText=""
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Characters.Twk_Pawn_Havelock_LC DisTweaks_NPCPawn]
+m_BusyText="Esse personagem está ocupado"
+m_CannotStealMessage="Você não pode mais carregar esse tipo de munição"
+
+[Characters.Twk_Pawn_Havelock_LC:DisTweaks_InteractableInterface_32 DisTweaks_InteractableInterface]
+m_Name="Almirante Havelock"
+m_InteractText=""
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Characters.Twk_Pawn_Martin_Dead DisTweaks_NPCPawn]
+m_BusyText="Esse personagem está ocupado"
+m_CannotStealMessage="Você não pode mais carregar esse tipo de munição"
+
+[Characters.Twk_Pawn_Martin_Dead:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Prelado Supervisor Martin"
+m_InteractText=""
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Characters.Twk_Pawn_Martin_Lighthouse DisTweaks_NPCPawn]
+m_BusyText="Esse personagem está ocupado"
+m_CannotStealMessage="Você não pode mais carregar esse tipo de munição"
+
+[Characters.Twk_Pawn_Martin_Lighthouse:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Prelado Supervisor Martin"
+m_InteractText=""
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Characters.Twk_Pawn_Pendleton_Dead DisTweaks_NPCPawn]
+m_BusyText="Esse personagem está ocupado"
+m_CannotStealMessage="Você não pode mais carregar esse tipo de munição"
+
+[Characters.Twk_Pawn_Pendleton_Dead:DisTweaks_InteractableInterface_40 DisTweaks_InteractableInterface]
+m_Name="Lorde Pendleton"
+m_InteractText=""
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Characters.Twk_Pawn_Pendleton_Lighthouse DisTweaks_NPCPawn]
+m_BusyText="Esse personagem está ocupado"
+m_CannotStealMessage="Você não pode mais carregar esse tipo de munição"
+
+[Characters.Twk_Pawn_Pendleton_Lighthouse:DisTweaks_InteractableInterface_40 DisTweaks_InteractableInterface]
+m_Name="Lorde Pendleton"
+m_InteractText=""
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+

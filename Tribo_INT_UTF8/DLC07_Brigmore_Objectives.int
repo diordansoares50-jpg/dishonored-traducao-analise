@@ -1,0 +1,161 @@
+﻿[DLC07_BrigFav1_Objectives DishonoredObjective]
+m_Description="(Favor) Hole in the Fence"
+
+[DLC07_BrigFav1_Objectives:DishonoredTask_Custom_45 DishonoredTask_Custom]
+m_Description="(Optional) Grab your cache and slip quietly onto the estate grounds"
+m_Status=""
+
+[DLC07_BrigFav2_Objectives DishonoredObjective]
+m_Description="(Favor) The Disreputable Butler"
+
+[DLC07_BrigFav2_Objectives:DishonoredTask_Custom_0 DishonoredTask_Custom]
+m_Description="(Optional) Check the waterfall to see if the butler actually escaped"
+m_Status=""
+
+[DLC07_BrigFav2_Objectives:DishonoredTask_Custom_45 DishonoredTask_Custom]
+m_Description="(Optional) Search the shore for evidence of the butler's smuggling"
+m_Status=""
+
+[DLC07_BrigFav3_Objectives DishonoredObjective]
+m_Description="(Favor) Turncoat"
+
+[DLC07_BrigFav3_Objectives:DishonoredTask_Custom_45 DishonoredTask_Custom]
+m_Description="(Optional) A witch in a red jacket has information for you"
+m_Status=""
+
+[DLC07_Brigmore_Objectives DishonoredObjective]
+m_Description="Neutralize Delilah Copperspoon"
+
+[DLC07_Brigmore_Objectives:DishonoredTask_Custom_0 DishonoredTask_Custom]
+m_Description="(Nonlethal) Complete the Ritual"
+m_Status=""
+
+[DLC07_Brigmore_Objectives:DishonoredTask_Custom_1 DishonoredTask_Custom]
+m_Description="Enter the painting"
+m_Status=""
+
+[DLC07_Brigmore_Objectives:DishonoredTask_Custom_27 DishonoredTask_Custom]
+m_Description="(Optional) Find the crypt of Jessop Brigmore"
+m_Status=""
+
+[DLC07_Brigmore_Objectives:DishonoredTask_Custom_28 DishonoredTask_Custom]
+m_Description="(Optional) Find the missing lever"
+m_Status=""
+
+[DLC07_Brigmore_Objectives:DishonoredTask_Custom_29 DishonoredTask_Custom]
+m_Description="(Optional) Explore the crypt"
+m_Status=""
+
+[DLC07_Brigmore_Objectives:DishonoredTask_Custom_30 DishonoredTask_Custom]
+m_Description="Use the lantern to illuminate the painting in the gallery"
+m_Status=""
+
+[DLC07_Brigmore_Objectives:DishonoredTask_Custom_31 DishonoredTask_Custom]
+m_Description="(Optional) Repair the grave switch"
+m_Status=""
+
+[DLC07_Brigmore_Objectives:DishonoredTask_Custom_32 DishonoredTask_Custom]
+m_Description="Leap of Faith"
+m_Status=""
+
+[DLC07_Brigmore_Objectives:DishonoredTask_Custom_33 DishonoredTask_Custom]
+m_Description="Find Delilah Copperspoon"
+m_Status=""
+
+[DLC07_Brigmore_Objectives:DishonoredTask_Custom_34 DishonoredTask_Custom]
+m_Description="(Nonlethal) Replace the painting of Emily"
+m_Status=""
+
+[DLC07_Brigmore_Objectives:DishonoredTask_Custom_35 DishonoredTask_Custom]
+m_Description="(Nonlethal) Place Delilah on the altar"
+m_Status=""
+
+[DLC07_Brigmore_Objectives:DishonoredTask_Custom_36 DishonoredTask_Custom]
+m_Description="Kill Delilah Copperspoon"
+m_Status=""
+
+[DLC07_Brigmore_Objectives:DishonoredTask_Custom_39 DishonoredTask_Custom]
+m_Description="(Nonlethal) Find a suitable replacement painting"
+m_Status=""
+
+[DLC07_Brigmore_Objectives:DishonoredTask_Custom_40 DishonoredTask_Custom]
+m_Description="(Nonlethal) Render Delilah Copperspoon unconscious"
+m_Status=""
+
+[DLC07_Brigmore_Objectives:DishonoredTask_Custom_41 DishonoredTask_Custom]
+m_Description="(Nonlethal) Allow Delilah Copperspoon to complete the ritual"
+m_Status=""
+
+[DLC07_Brigmore_Objectives:DishonoredTask_Custom_47 DishonoredTask_Custom]
+m_Description="Search the manor for Delilah"
+m_Status=""
+
+[DLC07_Brigmore_Objectives:DishonoredTask_Custom_49 DishonoredTask_Custom]
+m_Description="Find the ritual site"
+m_Status=""
+
+[DLC07_Brigmore_Objectives:DishonoredTask_Custom_50 DishonoredTask_Custom]
+m_Description="Go to the backyard in search of the missing lever"
+m_Status=""
+
+[DLC07_Brigmore_Objectives:DishonoredTask_Custom_51 DishonoredTask_Custom]
+m_Description="Find a way into the Brigmore Estate"
+m_Status=""
+
+[DLC07_Brigmore_Objectives:DishonoredTask_Custom_52 DishonoredTask_Custom]
+m_Description="(Optional) Find the key to the front door"
+m_Status=""
+
+[DLC07_Brigmore_Objectives:DishonoredTask_Custom_53 DishonoredTask_Custom]
+m_Description="(Optional) Enter through the front door"
+m_Status=""
+
+[DLC07_Brigmore_Objectives:DishonoredTask_Custom_54 DishonoredTask_Custom]
+m_Description="Search the studio"
+m_Status=""
+
+[DLC07_Brigmore_Objectives:DishonoredTask_Custom_55 DishonoredTask_Custom]
+m_Description="Find Delilah's studio"
+m_Status=""
+
+[DLC07_BrigNonlethal_Objectives DishonoredObjective]
+m_Description="Nonlethal Delilah Copperspoon"
+
+[DLC07_BrigNonlethal_Objectives:DishonoredTask_Custom_50 DishonoredTask_Custom]
+m_Description="Find the ritual tome"
+m_Status=""
+
+[DLC07_GrannyBrig_Objectives DishonoredObjective]
+m_Description="Granny's spell"
+
+[DLC07_GrannyBrig_Objectives:DishonoredTask_Custom_44 DishonoredTask_Custom]
+m_Description="Collect three river krust pearls"
+m_Status=""
+
+[DLC07_GrannyBrig_Objectives:DishonoredTask_Custom_45 DishonoredTask_Custom]
+m_Description="Collect two more pearls"
+m_Status=""
+
+[DLC07_GrannyBrig_Objectives:DishonoredTask_Custom_46 DishonoredTask_Custom]
+m_Description="Collect one more pearl"
+m_Status=""
+
+[DLC07_GrannyBrig_Objectives:DishonoredTask_Custom_47 DishonoredTask_Custom]
+m_Description="Swallow the pearls with water from the Brigmore well"
+m_Status=""
+
+[DLC07_GraveHound_Objectives DishonoredObjective]
+m_Description="Disable the Gravehounds"
+
+[DLC07_GraveHound_Objectives:DishonoredTask_Custom_44 DishonoredTask_Custom]
+m_Description="Discover the location of the hound reanimation shrine"
+m_Status=""
+
+[DLC07_GraveHound_Objectives:DishonoredTask_Custom_45 DishonoredTask_Custom]
+m_Description="Find the hound reanimation shrine in the cellar"
+m_Status=""
+
+[DLC07_GraveHound_Objectives:DishonoredTask_Custom_46 DishonoredTask_Custom]
+m_Description="Remove the rune from the shrine"
+m_Status=""
+

@@ -1,0 +1,75 @@
+﻿[TheWorld:PersistentLevel.Main_Sequence.Bend_Time_Massacre.DisSeqAct_DLC05_ShowPhaseResults_0 DisSeqAct_DLC05_ShowPhaseResults]
+m_PhaseName="Round 3"
+
+[TheWorld:PersistentLevel.Main_Sequence.Bend_Time_Massacre.DisSeqAct_ShowHUDMessage_0 DisSeqAct_ShowHUDMessage]
+m_Message="Waiting for effects..."
+
+[TheWorld:PersistentLevel.Main_Sequence.Bend_Time_Massacre.DisSeqAct_ShowLocationDiscovery_12 DisSeqAct_ShowLocationDiscovery]
+m_LocationName="Bonus Round Failed"
+
+[TheWorld:PersistentLevel.Main_Sequence.Bend_Time_Massacre.DisSeqAct_ShowLocationDiscovery_2 DisSeqAct_ShowLocationDiscovery]
+m_LocationName="Bonus Round Completed!"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_SetTutorialMessage_1 DisSeqAct_SetTutorialMessage]
+m_TutorialMessage=""
+m_TutorialMessage_Gamepad=""
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_SetTutorialMessage_4 DisSeqAct_SetTutorialMessage]
+m_TutorialMessage="Bonus Challenge. You will have 30 seconds to hit the Art Dealer with four crossbow bolts, each of which should shatter a pane of glass."
+m_TutorialMessage_Gamepad=""
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_SetTutorialMessage_8 DisSeqAct_SetTutorialMessage]
+m_TutorialMessage=""
+m_TutorialMessage_Gamepad=""
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_SetTutorialMessage_9 DisSeqAct_SetTutorialMessage]
+m_TutorialMessage=""
+m_TutorialMessage_Gamepad=""
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_SetTutorialMessage_20 DisSeqAct_SetTutorialMessage]
+m_TutorialMessage="You will have 14 seconds to kill seven enemies. Break glass to massacre."
+m_TutorialMessage_Gamepad=""
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_SetTutorialMessage_21 DisSeqAct_SetTutorialMessage]
+m_TutorialMessage="Bonus Challenge. You will have 16 seconds to kill nine enemies. Do not allow any to die before bend time ends."
+m_TutorialMessage_Gamepad=""
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_ShowLocationDiscovery_15 DisSeqAct_ShowLocationDiscovery]
+m_LocationName="Round 3"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_ShowLocationDiscovery_23 DisSeqAct_ShowLocationDiscovery]
+m_LocationName="Round 3 - Patience Bonus"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_ShowLocationDiscovery_24 DisSeqAct_ShowLocationDiscovery]
+m_LocationName="Round 3 - Pincushion Bonus"
+
+[TheWorld:PersistentLevel.Main_Sequence.The_Victims.DisSeqAct_ShowLocationDiscovery_22 DisSeqAct_ShowLocationDiscovery]
+m_LocationName="Bonus Round Failed: Enemy died during bend time."
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_DLC05_ShowWaveNumber_0 DisSeqAct_DLC05_ShowWaveNumber]
+m_CustomText=""
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_DLC05_ShowWaveNumber_3 DisSeqAct_DLC05_ShowWaveNumber]
+m_CustomText="Round 3 - Pincushion Bonus"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_DLC05_ShowWaveNumber_8 DisSeqAct_DLC05_ShowWaveNumber]
+m_CustomText="Round 3 - Patience Bonus"
+
+[TheWorld:PersistentLevel.Main_Sequence.Bend_Time_Massacre.DisSeqAct_DLC05_ShowWaveNumber_3 DisSeqAct_DLC05_ShowWaveNumber]
+m_CustomText="Bonus Round Failed: Enemy died during bend time."
+
+[TheWorld:PersistentLevel.Main_Sequence.Environmental.DisSeqAct_DLC05_MarkerControl_0 DisSeqAct_DLC05_MarkerControl]
+m_TargetName="Window"
+
+[TheWorld:PersistentLevel.Main_Sequence.Environmental.DisSeqAct_DLC05_MarkerControl_2 DisSeqAct_DLC05_MarkerControl]
+m_TargetName="Window"
+
+[TheWorld:PersistentLevel.Main_Sequence.Environmental.DisSeqAct_DLC05_MarkerControl_3 DisSeqAct_DLC05_MarkerControl]
+m_TargetName="Window"
+
+[TheWorld:PersistentLevel.Main_Sequence.Environmental.DisSeqAct_DLC05_MarkerControl_4 DisSeqAct_DLC05_MarkerControl]
+m_TargetName="Window"
+
+[TheWorld:PersistentLevel.Main_Sequence.The_Victims.DisSeqAct_UpdateTaskTarget_5 DisSeqAct_UpdateTaskTarget]
+m_TargetName="The Art Dealer"
+

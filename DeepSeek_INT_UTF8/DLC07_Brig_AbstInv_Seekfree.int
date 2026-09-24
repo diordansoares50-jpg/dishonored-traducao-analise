@@ -1,0 +1,157 @@
+﻿[BrigmoreNotes.Brig_Gatehouse_Note DisAbstractItem]
+m_ItemName="Envelope Lacrado"
+m_PluralItemName="Envelopes Lacrados"
+m_Description="Vigie a estrada antiga. Nossos espiões dizem que Daud pode ter seguido nosso rastro até a propriedade. Esconda a lanterna na cripta dos Jessop Brigmore e proteja a pintura a qualquer custo, para não sermos isolados ou, pior ainda, presos dentro."
+
+[BrigmoreNotes.Brig_GrannyR_Note DisAbstractItem]
+m_ItemName="Página de um Livro Antigo"
+m_PluralItemName="Páginas de um livro antigo"
+m_Description="[Uma página rasgada de um manuscrito antigo, escrita em letra rabiscada]
+
+Águas lúgubres, filhas sibilantes.
+Quebre três conchas verdes e roube suas pérolas.
+Gire a torneira e beba da miséria de uma casa partida.
+Engula e siga, siga.
+Três bolinhas de gude molhadas descendo pela goela.
+
+Faça isso por mim, querida, e lhe darei um presente de aniversário.
+-Vovó"
+
+[BrigmoreNotes.Brigmore_EmilyPainting_AbsItm DisAbstractItem]
+m_ItemName="Seus Ramos Alcançam por Mim"
+m_PluralItemName=""
+m_Description="Uma pintura criada por Delilah Copperspoon."
+
+[BrigmoreNotes.Brigmore_FirstGraveHoundNote_AbsItm DisAbstractItem]
+m_ItemName="Cães do Túmulo"
+m_PluralItemName=""
+m_Description="Os cães estão ligados ao santuário; sem ele, as energias que os animam deixarão de funcionar e o cão desmoronará. Os cães nos terrenos da mansão têm se mostrado úteis repetidas vezes. Não podemos nos dar ao luxo de perdê-los. Sugiro que encontremos uma maneira de tornar os cães independentes do santuário canino."
+
+[BrigmoreNotes.Brigmore_GraveHoundNote_AbsItm DisAbstractItem]
+m_ItemName="Preocupações com o Cão do Túmulo"
+m_PluralItemName=""
+m_Description="Assim que o ritual de Delilah for concluído, podemos tentar abordar a vulnerabilidade do santuário do Cão da Sepultura. Seria imprudente mover o santuário do porão ou modificá-lo de qualquer forma neste momento. O risco de perturbar o foco é grande demais. Se algo acontecer ao foco, todos os cães entrarão em colapso e levará semanas para recuperarmos nosso progresso perdido."
+
+[BrigmoreNotes.Brigmore_LeverDisableNote_AbsItm DisAbstractItem]
+m_ItemName="Localização da Alavanca"
+m_PluralItemName=""
+m_Description="Com Daud a caminho, Delilah me mandou desativar o interruptor do túmulo e colocá-lo no galpão do jardim."
+
+[BrigmoreNotes.Brigmore_ManaStill_AbsItm DisAbstractItem]
+m_ItemName="Replicação de Remédio"
+m_PluralItemName=""
+m_Description="Encontrei uma forma de replicar o Remédio de Piero. Criei um primeiro lote como teste, mas preciso de ingredientes adicionais para continuar meu trabalho. Até que o Ritual de Delilah seja concluído, considere meu trabalho no Remédio em pausa."
+
+[BrigmoreNotes.Brigmore_OverseerFriendLetter_AbsItm DisAbstractItem]
+m_ItemName="Ajuda na Sua Tarefa"
+m_PluralItemName=""
+m_Description="Aqui, irmão, 
+
+Enviei-lhe uma das Estrituras para guiá-lo em sua missão em Brigmore. Minha esperança é que atentar aos avisos da 6ª Estritura seja o maior de seus problemas ao lidar com aqueles hereges.
+
+Seu,
+
+Bertram"
+
+[BrigmoreNotes.Brigmore_OverseerNote_AbsItm DisAbstractItem]
+m_ItemName="Interrogatório do Supervisor"
+m_PluralItemName=""
+m_Description="Não consegui extrair muito deste, ele estava bem treinado. Alimentá-lo com seu antigo companheiro produziu principalmente sons inúteis e bagunça. Vou tentar novamente amanhã, a menos que ele fique violentamente perturbado, caso em que terei pouca escolha a não ser sacrificá-lo."
+
+[BrigmoreNotes.Brigmore_OverseerOrders_AbsItm DisAbstractItem]
+m_ItemName="Ordens do Supervisor"
+m_PluralItemName=""
+m_Description="Irmão Pradclif,
+
+Você está encarregado da vigilância do Distrito de Mutcherhaven e das propriedades adjacentes. Viaje para lá imediatamente e reporte todas as descobertas ao gabinete do Alto Supervisor. Se quaisquer sinais de heresia organizada forem descobertos, solicite reforços adicionais; não tente lidar com a situação sozinho. Lembre-se das restrições e você não falhará.
+
+Supervisor Cranton"
+
+[BrigmoreNotes.Brigmore_ReplacementPainting_AbsItm DisAbstractItem]
+m_ItemName="Seus Ramos Alcançam por Mim"
+m_PluralItemName=""
+m_Description="Uma pintura criada por Delilah Copperspoon."
+
+[BrigmoreNotes.Brigmore_RitualNote_AbsItm DisAbstractItem]
+m_ItemName="Ritual da Pintura"
+m_PluralItemName=""
+m_Description="A Pintura do alvo da possessão deve ser posicionada acima do altar.\nApós preparar o ritual, o executor deve deitar-se sobre o altar.\n\nSe o ritual tiver sido preparado corretamente, o executor entrará então no corpo do sujeito da pintura.\n\nAviso: O sujeito da pintura deve ser o alvo da possessão. Qualquer outra pintura pode prender o executor do ritual."
+
+[BrigmoreNotes.Brigmore_StorageKey_AbsItm DisAbstractItem]
+m_ItemName="Chave de Cyria"
+m_PluralItemName=""
+m_Description="Cyria,
+
+Guarde esta chave da entrada alternativa da Galeria. Não quero que ninguém me perturbe durante o ritual. Ela só deve ser usada em caso de emergência. Confio em você para mantê-la segura; se alguém vier até você precisando de acesso à Galeria, deixo a seu critério decidir se é importante o suficiente para arriscar interferir no ritual.
+
+Delilah"
+
+[BrigmoreNotes.Brigmore_StorageKeyCopy_AbsItm DisAbstractItem]
+m_ItemName="Cópia da Chave"
+m_PluralItemName=""
+m_Description="Audra,\nFiz uma cópia da chave conforme solicitado. É uma fechadura antiga, mas nada que eu não pudesse resolver. Como pediu, não contei a ninguém sobre esta cópia. Espero que lhe seja útil.\nAtenciosamente,\nMestre-chaveiro Briston"
+
+[BrigmoreNotes.BrigmoreLantern_AbsItm DisAbstractItem]
+m_ItemName="Lanterna Estranha"
+m_PluralItemName=""
+m_Description="Dizem que pode dar vida às pinturas..."
+
+[BrigmoreNotes.BrigmoreLever_AbsItm DisAbstractItem]
+m_ItemName="Uma Alavanca Pesada"
+m_PluralItemName=""
+m_Description="Talvez possa ser usado em outro lugar..."
+
+[BrigmoreNotes.BrigmoreStash_AbsItm DisAbstractItem]
+m_ItemName="Cache de Amenidades Violentas"
+m_PluralItemName=""
+m_Description="Talvez possa ser usado em outro lugar..."
+
+[BrigmoreNotes.Butler_Note DisAbstractItem]
+m_ItemName="Nota do Mordomo"
+m_PluralItemName="Nota do Mordomo"
+m_Description="Eles estão me perseguindo.
+
+O vaso terá que ficar aqui, Reggie, até que possamos retornar de barco e recuperá-lo. A chave do mestre, no entanto, virá comigo e — já que você não está em lugar algum — não tenho escolha senão escalar as pedras perto da cachoeira e escapar pelo campo. Me deixe na mão nessa e eu vou colocar um buraco de bala na sua cabeça.
+
+-Y."
+
+[BrigmoreNotes.Magic_Lantern_Book DisAbstractItem]
+m_ItemName="Diário da Delilah"
+m_PluralItemName="Diário da Delilah"
+m_Description="Agora que a pintura está terminada, vou me sentar na pele da jovem Emily e vestir seu rosto como uma máscara de mímico. Havelock e seus bajuladores colocarão a criança no trono, mas sou EU que estarão coroando. Delilah. A cozinheira da Torre de Dunwall. Chamavam-me de aprendiz de Sokolov, mas de quem são as pinturas que alcançam o espírito? Minhas. Eles nunca saberão de seu erro, mas eu me certificarei de sussurrá-lo em seus ouvidos durante as execuções.
+
+Meus seguidores levarão a lanterna à galeria para abrir o caminho para o Vazio. Lá, usarei a pintura para completar o ritual. Minha entrada na carne de Emily não deve ser perturbada.
+
+O ritual tem outros usos, que explorarei com o tempo. Qualquer imagem feita por minha mão poderia servir como ponto focal para o feitiço. Imagino um de meus inimigos como uma natureza-morta, aprisionado em uma tigela de frutas sem qualquer graça."
+
+[BrigmoreNotes.Roadside_Shack_Note DisAbstractItem]
+m_ItemName="Ordens de Vigia"
+m_PluralItemName="Ordens de Vigia"
+m_Description="S.
+
+Daud deixou o Distrito dos Alfaiates no barco de Lizzy Stride e pode chegar em questão de horas. Desative o interruptor do túmulo. Isabelle trancará a mansão e aguardará novas instruções no quintal.
+
+D."
+
+[BrigmoreNotes.StudioClue1 DisAbstractItem]
+m_ItemName="Ordens da Delilah"
+m_PluralItemName="Ordens da Delilah"
+m_Description="Ordenei que a lanterna seja colocada em meu estúdio na ala oeste. Use-a para entrar na pintura apenas se sua situação for desesperadora. Estarei ocupada preparando o ritual e não posso ser perturbada. Confio que você pode lidar com Daud, caso ele se materialize.
+
+- Delilah"
+
+[BrigmoreNotes.StudioClue2 DisAbstractItem]
+m_ItemName="As Reflexões de Delilah"
+m_PluralItemName="Reflexões de Delilah"
+m_Description="Trabalhei em meu estúdio até tarde ontem à noite e completei a pintura de Emily.
+
+Quando Daud a sequestrou, fiquei aterrorizado de que ele já soubesse o que eu estava planejando. Mas parece que o superestimei.
+
+Ele a entregou aos conspiradores. Que tolo! Assim que a jovem Emily assumir o trono, já estarei olhando através daqueles lindos olhos castanhos."
+
+[BrigmoreNotes.StudioClue3 DisAbstractItem]
+m_ItemName="Anotações da Delilah"
+m_PluralItemName="Notas da Delilah"
+m_Description="Brunhilde veio até mim ontem à noite, enquanto eu estava em meu estúdio na ala oeste, terminando a pintura ritual da jovem senhorita Emily. Ela me informou que uma de nossas moças permitiu ser capturada e interrogada na Prisão de Coldridge.
+
+No entanto, parece que Daud permanece alheio aos meus planos."

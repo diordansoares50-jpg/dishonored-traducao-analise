@@ -1,0 +1,187 @@
+﻿[DLC06_Books_SokolovJournal DisAbstractItem]
+m_ItemName="Diário de Laboratório de Anton Sokolov"
+m_PluralItemName=""
+m_Description="A vivissecção do terceiro espécime vivo está quase completa. A perfuração cuidadosa do diafragma inferior me aproximou da observação da secreção do óleo, mas o processo mantém seu mistério.
+
+Esta criatura enfraqueceu consideravelmente desde sua captura, e sua produção é bastante baixa. Anexei estimuladores elétricos à fera. Uma corrente suave aumenta a produção em vinte por cento, para considerável protesto da baleia, devo acrescentar. Aumentar a tensão provavelmente matará a criatura, então novas explorações terão que aguardar um espécime mais forte. Por enquanto, a música continua."
+
+[DLC06_Notes_ArcMines DisAbstractItem]
+m_ItemName="Carregamento de Mina de Arco"
+m_PluralItemName=""
+m_Description="Sr. Rothwild,
+
+Tenho grande apreço pelo uso de seu espaço e de suas baleias no avanço de meus estudos. Toda Dunwall ficará em sua dívida por sua contribuição ao meu trabalho. Em vista de suas recentes - dificuldades - preparei para você um presente de minha mais recente tecnologia defensiva, a Mina de Arco. Ela é baseada em meu Pilar de Arco e fornecerá proteção excelente contra intrusos e aqueles que interfeririam em nossos esforços. Tenho certeza de que o dispositivo lhe servirá bem.
+
+Anton Sokolov"
+
+[DLC06_Notes_Confessions DisAbstractItem]
+m_ItemName="Assinaturas de Trabalhadores"
+m_PluralItemName=""
+m_Description="Eu, (abaixo-assinado), concordo em renunciar a qualquer associação com qualquer sindicato de empregados, em abster-me de discutir tais assuntos a qualquer momento e em relatar prontamente quaisquer colegas de trabalho que incentivem visões sindicais. Concordo que todas as reclamações serão tratadas com Bundry Rothwild e sua equipe de maneira aberta e justa.  
+- Gerald Harper  
+- Richard Moser  
+- J. A. Manderly  
+- Sylvia Proctor  
+- Lawrence Spinner  
+- Maddie Cranston"
+
+[DLC06_Notes_CraneBattery DisAbstractItem]
+m_ItemName="Tanques Esgotados"
+m_PluralItemName=""
+m_Description="Frank, eu te disse para manter essa coisa abastecida com o tanque cheio o tempo todo! Temos uma remessa chegando em breve e é melhor que esse guindaste esteja funcionando quando ela chegar, ou alguém vai ser rebaixado para a limpeza de esgotos.
+
+Cainin"
+
+[DLC06_Notes_FavorCode DisAbstractItem]
+m_ItemName="Código de Relatório de Lesão"
+m_PluralItemName=""
+m_Description="5 feridos foram relatados ao longo de 1 semana, resultando em 2 fatalidades."
+
+[DLC06_Notes_GrannyRecipe DisAbstractItem]
+m_ItemName="Receita da Vovó"
+m_PluralItemName=""
+m_Description="[Uma página arrancada de um manuscrito antigo, escrita em uma caligrafia irregular]
+
+O olho do lado de bombordo da baleia, recém-morto
+Jogue na panela, horrendo e vermelho
+Chorão, Chorão, não chores mais
+Deitado para descansar no chão gravado com sangue
+
+Faça isso por mim, querida, e eu lhe darei um presente de aniversário.
+-Vovó"
+
+[DLC06_Notes_Grenades DisAbstractItem]
+m_ItemName="Solução Explosiva"
+m_PluralItemName=""
+m_Description="Luka, pegamos isso de alguns Supervisores 'adormecidos'. Na próxima carcaça de baleia que precisar ser esquartejada, tente plantar isso bem fundo nela primeiro. Devem amaciar as coisas muito bem. Mesmo que não amaciem, será divertido. Só tome cuidado para não se explodir."
+
+[DLC06_Notes_InterrogateChair DisAbstractItem]
+m_ItemName="Interrogatório"
+m_PluralItemName=""
+m_Description="Rothwild,\nA cadeira de interrogatório está montada na câmara frigorífica e totalmente energizada. Realizamos alguns testes nos trabalhadores mais problemáticos. Eles revelam todos os seus segredos rapidamente. Parecem morrer facilmente após cerca de 4 sessões. Ela está pronta para você sempre que precisar.\n\nGranville\nSupervisor de Açougue"
+
+[DLC06_Notes_Negotiations DisAbstractItem]
+m_ItemName="Negociações de Ames"
+m_PluralItemName=""
+m_Description="Sr. Rothwild,
+
+Minha investigação sobre Abigail Ames não revelou nada. Ela não tem parentes próximos que possamos usar como alavanca. Parece que a praga levou a irmã e a mãe dela. O pai morreu num navio baleeiro de seu predecessor há uns dez anos. No que diz respeito a chantagem, não encontrei segredos que pudessem ser usados. Parece tão devota quanto um Supervisor. Não é surpresa, já que ela rejeitou todas as ofertas de chantagem que recebeu. Não acredito que esteja jogando pelo poder; ela parece genuinamente ter o melhor interesse dos trabalhadores em mente.
+
+Enquanto entrevisto os trabalhadores, parece que ela realmente os tem em transe. Eles fazem tudo o que ela diz, e a crença nela é absoluta. Se algo acontecer com ela (como um acidente ou algo assim) espero que eles se revoltem. Continuarei procurando um ponto fraco nela, mas, por enquanto, aconselho deixá-la intacta. Talvez valha até considerar algumas de suas reformas. Sei que isso não combina com você, mas pelo menos compraria tempo e traria os trabalhadores de volta. Os Açougueiros carecem das habilidades refinadas para manter este lugar operacional.
+
+Seu servo,
+
+-G"
+
+[DLC06_Notes_RuneFound DisAbstractItem]
+m_ItemName="Objeto Misterioso"
+m_PluralItemName=""
+m_Description="Anton,
+
+Esta coisa foi encontrada na barriga da captura número 184 quando estávamos processando-a. Já vi muitas coisas estranhas nas entranhas de uma baleia, mas nunca uma dessas. Deve tê-la consumido nas profundezas, e acho que está lá há bastante tempo. Não me pergunte como posso saber. Se você tiver alguma ideia do que isso possa ser, por favor, me informe.
+
+Uma dessas foi recuperada no Mês do Vento, mas não a vi, nem o homem que a encontrou, desde então.
+
+-BR"
+
+[DLC06_Notes_RuneHidden DisAbstractItem]
+m_ItemName="Escrito em Sangue"
+m_PluralItemName=""
+m_Description="Você está segura agora. Ninguém pode encontrá-la aqui. Ninguém. Ninguém pode alcançá-la aqui. Eu quase morri tentando, e sou um escalador melhor do que qualquer um deles. Mas você me deu garras para a escalada! Você me quer tanto quanto eu a quero. Ficaremos aqui até que eles tenham nos esquecido. Ficaremos aqui pelo tempo que for necessário. Estou com vontade de dormir. Não vá embora enquanto eu durmo, porque eu preciso de você. Eu ficarei o máximo que puder. Para sempre."
+
+[DLC06_Notes_SafeCode1 DisAbstractItem]
+m_ItemName="Um Pedaço de Papel Encharcado"
+m_PluralItemName=""
+m_Description="728"
+
+[DLC06_Notes_SafeCode2 DisAbstractItem]
+m_ItemName="Código de Segurança"
+m_PluralItemName=""
+m_Description="928"
+
+[DLC06_Notes_SafeCode3 DisAbstractItem]
+m_ItemName="Código de Segurança"
+m_PluralItemName=""
+m_Description="385"
+
+[DLC06_Notes_SafeCode4 DisAbstractItem]
+m_ItemName="Código de Segurança"
+m_PluralItemName=""
+m_Description="529"
+
+[DLC06_Notes_SafeHagfish DisAbstractItem]
+m_ItemName="Aviso sobre Peixes-Bruxa"
+m_PluralItemName=""
+m_Description="As Enguias-Bruxa estão extremamente perigosas nesta época do ano. Por favor, coloque placas avisando as pessoas para não entrarem na água e tenham muito cuidado para não caírem.\n\nConfiscamos um barco que estava lá fora nos últimos dias. Tinha rações para uma semana. Foi colocado em depósito.\n\nPatrulha do Cais"
+
+[DLC06_Notes_SafeHint1 DisAbstractItem]
+m_ItemName="Prender Jack"
+m_PluralItemName=""
+m_Description="Aquele trabalhador que faz manutenção por aqui - o Jack - mudou a combinação do cofre esta manhã e esqueceu de informar o oficial de plantão. Se alguém o avistar, detenha-o imediatamente. Receio que, com as coisas como estão entre os Açougueiros do Rothwild e as equipes de trabalhadores, o Jack talvez não tenha muito tempo de vida. E então teremos que trazer um daqueles choffers burros com uma serra para cá.
+
+Oficial de Vigilância Dosset"
+
+[DLC06_Notes_SafeHint2 DisAbstractItem]
+m_ItemName="Banquete de Peixes-Bruxa"
+m_PluralItemName=""
+m_Description="Jack,
+
+Tínhamos um encontro. Sei que deve ter tido um bom motivo. Você não é tão burro a ponto de cair nessa bobagem da Abigail, certo, Jack? Minha paciência não é como o oceano. Então esta é a última vez que vou te chamar ao meu escritório. Ah, e para te dar um pequeno "incentivo de trabalho", é melhor você chegar aqui antes dos meus Açougueiros te encontrarem. Se eles te acharem primeiro — bem, as mixinas vão ter um banquete decente antes do fim do dia. E não pense que por ter andado com alguns da Guarda você está seguro.
+
+BR"
+
+[DLC06_Notes_Sewer DisAbstractItem]
+m_ItemName="Veneno para Ratos"
+m_PluralItemName=""
+m_Description="Precisamos nos livrar da infestação de ratos no esgoto. Certifique-se de deixar esta caixa de carne enlatada de lado para que possamos misturar veneno de rato. Depois de envenenada, leve-a até as docas para que possamos colocá-la nos esgotos abaixo.
+
+Capitão Galloway"
+
+[DLC06_Notes_ShipContract DisAbstractItem]
+m_ItemName="Contrato de Compra da 'Delilah'"
+m_PluralItemName=""
+m_Description="Eu, Advogado Arnold Timsh, concordo com a venda do bom navio baleeiro 'Delilah' para a Rothwild Whaling Industries, Inc. Toda a responsabilidade pela propriedade e operação da embarcação é transferida para a Rothwild, e todas as responsabilidades sob os Códigos de Navegação e Marítimos do Império transferem-se para o novo proprietário. O Advogado Timsh está desde já absolvido de quaisquer reclamações apresentadas contra a embarcação. A disposição subsequente dos oficiais e tripulação do Delilah fica a critério da Rothwild Whaling Industries. Cópias deste acordo são mantidas por ambas as partes e arquivadas no Escritório de Supervisão Baleeira em Dunwall."
+
+[DLC06_Notes_Shipment DisAbstractItem]
+m_ItemName="Manifesto de Remessa"
+m_PluralItemName=""
+m_Description="Capitão Whithers,
+
+Toda a carga destinada a Samara, Tyvia, foi aprovada. Por favor, atrase o carregamento até pouco antes da partida. Há uma entrega especial que deveria ser preparada pela Capataz Ames, mas ela está detida no momento, então esse carregamento específico está suspenso por enquanto. Se o 'pacote especial' não estiver preparado até o pôr do sol, você pode partir conforme o planejado e outros arranjos serão feitos.
+
+Lembre-se, apenas nossa lista aprovada de tripulantes está autorizada a manusear esta carga delicada.
+
+- Escrivã Naval Willamina Boward"
+
+[DLC06_Notes_SlghtrCard DisAbstractItem]
+m_ItemName="Código da Porta Principal"
+m_PluralItemName=""
+m_Description="Por favor, peça ao oficial de segurança para alterar o código imediatamente. O novo código será 8485."
+
+[DLC06_Notes_SlghtrCode DisAbstractItem]
+m_ItemName="Cartão de Tempo"
+m_PluralItemName=""
+m_Description="--> 00:02
+--> 10:05"
+
+[DLC06_Notes_SokolovCold DisAbstractItem]
+m_ItemName="Sokolov Reclama do Frio"
+m_PluralItemName=""
+m_Description="Sr. Rothwild,
+
+Compreendo a sua necessidade de manter as operações funcionando sem problemas, e agradeço por ter cedido um espaço para que eu possa realizar a pesquisa da Academia sobre essas bestas, mas devo protestar que meu anexo está localizado em uma câmara frigorífica congelante. Embora a natureza tiviana deste quarto me lembre de minha terra natal, isso também torna minha pesquisa ainda mais desafiadora, e posso assegurar que o potencial do meu trabalho supera em muito a importância de toda a carne e óleo de baleia que você pode colher. Suplico por um espaço mais ameno, mais próximo da baleia, onde eu possa continuar minha marcha em direção ao futuro com a mente focada.
+
+- Anton Sokolov"
+
+[DLC06_Notes_TimshNote DisAbstractItem]
+m_ItemName="Contrato no navio 'Delilah'"
+m_PluralItemName=""
+m_Description="Eu, Advogado Arnold Timsh, concordo com a venda do bom navio baleeiro 'Delilah' para a Rothwild Whaling Industries, Inc. Toda a responsabilidade pela propriedade e operação da embarcação é transferida para a Rothwild, e todas as responsabilidades sob os Códigos de Navegação e Marítimos do Império são transferidas para o novo proprietário. O Advogado Timsh é absolvido de quaisquer reclamações mantidas contra a embarcação. A disposição subsequente dos oficiais e tripulação do Delilah fica a critério da Rothwild Whaling Industries. Cópias deste acordo são mantidas por ambas as partes e arquivadas no Escritório de Supervisão da Caça à Baleia em Dunwall."
+
+[DLC06_Notes_WhaleShocker DisAbstractItem]
+m_ItemName="Eletrocutando Uma Baleia"
+m_PluralItemName=""
+m_Description="Configurei este dispositivo para estimular o sistema nervoso da baleia, com a intenção de prolongar as secreções de óleo e extrair mais do precioso fluido de cada captura. Infelizmente, este dispositivo pode levar à morte instantânea do animal se for usada energia em excesso. Encher ambos os tanques e ativar o dispositivo extingue todas as funções vitais num instante. Uma experiência indolor e rápida para a baleia, mas com a perda da receita adicional que pode ser gerada mantendo-a viva o máximo de tempo possível.
+
+- Anton Sokolov"
+

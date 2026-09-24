@@ -1,0 +1,12 @@
+﻿[Twk_Pawn_WeeperCity DisTweaks_NPCPawn]
+m_BusyText="Esse personagem está ocupado"
+m_CannotStealMessage="Você não pode mais carregar esse tipo de munição"
+
+[Twk_Pawn_WeeperCity:DisTweaks_InteractableInterface_11 DisTweaks_InteractableInterface]
+m_Name="Lamentoso"
+m_InteractText=""
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+

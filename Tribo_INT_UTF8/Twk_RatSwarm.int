@@ -1,0 +1,8 @@
+﻿[Twk_Rat:DisTweaks_InteractableInterface_1 DisTweaks_InteractableInterface]
+m_Name="Rato Branco"
+m_InteractText="`GBA_Use` Consumir"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+

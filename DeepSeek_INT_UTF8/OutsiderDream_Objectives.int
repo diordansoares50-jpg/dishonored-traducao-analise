@@ -1,0 +1,19 @@
+﻿[OutsiderDream DishonoredObjective]
+m_Description="Uma Visita do Forasteiro"
+
+[OutsiderDream:DishonoredTask_Custom_0 DishonoredTask_Custom]
+m_Description="Use seu poder de Piscar para alcançar o Forasteiro"
+m_Status=""
+
+[OutsiderDream:DishonoredTask_Custom_1 DishonoredTask_Custom]
+m_Description="Piscar para a Ponte Quebrada"
+m_Status=""
+
+[OutsiderDream:DishonoredTask_Custom_2 DishonoredTask_Custom]
+m_Description="Use o Coração para encontrar a runa oculta"
+m_Status=""
+
+[OutsiderDream:DishonoredTask_Custom_3 DishonoredTask_Custom]
+m_Description="Algo não está certo..."
+m_Status=""
+

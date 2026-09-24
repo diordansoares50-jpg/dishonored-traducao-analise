@@ -1,0 +1,10 @@
+﻿[BP_Piero_ArcPylon2_AbsItm DisAbstractItem]
+m_ItemName="Protótipos de Projetos"
+m_PluralItemName=""
+m_Description="Parecem ser os projetos de um Pilar de Arco, mas além disso são muito técnicos para decifrar."
+
+[BP_Piero_ArcPylon_AbsItm DisAbstractItem]
+m_ItemName="Projetos do Pilar de Arco de Piero"
+m_PluralItemName=""
+m_Description="Esses diagramas contêm as sequências que o Piero precisa para completar seu pilar de arco experimental aprimorado."
+

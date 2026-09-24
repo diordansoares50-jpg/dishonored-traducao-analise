@@ -1,0 +1,47 @@
+﻿[BridgeChapterNotes.ChapterNote_Scavenger DisAbstractItem]
+m_ItemName="Contexto de Catador"
+m_PluralItemName=""
+m_Description="Um homem preso pela Guarda da Cidade alega ser um catador que possui um esconderijo secreto de valiosas pérolas de crustáceo do rio."
+
+[BridgeChapterNotes.ChapterNote_SecretStash DisAbstractItem]
+m_ItemName="Dica da Sala Secreta"
+m_PluralItemName=""
+m_Description="Há uma sala escondida em um apartamento na seção North End da Ponte. Abrir a torneira três vezes abrirá a porta secreta. A torneira está no térreo, em um apartamento logo após você entrar na North End."
+
+[BridgeNotes.Bridge_MusicalOverseer01 DisAbstractItem]
+m_ItemName="Nota Musical do Supervisor"
+m_PluralItemName=""
+m_Description="Ontem um Supervisor passou na rua perto de mim, tocando a estranha música da Abadia. Sob sua máscara, não pude ver seu rosto enquanto ele girava a manivela de sua caixa de música, mas pude ouvir sua voz murmurando versos dos textos sagrados.
+
+O medo me dominou, pois é proibido carregar amuletos de osso e itens similares para sorte. Os Supervisores são completamente implacáveis nesse assunto. Segurando o meu no bolso, sentindo seu calor, caminhei com a cabeça baixa.
+
+Ele estava indo em direção à casa do Médico Real, aquele Sokolov desgrenhado, e algo estranho aconteceu. Eu juro que o amuleto em minha mão reagiu à música do Supervisor, ficando frio. Alguma vibração interior pareceu se aquietar.
+
+Encontrei um livro que talvez esteja relacionado a isso e vou estudá-lo para que possa entender."
+
+[BridgeNotes.Bridge_SecretStash DisAbstractItem]
+m_ItemName="Dica do Esconderijo Secreto"
+m_PluralItemName=""
+m_Description="Higgins, recebi uma dica recente sobre um esconderijo, escondido na extremidade norte da Ponte Kaldwin. Outro maluco mantendo todas as suas coisas brilhantes em uma sala secreta.  
+Me disseram que você precisa ligar a torneira de uma pia velha três vezes para abrir algum tipo de porta secreta.  
+Sem informações sobre o valor do que há nesta sala, só ouvi falar de um alto-falante de rua pendurado sobre a estrada, logo fora da porta. Desculpe por isso, amigo.  
+Não esqueça minha parte se você encontrar."
+
+[BridgeNotes.Bridge_SokolovGreenhouseNote DisAbstractItem]
+m_ItemName="Nota de Sokolov para Howlcreek"
+m_PluralItemName=""
+m_Description="Capitão Howlcreek,  
+Quando você e seus homens chegarem amanhã, estarei trabalhando na minha estufa no telhado. Sei que o Lorde Regente quer que me acompanhem a todo momento, mas evitem me perturbar. Os experimentos que estou conduzindo são bastante delicados e preciso concluí-los com urgência.  
+
+--Sokolov"
+
+[BridgeNotes.Bridge_SokolovStatue1 DisAbstractItem]
+m_ItemName="Ideias para a Estátua de Timsh"
+m_PluralItemName=""
+m_Description="Então o Barrister Arnold Timsh sente-se compelido a encomendar uma estátua em sua própria semelhança. Altamente convencido de sua própria importância, parece. Conhecerei algum dia os limites da vaidade humana? Talvez eu retrate o bom barrister perdido em pensamentos enquanto se observa em um espelho. De qualquer forma, seu dinheiro avançará minha pesquisa."
+
+[BridgeNotes.Bridge_SokolovStatue2 DisAbstractItem]
+m_ItemName="As Bruxas de Brigmore"
+m_PluralItemName=""
+m_Description="Como lembrete para mim mesmo, quatro desses blocos de fino mármore Tyviano estão destinados a decorar o Gato Dourado. Madame Prudência pediu que eu esculpisse a pedra em quatro das mulheres que vivem juntas nas ruínas da antiga Mansão Brigmore, na periferia da cidade. Uma vez concluídas e instaladas, terei que visitar a casa de banhos para admirar meu trabalho."
+

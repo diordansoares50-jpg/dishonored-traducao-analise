@@ -1,0 +1,134 @@
+﻿[Egg.Egg_AII_1 DisAbstractItem]
+m_ItemName="Potterstead Egg"
+m_PluralItemName=""
+m_Description=""
+
+[Egg.Egg_AII_2 DisAbstractItem]
+m_ItemName="Cullero Egg"
+m_PluralItemName=""
+m_Description=""
+
+[Egg.Egg_AII_3 DisAbstractItem]
+m_ItemName="Wynnedown Egg"
+m_PluralItemName=""
+m_Description=""
+
+[Egg.Egg_AII_4 DisAbstractItem]
+m_ItemName="Yaro Egg"
+m_PluralItemName=""
+m_Description=""
+
+[Egg.Egg_AII_5 DisAbstractItem]
+m_ItemName="Redmoor Egg"
+m_PluralItemName=""
+m_Description=""
+
+[Egg.Egg_AII_6 DisAbstractItem]
+m_ItemName="Driscol Egg"
+m_PluralItemName=""
+m_Description=""
+
+[Egg.Egg_AIP_1:pInteractableTweaks_PickupBase DisTweaks_Interactable_PickupBase]
+m_Name="Potterstead Egg"
+
+[Egg.Egg_AIP_2:pInteractableTweaks_PickupBase DisTweaks_Interactable_PickupBase]
+m_Name="Cullero Egg"
+
+[Egg.Egg_AIP_3:pInteractableTweaks_PickupBase DisTweaks_Interactable_PickupBase]
+m_Name="Wynnedown Egg"
+
+[Egg.Egg_AIP_4:pInteractableTweaks_PickupBase DisTweaks_Interactable_PickupBase]
+m_Name="Yaro Egg"
+
+[Egg.Egg_AIP_5:pInteractableTweaks_PickupBase DisTweaks_Interactable_PickupBase]
+m_Name="Redmoor Egg"
+
+[Egg.Egg_AIP_6:pInteractableTweaks_PickupBase DisTweaks_Interactable_PickupBase]
+m_Name="Driscol Egg"
+
+[Hrlm_Cameo:pInteractableTweaks_PickupBase DisTweaks_Interactable_PickupBase]
+m_Name="Cameo - 175 coin"
+
+[Hrlm_CigCage:pInteractableTweaks_PickupBase DisTweaks_Interactable_PickupBase]
+m_Name="Cigar Case - 90 coin"
+
+[Hrlm_Egg_Gristol:pInteractableTweaks_PickupBase DisTweaks_Interactable_PickupBase]
+m_Name="Clockwork Egg - 250 coin"
+
+[Hrlm_FishStatue:pInteractableTweaks_PickupBase DisTweaks_Interactable_PickupBase]
+m_Name="Fish Statuette - 65 coin"
+
+[Hrlm_HoundStat:pInteractableTweaks_PickupBase DisTweaks_Interactable_PickupBase]
+m_Name="Hound Statuette - 125 coin"
+
+[Hrlm_Ingot_twk:pInteractableTweaks_PickupBase DisTweaks_Interactable_PickupBase]
+m_Name="Ingot - 100 coin"
+
+[Hrlm_Jbox:pInteractableTweaks_PickupBase DisTweaks_Interactable_PickupBase]
+m_Name="Jewelery Box - 350 coin"
+
+[Hrlm_Map_twk:pInteractableTweaks_PickupBase DisTweaks_Interactable_PickupBase]
+m_Name="Rare Map - 75 coin"
+
+[Hrlm_Medal:pInteractableTweaks_PickupBase DisTweaks_Interactable_PickupBase]
+m_Name="War Medal - 35 coin"
+
+[Hrlm_Plate:pInteractableTweaks_PickupBase DisTweaks_Interactable_PickupBase]
+m_Name="Decor Plate - 75 coin"
+
+[Hrlm_PocketWatch:pInteractableTweaks_PickupBase DisTweaks_Interactable_PickupBase]
+m_Name="Pocket Watch - 112 coin"
+
+[Hrlm_Sextant:pInteractableTweaks_PickupBase DisTweaks_Interactable_PickupBase]
+m_Name="Sextant - 45 coin"
+
+[Hrlm_Urn:pInteractableTweaks_PickupBase DisTweaks_Interactable_PickupBase]
+m_Name="Urn - 35 coin"
+
+[Hrlm_WhaleStatue:pInteractableTweaks_PickupBase DisTweaks_Interactable_PickupBase]
+m_Name="Whale Statuette - 200 coin"
+
+[lamp_switch_twk:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Fake Lamp"
+
+[Notes.Instructions_Hardcore_AbstrInv DisAbstractItem]
+m_ItemName="Burglar"
+m_PluralItemName=""
+m_Description="Steal the six Clockwork Eggs and exit the mansion.\n\nSneak into the mansion to recover the Eggs and as many valuables as you can.\nDo NOT get spotted. Nobody should know you were there. \nThere are six Clockwork Eggs to find, as well as heirlooms, paintings, and coins. \n\nYou have no supernatural powers. \nSome doors and chests are now locked.\nThe placement of many valuables has changed.\n\nScoring: \n* Avoiding the guards is worth more points than knocking them unconscious,  which in turn is worth more than killing them.\n* The more optional loot you gather, the more points you will score.\n\nSpecial: \nThis mansion is full of secrets, look everywhere. \nBe on the lookout for the 16 hidden figurines.\n\nGame Over: \nThe challenge is over when you get spotted 3 times or die."
+
+[Notes.instructions_hardcore_pickup DisTweaks_AbstractItemPickupNote]
+m_PressKeyToReadMessage=""
+m_OnPickupMessage=""
+
+[Notes.Instructions_Normal_AbstrInv DisAbstractItem]
+m_ItemName="Burglar"
+m_PluralItemName=""
+m_Description="Steal the six Clockwork Eggs and exit the mansion.\n\nSneak into the mansion to recover the Eggs and as many valuables as you can.\nDo NOT get spotted. Nobody should know you were there. \nThere are six Clockwork Eggs to find, as well as heirlooms, paintings, and coins. \n\nScoring: \n* Avoiding the guards is worth more points than knocking them unconscious,  which in turn is worth more than killing them.\n* The more optional loot you gather, the more points you will score\n\nSpecial: \nThis mansion is full of secrets, look everywhere. \n\nGame Over: \nThe challenge is over when you get spotted 3 times or die."
+
+[Notes.instructions_normal_pickup DisTweaks_AbstractItemPickupNote]
+m_PressKeyToReadMessage=""
+m_OnPickupMessage=""
+
+[Notes.Rhyme2_AbstrInv DisAbstractItem]
+m_ItemName="A Clue"
+m_PluralItemName=""
+m_Description="Suspicious behavior comes in all forms.\nNo one puts an ashtray upside down, for example.  \nIt's just not normal.\nJust a thought."
+
+[Notes.Rhyme3_AbstrInv DisAbstractItem]
+m_ItemName="A Clue"
+m_PluralItemName=""
+m_Description="One shouldn't limit themselves to cliche.\nNot all secret passages are activated by books in bookshelves, for example.\nBut some are.\nOne also shouldn't be blind to cliche."
+
+[Notes.Rhyme_AbstrInv DisAbstractItem]
+m_ItemName="A Clue"
+m_PluralItemName=""
+m_Description="Seek the space between middle and top,\nfor the three random elements that make whole,\nyour quest to pilfer all that glitters."
+
+[Statue_AII_1 DisAbstractItem]
+m_ItemName="Collectable Figurine"
+m_PluralItemName="Collectable Figurines"
+m_Description=""
+
+[Statue_AIP_1:pInteractableTweaks_PickupBase DisTweaks_Interactable_PickupBase]
+m_Name="Collectable Figurine"
+

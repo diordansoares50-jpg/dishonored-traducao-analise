@@ -1,0 +1,28 @@
+﻿[Tweaks.DarkVisionTutorial_PickUp DisTweaks_AbstractItemPickupNote]
+m_PressKeyToReadMessage="`GBA_Journal` Read the Blink tutorial"
+m_OnPickupMessage=""
+m_SingleItemPickupMessage=""
+
+[Tweaks.DarkVisionTutorial_PickUp:DisTweaks_Interactable_PickupBase_105 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name="Clipboard"
+m_InteractText="`GBA_Use` Read"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Tweaks.TransversalTutorial_PickUp DisTweaks_AbstractItemPickupNote]
+m_PressKeyToReadMessage="`GBA_Journal` Read the Blink tutorial"
+m_OnPickupMessage=""
+m_SingleItemPickupMessage=""
+
+[Tweaks.TransversalTutorial_PickUp:DisTweaks_Interactable_PickupBase_105 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name="Clipboard"
+m_InteractText="`GBA_Use` Read"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+

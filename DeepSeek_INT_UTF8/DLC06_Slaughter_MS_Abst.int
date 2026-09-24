@@ -1,0 +1,10 @@
+﻿[Inventory.DLC06_ValveKey_Abst DisAbstractItem]
+m_ItemName="Chave de Válvula"
+m_PluralItemName=""
+m_Description="Uma chave especializada usada para abrir as válvulas de pressão."
+
+[Inventory.DLC06_WhaleEye_Abst DisAbstractItem]
+m_ItemName="Olho de Baleia"
+m_PluralItemName=""
+m_Description="Um olho arrancado de uma baleia recém-morta."
+

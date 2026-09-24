@@ -1,0 +1,15 @@
+﻿[DLC01_infiltrate01_obj DishonoredObjective]
+m_Description="Roubar a Caixa de Joias dentro da Mansão"
+
+[DLC01_infiltrate01_obj:DishonoredTask_Custom_0 DishonoredTask_Custom]
+m_Description="Roubar a chave da mansão"
+m_Status=""
+
+[DLC01_infiltrate01_obj:DishonoredTask_Custom_1 DishonoredTask_Custom]
+m_Description="Abrir a porta da mansão"
+m_Status=""
+
+[DLC01_infiltrate01_obj:DishonoredTask_Custom_2 DishonoredTask_Custom]
+m_Description="Roubar a Caixa de Joias"
+m_Status=""
+

@@ -1,0 +1,737 @@
+﻿[DishonoredGameInfo]
+m_MissionNames[0]=Desonrado
+m_MissionNames[1]=Prelado Supervisor Campbell
+m_MissionNames[2]=Casa do Prazer
+m_MissionNames[3]=O Médico Real
+m_MissionNames[4]=A Última Festa de Lady Boyle
+m_MissionNames[5]=Regresso à Torre
+m_MissionNames[6]=O Distrito Inundado
+m_MissionNames[7]=Os Legalistas
+m_MissionNames[8]=A Luz no Fim
+
+[DisKeyRing]
+m_UseMessage=Você usou: `k
+
+[DisBinkOverlayManager]
+m_ContentPackageName=UI_Loading
+m_NormalFontName=ChaletComprime-CologneEighty
+m_TitleFontName=Emerge_BF
+m_LoadingText=CARREGANDO
+m_PressToContinueText_PC=PRESSIONE QUALQUER TECLA PARA CONTINUAR
+m_PressToContinueText_Console=CONTINUAR
+
+[MapNames]
+L_Tower_P=Torre de Dunwall
+L_Prison_P=Prisão Coldridge
+L_PrsnSewer_P=Esgotos de Dunwall
+L_Pub_Day_P=Bar Cova do Cão
+L_Pub_Dusk_P=Bar Cova do Cão
+L_Pub_Night_P=Bar Cova do Cão
+L_OutsiderDream_P=Em Outro Lugar...
+L_Streets1_P=Distrito da Destilaria
+L_Galvani1_P=Escritório do Dr. Galvani
+L_Distillery_P=Velha Destilaria de Dunwall
+L_Ovrsr_P=Escritório do Prelado Supervisor
+L_Ovrsr_Back_P=Escritório do Prelado Supervisor
+L_Ovrsr_Kennel_P=Escritório do Prelado Supervisor
+L_Streets2_P=Distrito da Destilaria
+L_Galvani2_P=Escritório do Dr. Galvani
+L_Distillery2_P=Destilaria de Old Dunwall
+L_ArtDealer_P=Apartamento do Comerciante de Arte
+L_Brothel_P=Casa de Banho O Gato Dourado
+L_Bridge_Part1a_P=Ponte de Kaldwin
+L_Bridge_Part1b_P=Ponte de Kaldwin
+L_Bridge_Part1c_P=Ponte de Kaldwin
+L_Bridge_Part2_P=Ponte de Kaldwin
+L_Boyle_Ext_P=A Mansão Boyle
+L_Boyle_Int_P=A Mansão Boyle
+L_TowerRtrn_Yard_P=Torre de Dunwall
+L_TowerRtrn_Int_P=Torre de Dunwall
+L_Flooded_FIntro_P=O Distrito Inundado
+L_Flooded_FStreets_P=O Distrito Inundado
+L_Flooded_FRefinery_P=O Distrito Inundado
+L_Flooded_FAssassins_P=O Distrito Inundado
+L_Flooded_FGate_P=O Distrito Inundado
+L_Streetsewer_P=Velho Esgoto de Dunwall
+L_Pub_Morning_P=Bar Cova do Cão
+L_Pub_Assault_P=Bar Cova do Cão
+L_LightH_LowChaos_P=O Farol
+L_Isl_LowChaos_P=Ilha Kingsparrow
+L_LightH_HighChaos_P=O Farol
+L_Isl_HighChaos_P=Ilha Kingsparrow
+L_Outro_P=O Fim
+L_Out_P=O Fim
+L_Out_HighChaos_emilyDead_P=O Fim
+L_Out_HighChaos_EmilyAlive_P=O Fim
+
+[DisBinkOverlayManager_SaveNotificationLoadingScreen]
+Text_PC=Esse jogo salva automaticamente o seu progresso. Quando você ver esse símbolo, significa que o jogo está salvando o seu progresso. Traduzido pela Tribo Gamer Brasil.
+Text_XBox=Esse jogo salva automaticamente o seu progresso. Quando você ver esse símbolo, significa que o jogo está salvando o seu progresso. Não desligue o seu console.
+Text_PS3=Esse jogo salva automaticamente o seu progresso. Quando você ver esse símbolo, significa que o jogo está salvando o seu progresso. Não desligue o seu Sistema PlayStation®3.
+;Text_Console=
+
+;[DisBinkOverlayManager_HintSet_MySampleHintSetName]
+;Hint=Dica genérica.
+;Hint_Gamepad=Dica específica do controle.
+;Hint_Keyboard=Dica específica do teclado.
+
+[DisBinkOverlayManager_HintSet_Intro]
+Hint=Como capital imperial, Dunwall é a sede da Corte Real e da Imperatriz.
+Hint=Use sua mão direita para atacar ou bloquear com uma espada. 
+Hint=Use sua mão esquerda para usar poderes, armas a distância e dispositivos.
+Hint=Bloquear durante um duelo de espadas te protege e pode desequilibrar o inimigo.
+Hint=Se feito no momento certo, bloquear um ataque de espada ira desequilibrar o atacante.
+Hint=Os Supervisores são uma facção religiosa militante que está espalhada por todo o Império.
+Hint=Ataque um inimigo desequilibrado ou caido para lhe acertar um golpe letal.
+Hint=Corra para esquivar de inimigos ou ganhar velocidade para saltar. 
+Hint=O Prelado Supervisor Campbell é o atual líder da Abadia de Everyman.
+ 
+[DisBinkOverlayManager_HintSet_Prison]
+Hint=Acabe com todos os inimigos que cruzarem o seu caminho ou adote uma abordagem mais sigilosa.
+Hint=Entre no modo sigiloso para passar sigilosamente pelos inimigos ou para se aproximar sem que te descubram.
+Hint=Quando enfrentar diversos inimigos, afaste-se e acabe com eles, um a um.
+Hint=Se inclinar de uma cobertura te dá a chance de observar seus inimigos e ouvir o que eles estão falando. Enquanto seu corpo estiver atrás de uma cobertura, você não será visível.
+Hint=Uma grande quantidade de corpos atrai mais ratos, mais vítimas da peste e resultados ainda mais terríveis.
+Hint=Bloquear é uma parte crucial do combate.
+Hint=Salve sua partida, frequentemente.
+ 
+[DisBinkOverlayManager_HintSet_Sewer]
+Hint=Ao correr, seus passos fazem barulho. Ao se mover sigilosamente, não fazem barulho.
+Hint=A Roda de Acesso Rápido permite acessar as suas armas da mão esquerda.
+Hint=Os inimigos te enxergam com mais dificuldade em grandes distâncias ou em sombras.
+Hint=Explore o ambiente e roube inimigos caidos para obter mais recursos.
+Hint=Para fazer um assassinato em uma queda, caia sobre o inimigo e ataque-o antes de encostar nele.
+Hint=A Roda de Acesso Rápido desacelera o tempo enquanto estiver em uso.
+Hint=O Rio Wrenhaven atravessa a Cidade de Dunwall.
+Hint=As tábuas de madeira podem ser quebradas com golpes de espada.
+Hint=Pela Roda de Acesso Rápido, recupere a saúde com o Elixir de Sokolov (a poção vermelha).
+Hint=Segure o botão de USAR para guardar suas armas.
+Hint=O bloqueio e o contra-ataque são habilidades de combate essenciais.
+Hint=Aproxime-se de um parapeito que seja alcançavel e segure o botão de saltar para subir. 
+Hint=Use a Roda de Acesso Rápido para recuperar sua saúde com o Elixir de Sokolov. 
+Hint=Roube o inimigo (ou saqueie os seus corpos) para obter moedas, munição e chaves. 
+Hint=Consulte seu diário para rever o seu Objetivo Atual. 
+Hint=Escale para chegar a lugares altos e evitar inimigos. 
+Hint=Sufoque um inimigo para deixá-lo inconsciente e elimina-lo de maneira não letal. 
+Hint=O Dinheiro pode ser usado para comprar ou melhorar armas e equipamentos.
+Hint=Ao se aproximar de um espaço baixo no modo sigiloso, avance para agachar-se automaticamente e passar por baixo.
+Hint=Se inclinar de uma cobertura te dá a chance de ver seus inimigos e ouvir o que eles estão falando. Enquanto seu corpo estiver na cobertura, você não será visível.
+
+[DisBinkOverlayManager_HintSet_Pub]
+Hint=O óleo de baleia é volátil, mas permitiu chegar a uma era industrial por todo o Império. 
+Hint=Consulte o diário para rever seus Objetivos Atuais.
+Hint=Use os Dardos Tranquilizantes da Roda de Acesso Rápido para fazer eliminações não letais. 
+Hint=Ratos são agressivos em grupos, mas tentarão fugir quando sua quantidade for diminuída.
+Hint=Você pode mudar a dificuldade a qualquer momento.
+Hint=O Estranho é uma figura mítica, não é do bem e nem do mal. 
+Hint=A Roda de Acesso Rápido permite acessar poções e equipamentos para a mão esquerda.
+Hint=Consulte o diário para rever todas as notas que você coletou.
+Hint=Destrua todos os inimigos que atravessarem o seu caminho ou adote uma aproximação mais sigilosa.
+Hint=Você se move mais rápido com as armas guardadas.
+Hint=As Runas podem ser usadas para ganhar ou melhorar poderes sobrenaturais.
+Hint=Um assassinato em uma queda realizado com sucesso evita o dano pela queda e não faz barulho.
+Hint=Coletar objetos de valor durante as missões te permite comprar suprimentos e melhorias. 
+Hint=Um bloqueio no momento certo faz o seu inimigo perder o equilíbrio, o que te permite executar um contra-ataque letal.
+ 
+[DisBinkOverlayManager_HintSet_Overseer]
+Hint=A Abadia de Everyman é a religião dominante de todo o Império.
+Hint=Busque formas alternativas de eliminar os seus alvos de assassinato chave.
+Hint=O poder de Teleporte é útil para o sigilo, exploração e combate.
+Hint=Da Roda de Acesso Rápido, recupere mana com o Remédio de Piero (a poção azul).
+Hint=Salve a sua partida, frequentemente.
+Hint=Quando possuir um rato, você poderá entrar em lugares mais pequenos do que o normal.
+Hint=Os Supervisores são militantes religiosos dedicados a lutar contra a bruxaria.
+Hint=Da Roda de Acesso Rápido, você pode atribuir armas e poderes aos espaços rápidos.
+Hint=As Runas e os Encantos de Ossos emitem um baixo som de "canto".
+Hint=Equipe o Coração e use-o para ouvir segredos sobre um lugar.
+Hint=Equipe o Coração para revelar as localidades das Runas e Encanto de Ossos próximos de você.
+Hint=Quando você possuir um cão-lobo, você pode correr.
+Hint=Ataque um inimigo desequilibrado ou caido para lhe acertar um golpe fatal.
+Hint=Os Encantos de Ossos te concedem pequenas bonificações quando você os equipa no diário. Use o Coração para procurar Encantos de Ossos.
+Hint=Adquira novos poderes gastando Runas dentro do seu Diário. Equipe o Coração para procurar Runas.
+Hint=Da Roda de Acesso Rápido, você pode beber poções que restauram sua saúde e sua mana.
+Hint=Suas escolhas têm consequências. Usando o sigilo ou a aproximação não letal, a cidade será mais estável e menos escura.
+Hint=As máscaras metálicas usadas pelos Supervisores os protegem de ataques frontais de longa distância.
+Hint=Explore edifícios abandonados e becos para repor sua munição, coletar moedas e encontrar mais Elixir.
+Hint=Escale para chegar a lugares mais altos e evitar o inimigo.
+Hint=O bloqueio e o contra-ataque são habilidades de combate essenciais.
+Hint=Um bloqueio no momento certo faz o seu inimigo perder o equilíbrio, o que te permite executar um contra-ataque letal.
+Hint=Remova os tanques de óleo de baleia de sistemas de segurança como a Parede de Luz ou o Poste Arco para desativá-los.
+Hint=Os combates não precisam acabar em um banho de sangue... Fugir é sempre uma opção.
+Hint=As vezes os telhados e os parapeitos oferecem rotas alternativas.
+Hint=Coletar Runas é essencial, pois permite que você compre novos poderes ou melhore os que você já possui.
+Hint=Use o Teleporte para avançar sigilosamente ao se mover rapidamente e silenciosamente de uma cobertura à outra.
+Hint=Se inclinar de uma cobertura te dá a chance de ver seus inimigos e ouvir o que eles estão falando. Enquanto seu corpo estiver na cobertura, você não será visível.
+ 
+[DisBinkOverlayManager_HintSet_Brothel]
+Hint=O Lorde Regente implantou a tecnologia de Sokolov por toda a cidade.
+Hint=As sombras te concedem uma bonificação ao esconder-se somente à distância.
+Hint=Ajuste o brilho no menu de opções.
+Hint=Os livros geralmente oferecem informações gerais sobre o mundo.
+Hint=As armas a distância infligem mais danos quando pegam em um inimigo desprevinido.
+Hint=As notas escritas geralmente contém informações úteis e pistas.
+Hint=Um bloqueio no momento certo faz o seu inimigo perder o equilíbrio, o que te permite executar um contra-ataque letal.
+Hint=As vezes os telhados e os parapeitos oferecem rotas alternativas. 
+Hint=As armas a distância infligem mais danos se atingir o inimigo na cabeça.
+Hint=O Remédio de Piero e o Elixir de Sokolov são poções anti-pestes rivais. 
+Hint=Aponte o Coração para uma pessoa e use-o para descobrir seus segredos.
+Hint=Os ratos não atacam Lamentosos devido o seu estado avançado da infecção. 
+Hint=Ao se aproximar de um espaço baixo em modo sigiloso, avance para agachar-se automaticamente e passar por baixo.
+Hint=Os Encantos de Ossos te concedem pequenas bonificações quando você os equipa no diário. Use o Coração para procurar Encantos de Ossos.
+Hint=Adquira novos poderes gastando Runas dentro do seu Diário. Equipe o Coração para procurar Runas. 
+Hint=Uma grande quantidade de corpos atrai mais ratos, mais vítimas da peste e resultados mais terríveis.
+Hint=As vezes você pode recuperar suas Setas para Bestas dos cadáveres.
+Hint=Deslizar contra uma pessoa conta como um ataque e pode desequilibrar inimigos.
+Hint=Bloquear é uma parte crucial do combate.
+Hint=Bloqueie e contra-ataque enquanto o seu inimigo estiver desequilibrado.
+Hint=Coletar Runas é essencial, pois permite que você compre novos poderes ou melhore os que você já possui.
+Hint=Use o Teleporte para avançar sigilosamente ao mover-se rapidamente e silenciosamente de uma cobertura à outra. 
+Hint=Os combates não precisam acabar em um banho de sangue... Fugir é sempre uma opção.
+ 
+[DisBinkOverlayManager_HintSet_Bridge]
+Hint=Colete os Encantos de Ossos e selecione no Diário quais quer ter ativos.
+Hint=O Poste Arco gera eletrecidade muito perigosa ao aproximar-se.
+Hint=Sua máscara permite que você foque na localização do seu alvo.
+Hint=Para avançar sem ser descoberto, entre no modo sigiloso e fique em coberturas. As sombras dificultam o inimigo de ver você à distância.
+Hint=Coletar Runas e Encantos de Ossos é considerado heresia pelos Supervisores.
+Hint=Você pode colocar navalhas de mola em qualquer superfície, inclusive em criaturas vivas.
+Hint=Pegue cadáveres e corpos inconscientes e leve-os para um esconderijo.
+Hint=Grupos de ratos são atraídos por cadáveres.
+Hint=Se um inimigo ouvir um barulho suspeito, ele começará a investigar.
+Hint=Suas escolhas têm consequências. Usando o sigilo ou a aproximação não letal, a cidade será mais estável e menos escura.
+Hint=Explore edifícios abandonados e becos para repor sua munição, coletar moedas e encontrar mais Elixir.
+Hint=O bloqueio e o contra-ataque são habilidades de combate essenciais.
+Hint=Coletar Runas é essencial, pois permite que você compre novos poderes ou melhore os que você já possui.
+Hint=Equipe o Coração para revelar as localidades das Runas e Encanto de Ossos próximos de você.
+Hint=Remova os tanques de óleo de baleia de sistemas de segurança como a Parede de Luz ou o Poste Arco para desativá-los.
+Hint=Use o Teleporte para assassinar um alvo se teleportando para a sua frente e o atacando enquanto ele estiver surpreendido.
+Hint=A Visão Noturna nível 2 revela os cabos de dispositivos de segurança, permitindo que você encontre suas fontes de energia e manipule os painéis.
+Hint=A Agilidade permite que você salte mais alto e chegue à lugares elevados. Combine a Agilidade e o Teleporte para chegar à maiores distâncias.
+ 
+[DisBinkOverlayManager_HintSet_Boyle]
+Hint=Você pode usar a maioria dos seus poderes sobrenaturais em baixo da água.
+Hint=Os mosquitos do Lorde Regente, conhecidos como Tallboys, atiram flechas incendiárias.
+Hint=Aproxime-se de um parapeito que seja alcançavel e segure o botão de saltar para subir.
+Hint=Sufoque um inimigo para deixá-lo inconsciente e elimina-lo de maneira não letal. 
+Hint=Os Tallboys levam tanques de óleo de baleia vulneráveis em suas costas.
+Hint=Equipe o Coração para revelar as localidades das Runas e Encanto de Ossos próximos de você.
+Hint=Se melhorada, sua máscara amplifica o som quando você focar em um alvo com o zoom.
+Hint=Em uma cobertura, você não será detectado enquanto se inclina para observar.
+Hint=Para deslizar, entre no modo sigiloso enquanto corre.
+Hint=Aponte o Coração e use-o para revelar segredos de pessoas e lugares.
+Hint=Os Tallboys são imunes a Dardos Tranquilizantes por causa de sua grande armadura.
+Hint=Enquanto corre, entre no modo sigiloso para deslizar. Deslizar contra uma pessoa é contado como um ataque.
+Hint=Um bloqueio no momento certo faz o seu inimigo perder o equilíbrio, o que te permite executar um contra-ataque letal.
+Hint=Se executar com precisão, você pode encadear o Teleporte com um assassinato (ou Teleporte e sufocamento).
+Hint=A Visão Noturna permite que você veja o inimigo enquanto se esonde em uma cobertura.
+Hint=Quando o tempo é parado com a Dobra Temporal nível 2, ninguém verá você. Use-a para passar despercebido em lugares com muitas pessoas.
+ 
+[DisBinkOverlayManager_HintSet_TowerReturn]
+Hint=Os mosquitos do Lorde Regente, conhecidos como Tallboys, atiram flechas incendiárias.
+Hint=Salte até um parapeito que você consiga alcançar e segure o botão de saltar para subir.
+Hint=O Lorde Regente melhorou as defesas da Torre de Dunwall desde os tempos da Imperatriz.
+Hint=Os Tallboys levam tanques de óleo de baleia vulneráveis em suas costas.
+Hint=Os Supervisores usam uma música antiga baseada na matemática para suprimir a magia.
+Hint=Você pode "preparar" granadas para que explodam no impacto.
+Hint=Um assassinato em uma queda pode ser feito de grandes alturas. 
+Hint=O Lorde Regente serviu como o Mestre Espião Real antes da morte da Imperatriz.
+Hint=Possuir ratos e peixes te dará a chance de descobrir rotas alternativas.
+Hint=Salve a sua partida, frequentemente.
+Hint=As máscaras metálicas usadas pelos Supervisores os protegem de ataques a longa distância frontais.
+Hint=Bloquear é uma parte crucial do combate.
+Hint=Coletar Runas é essencial, pois permite que você compre novos poderes ou melhore os que você já possui.
+Hint=Se você não encontrar um rato para possuir, use em seu lugar, os ratos do poder Enxame Devorador.
+Hint=Possuir pessoas te permite evitar dispositivos de segurança, como a Parede de Luz ou o Poste Arco, se a pessoa tiver autorização para passar.
+Hint=Os Projéteis detidos no ar com a Dobra Temporal nível 2 podem ser coletados.
+Hint=Se você saltar de um lugar alto, você pode possuir um animal ou uma pessoa enquanto cai para deter a sua queda.
+ 
+[DisBinkOverlayManager_HintSet_Flooded]
+Hint=As notas contém informações úteis. Geralmente, os livros proporcionam dados sobre o mundo do jogo.
+Hint=O "Distrito Inundado" já foi o próspero Distrito Financeiro Rudshore.
+Hint=Bloquear durante um duelo de espadas te protege e pode desequilibrar o inimigo.
+Hint=Os moluscos do rio possuem pérolas valiosas em seu interior.
+Hint=Consulte seu diário para rever o seu Objetivo Atual. 
+Hint=As vezes você consegue obter informações úteis ouvindo conversas.
+Hint=Se melhorada, sua máscara amplifica o som quando você focar em um alvo com o zoom.
+Hint=Entre no modo sigiloso para passar sigilosamente pelos inimigos ou para se aproximar sem que te descubram.
+Hint=Notas são guardadas no seu Diário.
+Hint=Destrua todos os inimigos que atravessarem o seu caminho ou adote uma aproximação mais sigilosa.
+Hint=Os ratos não atacam Lamentosos devido o seu estado avançado da infecção. 
+Hint=As vezes você pode recuperar suas Setas para Bestas dos cadáveres.
+Hint=Bloqueie e contra-ataque enquanto o seu inimigo estiver desequilibrado.
+Hint=Equipe o Coração para revelar as localidades das Runas e Encanto de Ossos próximos de você.
+Hint=Se você parar o tempo com a Dobra Temporal nível 2, você pode colocar uma Navalha de Mola em um inimigo na multidão. Quando o tempo voltar ao normal, a Navalha de Mola vai disparar.
+ 
+[DisBinkOverlayManager_HintSet_PubAttack]
+Hint=Os Tallboys levam tanques de óleo de baleia vulneráveis em suas costas.
+Hint=As armas a distância infligem mais danos se atingir o inimigo na cabeça.
+Hint=Se feito no momento certo, bloquear um ataque de espada ira desequilibrar o atacante.
+Hint=Ataque um inimigo desequilibrado ou caido para lhe acertar um golpe fatal.
+Hint=Colete os Encantos de Ossos e selecione no Diário quais quer ter ativos.
+Hint=O Remédio de Piero e o Elixir de Sokolov são poções anti-pestes rivais. 
+Hint=Aponte o Coração e use-o para revelar segredos de pessoas e lugares.
+Hint=Busque formas alternativas de eliminar os seus alvos de assassinato chave.
+Hint=As sombras concedem uma modificação somente ao se esconder à distância.
+Hint=Você pode colocar Navalhas de Mola em qualquer superfície, inclusive em criaturas vivas.
+Hint=A possessão permite que você escape do combate possuindo um inimigo e "se esconda" dentro dele.
+ 
+[DisBinkOverlayManager_HintSet_Lighthouse]
+Hint=O Farol foi o último grande projeto do regime do Lorde Regente.
+Hint=Para avançar sem ser descoberto, entre no modo sigiloso e fique em coberturas. As sombras dificultam o inimigo de ver você à distância.
+Hint=Não pare em um combate e não permita que te cerquem.
+Hint=Destrua todos os inimigos que atravessarem o seu caminho ou adote uma aproximação mais sigilosa.
+Hint=As notas são guardadas no seu Diário.
+Hint=O Poste Arco e a Parede de Luz não prejudicam aqueles que estão devidamente ajustados.
+Hint=Você pode sobreviver à grandes quedas possuindo alguém antes de tocar o chão.
+Hint=Entre no modo sigiloso para passar sigilosamente pelos inimigos ou para se aproximar sem que te descubram.
+Hint=Em uma cobertura, você não será detectado enquanto se inclinar para observar.
+Hint=Segure o botão de atacar para "preparar" grenadas que explodam ao bater em alguma coisa.
+Hint=Um bloqueio no momento certo faz o seu inimigo perder o equilíbrio, o que te permite executar um contra-ataque letal.
+Hint=Enquanto a Dobra Temporal nível 2 está ativa, qualquer ataque contará como um assassinato, permitindo que você cuide de vários inimigos de uma vez.
+
+[DisGFxMoviePlayerBase_Texts]
+t_Yes="SIM"
+t_No="NÃO"
+t_OK="ACEITAR"
+t_Select="SELECIONAR"
+t_Confirm="CONFIRMAR"
+t_Validate="ACEITAR"
+t_Apply="Aplicar"
+t_Exit="SAIR"
+t_Back="VOLTAR"
+t_Cancel="Cancelar"
+t_Cost="Custo: "
+t_YouHave="Você tem: "
+t_Options="Opções"
+t_EmptyList="Nada para Mostrar"
+t_DLC="DLC"
+t_DownloadableContent="Conteúdo para Download"
+t_DownloadableContent_XBOX="Conteúdo para Download"
+t_DownloadableContent_PS3="Conteúdo para Download"
+t_CoinsCount="§NB_COINS§ Moedas"
+t_CoinCount="§NB_COINS§ Moedas"
+t_Close="Fechar"
+t_Q_ReplayMission="Jogar novamente uma missão irá sobrescrever os dados salvos anteriormente. Continuar?"
+;--- MAIN TABS ---
+t_Objectives="OBJETIVOS"
+t_Powers="PODERES"
+t_Inventory="INVENTÁRIO"
+t_Logs="ANOTAÇÕES"
+t_BoneCharms="ENCANTOS DE OSSOS"
+t_Stats="ESTATÍSTICAS"
+t_ContinueGame="Continuar"
+t_Checkpoint="Ponto de Controle"
+
+[DisGFxMoviePlayerMenuBase_Texts]
+;-- SPECIFIC PS3
+t_Q_DLCDeletionConfirm="Você quer remover a DLC selecionada do Disco Rígido (HD)?"
+t_DeleteDLC="Apagar DLC"
+t_DLC_EmptyList="Não há DLC's instaladas no Disco Rígido (HD)"
+t_PSStore="PlayStation®Store"
+t_DLC_LoadingList="Procurando DLC's instaladas no Disco Rígido (HD)"
+;-- END OF SPECIFIC PS3
+
+t_RestoreSettings="Reestabelecer configurações"
+t_Q_RestoreSettings="Você quer reestabelecer as configurações da categoria atual (§CATEGORY§)?"
+t_Modify_ControlsScheme="Modificar controles"
+t_Modify_VideoSettings="Modificar configurações de vídeo"
+t_Modify_Gamma="Modificar brilho"
+t_Modify_StorageDevice="Selecionar o Dispositivo de Armazenamento"
+t_LoadGame="Carregar"
+t_LoadGamePauseMenu="Carregar Jogo"
+t_DeleteSave="Apagar Jogo Salvo"
+t_Q_LoadGame="Você quer carregar esse jogo salvo? Todo o progresso não salvo será perdido e seus salvamentos automáticos podem ser sobrescrevidos."
+t_Q_LoadGameMainMenu="Você quer carregar esse jogo salvo? Seus salvamentos automáticos podem ser sobrescrevidos."
+t_Q_SaveGame="Você quer sobrescrever esse jogo salvo?"
+t_Q_DeleteSave="Você quer apagar esse jogo salvo?"
+t_QuitGame="Sair do Jogo"
+t_Q_QuitGame="Você quer sair do jogo?"
+t_BackToMainMenu="Voltar para o Menu Principal"
+t_Q_BackToMainMenu="Todo o progresso não salvo será perdido. Continuar?"
+t_Help="Tutoriais"
+t_ResumeGame="Resumir"
+t_SaveGame="Salvar Jogo"
+t_CreateNewSave="Criar um novo jogo salvo"
+t_EmptySlot="Espaço livre"
+t_ReadTutorial="Ler tutorial"
+t_Pause="Pausa"
+t_Q_VideoSettings="As novas configurações foram aplicadas. Estão corretas?<br>(As configurações anteriores serão reestabelecidas no fim da contagem)"
+t_GammaHint="Ajuste o brilho até que você mal possa ver o símbolo mais escuro."
+t_BackToWindows="Voltar para o Windows"
+t_Q_BackToWindows="Você quer sair do jogo e voltar para o Windows? Todo o progresso não salvo será perdido."
+;-- GAME OVER
+t_GameOver="Fim de Jogo"
+t_ContinueFromLastSave="Resumir do último ponto salvo"
+t_LoadASpecificSave="Carregar jogo"
+
+[DisGFxMoviePlayerMissionStats_Texts]
+t_ReplayMission="Repetir Missão"
+t_Found="Encontrado"
+
+[DisGFxMoviePlayerMainMenu_Texts]
+;--MAIN ------
+t_PressStart="PRESSIONE $Start$"
+t_PressAnyKey="PRESSIONE QUALQUER TECLA"
+t_NewGame="Novo Jogo"
+t_Missions="Missões"
+t_SeeMissionStats="Estatísticas da Missão"
+t_Extras="Extras"
+t_ON="SIM"
+t_OFF="NÃO"
+;-- NEW GAME SCREEN ------
+t_difficulty0="Fácil"
+t_difficulty0Desc="Uma experiência casual para novos jogadores. O dano feito pelo inimigo é reduzido, a recuperação da sua saúde é melhorada e as poções são mais eficazes."
+t_difficulty1="Normal"
+t_difficulty1Desc="O sigilo e o combate são moderadamente difíceis. O dano inimigo e a eficácia das poções têm os seus valores padrões."
+t_difficulty2="Difícil"
+t_difficulty2Desc="Maior desafio para jogadores experientes. Os inimigos infligem mais dano e são mais inteligentes."
+t_difficulty3="Muito difícil"
+t_difficulty3Desc="Uma experiência brutal para jogadores hardcore. Os inimigos infligem um grande dano, são muito inteligentes e as poções são menos eficazes."
+t_Q_NewGame="Criar um novo jogo irá sobrescrever os salvamentos automáticos anteriores. Continuar?"
+;-- MISSION ------
+t_Campaign="Campanha"
+t_MissionsScreenDesc="Escolha uma missão para jogar"
+
+
+[DisGFxMoviePlayerStore_Texts]
+t_Upgrades="MELHORIAS"
+t_Purchases="COMPRAS"
+t_PurchaseUpgrade="Comprar essa melhoria"
+t_Purchase="Comprar"
+t_PurchaseConfirmation="Você quer comprar §ITEM§ por §PRICE§?"
+t_ItemQuantityOwned="Possui: "
+t_NewUpgrade="Nova melhoria disponível"
+t_NewUpgrades="Novas melhorias disponíveis"
+t_NewUpgradeDesc="A planta que você levou para Piero desbloqueia essa melhoria:"
+t_NewUpgradesDesc="As plantas que você levou para Piero desbloqueiam essas melhorias:"
+t_PrerequisiteItem="O item §ITEM§ é necessário"
+
+[DisGFxMoviePlayerHUD_Texts]
+;--- MISC ---
+t_Hold="SEGURE"
+t_SkipScene="Pular"
+
+;--- OBJECTIVES WINDOW ---
+t_ObjCompleted="CONCLUÍDO: "
+t_ObjFailed="FRACASSADO: "
+t_ObjUpdated="ATUALIZADO: "
+t_ObjNew="NOVO: "
+
+;--- TARGET ASSASSINATION NOTIFICATIONS ---
+t_targetAssassinated="Alvo assassinado"
+t_targetNeutralized="Alvo neutralizado"
+t_targetRescued="Alvo resgatado"
+t_targetSpared="Alvo poupado"
+
+[DisGFxMoviePlayerJournal_Texts]
+;---SUB TABS---
+t_All="TODO"
+t_KeyRing="CHAVEIRO"
+t_Resources="RECURSOS"
+t_Gadgets="DISPOSITIVOS"
+t_Ammo="MUNIÇÃO"
+t_Upgrades="MELHORIAS"
+t_ConsumeElixir="Consumir Elixir"
+
+;--- PAGE OBJECTIVES ---
+t_MissionItems="Itens da missão"
+t_ChapterNotes="Pistas da missão"
+t_ShowHistory="Mostrar história"
+t_HideHistory="Esconder história"
+t_ShowHUDMarker="Mostrar indicador do objetivo"
+t_HideHUDMarker="Esconder indicador do objetivo"
+t_EmptyObjectivesList="Não há tarefas no momento"
+t_Tasks="Tarefas"
+t_PrimaryTasks="Tarefas Principais"
+t_SecondaryTasks="Tarefas Opcionais"
+
+;--- PAGE LOGS & NOTES ---
+t_AudioLogs="AUDIÓGRAFOS"
+t_Notes="NOTAS ESCRITAS"
+t_Books="LIVROS"
+t_Maps="MAPAS"
+t_readNote="LER NOTA"
+
+;--- PAGE BONE CHARMS ---
+t_CollectedBoneCharms="Encantos de Ossos coletados"
+t_BoneCharmsActivated="Encantos de Ossos ativados: "
+t_BoneCharmEmptySlot="Uma vez ativado, um Encanto de Ossos melhora as suas capacidades. Vários Encantos de Ossos podem ser coletados pelo mundo, com diferentes propriedades.\rEsse espaço está livre, pressione $A$ para selecionar o Encanto de Ossos que você quer ativar."
+
+;--- PAGE POWERS ---
+t_RunesCount="§NB_RUNES§ Runas"
+t_RuneCount="§NB_RUNES§ Runa"
+t_Acquired="Adquirido"
+t_Acquire="ADQUIRIR"
+t_Upgrade="MELHORAR"
+t_ManaConsumption="Consumo de Mana: "
+t_AcquirePowers="ADQUIRIR PODERES"
+t_AcquireThisPower="ADQUIRIR ESSE PODER"
+t_UpgradeThisPower="MELHORAR ESSE PODER"
+t_SeeDetails="VER O TUTORIAL"
+t_ActivePowers="Poderes"
+t_PassivePowers="Melhorias"
+t_Level="nível"
+;--
+t_WindBlast="Rajada de Vento"
+t_DarkVision="Visão Noturna"
+t_Blink="Teleporte"
+t_RatSwarm="Enxame devorador"
+t_BendTime="Dobra Temporal"
+t_Possession="Possessão"
+
+t_ShadowKill="Disfarce da Morte"
+t_BloodThirst="Sede de Sangue"
+t_Celerity="Agilidade"
+t_Vitality="Vitalidade"
+t_Q_BuyPower="Você quer comprar esse poder (§POWER_NAME§) por §RUNES_COST§ runa?"
+t_Q_BuyPower_plural="Você quer comprar esse poder (§POWER_NAME§) por §RUNES_COST§ runas?"
+
+;--- PAGE STATS ---
+t_ValuablesGallery="GALERIA DE OBJETOS DE VALOR"
+t_General="General"
+t_Combat="Combate"
+t_Heirlooms="HERANÇAS"
+t_Paintings="QUADROS"
+t_Maps="MAPAS"
+t_Coins="MOEDAS"
+
+;--- GENERAL ---
+t_ActivateBoneCharm="ATIVAR ENCANTO DE OSSOS"
+t_RemoveBoneCharm="REMOVER ENCANTO DE OSSOS"
+t_SelectBoneCharm="SELECIONAR ESSE ENCANTO DE OSSOS"
+
+t_playLog="REPRODUZIR AUDIÓGRAFO"
+t_stopLog="PARAR AUDIÓGRAFO"
+t_displayMap="MOSTRAR MAPA"
+
+[DisGFxMoviePlayerNote_Texts]
+t_Legend="Legenda"
+;-- STEALTH
+t_tuto_stealth_title="Sigilo"
+t_tuto_stealth_0="Pressione `GBA_Sneak` para entrar no modo sigiloso, depois, fique em uma cobertura para sair do campo de visão do inimigo e evitar que ele te detecte. Enquanto estiver se movendo sigilosamente, seus passos não serão ouvidos."
+;-- JOURNAL
+t_tuto_journal_title="O Diário"
+t_tuto_journal_0="Pressione `GBA_Journal` para acessar o Diário. Nele, você poderá rever os objetivos das suas missões e escolher quais pistas seguir, ler as pistas da missão e as informações sobre o seu equipamento, além de gerenciar os seus poderes sobrenaturais."
+t_tuto_journal_1_gamepad="Pressione $LShoulder$ / $RShoulder$ para mudar de sessão."
+t_tuto_journal_1_keyboard="Clique nas abas para mudar de sessão."
+;-- ASSASSINATIONS
+t_tuto_assassination_title="Assassinatos e Eliminações Não-Letais"
+t_tuto_assassination_0="Com uma espada na mão, assassine um inimigo desprevinido pressionando `GBA_Primary` ou aproxime-se de um inimigo desprevinido pelas costas e segure `GBA_Block` para realizar uma eliminação não-letal."
+t_tuto_assassination_1="O uso do sigilo e das táticas não-letais tem as suas vantagens: Menos ratos e Lamentosos, algumas pessoas reagem favoravelmente e o resultado final não é tão escuro."
+;-- POWER WHEEL CONSOLE
+t_tuto_wheel_title="Equipar-se com Armas e Poderes"
+t_tuto_wheel_0="Pressione e segure `GBA_Wheel` para abrir a §C_BLUE§Roda de Acesso Rápido.§C§ Selecione o dispositivo ou poder que você quer equipar na sua mão esquerda e solte `GBA_Wheel` para confirmar."
+t_tuto_wheel_1_gamepad="Atribua uma tecla rápida para uma arma ou poder selecionando um item na Roda de Acesso Rápido e pressionando qualquer direção no $DPad$"
+t_tuto_wheel_1_keyboard="Atribua uma tecla rápida para uma arma ou poder selecionando um item na §C_BLUE§Roda de Acesso Rápido§C§ e pressione qualquer §C_BLUE§tecla de atalho§C§. Há 10 teclas de atalho, você pode reconfigurar as associações nas opções."
+;-- COMBAT
+t_tuto_combat_title="Combate"
+t_tuto_combat_0="Pressione `GBA_Primary` para atacar com a sua mão direita ou `GBA_Secondary` para atacar com a sua mão esquerda se estiver equipado com uma arma ou poder."
+;-- BLOCK
+t_tuto_block_title="Bloquear"
+t_tuto_block_0="Pressione e segure `GBA_Block` para bloquear ataques com espada. Se conseguir bloquear no momento certo, desequilibrará o inimigo e o deixará aberto à um contra-ataque letal."
+;-- PERFECT BLOCK
+t_tuto_perfectBlock_title="Bloqueio perfeito"
+t_tuto_perfectBlock_0="Pressione e segure `GBA_Block` para bloquear. Se conseguir bloquear no momento certo, desequilibrará o inimigo e o deixará aberto à um contra-ataque letal."
+;-- BLUE PRINTS
+t_tuto_bluePrint_title="Plantas"
+t_tuto_bluePrint_0="Colete Plantas para desbloquear novas melhorias e equipamentos na oficina de Piero no Bar Cova do Cão."
+;-- BONE CHARMS
+t_tuto_boneCharms_title="Encantos de Ossos"
+t_tuto_boneCharms_0="Os Encantos de Ossos proporcionam pequenas vantagens sobrenaturais. Para localizá-los, ouça a "música" que eles emitem. Por padrão, você pode ativar até 3 Encantos de Ossos de uma vez na sessão de Encantos de Ossos do Diário."
+;-- CHAOS
+t_tuto_chaos_title="Caos"
+t_tuto_chaos_0="Seus atos afetam a cidade. Um grande número de mortes resulta em mais ratos e Lamentosos, diferentes reações dos seus aliados e um final mais escuro."
+;-- COUNTER ATTACK
+t_tuto_counterAttack_title="Contra-Atacar"
+t_tuto_counterAttack_0="Voce desequilibrou o seu inimigo bloqueando no momento certo. Agora, pressione `GBA_Primary` para executar um contra-ataque letal."
+;-- PLAY YOUR WAY
+t_tuto_playYourWay_options_title="Jogue do seu jeito: Opções"
+t_tuto_playYourWay_options_0="A próxima área está cheia de rotas alternativas que oferecem várias maneiras de completar a sua missão. Procure por parapeitos, túneis de ratos, dutos de água e lugares escondidos."
+t_tuto_playYourWay_pathways_title="Jogue do seu jeito: Rotas"
+t_tuto_playYourWay_pathways_0="Você pode passar pela Parede de Luz de várias maneiras:"
+t_tuto_playYourWay_pathways_1="- Remova o tanque de óleo de baleia para desativá-lo<br> - Suba nas caixas da direita e use o telhado<br> - Encontre outra rota pelas ruas da direita<br> - Possua um rato e use o pequeno túnel da esquerda"
+t_tuto_playYourWay_pathways2_title="Jogue do seu jeito: Rotas"
+t_tuto_playYourWay_pathways2_0="Há muitas rotas para seguir em suas missões: Ruas principais, becos, janelas, túneis de ratos, telhados e canais de água. Experimente com diferentes formas de alcançar os seus objetivos."
+t_tuto_playYourWay_powers_title="Jogue do seu jeito: Poderes"
+t_tuto_playYourWay_powers_0="Os poderes que você obtém das Runas podem ser usados de maneira criativa para derrotar inimigos ou andar pelo cenário. Teleporte-se de um telhado à outro, possua ratos e peixes ou desacelere o tempo antes de enfrentar um grupo de inimigos."
+;-- REWIRE TOOL
+t_tuto_rewireTool_title="Ferramenta de Religação"
+t_tuto_rewireTool_0="Desative dispositivos de segurança ou faça com que funcionem a seu favor usando a Ferramenta de Religação no painel de circuitos do dispositivo de segurança que você quer hackear (isso consome a Ferramenta de Religação)."
+t_tuto_rewireTool_1="Paredes de Luz, Postes Arco e Torres de Vigilância reprogramadas irão atacar seus inimigos ao invés de você enquanto os Alarmes reprogramados estiverem sendo totalmente desativados."
+;-- SPRING RAZOR
+t_tuto_springRazor_title="Navalha de Mola"
+t_tuto_springRazor_0="Uma armadilha de Navalha de Mola pode ser colocada em qualquer superfície apontando para ela e pressionando `GBA_Secondary`. Ela será ativada quando um inimigo se aproximar, lançando uma nuvem de estilhaços."
+;-- RUNES
+t_tuto_runes_title="Runas e Aquisição de Poderes"
+t_tuto_runes_0="Quando você coletar algumas Runas, abra o Diário e vá na sessão Poderes para trocá-las por poderes."
+t_tuto_runes_1="Runas podem ser coletadas e usadas para adquirir poderes sobrenaturais."
+;-- HEART
+t_tuto_heart_title="O Coração"
+t_tuto_heart_0="Equipar o Coração na sua mão esquerda te ajuda a localizar Encantos de Ossos ou Runas, inclusive através das paredes.<br><br>O Coração bate e se ilumina quando você aponta em direção à um Encanto de Ossos ou Runa, e bate mais rápido a medida que você se aproxima.<br><br>O Coração irá sussurrar segredos se você pressionar `GBA_Secondary` enquanto mira em uma pessoa ou lugar."
+;-- LEAN
+t_tuto_lean_title="Inclinando-se nos cantos"
+t_tuto_lean_0_gamepad="Segurando `GBA_Lean_Gamepad` e movendo o analógico esquerdo para a esquerda ou para direita, você pode se inclinar nos cantos, permitindo que você olhe ao redor sem que seja visto pelos inimigos."
+t_tuto_lean_0_keyboard="Segurando `GBA_LeanLeft` ou `GBA_LeanRight`, você pode se inclinar nos cantos, permitindo que você olhe ao redor sem que seja visto pelos inimigos."
+;-- SHOP
+t_tuto_shop_title="Loja e Melhorias"
+t_tuto_shop_0="Piero pode criar e melhorar equipamentos com o dinheiro que você coletar."
+t_tuto_shop_1="Levar as §C_BLUE§plantas§C§ que você coletou para Piero vai permitir que você §C_BLUE§desbloqueie novas melhorias§C§ para comprar.<br>Você pode obter esses serviços falando com Piero a qualquer hora."
+;-- DROP ASSASSINATION
+t_tuto_dropAssassination_title="Assassinato em uma Queda"
+t_tuto_dropAssassination_0="Salte de um lugar alto sobre um inimigo e pressione `GBA_Primary` antes de cair sobre ele para executar um assassinato em uma queda. Você não sofrerá danos pela queda."
+
+;----------- POWERS ---------
+;-- DEVOURING SWARM
+t_tuto_pRatsSwarm_title="Poder: Enxame Devorador"
+t_tuto_pRatsSwarm_0="Pressione `GBA_Secondary` para invocar um enxame de ratos devoradores que irá consumir cadáveres ou atacar o ser vivo mais próximo. Os ratos se dispersam depois de um tempo. No nível 2, mais ratos aparecerão e devorarão os cadáveres mais rápido."
+;-- BLINK
+t_tuto_pBlink_title="Poder: Teleporte"
+t_tuto_pBlink_0="Pressione `GBA_Secondary` para avançar rapidamente e sigilosamente. Você também pode usá-lo para deslocar-se para cima, mas a distância será reduzida. Mirar nos parapeitos permitirá que você use o Teleporte para escalar."
+t_tuto_pBlink_1="Segure `GBA_Secondary` para apontar o seu destino com precisão. A esfera azul indica que você deve chegar ao seu destino. A seta azul indica que você irá subir quando chegar no seu destino."
+t_tuto_pBlink_2="O Teleporte é útil para a exploração, sigilo, combate e fugir de situações de combate."
+;-- WINDBLAST
+t_tuto_pWindBlast_title="Poder: Rajada de Vento"
+t_tuto_pWindBlast_0="Pressione `GBA_Secondary` para soltar uma poderosa rajada de vento, que irá derrubar e arrastar o inimigo. Esse poder também irá apagar chamas, quebrar portas de madeira e devolver projéteis, como flechas, ao inimigo que as lançou. No nível 2, a Rajada de Vento irá jogar os inimigos contra a parede com força suficiente para matá-lo."
+;-- DARKVISION
+t_tuto_pDarkVision_title="Poder: Visão Noturna"
+t_tuto_pDarkVision_0="Pressione `GBA_Secondary` para enxergar no escuro e revelar seres vivos através das paredes. Você também pode ver os seus campos de visão, assim como uma representação visual do barulho que você faz. No nível 2, você poderá ver itens importantes através das paredes, como dispositivos de segurança, armas, munição, moedas, chaves ou armadilhas."
+;-- POSSESSION
+t_tuto_pPossession_title="Poder: Possessão"
+t_tuto_pPossession_0="Pressione `GBA_Secondary` para entrar no corpo de um animal por um tempo limitado. Você pode acabar com a possessão pressionando `GBA_Secondary` outra vez. Se o seu hospedeiro morrer, ele irá sofrer o mesmo destino. Pequenos animais não conseguem sobreviver ao processo de possessão.<br><br>No nível 2, você também pode possuir pessoas. Enquanto estiver dentro de um corpo humano, você será muito desajeitado para fazer qualquer coisa além de movimentos básicos, como abrir portas ou carregar objetos."
+;-- BEND TIME
+t_tuto_pBendTime_title="Poder: Dobra Temporal"
+t_tuto_pBendTime_0="Pressione `GBA_Secondary` para desacelerar o mundo em torno de você por um tempo limitado ou até que você pressione `GBA_Secondary` outra vez para parar de usar o poder. <br><br>No nível 2, o tempo é completamente parado. Os inimigos e sistemas de segurança não irão te ver enquanto o efeito do poder durar."
+;-- SHADOW KILL
+t_tuto_pShadowKill_title="Poder: Disfarce da Morte"
+t_tuto_pShadowKill_0="Cada vez que você matar um inimigo desprevinido, o cadáver se transformará em cinzas e desaparecerá, evitando a necessidade de escondê-lo. No nível 2, todos os inimigos mortos virarão cinzas."
+;-- BLOOD THIRSTY
+t_tuto_pBloodThirsty_title="Poder: Sede de Sangue"
+t_tuto_pBloodThirsty_0_gamepad="Permite que você acumule Adrenalina bloqueando ataques, realizando assassinatos e infligindo danos corpo-a-corpo. Quando a Adrenalina estiver no máximo, aproxime-se de um inimigo e pressione `GBA_Lean_Gamepad` para executá-lo instantâneamente.<br><br>No nível 2, pressione `GBA_Lean_Gamepad` duas vezes para realizar um ataque de Adrenalina duplo, que mata mais de um inimigo instantâneamente. Você pode se mover e mirar enquanto o executa para poder apontar."
+t_tuto_pBloodThirsty_0_keyboard="Permite que você acumule Adrenalina bloqueando ataques, realizando assassinatos e infligindo danos corpo-a-corpo. Quando a Adrenalina estiver no máximo, aproxime-se de um inimigo e pressione `GBA_Block` + `GBA_Primary` para executá-lo instantâneamente.<br><br>No nível 2, pressione `GBA_Primary` duas vezes enquanto segura `GBA_Block` para realizar um ataque de Adrenalina duplo, que mata mais de um inimigo instantâneamente. Você pode se mover e mirar enquanto o executa para poder apontar."
+;-- VITALITY
+t_tuto_pVitality_title="Poder: Vitalidade"
+t_tuto_pVitality_0="Sua barra de saúde é estendida.<br>No nível 2, você regenera mais saúde, mais rápido."
+;-- CELERITY
+t_tuto_pCelerity_title="Poder: Agilidade"
+t_tuto_pCelerity_0="Você pode saltar mais alto segurando `GBA_Jump`.<br><br>No nível 2, você pode correr muito mais rápido."
+
+[MessageBoxErrors]
+Yes=Sim
+No=Não
+OK=ACEITAR
+Cancel=Cancelar
+Retry=Tentar Novamente
+Delete=Apagar
+DeleteRetry=Apagar e tentar novamente
+FreespaceRetry=Liberar espaço e tentar novamente
+Overwrite=Sobrescrever
+FreeDiscSpace=Espaço livre em disco
+Loading=Carregando
+Saving=Salvando
+ChangeStorage=Mudar armazenamento
+SelectStorageDevice=Selecionar dispositivo de armazenamento
+SignInError=Ocorreu uma mudança de login. Você vai voltar para a tela de inicio.
+SignOutError=Ocorreu uma mudança de login. Você vai voltar para a tela de inicio.
+ControllerDisconnected=O controle foi desconectado. Reconecte o controle e pressione ACEITAR para continuar.
+StorageDeviceNotSelected=Nenhum dispositivo de armazenamento foi selecionado.
+StorageDeviceDisconnected=O dispositivo de armazenamento foi desconectado.
+LoadingSaveDataCorrupted=Erro ao carregar. Os dados salvos estão corrompidos.
+SavingSaveDataCorrupted=Erro ao salvar. Os dados salvos estão corrompidos.
+SaveDataOwnershipFailedPS3_PC=Esses dados salvos não pertencem a sua conta.
+SaveDataOwnershipFailedX360=Esses dados salvos não pertencem ao seu perfil de jogador.
+StorageSpaceMissingX360=Não há espaço livre suficiente para salvar o jogo. Faltam `space_amount` KB. Selecionar um novo dispositivo de armazenamento e tentar novamente?
+StorageSpaceMissingPS3=Não há espaço livre suficiente para salvar o jogo. Faltam `space_amount` kB.
+StorageSpaceMissingPC=Não há espaço livre suficiente para salvar o jogo. Faltam `space_amount` kB. Libere espaço e tente novamente.
+GenericSaveFail=Ocorreu um erro ao salvar o jogo.
+GenericLoadFail=Ocorreu um erro ao carregar o jogo.
+GenericDeleteFail=Ocorreu um erro ao apagar o jogo salvo.
+SaveDataUpdateMissingX360=Esse jogo salvo foi criado na última versão de Dishonored. Faça o download de todas as atualizações.
+SaveDataUpdateMissingPC_PS3=Erro ao carregar. O jogo precisa de uma atualização para usar esse jogo salvo.
+SaveDataDLCMissingX360=O conteúdo necessário está indisponível. Assegure-se de que todos os dispositivos de armazenamento estejam conectados corretamente ou baixe o conteúdo novamente.
+SaveDataDLCMissingPS3=O conteúdo necessário está indisponível. Verifique se o conteúdo está instalado ou baixe o conteúdo novamente.
+OnlineFeatureDisabledPS3=Para acessar esse conteúdo, você precisa esta conectado à PlayStation®Network. Faça login em um perfil habilitado da PlayStation®Network.
+OnlineFeatureDisabledX360=Para acessar esse conteúdo, você precisa esta conectado à Xbox LIVE. Faça login em um perfil habilitado da Xbox LIVE.
+LoadingOptionsCorrupted=Erro ao carregar as opções. Os dados salvos estão corrompidos.
+OptionsOwnershipFailedPS3_PC=Esses dados de opções salvos não pertencem a sua conta.
+OptionsOwnershipFailedX360=Esses dados de opções salvos não pertencem ao seu perfil de jogador.
+GenericOptionsLoadFail=Erro ao carregar os dados de opções salvos.
+ResetOptionsToDefault=Reestabelecer opções padrões
+ContinueWithoutSaving=Continuar sem salvar
+AutoSaveDisabled=O salvamento automático foi desativado. Você precisa salvar o seu progresso para desbloquear a missão atual no menu principal. Você quer salvar?
+
+;----------- MISC ---------
+[DishonoredUsableObject]
+m_MatchingKey=""
+
+[DisTweaks_Possessable]
+m_DisallowPossessionMessage="Esse alvo não pode ser possuído nesse momento"
+
+[DisTweaks_AudioLogPlayer]
+m_Stages[1]=(m_InteractTextOverride="`GBA_Use` Parar o Audiógrafo")
+m_UnlockInteractText="`GBA_Use` Abrir"
+m_LockedMessage=""
+m_UnauthorizedMessage=""
+m_FocusMessage=""
+m_FocusLockedMessage=""
+
+[DisTweaks_WhaleOilReceptacle]
+m_EmptyBatteryMessage="Esse tanque está vazio"
+
+[DisTweaks_AlarmBell]
+m_UnlockInteractText=""
+m_LockedMessage=""
+m_UnauthorizedMessage=""
+m_FocusMessage=""
+m_FocusLockedMessage=""
+
+[DisTweaks_Climbable]
+m_StopClimbingInteractText=" `GBA_Jump` Saltar"
+
+[DisTweaks_WaterSource]
+m_UnlockInteractText="`GBA_Use` Abrir"
+m_LockedMessage=""
+m_UnauthorizedMessage=""
+m_FocusMessage=""
+m_FocusLockedMessage=""
+
+[DisTweaks_DynamicUsableObject]
+m_Stages[1]=(m_InteractTextOverride=" `GBA_Use` Fechar")
+m_UnlockInteractText=""
+m_LockedMessage=""
+m_UnauthorizedMessage=""
+m_FocusMessage=""
+m_FocusLockedMessage=""
+
+[DisTweaks_UsableObject]
+m_UnlockInteractText=""
+m_LockedMessage=""
+m_UnauthorizedMessage=""
+m_FocusMessage=""
+m_FocusLockedMessage=""
+
+[DisTweaks_Climbable]
+m_StopClimbingInteractText=" `GBA_Jump` Saltar"
+
+[DisTweaks_UsableObject]
+m_UnlockInteractText="`GBA_Use` Abrir"
+m_LockedMessage=""
+m_UnauthorizedMessage=""
+m_FocusMessage=""
+m_FocusLockedMessage=""
+
+[DisTweaks_WhaleOilReceptacle]
+m_EmptyBatteryMessage="Esse tanque está vazio"
+
+[DisTweaks_WaterSource]
+m_UnlockInteractText="`GBA_Use` Abrir"
+m_LockedMessage=""
+m_UnauthorizedMessage=""
+m_FocusMessage=""
+m_FocusLockedMessage=""
+
+[DisTweaks_AlarmBell]
+m_UnlockInteractText=""
+m_LockedMessage=""
+m_UnauthorizedMessage=""
+m_FocusMessage=""
+m_FocusLockedMessage=""

@@ -1,0 +1,33 @@
+﻿[DLC_Countdown_Medium DishonoredObjective]
+m_Description="Reach the target as fast as you can."
+
+[DLC_Countdown_Medium:DishonoredTask_Custom_9 DishonoredTask_Custom]
+m_Description="Target"
+m_Status=""
+
+[DLC_Infected DishonoredObjective]
+m_Description="You are now infected and bleeding! Kill enemies to earn health."
+
+[DLC_Infected:DishonoredTask_Custom_9 DishonoredTask_Custom]
+m_Description="Try and survive."
+m_Status=""
+
+[DLC_MP_Medium DishonoredObjective]
+m_Description="Eliminate targets in the correct order without being seen."
+
+[DLC_MP_Medium:DishonoredTask_Custom_21 DishonoredTask_Custom]
+m_Description="Third target."
+m_Status=""
+
+[DLC_MP_Medium:DishonoredTask_Custom_22 DishonoredTask_Custom]
+m_Description="Fourth and last target."
+m_Status=""
+
+[DLC_MP_Medium:DishonoredTask_Custom_8 DishonoredTask_Custom]
+m_Description="Second target."
+m_Status=""
+
+[DLC_MP_Medium:DishonoredTask_Custom_9 DishonoredTask_Custom]
+m_Description="First target."
+m_Status=""
+

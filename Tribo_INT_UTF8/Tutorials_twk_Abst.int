@@ -1,0 +1,50 @@
+﻿[abstract_items.AdrenalineTutorial_Note DisAbstractItem]
+m_ItemName="Tutorial de Conhecimento"
+m_PluralItemName=""
+m_Description="Adrenalina e Fatalidades\nSe você acumular adrenalina suficiente, a tela começará a brilhar nas bordas, permitindo que você mate um inimigo com um só ataque. (Pressione Y quando a adrenalina estiver no máximo para iniciar uma morte por adrenalina.) Você ganha adrenalina assassinando inimigos sigilosamente ou durante um golpe, bloqueio ou esquivo com um ataque de espada realizado com sucesso.\n"
+
+[abstract_items.AwarenessTutorial_Note DisAbstractItem]
+m_ItemName="Tutorial de Conhecimento"
+m_PluralItemName=""
+m_Description="Conhecimento\nQuando o inimigo tiver conhecimento de você, as bordas da sua visão irão tremer. Saia do campo de visão do inimigo ou entre em sombras rapidamente para evitar ser detectado. \n"
+
+[abstract_items.DropDownTutorial_Note DisAbstractItem]
+m_ItemName="Tutorial de Marcação"
+m_PluralItemName=""
+m_Description="!!!!!!! Tutorial de Marcação, não se desespere!!!!!!!!"
+
+[abstract_items.ElixirTutorial_Note DisAbstractItem]
+m_ItemName="Tutorial de Conhecimento"
+m_PluralItemName=""
+m_Description="Encantos de Ossos\nFeitos a partir de ossos e dentes de grandes baleias, Encantos de Ossos concedem pequenos benefícios sobrenaturais. Todos os Encantos de Ossos coletados estão listados no Diário, lá, você pode escolher quais 5 quer deixar ativos. (Nota: Todos os Encantos de Ossos que você descobrir são persistentes e estão disponíveis por todo o jogo.)\n"
+
+[abstract_items.FloorSoundTutorial_Note DisAbstractItem]
+m_ItemName="Tutorial de Conhecimento"
+m_PluralItemName=""
+m_Description="Barulho e Superfícies\nNa maioria das vezes, correr ou caminhar pode alertar guardas próximos. Porém, você é mais alto em superfícies de metal, principalmente quando corre."
+
+[abstract_items.JournalTutorial_Note DisAbstractItem]
+m_ItemName="Tutorial de Conhecimento"
+m_PluralItemName=""
+m_Description="O Diário\nSeus objetivos, notas e inventário podem ser encontrados no seu Diário, incluindo notas de melhorias dos seus equipamentos, habilidades incomuns e itens especiais. (Pressione Voltar para acessar o Diário.)"
+
+[abstract_items.LightShadowTutorial_Note DisAbstractItem]
+m_ItemName="Tutorial de Conhecimento"
+m_PluralItemName=""
+m_Description="Luz e Sombra\nPressione B para se mover sigilosamente. Os inimigos terão mais dificuldade em te ver nas sombras, principalmente de grandes distâncias. Fique escondido enquanto se move sigilosamente, fique nas sombras, esconda-se atrás de coisas e aproxime-se de inimigos pelas costas ou pelos lados.\n"
+
+[abstract_items.PlaceholderTuto DisAbstractItem]
+m_ItemName="Tutorial de Marcação"
+m_PluralItemName=""
+m_Description="!!!!!!! Tutorial de Marcação, não se desespere!!!!!!!!"
+
+[abstract_items.RuneTutorial_Note DisAbstractItem]
+m_ItemName="Tutorial de Conhecimento"
+m_PluralItemName=""
+m_Description="Runas\nCriadas a partir de crânios de baleia, esses raros artefatos servem como moeda sobrenatural. Coletar e expandir runas lhe permitirá melhorar e adquirir poderes únicos. Runas e notas dos seus poderes são guardadas no seu Diário. "
+
+[abstract_items.WhaleBoneCharmTutorial_Note DisAbstractItem]
+m_ItemName="Tutorial de Conhecimento"
+m_PluralItemName=""
+m_Description="Encantos de Ossos\nFeitos a partir de ossos e dentes de grandes baleias, Encantos de Ossos concedem pequenos benefícios sobrenaturais. Todos os Encantos de Ossos coletados estão listados no Diário e lá, você pode escolher quais 5 quer deixar ativos. (Nota: Todos os Encantos de Ossos que você descobrir são persistentes e estão disponíveis por todo o jogo.)\n"
+

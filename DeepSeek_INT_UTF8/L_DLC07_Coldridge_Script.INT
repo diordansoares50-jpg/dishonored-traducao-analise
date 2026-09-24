@@ -1,0 +1,313 @@
+﻿[TheWorld:PersistentLevel.DisDoor_0 DisDoor]
+m_DoorName=""
+
+[TheWorld:PersistentLevel.DisDoor_2 DisDoor]
+m_DoorName=""
+
+[TheWorld:PersistentLevel.DisDoor_5 DisDoor]
+m_DoorName=""
+
+[TheWorld:PersistentLevel.DisDoor_52 DisDoor]
+m_DoorName=""
+
+[TheWorld:PersistentLevel.DisDoor_56 DisDoor]
+m_DoorName=""
+
+[TheWorld:PersistentLevel.DisDoor_58 DisDoor]
+m_DoorName=""
+
+[TheWorld:PersistentLevel.DisDoor_9 DisDoor]
+m_DoorName=""
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_AddDarkness_0 DisSeqAct_AddDarkness]
+m_Text=""
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_AddDarkness_2 DisSeqAct_AddDarkness]
+m_Text=""
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_DialogScriptedChoice_0 DisSeqAct_DialogScriptedChoice]
+m_Title="Reproduzir Introdução?"
+m_Choices[0]=(m_ChoiceText="Yes, I want the full experience")
+m_Choices[1]=(m_ChoiceText="No, just play from here")
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_DialogScriptedChoice_1 DisSeqAct_DialogScriptedChoice]
+m_Title="Disfarçado de Supervisor?"
+m_Choices[0]=(m_ChoiceText="Yes, I bought the Overseer disguise")
+m_Choices[1]=(m_ChoiceText="No, I didn't buy the Overseer disguise")
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_GameOver_1 DisSeqAct_GameOver]
+m_Reason="Lizzy Stride morreu"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_ShowLocationDiscovery_0 DisSeqAct_ShowLocationDiscovery]
+m_LocationName="Entrando em Área Proibida"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_ShowLocationDiscovery_1 DisSeqAct_ShowLocationDiscovery]
+m_LocationName="Prisão de Coldridge"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_ShowLocationDiscovery_2 DisSeqAct_ShowLocationDiscovery]
+m_LocationName="Sistema de Controle de Célula"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_ShowLocationDiscovery_3 DisSeqAct_ShowLocationDiscovery]
+m_LocationName="Sala de Interrogação"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_ShowLocationDiscovery_5 DisSeqAct_ShowLocationDiscovery]
+m_LocationName="Disfarce não é mais eficaz"
+
+[TheWorld:PersistentLevel.Main_Sequence.Objectives.TaskTargets.DisSeqAct_UpdateTaskTarget_0 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Alarme"
+
+[TheWorld:PersistentLevel.Main_Sequence.Objectives.TaskTargets.DisSeqAct_UpdateTaskTarget_1 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Prisão Coldridge"
+
+[TheWorld:PersistentLevel.Main_Sequence.Objectives.TaskTargets.DisSeqAct_UpdateTaskTarget_10 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Guarda do Portão"
+
+[TheWorld:PersistentLevel.Main_Sequence.Objectives.TaskTargets.DisSeqAct_UpdateTaskTarget_11 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Ex-Guarda"
+
+[TheWorld:PersistentLevel.Main_Sequence.Objectives.TaskTargets.DisSeqAct_UpdateTaskTarget_12 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Chave do Armário"
+
+[TheWorld:PersistentLevel.Main_Sequence.Objectives.TaskTargets.DisSeqAct_UpdateTaskTarget_13 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Runa Mal Posicionada"
+
+[TheWorld:PersistentLevel.Main_Sequence.Objectives.TaskTargets.DisSeqAct_UpdateTaskTarget_14 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Privada Tentadora"
+
+[TheWorld:PersistentLevel.Main_Sequence.Objectives.TaskTargets.DisSeqAct_UpdateTaskTarget_15 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Sala de Interrogação"
+
+[TheWorld:PersistentLevel.Main_Sequence.Objectives.TaskTargets.DisSeqAct_UpdateTaskTarget_16 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Alavanca de Liberação"
+
+[TheWorld:PersistentLevel.Main_Sequence.Objectives.TaskTargets.DisSeqAct_UpdateTaskTarget_17 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Célula C28"
+
+[TheWorld:PersistentLevel.Main_Sequence.Objectives.TaskTargets.DisSeqAct_UpdateTaskTarget_18 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Célula A00"
+
+[TheWorld:PersistentLevel.Main_Sequence.Objectives.TaskTargets.DisSeqAct_UpdateTaskTarget_19 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Célula A21"
+
+[TheWorld:PersistentLevel.Main_Sequence.Objectives.TaskTargets.DisSeqAct_UpdateTaskTarget_2 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Diário de Bordo"
+
+[TheWorld:PersistentLevel.Main_Sequence.Objectives.TaskTargets.DisSeqAct_UpdateTaskTarget_20 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Registro de Interrogação"
+
+[TheWorld:PersistentLevel.Main_Sequence.Objectives.TaskTargets.DisSeqAct_UpdateTaskTarget_21 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Armário"
+
+[TheWorld:PersistentLevel.Main_Sequence.Objectives.TaskTargets.DisSeqAct_UpdateTaskTarget_22 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Assassino"
+
+[TheWorld:PersistentLevel.Main_Sequence.Objectives.TaskTargets.DisSeqAct_UpdateTaskTarget_3 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Entrada do Esgoto"
+
+[TheWorld:PersistentLevel.Main_Sequence.Objectives.TaskTargets.DisSeqAct_UpdateTaskTarget_4 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Passo de Lizzy"
+
+[TheWorld:PersistentLevel.Main_Sequence.Objectives.TaskTargets.DisSeqAct_UpdateTaskTarget_5 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Célula D24"
+
+[TheWorld:PersistentLevel.Main_Sequence.Objectives.TaskTargets.DisSeqAct_UpdateTaskTarget_6 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Sistema de Controle de Célula"
+
+[TheWorld:PersistentLevel.Main_Sequence.Objectives.TaskTargets.DisSeqAct_UpdateTaskTarget_7 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Prisioneiro Furioso"
+
+[TheWorld:PersistentLevel.Main_Sequence.Objectives.TaskTargets.DisSeqAct_UpdateTaskTarget_8 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Prisioneiro Enlouquecido"
+
+[TheWorld:PersistentLevel.Main_Sequence.Objectives.TaskTargets.DisSeqAct_UpdateTaskTarget_9 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Amuleto de Ossos"
+
+[TheWorld:PersistentLevel.Main_Sequence.RandomCells.Tumbler.Digit_Locker_0.DisSeqAct_ShowHUDMessage_0 DisSeqAct_ShowHUDMessage]
+m_Message="A célula C18 está fechada"
+
+[TheWorld:PersistentLevel.Main_Sequence.RandomCells.Tumbler.Digit_Locker_0.DisSeqAct_ShowHUDMessage_1 DisSeqAct_ShowHUDMessage]
+m_Message="A célula C18 está aberta"
+
+[TheWorld:PersistentLevel.Main_Sequence.RandomCells.Tumbler.Digit_Locker_1.DisSeqAct_ShowHUDMessage_0 DisSeqAct_ShowHUDMessage]
+m_Message="A célula D24 está fechada"
+
+[TheWorld:PersistentLevel.Main_Sequence.RandomCells.Tumbler.Digit_Locker_1.DisSeqAct_ShowHUDMessage_1 DisSeqAct_ShowHUDMessage]
+m_Message="A célula D24 está aberta"
+
+[TheWorld:PersistentLevel.Main_Sequence.RandomCells.Tumbler.Digit_Locker_10.DisSeqAct_ShowHUDMessage_0 DisSeqAct_ShowHUDMessage]
+m_Message="A célula A11 está fechada"
+
+[TheWorld:PersistentLevel.Main_Sequence.RandomCells.Tumbler.Digit_Locker_10.DisSeqAct_ShowHUDMessage_1 DisSeqAct_ShowHUDMessage]
+m_Message="A célula A11 está aberta"
+
+[TheWorld:PersistentLevel.Main_Sequence.RandomCells.Tumbler.Digit_Locker_11.DisSeqAct_ShowHUDMessage_0 DisSeqAct_ShowHUDMessage]
+m_Message="A célula A03 está fechada"
+
+[TheWorld:PersistentLevel.Main_Sequence.RandomCells.Tumbler.Digit_Locker_11.DisSeqAct_ShowHUDMessage_1 DisSeqAct_ShowHUDMessage]
+m_Message="A célula A03 está aberta"
+
+[TheWorld:PersistentLevel.Main_Sequence.RandomCells.Tumbler.Digit_Locker_12.DisSeqAct_ShowHUDMessage_0 DisSeqAct_ShowHUDMessage]
+m_Message="A célula A05 está fechada"
+
+[TheWorld:PersistentLevel.Main_Sequence.RandomCells.Tumbler.Digit_Locker_12.DisSeqAct_ShowHUDMessage_1 DisSeqAct_ShowHUDMessage]
+m_Message="A célula A05 está aberta"
+
+[TheWorld:PersistentLevel.Main_Sequence.RandomCells.Tumbler.Digit_Locker_13.DisSeqAct_ShowHUDMessage_0 DisSeqAct_ShowHUDMessage]
+m_Message="A célula D04 está fechada"
+
+[TheWorld:PersistentLevel.Main_Sequence.RandomCells.Tumbler.Digit_Locker_13.DisSeqAct_ShowHUDMessage_1 DisSeqAct_ShowHUDMessage]
+m_Message="Célula D04 está aberta"
+
+[TheWorld:PersistentLevel.Main_Sequence.RandomCells.Tumbler.Digit_Locker_15.DisSeqAct_ShowHUDMessage_0 DisSeqAct_ShowHUDMessage]
+m_Message="A célula C19 está fechada"
+
+[TheWorld:PersistentLevel.Main_Sequence.RandomCells.Tumbler.Digit_Locker_15.DisSeqAct_ShowHUDMessage_1 DisSeqAct_ShowHUDMessage]
+m_Message="A célula C19 está aberta"
+
+[TheWorld:PersistentLevel.Main_Sequence.RandomCells.Tumbler.Digit_Locker_16.DisSeqAct_ShowHUDMessage_0 DisSeqAct_ShowHUDMessage]
+m_Message="A célula C05 está fechada"
+
+[TheWorld:PersistentLevel.Main_Sequence.RandomCells.Tumbler.Digit_Locker_16.DisSeqAct_ShowHUDMessage_1 DisSeqAct_ShowHUDMessage]
+m_Message="A célula C05 está aberta"
+
+[TheWorld:PersistentLevel.Main_Sequence.RandomCells.Tumbler.Digit_Locker_17.DisSeqAct_ShowHUDMessage_0 DisSeqAct_ShowHUDMessage]
+m_Message="A célula C06 está fechada"
+
+[TheWorld:PersistentLevel.Main_Sequence.RandomCells.Tumbler.Digit_Locker_17.DisSeqAct_ShowHUDMessage_1 DisSeqAct_ShowHUDMessage]
+m_Message="A célula C06 está aberta"
+
+[TheWorld:PersistentLevel.Main_Sequence.RandomCells.Tumbler.Digit_Locker_2.DisSeqAct_ShowHUDMessage_0 DisSeqAct_ShowHUDMessage]
+m_Message="A célula C27 está fechada"
+
+[TheWorld:PersistentLevel.Main_Sequence.RandomCells.Tumbler.Digit_Locker_2.DisSeqAct_ShowHUDMessage_1 DisSeqAct_ShowHUDMessage]
+m_Message="A célula C27 está aberta"
+
+[TheWorld:PersistentLevel.Main_Sequence.RandomCells.Tumbler.Digit_Locker_34.DisSeqAct_ShowHUDMessage_0 DisSeqAct_ShowHUDMessage]
+m_Message="A célula C28 está fechada"
+
+[TheWorld:PersistentLevel.Main_Sequence.RandomCells.Tumbler.Digit_Locker_34.DisSeqAct_ShowHUDMessage_1 DisSeqAct_ShowHUDMessage]
+m_Message="A célula C28 está aberta"
+
+[TheWorld:PersistentLevel.Main_Sequence.RandomCells.Tumbler.Digit_Locker_35.DisSeqAct_ShowHUDMessage_0 DisSeqAct_ShowHUDMessage]
+m_Message="A célula A00 está fechada"
+
+[TheWorld:PersistentLevel.Main_Sequence.RandomCells.Tumbler.Digit_Locker_35.DisSeqAct_ShowHUDMessage_1 DisSeqAct_ShowHUDMessage]
+m_Message="A célula A00 está aberta"
+
+[TheWorld:PersistentLevel.Main_Sequence.RandomCells.Tumbler.Digit_Locker_36.DisSeqAct_ShowHUDMessage_0 DisSeqAct_ShowHUDMessage]
+m_Message="A célula A21 está fechada"
+
+[TheWorld:PersistentLevel.Main_Sequence.RandomCells.Tumbler.Digit_Locker_36.DisSeqAct_ShowHUDMessage_1 DisSeqAct_ShowHUDMessage]
+m_Message="A célula A21 está aberta"
+
+[TheWorld:PersistentLevel.Main_Sequence.RandomCells.Tumbler.Digit_Locker_37.DisSeqAct_ShowHUDMessage_0 DisSeqAct_ShowHUDMessage]
+m_Message="A célula A24 está fechada"
+
+[TheWorld:PersistentLevel.Main_Sequence.RandomCells.Tumbler.Digit_Locker_37.DisSeqAct_ShowHUDMessage_1 DisSeqAct_ShowHUDMessage]
+m_Message="A célula A24 está aberta"
+
+[TheWorld:PersistentLevel.Main_Sequence.RandomCells.Tumbler.Digit_Locker_38.DisSeqAct_ShowHUDMessage_0 DisSeqAct_ShowHUDMessage]
+m_Message="A célula A13 está fechada"
+
+[TheWorld:PersistentLevel.Main_Sequence.RandomCells.Tumbler.Digit_Locker_38.DisSeqAct_ShowHUDMessage_1 DisSeqAct_ShowHUDMessage]
+m_Message="A célula A13 está aberta"
+
+[TheWorld:PersistentLevel.Main_Sequence.RandomCells.Tumbler.Digit_Locker_39.DisSeqAct_ShowHUDMessage_0 DisSeqAct_ShowHUDMessage]
+m_Message="A célula A01 está fechada"
+
+[TheWorld:PersistentLevel.Main_Sequence.RandomCells.Tumbler.Digit_Locker_39.DisSeqAct_ShowHUDMessage_1 DisSeqAct_ShowHUDMessage]
+m_Message="A célula A01 está aberta"
+
+[TheWorld:PersistentLevel.Main_Sequence.RandomCells.Tumbler.Digit_Locker_40.DisSeqAct_ShowHUDMessage_0 DisSeqAct_ShowHUDMessage]
+m_Message="A célula A15 está fechada"
+
+[TheWorld:PersistentLevel.Main_Sequence.RandomCells.Tumbler.Digit_Locker_40.DisSeqAct_ShowHUDMessage_1 DisSeqAct_ShowHUDMessage]
+m_Message="A célula A15 está aberta"
+
+[TheWorld:PersistentLevel.Main_Sequence.RandomCells.Tumbler.Digit_Locker_41.DisSeqAct_ShowHUDMessage_0 DisSeqAct_ShowHUDMessage]
+m_Message="A célula D22 está fechada"
+
+[TheWorld:PersistentLevel.Main_Sequence.RandomCells.Tumbler.Digit_Locker_41.DisSeqAct_ShowHUDMessage_1 DisSeqAct_ShowHUDMessage]
+m_Message="A célula D22 está aberta"
+
+[TheWorld:PersistentLevel.Main_Sequence.RandomCells.Tumbler.Digit_Locker_42.DisSeqAct_ShowHUDMessage_0 DisSeqAct_ShowHUDMessage]
+m_Message="A célula A14 está fechada"
+
+[TheWorld:PersistentLevel.Main_Sequence.RandomCells.Tumbler.Digit_Locker_42.DisSeqAct_ShowHUDMessage_1 DisSeqAct_ShowHUDMessage]
+m_Message="A célula A14 está aberta"
+
+[TheWorld:PersistentLevel.Main_Sequence.RandomCells.Tumbler.Digit_Locker_43.DisSeqAct_ShowHUDMessage_0 DisSeqAct_ShowHUDMessage]
+m_Message="A célula A23 está fechada"
+
+[TheWorld:PersistentLevel.Main_Sequence.RandomCells.Tumbler.Digit_Locker_43.DisSeqAct_ShowHUDMessage_1 DisSeqAct_ShowHUDMessage]
+m_Message="A célula A23 está aberta"
+
+[TheWorld:PersistentLevel.Main_Sequence.RandomCells.Tumbler.Digit_Locker_44.DisSeqAct_ShowHUDMessage_0 DisSeqAct_ShowHUDMessage]
+m_Message="A célula 21 está fechada"
+
+[TheWorld:PersistentLevel.Main_Sequence.RandomCells.Tumbler.Digit_Locker_44.DisSeqAct_ShowHUDMessage_1 DisSeqAct_ShowHUDMessage]
+m_Message="A célula D21 está aberta"
+
+[TheWorld:PersistentLevel.Main_Sequence.RandomCells.Tumbler.Digit_Locker_45.DisSeqAct_ShowHUDMessage_0 DisSeqAct_ShowHUDMessage]
+m_Message="A célula A10 está fechada"
+
+[TheWorld:PersistentLevel.Main_Sequence.RandomCells.Tumbler.Digit_Locker_45.DisSeqAct_ShowHUDMessage_1 DisSeqAct_ShowHUDMessage]
+m_Message="A célula A10 está aberta"
+
+[TheWorld:PersistentLevel.Main_Sequence.RandomCells.Tumbler.Digit_Locker_46.DisSeqAct_ShowHUDMessage_0 DisSeqAct_ShowHUDMessage]
+m_Message="A célula A25 está fechada"
+
+[TheWorld:PersistentLevel.Main_Sequence.RandomCells.Tumbler.Digit_Locker_46.DisSeqAct_ShowHUDMessage_1 DisSeqAct_ShowHUDMessage]
+m_Message="A célula A25 está aberta"
+
+[TheWorld:PersistentLevel.Main_Sequence.RandomCells.Tumbler.Digit_Locker_47.DisSeqAct_ShowHUDMessage_0 DisSeqAct_ShowHUDMessage]
+m_Message="A célula D11 está fechada"
+
+[TheWorld:PersistentLevel.Main_Sequence.RandomCells.Tumbler.Digit_Locker_47.DisSeqAct_ShowHUDMessage_1 DisSeqAct_ShowHUDMessage]
+m_Message="A célula D11 está aberta"
+
+[TheWorld:PersistentLevel.Main_Sequence.RandomCells.Tumbler.Digit_Locker_48.DisSeqAct_ShowHUDMessage_0 DisSeqAct_ShowHUDMessage]
+m_Message="A célula C08 está fechada"
+
+[TheWorld:PersistentLevel.Main_Sequence.RandomCells.Tumbler.Digit_Locker_48.DisSeqAct_ShowHUDMessage_1 DisSeqAct_ShowHUDMessage]
+m_Message="A célula C08 está aberta"
+
+[TheWorld:PersistentLevel.Main_Sequence.RandomCells.Tumbler.Digit_Locker_49.DisSeqAct_ShowHUDMessage_0 DisSeqAct_ShowHUDMessage]
+m_Message="Célula C09 está fechada"
+
+[TheWorld:PersistentLevel.Main_Sequence.RandomCells.Tumbler.Digit_Locker_49.DisSeqAct_ShowHUDMessage_1 DisSeqAct_ShowHUDMessage]
+m_Message="A célula C09 está aberta"
+
+[TheWorld:PersistentLevel.Main_Sequence.RandomCells.Tumbler.Digit_Locker_50.DisSeqAct_ShowHUDMessage_0 DisSeqAct_ShowHUDMessage]
+m_Message="Célula D03 está fechada"
+
+[TheWorld:PersistentLevel.Main_Sequence.RandomCells.Tumbler.Digit_Locker_50.DisSeqAct_ShowHUDMessage_1 DisSeqAct_ShowHUDMessage]
+m_Message="A célula D03 está aberta"
+
+[TheWorld:PersistentLevel.Main_Sequence.RandomCells.Tumbler.Digit_Locker_51.DisSeqAct_ShowHUDMessage_0 DisSeqAct_ShowHUDMessage]
+m_Message="A célula C17 está fechada"
+
+[TheWorld:PersistentLevel.Main_Sequence.RandomCells.Tumbler.Digit_Locker_51.DisSeqAct_ShowHUDMessage_1 DisSeqAct_ShowHUDMessage]
+m_Message="A célula C17 está aberta"
+
+[TheWorld:PersistentLevel.Main_Sequence.RandomCells.Tumbler.Digit_Locker_52.DisSeqAct_ShowHUDMessage_0 DisSeqAct_ShowHUDMessage]
+m_Message="A célula A04 está fechada"
+
+[TheWorld:PersistentLevel.Main_Sequence.RandomCells.Tumbler.Digit_Locker_52.DisSeqAct_ShowHUDMessage_1 DisSeqAct_ShowHUDMessage]
+m_Message="A célula A04 está aberta"
+
+[TheWorld:PersistentLevel.Main_Sequence.RandomCells.Tumbler.Digit_Locker_7.DisSeqAct_ShowHUDMessage_0 DisSeqAct_ShowHUDMessage]
+m_Message="A célula A12 está fechada"
+
+[TheWorld:PersistentLevel.Main_Sequence.RandomCells.Tumbler.Digit_Locker_7.DisSeqAct_ShowHUDMessage_1 DisSeqAct_ShowHUDMessage]
+m_Message="A célula A12 está aberta"
+
+[TheWorld:PersistentLevel.Main_Sequence.RandomCells.Tumbler.Digit_Locker_8.DisSeqAct_ShowHUDMessage_0 DisSeqAct_ShowHUDMessage]
+m_Message="A célula D13 está fechada"
+
+[TheWorld:PersistentLevel.Main_Sequence.RandomCells.Tumbler.Digit_Locker_8.DisSeqAct_ShowHUDMessage_1 DisSeqAct_ShowHUDMessage]
+m_Message="A célula D13 está aberta"
+
+[TheWorld:PersistentLevel.Main_Sequence.Soiree.DisSeqAct_ShowHUDMessage_0 DisSeqAct_ShowHUDMessage]
+m_Message="Pegar a Lizzy e Entrar no Esgoto"
+

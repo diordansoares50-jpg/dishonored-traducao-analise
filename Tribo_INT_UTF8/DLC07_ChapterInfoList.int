@@ -1,0 +1,39 @@
+﻿[ChapterInfos.ChapterInfo01 DisTweaks_ChapterInfo]
+m_ChapterTitle="Troubled Sleep"
+m_ChapterDescription="You've been ill at ease ever since you assassinated Empress Jessamine Kaldwin and aided in the abduction of her daughter Emily."
+
+[ChapterInfos.ChapterInfo02 DisTweaks_ChapterInfo]
+m_ChapterTitle="Choosing Your Mark"
+m_ChapterDescription="Overseers assaulted your hideout, tipped off by the witch Delilah Copperspoon. Now you're preparing to retaliate."
+
+[ChapterInfos.ChapterInfo03 DisTweaks_ChapterInfo]
+m_ChapterTitle="A Stay of Execution for Lizzy"
+m_ChapterDescription="You need Lizzy Stride's boat to reach Delilah's stronghold at Brigmore Manor. Unfortunately, the leader of the Dead Eels gang is locked up in Coldridge Prison and you've got to break her out. "
+
+[ChapterInfos.ChapterInfo04 DisTweaks_ChapterInfo]
+m_ChapterTitle="The Dead Eels"
+m_ChapterDescription="With Lizzy Stride free, you have a captain to take you upriver. Unfortunately, Lizzy’s second in command, Edgar Wakefield, is running the old gang and won’t hand over the ship without a fight. Deal with the traitor Wakefield and help Lizzy get her ship in working order."
+
+[ChapterInfos.ChapterInfo05 DisTweaks_ChapterInfo]
+m_ChapterTitle="Delilah’s Masterwork"
+m_ChapterDescription="Delilah and her coven are planning something that threatens everyone across the Empire of the Isles. Infiltrate the ruins of Brigmore Manor and stop Delilah."
+
+[ChapterInfos.ChapterInfo06 DisTweaks_ChapterInfo]
+m_ChapterTitle="Everything is Connected"
+m_ChapterDescription="Delilah’s threat is ended. You’ve made your choices, come what may."
+
+[ChapterTargets.DLC07_ChapterTarget_Delilah DisTweaks_ChapterTarget]
+m_TargetName="Delilah Copperspoon"
+
+[ChapterTargets.DLC07_ChapterTarget_Edgar DisTweaks_ChapterTarget]
+m_TargetName="Edgar Wakefield"
+
+[ChapterTargets.DLC07_ChapterTarget_Geezer DisTweaks_ChapterTarget]
+m_TargetName="Mortimer Hat"
+
+[ChapterTargets.DLC07_ChapterTarget_Lizzy DisTweaks_ChapterTarget]
+m_TargetName="Lizzy Stride"
+
+[ChapterTargets.DLC07_ChapterTarget_Trimble DisTweaks_ChapterTarget]
+m_TargetName="William Trimble"
+

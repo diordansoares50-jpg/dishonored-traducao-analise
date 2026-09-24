@@ -1,0 +1,54 @@
+﻿[DLC07_DW_MissingMechanic_Obj DishonoredObjective]
+m_Description="The Missing Mechanic"
+
+[DLC07_DW_MissingMechanic_Obj:DishonoredTask_Custom_0 DishonoredTask_Custom]
+m_Description="Take the Drapers Ward Sewer Key from Nurse Trimble"
+m_Status=""
+
+[DLC07_DW_MissingMechanic_Obj:DishonoredTask_Custom_1 DishonoredTask_Custom]
+m_Description="Search the Hatter mechanic's apartment for the Engine Room combination"
+m_Status=""
+
+[DLC07_DW_MissingMechanic_Obj:DishonoredTask_Custom_2 DishonoredTask_Custom]
+m_Description="Search the Drapers Ward Sewer for the missing Hatter mechanic"
+m_Status=""
+
+[DLC07_DW_MissingMechanic_Obj:DishonoredTask_Custom_3 DishonoredTask_Custom]
+m_Description="Search the Hatter mechanic's corpse for clues"
+m_Status=""
+
+[DLC07_DW_MissingMechanic_Obj:DishonoredTask_Custom_4 DishonoredTask_Custom]
+m_Description="Travel to the Hatter mechanic's apartment in the streets"
+m_Status=""
+
+[DLC07_DW_RestoreWater_Obj DishonoredObjective]
+m_Description="Restore Water to the Textile Mill"
+
+[DLC07_DW_RestoreWater_Obj:DishonoredTask_Custom_62 DishonoredTask_Custom]
+m_Description="Return to Nurse Trimble"
+m_Status=""
+
+[DLC07_DW_RestoreWater_Obj:DishonoredTask_Custom_65 DishonoredTask_Custom]
+m_Description="Turn On Water Flow to the Textile Mill"
+m_Status=""
+
+[DLC07_DW_RestoreWater_Obj:DishonoredTask_Custom_66 DishonoredTask_Custom]
+m_Description="Travel to the Drapers Ward Sewer"
+m_Status=""
+
+[DLC07_DW_RestoreWater_Obj:DishonoredTask_Custom_67 DishonoredTask_Custom]
+m_Description="Clear whatever is blocking the Water Machinery"
+m_Status=""
+
+[DLC07_DW_RestoreWater_Obj:DishonoredTask_Custom_68 DishonoredTask_Custom]
+m_Description="Connect the Valve Wrench to the Valve"
+m_Status=""
+
+[DLC07_DW_RestoreWater_Obj:DishonoredTask_Custom_69 DishonoredTask_Custom]
+m_Description="Find the Water Control Valve Wrench"
+m_Status=""
+
+[DLC07_DW_RestoreWater_Obj:DishonoredTask_Custom_89 DishonoredTask_Custom]
+m_Description="Find the Water Control Station"
+m_Status=""
+

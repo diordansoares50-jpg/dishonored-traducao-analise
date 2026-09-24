@@ -1,0 +1,20 @@
+﻿[AbstractItems.DLC06_BP_ArcMine_AbsItm DisAbstractItem]
+m_ItemName="Amplificador de Arco Compacto"
+m_PluralItemName=""
+m_Description="Método para conduzir grandes quantidades de energia elétrica através de um dispositivo de entrega compacto e concentrado. Permite usar Minas de Arco que eletrocutam quem se aproximar demais."
+
+[AbstractItems.DLC06_BP_Armor_AbsItm DisAbstractItem]
+m_ItemName="Tecido Galvani Ligado"
+m_PluralItemName=""
+m_Description="Um tratamento químico que pode ser aplicado em tecido ou couro. Você pode usar isso para aprimorar sua armadura."
+
+[AbstractItems.DLC06_BP_Boots_AbsItm DisAbstractItem]
+m_ItemName="Resina Galvani Dobrada"
+m_PluralItemName=""
+m_Description="Uma substância que aumenta a flexibilidade e resistência em materiais vulcanizados. Você pode usar isso para reduzir o som gerado pelas suas botas."
+
+[AbstractItems.DLC06_BP_ExpBolts_AbsItm DisAbstractItem]
+m_ItemName="Refinamento de Explosivos em Pequena Escala"
+m_PluralItemName=""
+m_Description="Um processo químico que confere propriedades explosivas. Você pode usar isso para aprimorar seus parafusos, permitindo que eles explodam ao contato."
+

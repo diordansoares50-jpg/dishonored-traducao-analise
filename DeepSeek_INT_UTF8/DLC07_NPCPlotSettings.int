@@ -1,0 +1,6 @@
+﻿[DLC07_PlotSettings_BaseAssn DisTweaks_NPCPlotSettings]
+m_PlotSettings.m_GameOverWhenDead.m_ScreenMessage="Hostilidades Irreconciliáveis"
+
+[DLC07_PlotSettings_PlotCritical DisTweaks_NPCPlotSettings]
+m_PlotSettings.m_GameOverWhenDead.m_ScreenMessage="Hostilidades Irreconciliáveis"
+

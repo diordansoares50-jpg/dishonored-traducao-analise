@@ -1,0 +1,90 @@
+﻿[BTM_Objective_Phase1 DishonoredObjective]
+m_Description="Bend Time Massacre - Round 1"
+
+[BTM_Objective_Phase1:DishonoredTask_Custom_0 DishonoredTask_Custom]
+m_Description="Kill 3 enemies before time runs out."
+m_Status=""
+
+[BTM_Objective_Phase1:DishonoredTask_Custom_1 DishonoredTask_Custom]
+m_Description="Economy Bonus:  Kill 2 enemies with the same crossbow bolt."
+m_Status=""
+
+[BTM_Objective_Phase1:DishonoredTask_Custom_2 DishonoredTask_Custom]
+m_Description="Blunt Force Trauma Bonus:  Kill 3 enemies using bricks or other found objects."
+m_Status=""
+
+[BTM_Objective_Phase2 DishonoredObjective]
+m_Description="Bend Time Massacre - Round 2"
+
+[BTM_Objective_Phase2:DishonoredTask_Custom_0 DishonoredTask_Custom]
+m_Description="Kill 5 enemies before time runs out."
+m_Status=""
+
+[BTM_Objective_Phase2:DishonoredTask_Custom_1 DishonoredTask_Custom]
+m_Description="Agenda Bonus:  Kill the 3 nobles, but leave the 3 guards unharmed."
+m_Status=""
+
+[BTM_Objective_Phase2:DishonoredTask_Custom_2 DishonoredTask_Custom]
+m_Description="Propaganda Bonus:  Kill all 6 enemies using the street speaker."
+m_Status=""
+
+[BTM_Objective_Phase3 DishonoredObjective]
+m_Description="Bend Time Massacre - Round 3"
+
+[BTM_Objective_Phase3:DishonoredTask_Custom_0 DishonoredTask_Custom]
+m_Description="Kill 7 enemies before time runs out."
+m_Status=""
+
+[BTM_Objective_Phase3:DishonoredTask_Custom_1 DishonoredTask_Custom]
+m_Description="Patience Bonus:  Kill all 9 enemies, but do not allow any to die before bend time completes."
+m_Status=""
+
+[BTM_Objective_Phase3:DishonoredTask_Custom_2 DishonoredTask_Custom]
+m_Description="Pincushion Bonus:  Hit the Art Dealer with four crossbow bolts, each of which shattered a pane of glass."
+m_Status=""
+
+[BTM_Objective_Phase4 DishonoredObjective]
+m_Description="Bend Time Massacre - Round 4"
+
+[BTM_Objective_Phase4:DishonoredTask_Custom_0 DishonoredTask_Custom]
+m_Description="Kill 10 enemies before time runs out."
+m_Status=""
+
+[BTM_Objective_Phase4:DishonoredTask_Custom_1 DishonoredTask_Custom]
+m_Description="Surgical Bonus:  Kill the three Pendletons, and don’t allow any enemy to notice or die."
+m_Status=""
+
+[BTM_Objective_Phase4:DishonoredTask_Custom_2 DishonoredTask_Custom]
+m_Description="Blood for Oil Bonus:  Kill 10 enemies using only whale oil tanks."
+m_Status=""
+
+[BTM_Objective_Phase5 DishonoredObjective]
+m_Description="Bend Time Massacre - Round 5"
+
+[BTM_Objective_Phase5:DishonoredTask_Custom_0 DishonoredTask_Custom]
+m_Description="Kill at least 7 enemies before time runs out."
+m_Status=""
+
+[BTM_Objective_Phase5:DishonoredTask_Custom_1 DishonoredTask_Custom]
+m_Description="Prejudice Bonus: Kill all 6 of the Overseers."
+m_Status=""
+
+[BTM_Objective_Phase5:DishonoredTask_Custom_2 DishonoredTask_Custom]
+m_Description="Hot Potato Bonus:  Kill Campbell with the ignited whale oil tank in the opposite room before it explodes."
+m_Status=""
+
+[BTM_Objective_Phase6 DishonoredObjective]
+m_Description="Bend Time Massacre - Final Round"
+
+[BTM_Objective_Phase6:DishonoredTask_Custom_0 DishonoredTask_Custom]
+m_Description="Kill 15 enemies."
+m_Status=""
+
+[BTM_Objective_Phase6:DishonoredTask_Custom_1 DishonoredTask_Custom]
+m_Description="Hero Bonus:  Save everyone from the ignited whale oil tanks!"
+m_Status=""
+
+[BTM_Objective_Phase6:DishonoredTask_Custom_2 DishonoredTask_Custom]
+m_Description="Process of Elimination Bonus:  Kill all 20 enemies."
+m_Status=""
+

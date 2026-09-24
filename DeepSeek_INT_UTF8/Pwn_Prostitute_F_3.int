@@ -1,0 +1,12 @@
+﻿[Pwn_Prostitute_F_3 DisTweaks_NPCPawn]
+m_BusyText="Este personagem está ocupado"
+m_CannotStealMessage="Você não pode carregar mais munição deste tipo"
+
+[Pwn_Prostitute_F_3:DisTweaks_InteractableInterface_15 DisTweaks_InteractableInterface]
+m_Name="Cortesã"
+m_InteractText=""
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+

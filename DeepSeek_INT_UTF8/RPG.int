@@ -1,0 +1,297 @@
+﻿[DisUISelectionType]
+Blink=Piscar
+BendTime=Dobrar o Tempo
+WindBlast=Rajada de Vento
+Possess=Posse
+DarkVision=Visão Sombria
+DevouringSwarm=Enxame Devorador
+Transversal=Transversal
+Pull=Puxar
+SummonAssassin=Invocar Assassino
+DaudDarkVision=Olhar do Vazio
+Vitality=Vitalidade
+Celerity=Agilidade
+BloodThirsty=Sede de Sangue
+ShadowKill=Assassino das Sombras
+ArcaneBond=Vínculo Arcano
+Heart=O Coração
+SpringRazor=Mina de Estilhaços
+Pistol=Pistola
+Crossbow=Besta
+Crossbow_DLC06=Besta de Pulso
+Grenade=Granada
+ArcMine=Mina de Arco
+FlashSmoke=Poeira Sufocante
+Health=Elixir de Saúde de Sokolov
+Mana=Remédio Espiritual de Piero
+ArcMineStun=Mina de Atordoamento
+
+Blink_1_Description="- Movimento rápido para frente por uma curta distância."
+Blink_2_Description="- Movimento rápido para frente por uma distância maior."
+
+Dicas Estratégicas:\nO Piscar permite que você se mova muito rápido sem ser visto, tornando-o útil para furtividade, pois você pode \"teletransportar-se\" de um esconderijo para outro, ou até mesmo de telhado em telhado se combinar o salto com o poder. O Piscar pode ser efetivamente encadeado com assassinato ou estrangulamento se usado para se aproximar rapidamente de inimigos desatentos. O custo de mana para usar o poder é baixo, então a parte de recarga da barra de mana permitirá que você Pisque mesmo quando estiver sem poções. O Piscar também pode ser usado para se mover para cima, em distâncias limitadas. Observe que o cursor muda quando mirando em uma superfície ou borda que permitirá que você suba ao Piscar.
+
+BendTime_1_Description="- Desacelera o tempo por uma curta duração."
+BendTime_2_Description="- Para completamente o tempo por uma duração mais curta. Você se move normalmente."
+
+Dicas Estratégicas:\nO tempo fica parado durante a duração deste poder, mas sua velocidade de movimento é relativamente mais rápida. Dobrar o Tempo é útil para furtividade e assassinatos, já que seus inimigos ficam suspensos no tempo. Este poder lhe dá tempo para passar despercebido pelos inimigos e escapar, ou para avançar sobre eles desprevenidos para um golpe letal. Qualquer coisa com que você entre em contato físico é puxada para o seu tempo e se move rapidamente por um breve momento. Dobrar o Tempo também é útil para parar projéteis no ar, dando a você uma chance de sair do caminho ou até mesmo coletá-los.
+
+WindBlast_1_Description="- Vento poderoso que pode empurrar ou derrubar inimigos e destruir portas."
+WindBlast_2_Description="- Vento muito poderoso que pode matar inimigos arremessando-os contra paredes e estilhaçar portas."
+
+Dicas Estratégicas:\nA Rajada de Vento é útil para estilhaçar portas de madeira e para combater inimigos, especialmente em grupos. Um inimigo próximo a um parapeito será arremessado sobre ele, caindo para a morte. Se um inimigo disparar um projétil moderadamente pesado em você, como uma granada ou as flechas incendiárias do Gigante, o poder Rajada de Vento pode lançar o projétil de volta contra ele se for bem cronometrado. No nível II, o poder arremessará inimigos contra paredes próximas com força suficiente para matá-los.
+
+Possess_1_Description="- Permite o controle de alvos animais por um curto período."
+Possess_2_Description="- Permite controlar alvos humanos por uma duração mais curta."
+
+Dicas Estratégicas:\nA Posse é muito poderosa, permitindo que você se funda fisicamente com um animal, como um peixe ou rato, por um tempo limitado. Você precisa ter um caminho desobstruído até o seu alvo. Esse poder é útil para furtividade, permitindo que você se esconda em lugares pequenos ou se mova por espaços normalmente muito estreitos para você, como canos de drenagem cheios de água ou dutos de ventilação. Inimigos tentarão esmagá-lo se você estiver possuindo um rato. Enquanto possuir um cão, você pode correr rapidamente. No nível II, você também pode possuir humanos. Seu controle sobre humanos é limitado, então combate ou movimentos rápidos não são possíveis. Possuir um humano permite que você realize ações simples, como coletar objetos ou abrir portas. Aliados do humano que você está possuindo não o atacarão, e dispositivos de segurança sintonizados com o humano que você está possuindo, como o Pilar de Arco ou a Parede de Luz, não o prejudicarão. Se você estiver caindo, possuir um animal ou humano durante a queda efetivamente quebrará sua queda.
+
+DarkVision_1_Description="- Ver no escuro e ver seres vivos através das paredes, incluindo seus campos de visão. Representações dos sons que você faz também são visíveis."
+DarkVision_2_Description="- Ver no escuro e ver seres vivos através das paredes, incluindo seus campos de visão. Representações dos sons que você produz também são visíveis. Veja objetos úteis e sistemas de segurança através das paredes também."
+
+Dicas Estratégicas:\nA Visão Sombria é extremamente útil para furtividade, permitindo que você observe inimigos por trás de paredes antes de se aproximar deles. Ver a direção e o cone de visão de um inimigo lhe dá uma vantagem significativa em termos de furtividade. Com este poder ativo, você também pode ver representações visuais dos sons que produz, o que auxilia ainda mais na furtividade e na compreensão do sistema de stealth. No nível II, itens úteis, recursos e dispositivos de segurança, como o Muro de Luz, também são visíveis através das paredes.
+
+DevouringSwarm_1_Description="- Invoca um enxame de ratos que atacará outros e se dispersará após um curto período. O enxame também consumirá cadáveres."
+DevouringSwarm_2_Description="- Invoca um enxame maior de ratos que atacará os outros e se dispersará após um curto período. O enxame também consumirá cadáveres rapidamente."
+
+Dicas Estratégicas:\nLibera um enxame de ratos que ataca qualquer um em seu caminho. Geralmente é letal contra um ou dois inimigos, mas quem for atacado revida; se os ratos forem soltos em um grupo de inimigos, às vezes esse grupo pode matar ratos suficientes para dispersar o enxame. O Enxame Devorador também pode ser usado para descartar cadáveres rapidamente. E se você também tiver o poder de Possessão, pode invocar ratos e possuir um deles. No nível II, você gera mais ratos, seus ratos causam mais dano e devoram cadáveres mais rápido.
+
+Transversal_1_Description="- Movimento rápido para frente por uma curta distância. O tempo congela enquanto você mira se não estiver se movendo."
+Transversal_2_Description="- Movimento rápido para frente por uma distância maior. O tempo congela enquanto você mira se não estiver se movendo."
+
+Dicas Estratégicas:\nO Transversal permite que você se mova muito rápido sem ser visto, tornando-o útil para furtividade, pois você pode \"teletransportar-se\" de um esconderijo para outro, ou até de telhado em telhado se combinar o pulo com o poder. Enquanto mira, se você parar de se mover (mesmo no meio de um pulo), o tempo congelará. Isso permite que você tome decisões táticas sobre seu destino ou realize truques como se mover ao redor de cantos. O Transversal pode ser efetivamente encadeado com assassinato, estrangulamento ou ataque em queda se usado para se aproximar rapidamente de inimigos vulneráveis. O custo de mana para usar o poder é baixo, então a parte de recarga da barra de mana permitirá que você use o Transversal mesmo quando estiver sem poções. Observe que o cursor muda quando mirado em uma superfície ou borda que permitirá que você suba ao usar o Transversal.
+
+Pull_1_Description="- Puxe objetos inanimados em sua direção à distância. Itens consumíveis são usados ou armazenados imediatamente."
+
+Dicas Estratégicas:\nPuxar pode desativar silenciosamente um sistema de segurança se usado nos Tanques de Óleo de Baleia que alimentam o dispositivo.
+Pull_2_Description="- Puxe seres vivos e corpos em sua direção à distância. Quando os inimigos são puxados perto o suficiente, ficam suspensos no ar. Cadáveres e corpos inconscientes são carregados automaticamente."
+
+Dicas Estratégicas:\nEnquanto suspensos no ar, os inimigos ficam vulneráveis a neutralizações letais e não letais.
+
+SummonAssassin_1_Description="- Invoca um Assassino Novato para lutar ao seu lado."
+SummonAssassin_2_Description="- Invocar um Mestre Assassino para lutar ao seu lado."
+
+Dicas Estratégicas:\nSeus assassinos lutarão incansavelmente ao seu lado. Eles são úteis como uma lâmina extra em uma luta ou como uma distração para manter os inimigos ocupados enquanto você passa despercebido. Seus assassinos se comportam como qualquer outro personagem no mundo e podem ser feridos por ratos e dispositivos de segurança. Se não estiverem em combate, também podem ter algo útil ou interessante a dizer.
+
+DaudDarkVision_1_Description="- Ver no escuro e ver as localizações de Amuletos de Ossos e Runas."
+DaudDarkVision_2_Description="- Veja no escuro e veja objetos úteis e sistemas de segurança através das paredes. Veja também seres vivos através das paredes, incluindo seus campos de visão. Representações dos sons que você faz também são visíveis."
+
+Dicas Estratégicas:\nCom este poder ativo, você pode ver representações visuais dos sons que faz, o que auxilia na furtividade e na compreensão do stealth. No Nível II, itens úteis, recursos e dispositivos de segurança como o Muro de Luz são visíveis através das paredes. Este nível também é altamente útil para furtividade, permitindo que você observe inimigos por trás das paredes antes de se aproximar deles. Ver a direção e o cone de visão de um inimigo lhe dá uma vantagem significativa ao se esgueirar.
+
+Vitality_1_Description="- A saúde é aumentada."
+Vitality_2_Description="- A regeneração de saúde é melhorada."
+
+Dicas Estratégicas:\nNo nível I, sua saúde é aumentada, permitindo que você resista a mais danos de ataques, explosões ou quedas. No nível II, a porção da sua barra de saúde que se regenera é melhorada de várias formas: a regeneração ocorre mais rapidamente e uma quantidade maior da sua saúde se regenera.
+
+Celerity_1_Description="- A altura do pulo é aumentada e o dano de queda é reduzido."
+Celerity_2_Description="- A velocidade geral de movimento é aumentada."
+
+Dicas Estratégicas:\nNo nível I, a habilidade de salto aumentada permite mais exploração vertical, especialmente quando combinada com o Piscar. No nível II, esse aprimoramento aumenta a velocidade geral de movimento, o que permite avançar mais rápido sobre um inimigo desprevenido para um assassinato, ou fugir quando estiver ferido. As velocidades de escalada e natação também são aumentadas.
+
+BloodThirsty_1_Description="- Acumule Adrenalina e então desencadeie fatais brutais de combate corpo a corpo."
+BloodThirsty_2_Description="- Acumule Adrenalina mais rapidamente e então desencadeie mortes corpo a corpo brutais. Permite um ataque duplo para eliminações com Adrenalina, que pode ser usado contra múltiplos inimigos dentro do alcance."
+
+Dicas Estratégicas:\nCom este aprimoramento, suas ações em combate permitem acumular adrenalina. Assassinato, atacar com espada, bloquear e assassinato em queda aumentam a adrenalina. Assim que acumular adrenalina, você pode iniciar um poderoso ataque de espada que matará um inimigo com um só golpe. O Nível II permite acumular adrenalina mais rapidamente e habilita uma eliminação dupla com adrenalina contra múltiplos inimigos dentro do alcance.
+
+ShadowKill_1_Description="- Inimigos desavisados que não te veem viram cinzas ao morrer."
+ShadowKill_2_Description="- Todos os inimigos viram cinzas ao morrer."
+
+Dicas Estratégicas:\nA habilidade Assassino das Sombras faz com que os corpos dos inimigos abatidos se transformem em cinzas se eles estavam desprevenidos no momento da morte. Isso é útil para furtividade, pois você pode sincronizar suas ações para que um inimigo eliminado desapareça antes que outro se vire e possa vê-lo. Além disso, você não precisa esconder corpos se tiver essa melhoria, já que eles viram cinzas e desaparecem. No nível II, essa melhoria funciona mesmo se os inimigos abatidos estiverem cientes de você.
+
+ArcaneBond_1_Description="- Compartilhe seus poderes com seus aliados assassinos. No nível I, os assassinos se beneficiarão de Piscar e Vitalidade. Isso significa que eles podem se teletransportar e obter um aumento de saúde."
+ArcaneBond_2_Description="- No nível II, os assassinos se beneficiam de Puxar, Dobrar o Tempo e Assassino das Sombras. Com Puxar, os assassinos puxarão inimigos durante o combate. Quando seu poder Dobrar o Tempo está ativo, os assassinos se movem na velocidade normal. Com Assassino das Sombras, os inimigos viram cinzas em vez de deixar um corpo."
+
+Dicas estratégicas:\nEsta habilidade só é útil se você comprou os poderes que pretende compartilhar com seus assassinos. Para obter o máximo benefício, espere até ter comprado cada poder que pode ser compartilhado antes de adquirir esse nível de Vínculo Arcano.
+
+Blink_ManaCost=Muito Baixo
+BendTime_ManaCost=Muito Alto
+WindBlast_ManaCost=Alto
+Possess_ManaCost=Muito Alto
+DarkVision_ManaCost=Muito Baixo
+DevouringSwarm_ManaCost=Alto
+Transversal_ManaCost=Muito Baixo
+Pull_ManaCost=Médio
+SummonAssassin_ManaCost=Médio
+DaudDarkVision_ManaCost=Muito Baixo
+Vitality_ManaCost=Nenhum
+Celerity_ManaCost=Nenhum
+BloodThirsty_ManaCost=Nenhum
+ShadowKill_ManaCost=Nenhum
+ArcaneBond_ManaCost=Nenhum
+
+Health_Description="Restaura a saúde. Use a Roda de Acesso Rápido ou o atalho de emergência para consumir."
+Mana_Description="Restaura mana. Use a Roda de Acesso Rápido para consumir."
+
+Blink_1_ShortDescription=Teletransporte Curto
+Blink_2_ShortDescription=Teleporte Curto
+BendTime_1_ShortDescription=Desacelerar o Tempo
+BendTime_2_ShortDescription=Parar o Tempo
+WindBlast_1_ShortDescription=Vento Forte
+WindBlast_2_ShortDescription=Vento Forte
+Possess_1_ShortDescription=Controlar Animais
+Possess_2_ShortDescription=Controlar Pessoas
+DarkVision_1_ShortDescription=Ver Através das Paredes
+DarkVision_2_ShortDescription=Ver Através das Paredes
+DevouringSwarm_1_ShortDescription=Convocar Ratos
+DevouringSwarm_2_ShortDescription=Invocar Ratos
+Transversal_1_ShortDescription=Teletransporte Curto
+Transversal_2_ShortDescription=Teletransporte Curto
+Pull_1_ShortDescription=Puxar Objetos
+Pull_2_ShortDescription=Puxar Objetos e Seres Vivos
+SummonAssassin_1_ShortDescription=Invocar Assassino Novato
+SummonAssassin_2_ShortDescription=Invocar Mestre Assassino
+DaudDarkVision_1_ShortDescription=Ver Runas e Amuletos Através das Paredes
+DaudDarkVision_2_ShortDescription=Ver Itens e Seres Através das Paredes
+
+Heart_ShortDescription=Revelar Runas e Amuletos de Ossos
+SpringRazor_ShortDescription=Mina de Proximidade
+
+[DisAmmoType]
+Bullet=Bala Comum
+Bullet_Explosive=Bala Explosiva
+Arrow=Dardo de Besta
+Arrow_DLC06=Dardo de Besta de Pulso
+Arrow_Sleep=Dardo Sonífero
+Arrow_Flare=Dardo Incendiário
+SpringRazor=Mina de Estilhaços
+Grenade=Granada
+StickyGrenade=Granada Pegajosa
+Arrow_Explosive=Dardo Explosivo
+ArcMine=Mina de Arco
+FlashSmoke=Poeira Sufocante
+ArcMineStun=Mina de Atordoamento
+
+Bullet_Description="Munição de pistola. Muito barulhenta."
+Bullet_Explosive_Description="Munição de pistola que explode no impacto, causando dano em área."
+Arrow_Description="Munição de besta. Muito silenciosa. Às vezes pode ser recuperada dos corpos de inimigos abatidos."
+Arrow_Description_DLC06="Munição para besta de pulso. Muito silenciosa. Pode ser recuperada às vezes dos corpos de inimigos abatidos."
+Arrow_Sleep_Description="Munição de besta que coloca os inimigos para dormir após um breve atraso."
+Arrow_Sleep_Description_DLC06="Munição para besta de pulso que adormece os inimigos após um breve atraso."
+Arrow_Flare_Description="Munição incendiária para besta que imolará um único inimigo."
+Arrow_Flare_Description_DLC06="Munição de Besta de Pulso incendiária que irá imolar um único inimigo."
+SpringRazor_Description="Quando acionado, este mecanismo lança uma nuvem de estilhaços. Pode ser fixado na maioria das superfícies. Acionado por vibração."
+Grenade_Description="Uma carcaça metálica recheada com um alcatrão feito de óleo de baleia. Pode ser mantida por mais tempo para garantir uma explosão no momento certo."
+StickyGrenade_Description="Uma estrutura leve que permite que uma granada se ancore a um alvo."
+Arrow_Explosive_Description="Munição de besta de pulso explosiva que é ativada após um curto intervalo. Muito barulhenta."
+ArcMine_Description="Um dispositivo movido a óleo de baleia que descarrega um arco elétrico letal. Pode ser fixado na maioria das superfícies. Contém carga para múltiplas ativações."
+FlashSmoke_Description="Um recipiente de metal cheio de óleo de baleia não refinado. Ao contato, libera uma nuvem nociva que incapacita temporariamente os inimigos."
+ArcMineStun_Description="Um dispositivo alimentado por óleo de baleia calibrado para descarregar um arco elétrico não letal. Pode ser fixado na maioria das superfícies."
+
+[DisKeyNames]
+Gate House Key=Chave da Portaria
+Guard Quarters Key=Chave dos Quartos dos Guardas
+Sewer Gate Key=Chave do Portão do Esgoto
+Switch=Interruptor
+Whale Oil Closet Key=Chave do Armário de Óleo de Baleia
+Basement Vault Key=Chave do Cofre do Porão
+Esma's Bedroom Key=Chave do Quarto de Esma
+Waverly's Bedroom Key=Chave do Quarto de Waverly
+Dunwall Tower Skeleton Key=Chave Mestra da Torre de Dunwall
+Warehouse Key=Chave do Armazém
+Pratchett's Key=Chave de Pratchett
+Drawbridge Key=Chave da Ponte Levadiça
+Pier Door Key=Chave da Porta do Cais
+Drawbridge Cell Key=Chave da Cela da Ponte Levadiça
+Sokolov's House Key=Chave da Casa de Sokolov
+Golden Cat Master Key=Chave Mestra do Cat Dourado
+Art Dealer's Apartment Key=Chave do Apartamento do Mercador de Arte
+The Captain's Chair Hotel Key=Chave do Hotel Captain's Chair
+Daud's Key=Chave de Daud
+Tenement Key=Chave do Cortiço
+Mosley's Warehouse Key=Chave do Armazém de Mosley
+Dunwall Sewer Master Key=Chave Mestra dos Esgotos de Dunwall
+It's jammed=Está travado
+Emily's Tower Key=Chave da Torre da Emily
+Tower Key=Chave da Torre
+Pub Master Room Key=Chave do Quarto do Mestre do Pub
+Piero Workshop Key=Chave da Oficina de Piero
+Havelock's Room Key=Chave do Quarto de Havelock
+Rail Line Station Key=Chave do Escritório da Estação de Trem
+Abandoned Apartment Key=Chave do Apartamento Abandonado
+Hound Pits Key=Chave de Hound Pits
+Piero's Workshop Key=Chave da Oficina de Piero
+Servants' Key=Chave dos Servos
+Pub Key=Chave do Pub
+Pendleton's Room Key=Chave do Quarto de Pendleton
+Pub Master Key=Chave Mestra do Pub
+Old Port District Sewer Key=Chave do Esgoto do Distrito do Porto Velho
+Old Port District Sewer=Esgoto do Distrito do Porto Velho
+Control Room Key=Chave da Sala de Controle
+Key of the Rampart=Chave da Muralha
+Lighthouse Elevator Key=Chave do Elevador do Farol
+Emily's Room Key=Chave do Quarto de Emily
+Interrogation Room Key=Chave da Sala de Interrogação
+Checkpoint Key=Chave do Posto de Controle
+Back Door Key=Chave da Porta Traseira
+Workshop Key=Chave da Oficina
+Back Yard Gate Key=Chave do Portão do Quintal
+Stocks Key=Chave do Tronco
+Workshop Chest Key=Chave do Baú da Oficina
+Yard Walkway Key=Chave da Passarela do Pátio
+Corvo's Cell Key=Chave da Cela de Corvo
+Yard Key=Chave do Pátio
+Cell Hallway Key=Chave do Corredor das Celas
+Dunwall Sewer Gate Key=Chave do Portão do Esgoto de Dunwall
+Art Dealer's Safe Combination=Combinação do Cofre do Mercador de Arte
+Distillery Master Key=Chave Mestra da Destilaria
+Distillery Reserve Key=Chave da Reserva da Destilaria
+Galvani Building Key=Chave do Edifício Galvani
+Galvani Lab Key=Chave do Laboratório Galvani
+Galvani Pantry Key=Chave da Despensa Galvani
+Granny's Front Door Key=Chave da Porta da Frente da Vovó
+Granny Front Door Key=Chave da Porta da Frente da Vovó
+Art Dealer's Key=Chave do Mercador de Arte
+Granny's Key=Chave da Vovó
+Sewer Hatch Key=Chave da Escotilha do Esgoto
+Dunwall Tower Kitchen Key=Chave da Cozinha da Torre de Dunwall
+Lord Regent's Chamber Key=Chave dos Aposentos do Lorde Regente
+Security Room Key=Chave da Sala de Segurança
+Ground Floor Power Room=Sala de Energia do Térreo
+Broadcast Control Station Key=Chave da Estação de Controle de Transmissão
+Regent's Room Key=Chave do Quarto do Regente
+Coach House Door=Porta da Cocheira
+Waterlock side door key=Chave da Porta Lateral da Eclusa
+Planning Room Key=Chave da Sala de Planejamento
+WaterLockDoor=Porta da Eclusa
+Front Door Key=Chave da Porta da Frente
+Bedroom Closet=Chave do Armário do Quarto
+Closet Chest=Chave do Baú do Armário
+Store Room Chest=Chave do Baú do Depósito
+Guest Room Chest=Chave do Baú do Quarto de Hóspedes
+Display Case Key=Chave da Vitrine
+Laborer Lockup Key=Chave da Prisão dos Trabalhadores
+Storage Shed Key=Chave do Depósito
+Gallery Door=Porta da Galeria
+Small Cabinet=Gabinete Pequeno
+Plyon control box key=Chave da Caixa de Controle do Pilar
+Academy Annex=Chave do Depósito de Carne
+Exterior Walkway=Passarela Exterior
+Records Office Key=Chave do Escritório de Registros
+Abandoned House Key=Chave da Casa Abandonada
+Timsh Estate Master Key=Chave Mestra da Propriedade Timsh
+Apartment X Key=Chave do Apartamento 10
+Watchman's Key=Chave do Vigilante
+Timsh Estate Basement Key=Chave do Porão da Propriedade Timsh
+Hatter House Key=Chave da Casa Hatter
+Legal District Key=Chave do Distrito Jurídico
+Key Hub Sewer=Chave do Esgoto do Distrito do Porto Velho
+Mechanic Locker Key=Chave do Armário do Mecânico
+DLC07Street_SafeKey=Chave do Cofre
+Jerome's Vault=Chave do Cofre de Jerome
+Grounds Key=Chave do Pátio da Fábrica Têxtil
+Lab Key=Chave do Laboratório de Trimble
+Sewer Access Key=Chave de Acesso ao Esgoto
+Storage Shed Key=Chave do Depósito
+Brigmore Front Door Key=Chave da Porta da Frente de Brigmore
+Library Key=Chave da Biblioteca
+West Wing Key=Chave da Ala Oeste
+Display Case Key=Chave da Vitrine
+Brigmore Chest Key=Chave do Baú de Brigmore
+Guard Post=Chave do Posto de Guarda
+Brigmore Chest=Chave do Baú de Brigmore
+Execution Yard=Chave da Porta do Pátio de Execução
+Ammunition Locker=Chave do Armário de Munição
+Ventilation Maintenance Key=Chave de Manutenção da Ventilação
+Abandoned Vault=Chave do Cofre Abandonado
+Hatter Mechanic Apartment Key=Chave do Apartamento do Mecânico
+Combination=Combinação

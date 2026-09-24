@@ -1,0 +1,116 @@
+﻿[ChapterInfos.Chapter10Info_ReturnToHoundPits DisTweaks_ChapterInfo]
+m_ChapterTitle="Os Legalistas"
+m_ChapterDescription="Você voltou ao Bar Cova do Cão para seguir o rastro dos seus velhos "aliados" e descobrir para onde eles levaram Emily."
+
+[ChapterInfos.Chapter11Info_HighOverseerMartin DisTweaks_ChapterInfo]
+m_ChapterTitle="Prelado Supervisor Martin"
+m_ChapterDescription="Após a eliminação do Lorde Regente e de seus aliados chave, a Cidade de Dunwall está desmoronando. Você tem apenas uma pista que o aproximará de quem o traiu. Agora, Martin é o Prelado Supervisor, e ele provavelmente sabe o paradeiro dos membros restantes da conspiração, assim como o de Emily. Quando você chegar ao Distrito da Destilaria, visite outra vez o Escritório do Prelado Supervisor e encontre Martin. "
+
+[ChapterInfos.Chapter12Info_Lighthouse DisTweaks_ChapterInfo]
+m_ChapterTitle="A Luz no Fim"
+m_ChapterDescription="Os líderes da Conspiração dos Legalistas mudaram-se para um farol monumental, o último projeto militar liderado pelo falecido Lorde Regente. Eles estão prendendo Emily enquanto lutam para assegurar o seu domínio sobre a cidade. Chegou a hora de confrontá-los, decidir seus destinos e determinar o futuro de Dunwall."
+
+[ChapterInfos.Chapter1Info_ReturningHome DisTweaks_ChapterInfo]
+m_ChapterTitle="Voltando para Casa"
+m_ChapterDescription="Você acaba de retornar de uma viagem de vários meses, na qual visitou outras nações que compõem o Império para buscar ajuda para lidar com a epidêmia de peste propagada pelos ratos. Você deve entregar as respostas diplomáticas para a Imperatriz, a quem você serve como Lorde Protetor."
+
+[ChapterInfos.Chapter2BisInfo_Fugitive DisTweaks_ChapterInfo]
+m_ChapterTitle="Fugitivo"
+m_ChapterDescription="Você fugiu da Prisão Coldridge com a ajuda de aliados misteriosos. Se você conseguir chegar ao Rio Wrenhaven, eles prometeram ajudar você no seu próximo passo."
+
+[ChapterInfos.Chapter2Info_Dishonored DisTweaks_ChapterInfo]
+m_ChapterTitle="Desonrado"
+m_ChapterDescription="Seis meses se passaram desde que Corvo foi acusado pelo Mestre Espião Real de assassinar a Imperatriz e conspirar para o sequestro de sua filha Emily, a herdeira do trono. Agora, preso na Prisão Coldridge, a hora de sua execução se aproxima."
+
+[ChapterInfos.Chapter6AInfo_BridgeDone DisTweaks_ChapterInfo]
+m_ChapterTitle="Interrogatório"
+m_ChapterDescription="Agora o Médico Real, Anton Sokolov, está sob custódia dos Legalistas. Através de Sokolov, será possível atacar diretamente os mais próximos do Lorde Regente. Quão cooperativo o homem mais brilhante do Império pode ser? Ele deve ser convencido ou obrigado para que conte tudo o que sabe."
+
+[ChapterInfos.Chapter6Info_RoyalPhysician DisTweaks_ChapterInfo]
+m_ChapterTitle="O Médico Real"
+m_ChapterDescription="Lhe pediram para sequestrar Anton Sokolov, o Médico Real e Chefe da Acadêmia de Filosofia Natural. Seus novos aliados querem conseguir de Sokolov, o nome da amante do Lorde Regente, uma aliada misteriosa e uma das mais poderosas defensoras da nobreza. Sokolov mora em um grande apartamento em algum lugar da Ponte de Kaldwin."
+
+[ChapterInfos.Chapter7AInfo_BoyleDone DisTweaks_ChapterInfo]
+m_ChapterTitle="A Jogada Final"
+m_ChapterDescription="Com a eliminação de Lady Boyle, o Lorde Regente perdeu o seu maior apoio financeiro, o que o deixa mais vulnerável do que nunca. Chegou a hora de se preparar para ataca-lo diretamente."
+
+[ChapterInfos.Chapter7Info_LadyBoyle DisTweaks_ChapterInfo]
+m_ChapterTitle="A Última Festa de Lady Boyle"
+m_ChapterDescription="Você descobriu que Lady Boyle é a princpal financiadora do Lorde Regente. Porém, três mulheres na família Boyle são chamadas de Lady Boyle: A esposa do último Lorde Boyle e suas irmãs. Sokolov fez uma pintura de "Lady Boyle" de costas, por isso não se sabe qual delas é a verdadeira aliada do Lorde Regente. Você vai ir a um baile de máscaras na luxuosa e elegante Mansão Boyle para descobrir qual Lady Boyle você deve eliminar."
+
+[ChapterInfos.Chapter8AInfo_TowerDone DisTweaks_ChapterInfo]
+m_ChapterTitle="Véspera da Coroação"
+m_ChapterDescription="O Lorde Regente foi derrotado e o reinado de Emily Kaldwin foi assegurado. Tudo o que resta agora é escolta-la em segurança até a Torre de Dunwall, onde assumirá o seu lugar no trono."
+
+[ChapterInfos.Chapter8Info_ReturnToTower DisTweaks_ChapterInfo]
+m_ChapterTitle="De Volta à Torre"
+m_ChapterDescription="Chegou a hora de acabar com o domínio do Lorde Regente. Se você conseguir, Emily será coroada Imperatriz. Você deve voltar à Torre de Dunwall e se infiltrar no lugar onde você já serviu como Lorde Protetor. Sempre paranóico, o Lorde Regente melhorou a segurança ao longo dos meses e conta com uma sala de segurança fortemente defendida, para onde ele fugirá se o alarme soar."
+
+[ChapterInfos.Chapter9Info_Adrift DisTweaks_ChapterInfo]
+m_ChapterTitle="À Deriva"
+m_ChapterDescription="Traído por Havelock, Martin e Pendleton, você conseguiu se salvar no último momento graças ao barqueiro Samuel que o deixou à deriva em uma área nas ruínas de Dunwall."
+
+[ChapterInfos.Chapter9Info_FloodedDistrict DisTweaks_ChapterInfo]
+m_ChapterTitle="O Distrito Inundado"
+m_ChapterDescription="Traido e envenenado por Havelock, Martin e Pendleton, você acordou nas ruínas do Distrito Inundado, onde o assassino Daud o tem sob custódia. Recupere seu equipamento, enfrente Daud e encontre uma maneira de sair do Distrito Inundado."
+
+[ChapterInfos.Chapter9Info_StreetsSewer DisTweaks_ChapterInfo]
+m_ChapterTitle="Trabalho Duro e Problemas"
+m_ChapterDescription="Você escapou do Distrito Inundado e está fazendo o seu caminho de volta para o Bar Cova do Cão."
+
+[ChapterInfos.ChapterInfo3_HiddenAllies DisTweaks_ChapterInfo]
+m_ChapterTitle="Aliados Ocultos"
+m_ChapterDescription="Escondidos em um velho bar próximo ao rio, seus novos aliados têm planos para compartilhar com você. Reuna-se com o círculo central dos Legalistas para descobrir o que eles tem em mente. "
+
+[ChapterInfos.ChapterInfo4_HighOverseer DisTweaks_ChapterInfo]
+m_ChapterTitle="Prelado Supervisor Campbell"
+m_ChapterDescription="O Prelado Supervisor Campbell lidera a facção militante religiosa da cidade e é um aliado próximo do Lorde Regente. Campbell é um sujeito totalmente corrupto, que guarda o segredo do paradeiro de Emily. Infiltre-se no Escritório do Prelado Supervisor, roube o Diário de Campbell e elimine-o. Um aliado dos Legalistas, Martin, também está preso lá. Liberte-o e ajude-o a escapar. "
+
+[ChapterInfos.ChapterInfo4A_OverseersDone DisTweaks_ChapterInfo]
+m_ChapterTitle="Supervisores Desfeitos"
+m_ChapterDescription="Martin se dispôs a se juntar aos Legalistas e o destino de Campbell jogou os Supervisores na desordem. Decifrar o Diário do Prelado Supervisor poderia revelar todos os tipos de segredos estratégicos, e sobretudo, o paradeiro da legítima herdeira do trono, Emily Kaldwin."
+
+[ChapterInfos.ChapterInfo5_HouseOfPleasure DisTweaks_ChapterInfo]
+m_ChapterTitle="Casa do Prazer"
+m_ChapterDescription="Os Legalistas acreditam que os irmãos Pendleton, dois aristocratas corruptos, estão prendendo Emily no Gato Dourado. Esses gêmeos são os irmãos mais velhos do Lorde Pendleton e são leais ao tirano Lorde Regente. Encontre Emily no Gato Dourado e elimine os Lordes Custis e Morgan Pendleton."
+
+[ChapterInfos.ChapterInfo5A_BrothelDone DisTweaks_ChapterInfo]
+m_ChapterTitle="Uma Convidada Real"
+m_ChapterDescription="Agora Emily está segura, sob a proteção dos Legalistas leais ao trono. Com o seu bem-estar garantido, pelo menos por enquanto, é hora de eliminar os aliados restantes do Lorde Regente."
+
+[ChapterTargets.Twk_ChapterTarget_Campbell DisTweaks_ChapterTarget]
+m_TargetName="Campbell"
+
+[ChapterTargets.Twk_ChapterTarget_Curnow DisTweaks_ChapterTarget]
+m_TargetName="Curnow"
+
+[ChapterTargets.Twk_ChapterTarget_CustisPendleton DisTweaks_ChapterTarget]
+m_TargetName="Custis Pendleton"
+
+[ChapterTargets.Twk_ChapterTarget_Daud DisTweaks_ChapterTarget]
+m_TargetName="Daud"
+
+[ChapterTargets.Twk_ChapterTarget_Emily DisTweaks_ChapterTarget]
+m_TargetName="Emily"
+
+[ChapterTargets.Twk_ChapterTarget_Havelock DisTweaks_ChapterTarget]
+m_TargetName="Havelock"
+
+[ChapterTargets.Twk_ChapterTarget_LadyBoyle DisTweaks_ChapterTarget]
+m_TargetName="Lady Boyle"
+
+[ChapterTargets.Twk_ChapterTarget_LordRegent DisTweaks_ChapterTarget]
+m_TargetName="Lorde Regente"
+
+[ChapterTargets.Twk_ChapterTarget_Martin DisTweaks_ChapterTarget]
+m_TargetName="Martin"
+
+[ChapterTargets.Twk_ChapterTarget_MorganPendleton DisTweaks_ChapterTarget]
+m_TargetName="Morgan Pendleton"
+
+[ChapterTargets.Twk_ChapterTarget_Sokolov DisTweaks_ChapterTarget]
+m_TargetName="Sokolov"
+
+[ChapterTargets.Twk_ChapterTarget_TreavorPendleton DisTweaks_ChapterTarget]
+m_TargetName="Treavor Pendleton"
+

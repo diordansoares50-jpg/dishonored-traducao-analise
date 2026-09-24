@@ -1,0 +1,20 @@
+﻿[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_DialogScriptedChoice_1 DisSeqAct_DialogScriptedChoice]
+m_Title=
+m_Choices[0]=(m_ChoiceText="")
+m_Choices[1]=(m_ChoiceText="")
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_SetTutorialMessage_39 DisSeqAct_SetTutorialMessage]
+m_TutorialMessage="The countdown timer only starts after the first enemy has been killed. Take your time to set up your actions."
+m_TutorialMessage_Gamepad=""
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_SetTutorialMessage_38 DisSeqAct_SetTutorialMessage]
+m_TutorialMessage="Fight your way through increasingly difficult waves of enemies."
+m_TutorialMessage_Gamepad=""
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_SetTutorialMessage_37 DisSeqAct_SetTutorialMessage]
+m_TutorialMessage="Attack the Golden Merchant to receive Potions and ammunition. Kill him to receive gear upgrades."
+m_TutorialMessage_Gamepad=""
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_SetTutorialMessage_36 DisSeqAct_SetTutorialMessage]
+m_TutorialMessage="Collect Runes to receive a new power."
+m_TutorialMessage_Gamepad=""

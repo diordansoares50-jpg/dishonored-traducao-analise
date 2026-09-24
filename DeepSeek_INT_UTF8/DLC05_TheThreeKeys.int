@@ -1,0 +1,38 @@
+﻿[DLC01_TheThreeKeys_Hard DishonoredObjective]
+m_Description="Obtenha três chaves para abrir a porta principal sem ser detectado e sem matar ninguém."
+
+[DLC01_TheThreeKeys_Hard:DishonoredTask_Custom_21 DishonoredTask_Custom]
+m_Description="Pegue a terceira Chave."
+m_Status=""
+
+[DLC01_TheThreeKeys_Hard:DishonoredTask_Custom_22 DishonoredTask_Custom]
+m_Description="Desbloquear a porta principal"
+m_Status=""
+
+[DLC01_TheThreeKeys_Hard:DishonoredTask_Custom_8 DishonoredTask_Custom]
+m_Description="Pegue a segunda Chave."
+m_Status=""
+
+[DLC01_TheThreeKeys_Hard:DishonoredTask_Custom_9 DishonoredTask_Custom]
+m_Description="Pegue a primeira Chave."
+m_Status=""
+
+[DLC01_TheThreeKeys_Medium DishonoredObjective]
+m_Description="Obtenha três chaves para abrir a porta principal sem ser visto."
+
+[DLC01_TheThreeKeys_Medium:DishonoredTask_Custom_21 DishonoredTask_Custom]
+m_Description="Pegue a terceira Chave."
+m_Status=""
+
+[DLC01_TheThreeKeys_Medium:DishonoredTask_Custom_22 DishonoredTask_Custom]
+m_Description="Desbloquear a porta principal"
+m_Status=""
+
+[DLC01_TheThreeKeys_Medium:DishonoredTask_Custom_8 DishonoredTask_Custom]
+m_Description="Pegue a segunda Chave."
+m_Status=""
+
+[DLC01_TheThreeKeys_Medium:DishonoredTask_Custom_9 DishonoredTask_Custom]
+m_Description="Pegue a primeira Chave."
+m_Status=""
+

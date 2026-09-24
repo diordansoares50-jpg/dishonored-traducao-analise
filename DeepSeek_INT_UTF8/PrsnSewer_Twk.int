@@ -1,0 +1,71 @@
+﻿[CorvosGear_twk:DisTweaks_InteractableInterface_16 DisTweaks_InteractableInterface]
+m_Name="Equipamento Especial"
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[DeadGuyWheel_Twk DisTweaks_UsableObject]
+m_LockedMessage="Um cadáver está bloqueando a roda."
+
+[DeadGuyWheel_Twk:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Roda de Manivela"
+m_InteractText="Segure `GBA_Use` Virar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[LTD_PrsnSewerToPrison_twk DisTweaks_UsableObject]
+m_UnlockInteractText="`GBA_Use` Desbloquear"
+m_LockedMessage="Trancado. Você precisa da `k"
+m_UnauthorizedMessage=""
+m_FocusMessage=""
+m_FocusLockedMessage=""
+
+[LTD_PrsnSewerToPrison_twk:DisTweaks_InteractableInterface_16 DisTweaks_InteractableInterface]
+m_Name="Para a Prisão de Coldridge"
+m_InteractText="`GBA_Use` Abrir"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[PrsSwr_door_ms DisTweaks_Door]
+m_DoorOpenCCW.m_InteractTextOverride=""
+m_DoorOpenCW.m_InteractTextOverride=""
+m_DoorCloseCCW.m_InteractTextOverride="`GBA_Use` Fechar"
+m_DoorCloseCW.m_InteractTextOverride="`GBA_Use` Fechar"
+m_DoorSlamOpenCCW.m_InteractTextOverride=""
+m_DoorSlamOpenCW.m_InteractTextOverride=""
+m_UnlockInteractText="`GBA_Use` Desbloquear"
+m_LockedMessage="Não pode ser aberto neste momento"
+m_UnauthorizedMessage=""
+m_FocusMessage=""
+m_FocusLockedMessage="Trancado"
+
+[PrsSwr_door_ms:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Porta Inquebrável"
+m_InteractText="`GBA_Use` Abrir"
+m_AltInteractText="Segure `GBA_Use` Fechadura"
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Wheel_RatPuzzleRoom_Twk:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Manivela"
+m_InteractText="Segurar `GBA_Use` Virar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[wood_plank_02_prsnsewer_twk:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Tábuas de madeira"
+m_InteractText=""
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+

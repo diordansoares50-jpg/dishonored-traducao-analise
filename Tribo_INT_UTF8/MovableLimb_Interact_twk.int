@@ -1,0 +1,8 @@
+﻿[MovableLimb_Interact_twk DisTweaks_InteractableInterface]
+m_Name="Pedaço do corpo cortado"
+m_InteractText="`GBA_Use` Carregar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+

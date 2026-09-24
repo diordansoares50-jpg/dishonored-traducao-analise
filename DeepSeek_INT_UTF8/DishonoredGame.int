@@ -1,0 +1,1528 @@
+﻿[DishonoredGameInfo]
+m_MissionNames[0]=Dishonored
+m_MissionNames[1]=Alto Supervisor Campbell
+m_MissionNames[2]=Casa do Prazer
+m_MissionNames[3]=O Médico Real
+m_MissionNames[4]=A Última Festa de Lady Boyle
+m_MissionNames[5]=Voltar para a Torre
+m_MissionNames[6]=O Distrito Inundado
+m_MissionNames[7]=Os Lealistas
+m_MissionNames[8]=A Luz no Fim
+
+; DLC05_BEGIN
+
+m_MissionNames[9]=Dunwall City Trials
+
+; DLC05_END
+
+; DLC06_BEGIN
+
+m_MissionNames[10]=The Knife of Dunwall
+m_MissionNames[11]=None Like Her
+m_MissionNames[12]=A Captain of Industry
+m_MissionNames[13]=Eminent Domain
+m_MissionNames[14]=The Surge
+
+; DLC06_END
+
+; DLC07_BEGIN
+
+m_MissionNames[15]=The Brigmore Witches
+m_MissionNames[16]=Choosing Your Mark
+m_MissionNames[17]=A Stay of Execution For Lizzy
+m_MissionNames[18]=The Dead Eels
+m_MissionNames[19]=Delilah's Masterwork
+m_MissionNames[20]=Everything is Connected
+
+; DLC07_END
+
+[DisKeyRing]
+m_UseMessage=Você usou: `k`
+
+[DisBinkOverlayManager]
+m_ContentPackageName=UI_Loading
+m_NormalFontName=ChaletComprime-CologneEighty
+m_TitleFontName=Emerge_BF
+m_LoadingText=CARREGANDO
+m_PressToContinueText_PC=PRESSIONE QUALQUER TECLA PARA CONTINUAR
+m_PressToContinueText_Console=CONTINUAR
+
+[MapNames]
+L_Tower_P=Torre de Dunwall
+L_Prison_P=Prisão de Coldridge
+L_PrsnSewer_P=Esgotos de Dunwall
+L_Pub_Day_P=A Taberna do Poço do Cão
+L_Pub_Dusk_P=A Estalagem da Fossa dos Cães
+L_Pub_Night_P=A Taberna do Poço do Cão
+L_OutsiderDream_P=Em Outro Lugar...
+L_Streets1_P=Distrito da Destilaria
+L_Galvani1_P=Escritórios do Dr. Galvani
+L_Distillery_P=Antiga Destilaria de Dunwall
+L_Ovrsr_P=Escritório do Alto Supervisor
+L_Ovrsr_Back_P=Escritório do Alto Supervisor
+L_Ovrsr_Kennel_P=Escritório do Alto Supervisor
+L_Streets2_P=Distrito da Destilaria
+L_Galvani2_P=Escritórios do Dr. Galvani
+L_Distillery2_P=Antiga Destilaria de Dunwall
+L_ArtDealer_P=Apartamento do Marchand de Arte
+L_Brothel_P=O Banho do Gato Dourado
+L_Bridge_Part1a_P=Ponte de Kaldwin
+L_Bridge_Part1b_P=Ponte Kaldwin
+L_Bridge_Part1c_P=Ponte Kaldwin
+L_Bridge_Part2_P=Ponte Kaldwin
+L_Boyle_Ext_P=A Mansão Boyle
+L_Boyle_Int_P=A Mansão Boyle
+L_TowerRtrn_Yard_P=Torre de Dunwall
+L_TowerRtrn_Int_P=Torre de Dunwall
+L_Flooded_FIntro_P=Distrito Inundado
+L_Flooded_FStreets_P=Distrito Inundado
+L_Flooded_FRefinery_P=Distrito Inundado
+L_Flooded_FAssassins_P=Distrito Inundado
+L_Flooded_FGate_P=Distrito Inundado
+L_Streetsewer_P=Antigo Esgoto de Dunwall
+L_Pub_Morning_P=A Estalagem do Poço do Cão
+L_Pub_Assault_P=A Taberna do Poço do Cão
+L_LightH_LowChaos_P=O Farol
+L_Isl_LowChaos_P=Ilha Kingsparrow
+L_LightH_HighChaos_P=O Farol
+L_Isl_HighChaos_P=Ilha Kingsparrow
+L_Outro_P=O Fim
+L_Out_P=O Fim
+L_Out_HighChaos_emilyDead_P=O Fim
+L_Out_HighChaos_EmilyAlive_P=O Fim
+
+; DLC05_BEGIN
+
+L_DLC05_Arena_P=Briga no Beco
+L_DLC05_ATrain_P=Corrida do Assassino
+L_DLC05_BTM_P=Massacre da Dobra Temporal
+L_DLC05_ChainKill_P=Cadeia de Eliminação
+L_DLC05_Countdown_P=Fogueiras
+L_DLC05_DropAttack_P=Cascata de Extermínio
+L_DLC05_MysteryMan_P=Adversário Misterioso
+L_DLC05_OilRain_P=Gota de Óleo
+L_DLC05_Race_P=Treinador de Corredores
+L_DLC05_Thief_P=Ladrão
+L_DLC05_MainMenu_P=Desafios da Cidade de Dunwall
+
+; DLC05_END
+
+; DLC06 DAUD MAPNAMES BEGIN
+
+DLC06_Tower_P=Torre de Dunwall
+DLC06_Slaughter_Int_P=Matadouro Rothwild
+DLC06_Slaughter_Ext_P=Matadouro Rothwild
+DLC06_Timsh_Streets_P=O Distrito Jurídico
+DLC06_Timsh_Estate_P=O Distrito Jurídico
+DLC06_L_Brig_Ext_P=Exterior de Brigmore
+DLC06_DaudBase_P=Esconderijo do Daud
+DLC06_Endgame_P=Fim de Jogo
+DLC06_Dishonored_MainMenu=A Faca de Dunwall
+DLC06_DishonoredGameFull_P=A Faca de Dunwall
+
+;DLC06 DAUD MAPNAMES END
+
+; DLC07 DAUD MAPNAMES BEGIN
+
+L_DLC07_BaseIntro_P=Esconderijo do Daud
+L_DLC07_Coldridge_P=Prisão de Coldridge
+L_DLC07_DraperStreets_P=Bairro dos Alfaiates
+L_DLC07_DraperMill_P=Fábrica Têxtil do Bairro dos Alfaiates
+L_DLC07_DraperShip_P=Margem do Rio do Bairro dos Mercadores
+L_DLC07_DraperSewers_P=Esgoto do Bairro dos Drapers
+L_DLC07_Brig_Ext_P=Mansão Brigmore
+L_DLC07_Brigmore_Int_P=Mansão Brigmore
+L_DLC07_Brigmore_Void_P=O Vazio
+L_DLC07_Endgame_P=Esconderijo do Daud
+L_DLC07_GameFull_P=As Bruxas de Brigmore
+L_DLC07_MainMenu=As Bruxas de Brigmore
+
+;DLC07 DAUD MAPNAMES END
+
+[DisBinkOverlayManager_SaveNotificationLoadingScreen]
+Text_PC=Este jogo salva automaticamente seu progresso. Quando você vir este símbolo, significa que o jogo está salvando, não desligue o computador.
+Text_XBox=Este jogo salva automaticamente seu progresso. Quando você ver este símbolo, significa que o jogo está salvando; não desligue o console.
+Text_PS3=Este jogo salva automaticamente seu progresso. Quando você vir este símbolo, significa que o jogo está salvando; não desligue o seu sistema PlayStation®3.
+;Text_Console=
+
+;[DisBinkOverlayManager_HintSet_MySampleHintSetName]
+;Hint=Generic hint.
+;Hint_Gamepad=Gamepad-specific hint.
+;Hint_Keyboard=Keyboard-specific hint.
+
+[DisBinkOverlayManager_HintSet_Intro]
+Hint=Como capital, Dunwall é a casa da Imperatriz e da corte real.
+Hint=Use sua mão direita para atacar ou bloquear com uma espada.
+Hint=Use sua mão esquerda para poderes, armas de longo alcance e gadgets.
+Hint=Bloquear durante o combate com espada te protege e pode desequilibrar os inimigos.
+Hint=Se cronometrado corretamente, bloquear um ataque de espada deixará seu agressor desequilibrado.
+Hint=Os Supervisores são uma facção religiosa militante espalhada pelo Império.
+Hint=Ataque um inimigo desequilibrado ou caído para desferir um golpe fatal.
+Hint=Corra para escapar dos inimigos ou ganhe velocidade para saltos.
+Hint=Alto Supervisor Campbell é o atual líder da Abadia do Homem Comum.
+ 
+[DisBinkOverlayManager_HintSet_Prison]
+Hint=Destrua qualquer inimigo em seu caminho ou adote uma abordagem mais furtiva.
+Hint=Entre em modo furtivo para passar despercebido pelos inimigos ou se aproximar deles sorrateiramente.
+Hint=Ao enfrentar muitos atacantes, afaste-se e lide com eles um a um.
+Hint=Inclinar-se para fora da cobertura dá a você a chance de observar seus inimigos e bisbilhotá-los. Enquanto seu corpo estiver atrás da cobertura, você não será visível.
+Hint=Um alto número de mortos leva a mais ratos, mais vítimas da peste e um desfecho mais sombrio.
+Hint=Bloquear é uma parte fundamental do combate.
+Hint=Salve seu jogo com frequência.
+ 
+[DisBinkOverlayManager_HintSet_Sewer]
+Hint=Correr e andar rápido deixam seus passos mais altos. Agachar-se é silencioso.
+Hint=A Roda de Acesso Rápido acessa as armas da sua mão esquerda.
+Hint=Os inimigos te enxergam com menos clareza a uma distância maior e no escuro.
+Hint=Explore o ambiente e saqueie inimigos derrotados para encontrar recursos.
+Hint=Para um assassinato em queda, caia sobre um inimigo e ataque logo antes da colisão.
+Hint=A Roda de Acesso Rápido desacelera o tempo enquanto está em uso.
+Hint=O Rio Wrenhaven corta a Cidade de Dunwall.
+Hint=Tábuas de madeira podem ser quebradas com ataques de espada.
+Hint=Pela Roda de Acesso Rápido, restaure a saúde com o Elixir de Sokolov (a poção vermelha).
+Hint=Segure o botão `GBA_Use` para guardar suas armas.
+Hint=Bloquear e contra-atacar são habilidades essenciais de combate.
+Hint=Fique próximo a uma borda alcançável e segure o botão de pulo para escalar.
+Hint=Use a Roda de Acesso Rápido para restaurar a saúde com o Elixir de Sokolov.
+Hint=Roube inimigos (ou saqueie seus corpos) para obter moedas, munição e chaves.
+Hint=Consulte seu diário para revisar seu Objetivo atual.
+Hint=Escale para alcançar locais mais altos e contornar inimigos.
+Hint=Estrangule um inimigo até desmaiar para uma neutralização não letal.
+Hint=Dinheiro pode ser usado para comprar ou aprimorar armas e equipamentos.
+Hint=Ao se aproximar de um espaço baixo no modo furtivo, avance para agachar automaticamente e passar por baixo.
+Hint=Inclinar-se para fora da cobertura dá a você a chance de observar seus inimigos e bisbilhotá-los. Enquanto seu corpo estiver atrás da cobertura, você não será visível.
+
+[DisBinkOverlayManager_HintSet_Pub]
+Hint=O óleo de baleia é volátil, mas permitiu uma era industrial por todo o Império.
+Hint=Consulte o diário para revisar seus Objetivos atuais.
+Hint=Use Dardos Soníferos da Roda de Acesso Rápido para neutralizações não letais.
+Hint=Ratos são agressivos em bando, mas fogem quando seu número é reduzido.
+Hint=Você pode alterar as configurações de dificuldade a qualquer momento.
+Hint=O Forasteiro é uma figura saída do mito, nem boa nem má.
+Hint=A Roda de Acesso Rápido acessa poções e equipamentos da mão esquerda.
+Hint=Verifique o diário para revisar as Anotações que você coletou.
+Hint=Destrua qualquer inimigo em seu caminho ou adote uma abordagem mais furtiva.
+Hint=Você se move mais rápido com as armas embainhadas.
+Hint=Runas podem ser usadas para obter ou aprimorar poderes sobrenaturais.
+Hint=Um assassinato por queda bem-sucedido evita danos de queda e não faz nenhum som.
+Hint=Coletar itens valiosos durante as missões permite que você compre suprimentos e melhorias.
+Hint=Um bloqueio bem sincronizado deixa seu inimigo desequilibrado, permitindo que você execute um contra-ataque letal.
+ 
+[DisBinkOverlayManager_HintSet_Overseer]
+Hint=A Abadia do Todo-Homem é a religião dominante em todo o Império.
+Hint=Procure formas alternativas de eliminar alvos-chave de assassinato.
+Hint=O poder do Piscar é útil para furtividade, exploração e combate.
+Hint=Pela Roda de Acesso Rápido, restaure mana com o Remédio de Piero (a poção azul).
+Hint=Salve seu jogo com frequência.
+Hint=Ao possuir um rato, você consegue se espremer em espaços menores que o normal.
+Hint=Os Supervisores são militantes religiosos dedicados a combater a bruxaria.
+Hint=Pela Roda de Acesso Rápido, você pode atribuir armas e poderes aos slots rápidos.
+Hint=Runas e Amuletos Ósseos emitem um leve som de "canto".
+Hint=Equipe o Coração e use-o para ouvir segredos sobre um local.
+Hint=Equipe o Coração para revelar as localizações de Runas e Amuletos de Ossos ao seu redor.
+Hint=Ao possuir um wolfhound, você pode correr.
+Hint=Atacar um inimigo desequilibrado ou caído para desferir um golpe fatal e crítico.
+Hint=Os Talismãs Ósseos concedem pequenos bônus quando equipados no Diário. Use o Coração para caçar Talismãs Ósseos.
+Hint=Adquira novos poderes gastando Runas pelo seu Diário. Equipe o Coração para caçar Runas.
+Hint=Pela Roda de Acesso Rápido, você pode beber poções que restauram sua vida e mana.
+Hint=Escolhas têm consequências. Usar furtividade ou a abordagem não letal levará a uma cidade mais estável e menos sombria.
+Hint=As máscaras metálicas usadas pelos Supervisores os protegem de ataques à distância pela frente.
+Hint=Explore prédios abandonados e becos para reabastecer sua munição, coletar moedas e encontrar elixir.
+Hint=Escale para alcançar locais mais altos e contornar inimigos.
+Hint=Bloquear e contra-atacar são habilidades de combate essenciais.
+Hint=Um bloqueio bem sincronizado desequilibra seu inimigo, permitindo que você desfira um contra-ataque letal.
+Hint=Remova os tanques de óleo de baleia dos sistemas de segurança, como o Muro de Luz ou o Pilar do Arco, para desativá-los.
+Hint=O combate não precisa terminar em um banho de sangue — a fuga é sempre uma opção.
+Hint=Telhados e beirais às vezes oferecem caminhos alternativos.
+Hint=Coletar Runas é essencial, pois permite que você compre novos Poderes ou aprimore os que já possui.
+Hint=Use o Piscar para se esgueirar movendo-se rápida e silenciosamente de cobertura em cobertura
+Hint=Inclinar-se para fora da cobertura te dá a chance de observar seus inimigos e bisbilhotá-los. Enquanto seu corpo estiver atrás da cobertura, você não será visível.
+ 
+[DisBinkOverlayManager_HintSet_Brothel]
+Hint=O Lord Regent implantou as tecnologias de Sokolov por toda a cidade.
+Hint=Sombras concedem um bônus para se esconder apenas à distância.
+Hint=Calibre o brilho no menu de opções.
+Hint=Livros geralmente fornecem informações de fundo sobre o mundo.
+Hint=Armas de longo alcance causam mais dano quando o inimigo não está ciente de você.
+Hint=Anotações escritas geralmente contêm informações úteis e pistas.
+Hint=Um bloqueio bem sincronizado desequilibra seu inimigo, permitindo que você execute um contra-ataque letal.
+Hint=Telhados e beiradas às vezes oferecem caminhos alternativos.
+Hint=Armas de longo alcance causam mais dano se você acertar a cabeça do inimigo.
+Hint=O Remédio de Piero e o Elixir de Sokolov são poções antigripe rivais.
+Hint=Aponte o Coração para uma pessoa e use-o para ouvir segredos.
+Hint=Ratos não atacam os chorões devido ao estágio avançado de infecção pela peste.
+Hint=Ao se aproximar de um espaço baixo no modo furtivo, avance para agachar automaticamente e passar por baixo.
+Hint=Os Amuletos Ósseos concedem pequenos bônus quando equipados no Diário. Use o Coração para procurar Amuletos Ósseos.
+Hint=Adquira novos poderes gastando Runas pelo seu Diário. Equipe o Coração para buscar Runas.
+Hint=Um alto número de mortos leva a mais ratos, mais vítimas da peste e um desfecho mais sombrio.
+Hint=Às vezes, você pode recuperar suas flechas de besta dos cadáveres.
+Hint=Deslizar contra as pessoas conta como um ataque e pode desequilibrar os inimigos.
+Hint=Bloquear é uma parte crucial do combate.
+Hint=Bloqueie e contra-ataque enquanto seu inimigo está desequilibrado.
+Hint=Coletar Runas é essencial, pois permite que você compre novos Poderes ou melhore os que já tem.
+Hint=Use o Piscar para se esgueirar movendo-se rápida e silenciosamente de cobertura em cobertura.
+Hint=O combate não precisa terminar em banho de sangue — a fuga sempre é uma opção.
+ 
+[DisBinkOverlayManager_HintSet_Bridge]
+Hint=Colete Amuletos Ósseos e selecione quais estão ativos no diário.
+Hint=O Pilar do Arco gera eletricidade perigosa quando se aproxima.
+Hint=Sua máscara permite que você dê zoom em um local alvo.
+Hint=Para se esgueirar, entre no modo furtivo e fique atrás de cobertura. As sombras apenas dificultam que você seja visto à distância.
+Hint=Coletar Runas e Amuletos de Ossos é considerado heresia pelos Supervisores.
+Hint=Você pode grudar lâminas explosivas em qualquer superfície, inclusive em criaturas vivas.
+Hint=Pegue cadáveres ou corpos inconscientes para levá-los a um esconderijo.
+Hint=Grupos de ratos são atraídos por cadáveres.
+Hint=Se um inimigo ouvir um som suspeito, ele virá investigar.
+Hint=Escolhas têm consequências. Usar furtividade ou a abordagem não letal levará a uma cidade mais estável e menos sombria.
+Hint=Explore edifícios abandonados e becos para reabastecer sua munição, coletar moedas e encontrar elixir.
+Hint=Bloquear e contra-atacar são habilidades de combate essenciais.
+Hint=Coletar Runas é essencial, pois permite que você compre novos Poderes ou atualize os que já possui.
+Hint=Equipe o Coração para revelar as localizações de Runas e Amuletos de Ossos ao seu redor.
+Hint=Remova os tanques de óleo de baleia dos sistemas de segurança, como o Muro de Luz ou o Pilar do Arco, para desativá-los.
+Hint=Use o Piscar para assassinar, teleportando-se até um alvo e atacando enquanto ele está surpreso.
+Hint=Visão Sombria nível 2 revela os cabos dos dispositivos de segurança, permitindo que você encontre suas fontes de energia e painéis de reconfiguração.
+Hint=Agilidade permite que você pule mais alto e alcance lugares elevados. Combine Agilidade e Piscar para obter uma distância extra.
+ 
+[DisBinkOverlayManager_HintSet_Boyle]
+Hint=Você pode usar a maioria dos seus poderes sobrenaturais debaixo d'água.
+Hint=Os andarilhos sobre palafitas do Lorde Regente, conhecidos como "altões", disparam flechas incendiárias.
+Hint=Fique próximo a uma borda alcançável e segure o botão de pulo para escalar.
+Hint=Estrangule um inimigo até que ele desmaie para uma abordagem não letal.
+Hint=Tallboys têm tanques vulneráveis de óleo de baleia nas costas.
+Hint=Equipe o Coração para revelar as localizações de Runas e Amuletos de Osso ao seu redor.
+Hint=Se aprimorada, sua máscara amplifica o som quando você dá zoom em um alvo.
+Hint=Atrás de cobertura, você não será detectado ao se inclinar para observar.
+Hint=Para deslizar, entre no modo furtivo enquanto estiver correndo.
+Hint=Mire o Coração e use-o para revelar segredos sobre pessoas ou lugares.
+Hint=Os Tallboys são imunes a dardos soníferos devido à sua armadura espessa.
+Hint=Ao correr, entre no modo furtivo para deslizar. Deslizar contra pessoas conta como um ataque.
+Hint=Um bloqueio bem sincronizado desequilibra seu inimigo, permitindo que você execute um contra-ataque letal.
+Hint=Com o timing certo, você pode encadear o Piscar com o assassinato (ou Piscar com o sufocamento).
+Hint=Visão Sombria permite que você mantenha os inimigos à vista o tempo todo enquanto se esconde atrás de cobertura.
+Hint=Quando o tempo é parado com Dobra do Tempo nível 2, ninguém vai notar você. Use isso para se esgueirar por locais lotados.
+ 
+[DisBinkOverlayManager_HintSet_TowerReturn]
+Hint=Os andarilhos de palafitas do Lorde Regente—conhecidos como tallboys—disparam flechas incendiárias.
+Hint=Pule até uma borda alcançável e segure o botão de pulo para escalar.
+Hint=O Lord Regente fez melhorias na Torre de Dunwall desde a época da Imperatriz.
+Hint=Tallboys têm tanques vulneráveis de óleo de baleia nas costas.
+Hint=Os Supervisores usam música baseada em matemática antiga para suprimir a magia.
+Hint=Você pode "cozinhar" granadas para que elas explodam no impacto.
+Hint=O assassinato por queda pode ser realizado de grandes alturas.
+Hint=O Lorde Regente atuou como Mestre dos Espiões Reais antes da morte da Imperatriz.
+Hint=Possuir ratos e peixes frequentemente revela caminhos alternativos.
+Hint=Salve seu jogo com frequência.
+Hint=As máscaras metálicas usadas pelos Supervisores os protegem de ataques à distância pela frente.
+Hint=Bloquear é uma parte crucial do combate.
+Hint=Coletar Runas é essencial, pois permite que você compre novos Poderes ou atualize os que já possui.
+Hint=Se não conseguir encontrar um rato para possuir, use os ratos do seu poder de Enxame Devorador.
+Hint=Possuir pessoas permite que você contorne dispositivos de segurança, como um Muro de Luz ou um Pilar do Arco, se essa pessoa estiver autorizada a passar.
+Hint=Projéteis paralisados no ar com Dobra do Tempo nível 2 podem ser coletados.
+Hint=Se você pular de uma grande altura, pode possuir uma pessoa ou animal durante a queda para amortecer o impacto.
+ 
+[DisBinkOverlayManager_HintSet_Flooded]
+Hint=Anotações contêm informações úteis. Geralmente, os livros fornecem ficção do mundo.
+Hint=O "Distrito Inundado" já foi o próspero Distrito Financeiro de Rudshore.
+Hint=Bloquear durante o combate com espada te protege e pode desequilibrar os inimigos.
+Hint=Os Crustáceos do Rio são moluscos que contêm pérolas valiosas dentro de suas conchas.
+Hint=Consulte seu diário para revisar seu Objetivo atual.
+Hint=Ficar de ouvido às vezes revela informações úteis.
+Hint=Se atualizada, sua máscara amplifica o som quando você dá zoom em um alvo.
+Hint=Use a furtividade para passar despercebido por seus inimigos ou se aproximar deles de forma sorrateira.
+Hint=As anotações são armazenadas no seu diário.
+Hint=Destrua qualquer inimigo em seu caminho ou adote uma abordagem mais furtiva.
+Hint=Ratos não atacam chorões devido ao seu estado avançado de infecção pela peste.
+Hint=Às vezes, você pode recuperar suas flechas de besta dos cadáveres.
+Hint=Bloqueie e contra-ataque enquanto seu inimigo está desequilibrado.
+Hint=Equipe o Coração para revelar as localizações de Runas e Amuletos de Ossos ao seu redor.
+Hint=Se você parar o tempo com Dobra do Tempo nível 2, pode fixar uma lâmina-ressalto em um inimigo no meio da multidão. Quando o tempo recomeçar, a lâmina-ressalto será ativada.
+ 
+[DisBinkOverlayManager_HintSet_PubAttack]
+Hint=Tallboys têm tanques vulneráveis de óleo de baleia nas costas.
+Hint=Armas de longo alcance causam mais dano se você acertar um inimigo na cabeça.
+Hint=Se feita no momento certo, bloquear um ataque de espada desequilibra o atacante.
+Hint=Ataque um inimigo desequilibrado para desferir um golpe crítico letal.
+Hint=Colete Amuletos Ósseos e selecione quais estão ativos no diário.
+Hint=O Remédio de Piero e o Elixir de Sokolov são poções anti-praga concorrentes.
+Hint=Mire o Coração e use-o para revelar segredos sobre pessoas ou lugares.
+Hint=Procure por métodos alternativos para eliminar alvos de assassinato chave.
+Hint=Sombras concedem um bônus para se esconder apenas à distância.
+Hint=Você pode colocar armadilhas explosivas em qualquer superfície, inclusive em criaturas vivas.
+Hint=Posse permite que você escape do combate possuindo um inimigo e se "escondendo" dentro dele.
+ 
+[DisBinkOverlayManager_HintSet_Lighthouse]
+Hint=O Farol foi o último grande projeto do reinado do Lorde Regente.
+Hint=Para se esgueirar, entre no modo furtivo e mantenha-se atrás de cobertura. As sombras apenas tornam você mais difícil de ser visto à distância.
+Hint=Mantenha-se em movimento durante o combate e evite ser cercado.
+Hint=Destrua qualquer inimigo em seu caminho ou adote uma abordagem mais furtiva.
+Hint=As anotações são armazenadas no seu diário.
+Hint=O Pilar do Arco e a Parede de Luz não prejudicam aqueles devidamente sintonizados.
+Hint=Você pode sobreviver a grandes quedas possuindo alguém logo antes de tocar o chão.
+Hint=Use furtividade para passar despercebido pelos seus inimigos ou se aproximar deles de forma sorrateira.
+Hint=Atrás de cobertura, você não será detectado ao se inclinar para observar.
+Hint=Segure o botão de ataque para "cozinhar" granadas e fazê-las explodir no impacto.
+Hint=Um bloqueio bem sincronizado desequilibra seu inimigo, permitindo que você execute um contra-ataque letal.
+Hint=Com o Bend Time nível 2 ativo, qualquer ataque conta como um assassinato, permitindo que você lide com vários inimigos em uma multidão.
+
+; DLC05_BEGIN
+
+[DisBinkOverlayManager_HintSet_Arena]
+Hint=Runas aparecem após alguns turnos e concedem um novo poder quando coletadas.
+Hint=Atacar o Mercador Dourado lhe renderá munição, poções e melhorias.
+Hint=Despache seus inimigos de várias maneiras para ganhar pontos bônus.
+Hint=Alguns inimigos soltam munição ao serem derrotados. Fique atento.
+Hint=A fase 13 é impossível de vencer. Ou será que não?
+Hint=Se um dos seus inimigos matar outro, você perderá a chance de marcar pontos.
+Hint=No Modo Expert, os inimigos sabem onde você está assim que surgem.
+
+[DisBinkOverlayManager_HintSet_AssassTraining]
+Hint=Não atire nos civis mascarados para uma pontuação melhor.
+Hint=Quanto mais rápido você for, mais pontos vai marcar.
+Hint=Tiros na cabeça dão mais pontos.
+Hint=Escolha seus arremessos: quanto melhor a precisão, mais pontos você marca.
+Hint=Matar um alvo desavisado ou surpreendido concede pontos bônus.
+
+[DisBinkOverlayManager_HintSet_BTM]
+Hint=Uma vez dentro da câmara, você só poderá sair pelo mesmo caminho que entrou. Alguns dos desafios bônus exigirão que você faça isso.
+Hint=As rodadas bônus são uma oportunidade única para melhorar sua pontuação.
+Hint=Os inimigos vão se mover de um lugar para outro. Espere até que estejam em uma boa configuração antes de quebrar o vidro.
+Hint=Verifique o ambiente em busca de perigos que possam ser usados a seu favor.
+Hint=Golpear seus projéteis os tirará do tempo lento, fazendo-os atingir o alvo antes que o tempo retome.
+
+[DisBinkOverlayManager_HintSet_ChainKill]
+Hint=Após a primeira morte, você terá que ser muito rápido.
+Hint=O poder de Posse permite que você mova os inimigos para onde quiser sem matá-los.
+Hint=O ambiente pode oferecer formas alternativas de eliminar inimigos.
+Hint=Matar inimigos simultaneamente rende mais pontos.
+Hint=Tanques de Óleo de Baleia podem ser usados para desencadear reações em cadeia.
+Hint=O poder de Distorção do Tempo para o cronômetro, facilitando sua cadeia de eliminações.
+Hint=As rodadas bônus são uma oportunidade única para melhorar sua pontuação.
+
+[DisBinkOverlayManager_HintSet_Countdown]
+Hint=Você não pode morrer de dano de queda.
+Hint=Poderes de mobilidade, como `GBA_Blink` e `GBA_Agility`, serão seus melhores aliados.
+Hint=Procure no ambiente por maneiras de alcançar os feixes de luz mais altos.
+Hint=Conheça a área e crie suas próprias rotas para se mover rapidamente por ela.
+Hint=Você não precisa tocar na base do feixe para ativá-lo.
+Hint=No Modo Expert, colete as poções brilhantes para recarregar sua mana mais rápido.
+
+[DisBinkOverlayManager_HintSet_DropAttack]
+Hint=Use as cores dos feixes de luz como uma pista de como realizar o Assassinato em Queda.
+Hint=Pular algumas plataformas pode permitir que você execute Assassinatos em Queda de uma altura maior e ganhe mais pontos.
+Hint=Você pode se desviar do caminho principal para encontrar pontos altos de Assassinato em Queda.
+Hint=O fim é apenas o começo…
+Hint=Lembre-se de pressionar Ataque antes de alcançar o alvo para um Assassinato em Queda bem-sucedido.
+
+[DisBinkOverlayManager_HintSet_MysteryMan]
+Hint=O alvo pode ser qualquer pessoa na área.
+Hint=Procure por vigas de madeira, lustres ou alçapões de sótão em lugares altos.
+Hint=Alguns elixires de Mana foram colocados aleatoriamente na área.
+Hint=Esconda-se atrás das cortinas e debaixo das mesas para não ser visto.
+Hint=Se você for descoberto, terá alguns segundos antes que seu alvo escape pelos Portais.
+Hint=Se um inimigo avistar um corpo, ele alertará as pessoas ao redor. Se seu alvo for alertado, ele ou ela fugirá.
+Hint=Evitar os guardas vale mais pontos do que deixá-los inconscientes, o que por sua vez vale mais do que matá-los.
+
+[DisBinkOverlayManager_HintSet_OilRain]
+Hint=Tanques coloridos especiais concedem efeitos especiais.
+Hint=Atire nos tanques quando estiverem bem acima de você para evitar danos da explosão.
+Hint=Sua pistola tem um carregador de 4 balas. Recarregue frequentemente para reabastecer o carregador pressionando `GBA_Use`.
+Hint=Tente atirar primeiro nos tanques especiais para facilitar acertar os próximos.
+Hint=Você pode se mover pela plataforma, o que pode ajudar a receber menos danos ou ter um melhor ângulo de tiro.
+Hint=Você pode causar uma cadeia de explosões se atirar em um tanque de óleo de baleia que está perto de outros.
+
+[DisBinkOverlayManager_HintSet_Race]
+Hint=Não hesite em experimentar caminhos diferentes, há muitas possibilidades que podem permitir que você economize algum tempo.
+Hint=Use sua regeneração de mana com sabedoria.
+Hint=Use Agilidade, Piscar, escalar e deslizar juntos para uma mobilidade fluida.
+Hint=Cair de uma altura muito grande vai te deixar mais lento. Use o `GBA_Blink` ou pule em objetos para evitar isso.
+Hint=Use sua espada e arma para quebrar barreiras e portas de madeira.
+
+[DisBinkOverlayManager_HintSet_Thief]
+Hint=É uma mansão grande, e mansões grandes sempre têm salas secretas.
+Hint=Um verdadeiro fantasma não é apenas invisível; ele não machuca ninguém e não deixa provas para trás.
+Hint=Os guardas provavelmente não vão te ver se você estiver escondido debaixo de uma mesa ou bem alto em uma saliência.
+Hint=Se parece que pode ser valioso, provavelmente é.
+Hint=Objetos podem ser arremessados para distrair guardas e desviar sua atenção, mas qualquer alerta diminuirá seu bônus de pontuação.
+Hint=Evitar os guardas vale mais pontos do que deixá-los inconscientes, o que por sua vez vale mais do que matá-los.
+
+[DisBinkOverlayManager_HintSet_DunwallCityTrials]
+Hint=Conquiste uma classificação de 1, 2 ou 3 estrelas em um desafio para desbloquear uma nova obra de arte na Galeria.
+Hint=Você pode desbloquear uma versão Expert de alguns desafios ao conquistar uma classificação de 2 Estrelas.
+Hint=Existem 4 tipos de desafios: Furtividade, Mobilidade, Combate e Quebra-cabeça.
+Hint=Preste atenção às regras de cada desafio; algumas usam regras bem diferentes da campanha para um jogador.
+
+
+; DLC05_END
+
+
+; DLC06_BEGIN
+
+[DisBinkOverlayManager_HintSet_DLC06Menu]
+Hint=Daud é um assassino de aluguel. Seu último alvo foi Jessamine Kaldwin, Imperatriz das Ilhas.
+Hint=Como capital, Dunwall é a casa da Imperatriz e da corte real.
+Hint=Use sua mão direita para atacar ou bloquear com uma espada.
+Hint=Use sua mão esquerda para poderes, armas à distância e gadgets.
+Hint=Bem cronometrado, bloquear um ataque de espada deixará seu oponente desequilibrado.
+
+
+[DisBinkOverlayManager_HintSet_DLC06Intro]
+Hint=Se você parar de se mover durante o Piscar, o tempo vai parar. Isso funciona no meio do ar, permitindo mudanças radicais de direção.
+Hint=A Roda de Acesso Rápido desacelera o tempo durante o uso.
+Hint=O Rio Wrenhaven atravessa a cidade de Dunwall.
+Hint=O Forasteiro é uma figura saída do mito, nem boa nem má.
+Hint=O poder do Piscar é útil para furtividade, exploração e combate.
+Hint=Salve seu jogo com frequência.
+ 
+[DisBinkOverlayManager_HintSet_DLC06SlaughtExt]
+Hint=A Poeira Sufocante vai parar os inimigos em seus rastros. Use isso como uma oportunidade para escapar ou virar o jogo no combate.
+Hint=A Poeira Sufocante não só funciona contra pessoas, como também ajuda a eliminar enxames de ratos.
+Hint=Se você parar de se mover enquanto estiver Piscando, o tempo vai parar. Isso funciona no meio do ar, permitindo mudanças radicais de direção.
+Hint=Consulte seu Diário para revisar seus Objetivos atuais.
+Hint=Use Dardos Soníferos da Roda de Acesso Rápido para neutralizações não letais.
+Hint=Ratos são agressivos em bando, mas fogem quando seu número é reduzido.
+Hint=Você pode alterar as configurações de dificuldade a qualquer momento.
+Hint=Bloquear e contra-atacar são habilidades essenciais de combate.
+Hint=Fique ao lado de uma borda alcançável e segure o botão de pulo para escalar.
+Hint=Use a Roda de Acesso Rápido para restaurar a saúde com o Elixir de Sokolov.
+Hint=Equipe o poder sobrenatural Olhar do Vazio para revelar a localização de Runas e Amuletos de Ossos ao seu redor.
+ 
+[DisBinkOverlayManager_HintSet_DLC06SlaughtInt]
+Hint=A Mina Arc pode grudar em qualquer superfície, inclusive em criaturas vivas.
+Hint=A Mina de Arco e a Mina de Atordoamento podem ser recolhidas após a colocação, desde que não tenham sido ativadas por um inimigo.
+Hint=A serra elétrica carregada pelos Açougueiros Rothwild causa uma quantidade enorme de dano e pode desviar projéteis que se aproximam.
+Hint=Salve seu jogo com frequência.
+Hint=Você se move mais rápido com as armas embainhadas.
+Hint=Runas podem ser usadas para adquirir ou aprimorar poderes sobrenaturais.
+ 
+[DisBinkOverlayManager_HintSet_DLC06TimshStreet]
+Hint=Se invocado fora de combate, os assassinos têm coisas interessantes a dizer sobre o ambiente ao seu redor.
+Hint=Assassinos invocados não apenas lutam ao seu lado, mas também servem como uma distração útil para inimigos e ratos.
+Hint=Se você parar de se mover durante o Piscar, o tempo vai parar. Isso funciona no meio do ar, permitindo mudanças radicais de direção.
+Hint=Explore o ambiente e saqueie inimigos derrotados para encontrar recursos.
+Hint=Para um assassinato em queda, caia sobre um inimigo e ataque logo antes de colidir.
+Hint=O óleo de baleia é volátil, mas permitiu uma era industrial por todo o Império.
+Hint=Correr e andar rápido deixam seus passos mais altos. Andar furtivamente é silencioso.
+Hint=Escale para alcançar locais mais altos e contornar inimigos.
+Hint=Remova os tanques de óleo de baleia dos sistemas de segurança, como o Muro de Luz ou o Pilar do Arco, para desativá-los.
+ 
+[DisBinkOverlayManager_HintSet_DLC06TimshEstate]
+Hint=Roube dos inimigos (ou saqueie seus corpos) para obter moedas, munição e chaves.
+Hint=Consulte seu Diário para revisar seus Objetivos atuais.
+Hint=Estrangule um inimigo até deixá-lo inconsciente para uma neutralização não letal.
+Hint=Bloquear e contra-atacar são habilidades essenciais de combate.
+Hint=Coletar Runas é essencial, pois permite que você compre novos Poderes ou atualize os que já possui.
+Hint=Equipe o poder sobrenatural Olhar do Vazio para revelar as localizações de Runas e Amuletos de Ossos ao seu redor.
+Hint=Agilidade permite que você pule mais alto e alcance lugares elevados. Combine Agilidade e Piscar para uma distância extra.
+Hint=Runas e Amuletos Ósseos emitem um leve som de "canto".
+Hint=Talismãs Ósseos concedem pequenos bônus quando equipados no Diário. Use o Olhar do Vazio para caçar Talismãs Ósseos.
+ 
+[DisBinkOverlayManager_HintSet_DLC06DaudBase]
+Hint=Se você parar de se mover enquanto está Piscando, o tempo vai parar. Isso funciona no meio do ar, permitindo mudanças radicais de direção.
+Hint=A Poeira Sufocante vai parar os inimigos no meio do caminho. Use isso como uma oportunidade para escapar ou virar o jogo.
+Hint=As máscaras metálicas usadas pelos Supervisores protegem suas cabeças contra ataques à distância pela frente.
+Hint=Os Supervisores usam música baseada em matemática antiga para suprimir a magia.
+Hint=Use o Piscar para assassinar, aparecendo ao lado de um alvo e atacando enquanto ele está surpreso.
+
+
+;DLC06_END
+
+
+; DLC07_BEGIN
+
+[DisBinkOverlayManager_HintSet_DLC07Menu]
+Hint=Daud é um assassino de aluguel. Seu último alvo foi Jessamine Kaldwin, Imperatriz das Ilhas.
+Hint=Após um ataque do Vigia ao seu esconderijo, Daud e seus assassinos planejam sua retaliação contra a bruxa Delilah.
+Hint=Como capital, Dunwall abriga a Imperatriz e a corte real.
+Hint=Use sua mão direita para atacar ou bloquear com uma espada.
+Hint=Use sua mão esquerda para poderes, armas de longo alcance e gadgets.
+Hint=Bem cronometrado, bloquear um ataque de espada deixará seu agressor desequilibrado.
+Hint=Segure o botão `GBA_Use` para guardar suas armas.
+Hint=Bloquear e contra-atacar são habilidades de combate essenciais.
+Hint=Fique ao lado de uma borda alcançável e segure o botão de pulo para escalar.
+Hint=Use a Roda de Acesso Rápido para restaurar a saúde com o Elixir de Sokolov.
+
+[DisBinkOverlayManager_HintSet_DLC07BaseIntro]
+Hint=Após um ataque do Supervisor ao seu esconderijo, Daud e seus assassinos planejam sua retaliação contra a bruxa Delilah.
+Hint=Dizem que Delilah e suas bruxas estão vivendo na Mansão Brigmore, uma propriedade abandonada rio Wrenhaven acima, a partir de Dunwall.
+Hint=Se invocado fora de combate, os assassinos têm coisas interessantes a dizer sobre o ambiente ao seu redor.
+Hint=O poder de Puxar pode ser usado para saquear objetos valiosos guardados à distância, sem correr o risco de ser detectado.
+Hint=Os Amuletos Corrompidos são mais poderosos que os Amuletos de Osso, mas o poder extra tem um preço igualmente alto.
+Hint=A Poeira Asfixiante vai parar os inimigos em seus rastros. Use isso como uma oportunidade para escapar ou virar o jogo no combate.
+
+[DisBinkOverlayManager_HintSet_DLC07Coldridge]
+Hint=A transmissão de música do Supervisor ao redor da Prisão de Coldridge tem a intenção de anular forças sobrenaturais ou heréticas.
+Hint=A segurança na Prisão de Coldridge foi reforçada devido à recente fuga de Corvo Attano.
+Hint=O destino do Alto Supervisor tensionou a já frágil relação entre os Supervisores e a Guarda da Cidade.
+Hint=Vários guardas que estavam de serviço durante a dramática fuga de Corvo Attano serão executados hoje no pátio da prisão.
+Hint=Certifique-se de revisar as Favoráveis disponíveis na loja no início de cada missão. Elas podem mudar drasticamente sua experiência.
+Hint=Encantamentos Corrompidos podem ser combinados com outros encantamentos ou poderes para aprimorar suas habilidades.
+Hint=A Mina Arco pode grudar em qualquer superfície, inclusive em criaturas vivas.
+
+[DisBinkOverlayManager_HintSet_DLC07DraperStreet]
+Hint=O Bairro dos Alfaiates está infestado de criminosos violentos. Tome cuidado.
+Hint=Uma das gangues do Bairro dos Drapers adquiriu tecnologia letal de Sokolov.
+Hint=Entre a aristocracia de Dunwall, o Bairro dos Alfaiates era o centro da alta-costura em tempos melhores.
+Hint=Um comerciante do mercado negro montou uma loja no Bairro dos Alfaiates.
+Hint=Dizem que a mansão Boyle vai realizar um evento de gala, do tipo que costumava ser comum no Distrito dos Alfaiates.
+Hint=O canal no Bairro dos Alfaiates já foi caudaloso, mas a água foi desviada do distrito desde então.
+Hint=A gangue Dead Eels usa ganchos de carga, antigamente ferramentas do comércio marítimo, como armas brancas cruéis.
+Hint=O poder de Puxar pode ser usado para puxar corpos mesmo quando estão sendo comidos por ratos.
+Hint=Se você parar de se mover durante o Piscar, o tempo vai parar. Isso funciona no meio do ar, permitindo mudanças radicais de direção.
+Hint=A Mina de Arco e a Mina de Atordoamento podem ser recolhidas após serem posicionadas, desde que não tenham sido ativadas por um inimigo.
+Hint=Correr e andar rápido deixam seus passos mais altos. Andar furtivamente é silencioso.
+Hint=Escale para alcançar locais mais altos e evitar inimigos.
+
+[DisBinkOverlayManager_HintSet_DLC07DraperShip]
+Hint=Lizzy Stride é a capitã do Undine, um cargueiro usado por sua gangue para contrabando.
+Hint=A maior parte do tráfego fluvial é restrito, mas a Undine tem permissão para passar por mestres portuários corruptos e oficiais da Patrulha Fluvial.
+Hint=A principal fonte da tecnologia militarizada de Dunwall — Anton Sokolov — desapareceu. Alguns suspeitam do assassino mascarado que tem aterrorizado Dunwall.
+Hint=Os Enguias Mortos usam mísseis carregados de ácido para mutilar e aterrorizar seus inimigos.
+Hint=As docas na beira do rio foram construídas sobre as ruínas de uma estrutura mais antiga que Dunwall.
+Hint=A gangue Dead Eels usa uma arma de aerossol carregada com uma substância ácida extraída dos River Krusts.
+Hint=Assassinos invocados não só lutam ao seu lado, como também servem de distração útil para inimigos e ratos.
+Hint=Atrás de cobertura, você não será detectado ao se inclinar para observar.
+Hint=Para deslizar, entre no modo furtivo enquanto estiver correndo.
+
+[DisBinkOverlayManager_HintSet_DLC07DraperSewer]
+Hint=As pessoas temem os esgotos, pois a maioria dos que entram nunca mais são ouvidos.
+Hint=O canal no Bairro dos Alfaiates já foi caudaloso, mas a água foi desviada do distrito desde então.
+Hint=Ninguém tem certeza do que aconteceu nos esgotos para fazer a água parar de fluir.
+Hint=A poeira sufocante não só funciona contra pessoas, como também ajuda a eliminar enxames de ratos.
+Hint=Equipe o poder sobrenatural Olhar do Vazio para revelar a localização de Runas e Amuletos Ósseos ao seu redor.
+Hint=As anotações são armazenadas no seu diário.
+Hint=Tábuas de madeira podem ser quebradas com ataques de espada.
+Hint=Destrua qualquer inimigo em seu caminho ou adote uma abordagem mais furtiva.
+Hint=Ratos não atacam chorões devido ao seu estado avançado de infecção pela peste.
+
+[DisBinkOverlayManager_HintSet_DLC07DraperMill]
+Hint=A Fábrica Têxtil é controlada por Mortimer Hat, conhecido como “O Velhote”, o líder da gangue dos Chapeleiros.
+Hint=Dizem que o Velhote está conectado a um dispositivo que vai liberar gás em todo o Moinho se ele for morto.
+Hint=O Moinho de Tecidos normalmente é movido por uma roda d'água, mas depois que o canal secou, eles levaram a bobina do motor para manter a produção funcionando.
+Hint=O Velhote tem uma enfermeira particular que cuida das suas necessidades de saúde.
+Hint=O poder de Puxar pode ser usado para arrastar corpos mesmo enquanto estão sendo devorados por ratos.
+Hint=O Mosteiro do Homem Comum está atualmente em estado de turbulência, com o cargo de Alto Supervisor recentemente tornado vago.
+Hint=Às vezes, você pode recuperar suas flechas de besta dos cadáveres.
+Hint=Bloqueie e contra-ataque enquanto seu inimigo está desequilibrado.
+
+[DisBinkOverlayManager_HintSet_DLC07BrigExt]
+Hint=Dizia-se que um dos mordomos da Mansão Brigmore era contrabandista e ladrão.
+Hint=Fornecedores de madeira há muito tempo, a família Brigmore perdeu sua fortuna durante o boom do óleo de baleia.
+Hint=As bruxas de Delilah supostamente conseguem animar plantas e animais mortos para servirem como sentinelas.
+Hint=Perturbar um crânio de cão-túmulo despertará o cão-túmulo, animado pela energia do Vazio.
+Hint=Os cães sobrenaturais de Brigmore vão caçá-lo implacavelmente, a menos que você descubra o segredo deles.
+Hint=Delilah é uma artista talentosa — escultora e pintora. Suas obras muitas vezes parecem estar observando aqueles que as contemplam.
+
+[DisBinkOverlayManager_HintSet_DLC07BrigInt]
+Hint=Dizem que Delilah Copperspoon trabalha em um estúdio secreto dentro da Mansão Brigmore.
+Hint=As bruxas de Delilah frequentemente contam com armadilhas cruéis para se proteger de intrusos.
+Hint=Muitas relíquias de família foram deixadas para trás quando a família Brigmore abandonou sua casa ancestral.
+Hint=As Bruxas de Brigmore são adversárias formidáveis, com uma variedade de poderes e ataques sobrenaturais.
+Hint=Algumas bruxas podem invocar o Espinheiro de Sangue, uma perigosa manifestação do poder de Delilah.
+
+[DisBinkOverlayManager_HintSet_DLC07BrigVoid]
+Hint=As estátuas de Delilah podem agir como sentinelas, mas com cuidado, é possível evitá-las.
+Hint=O local do ritual de Delilah está no Vazio, entre as raízes de uma árvore ancestral.
+Hint=Cair no Vazio não é fatal.
+Hint=Cuidado com os Espinheiros Sanguinários, que podem puxar qualquer inimigo dentro do alcance para fora dos penhascos.
+Hint=O Espinheiro de Sangue é uma armadilha mortal invocada pelas Bruxas de Brigmore durante a batalha.
+
+[DisBinkOverlayManager_HintSet_DLC07EndGame]
+Hint=Suas ações neste mundo têm um jeito de alcançá-lo.
+Hint=A história de Daud será sussurrada no submundo por muitos anos, embora sangue seja derramado em discussões sobre como ela terminou.
+Hint=Daud - o assassino conhecido como a Faca de Dunwall - ascendeu à infamia antes do início da Peste dos Ratos, e nunca mais foi visto após o seu fim.
+
+;DLC07_END
+
+[DisGFxMoviePlayerBase_Texts]
+t_Yes="SIM"
+t_No="NÃO"
+t_OK="OK"
+t_Select="SELECIONAR"
+t_Confirm="CONFIRMAR"
+t_Validate="ACEITAR"
+t_Apply="Aplicar"
+t_Exit="SAIR"
+t_Back="VOLTAR"
+t_Cancel="Cancelar"
+t_Cost="Custo:"
+t_YouHave="Você tem:"
+t_Options="Opções"
+t_EmptyList="Nada para exibir"
+t_DLC="Conteúdo para Download"
+t_DownloadableContent="Comprar Conteúdo para Download"
+t_DownloadableContent_XBOX="Comprar Conteúdo para Download"
+t_DownloadableContent_PS3="Gerenciar Conteúdo para Download"
+t_CoinsCount="§NB_COINS§ Moedas"
+t_CoinCount="§NB_COINS§ Moeda"
+t_Close="Fechar"
+t_Q_ReplayMission="Reiniciar uma missão substituirá os salvamentos automáticos anteriores. Continuar?"
+;--- MAIN TABS ---
+t_Objectives="OBJETIVOS"
+t_Powers="PODERES"
+t_Inventory="INVENTÁRIO"
+t_Logs="NOTAS"
+t_BoneCharms="AMULETOS DE OSSO"
+t_Stats="ESTATÍSTICAS"
+t_ContinueGame="Continuar"
+t_Checkpoint="Checkpoint"
+
+; DLC05_BEGIN
+t_Pts = "Pts"
+t_FilterFriends="Amigos"
+t_FilterMyPosition="Minha posição"
+t_FilterBestPosition="Melhor posição"
+t_LeaderboardsLoading="Carregando pontuações, por favor aguarde..."
+t_ShowGamercard_X360="Mostrar cartão do jogador"
+t_ShowGamercard_PC="Exibir perfil do jogador"
+t_PrevLeaderboard="Página de pontuação anterior"
+t_NextLeaderboard="Próxima página de pontuação"
+t_Retry="Rodada de Repetição"
+t_NormalMode = "Normal"
+t_ExpertMode = "Expert"
+t_MobilityType="Mobilidade"
+t_StealthType="Furtividade"
+t_ActionType="Ação"
+t_PuzzleType="Quebra-cabeça"
+t_ChallengesList = "Challenge selection"
+t_EndChallenge="Desafiar"
+t_Q_EndChallenge="Você quer encerrar o Desafio agora?"
+t_Q_BackToChallenges="Você deseja sair do Desafio e retornar ao menu §C_BLUE§Testes da Cidade de Dunwall§C§?"
+t_Q_BackToChallenges_IG="Você deseja sair do Desafio e voltar ao menu de §C_BLUE§Testes da Cidade de Dunwall§C§?<br>Suas pontuações não serão publicadas nas Tabelas de Líderes."
+t_Q_RestartChallenge="Você quer reiniciar o Desafio?"
+t_ExitChallenge="Sair do Desafio"
+t_ExitDLC05="Sair dos Desafios de Dunwall"
+t_Q_ExitDLC05="Você deseja sair de §C_BLUE§Desafios da Cidade de Dunwall§C§ e retornar ao Menu Principal?"
+t_Q_ExitDLC05_IG="Você deseja sair de §C_BLUE§Dunwall City Trials§C§ e voltar ao Menu Principal?<br>Suas pontuações não serão enviadas para as Tabelas de Classificação."
+t_Loading="Carregando"
+t_Leaderboards_X360 = "Leaderboards"
+t_Leaderboards_PS3 = "Leaderboards"
+t_RestartChallenge="Reiniciar Desafio"
+t_Zoom="Zoom"
+t_Move="Mover"
+t_FullScreen="Tela cheia"
+t_PreviousImage="Anterior"
+t_NextImage="Próximo"
+; DLC05_END
+
+; DLC06_BEGIN
+t_Favors="Favores"
+t_PurchaseFavor="Comprar Favores"
+t_DLC06_Name="A Faca de Dunwall"
+; DLC06_END
+
+; DLC07_BEGIN
+t_Favors="Favores"
+t_DLC07_Name="As Bruxas de Brigmore"
+; DLC07_END
+
+[DisGFxMoviePlayerMenuBase_Texts]
+;-- SPECIFIC PS3
+t_Q_DLCDeletionConfirm="Você deseja remover o conteúdo baixável selecionado do Disco Rígido (HDD)?"
+t_DeleteDLC="Excluir conteúdo para download"
+t_DLC_EmptyList="Nenhum conteúdo para download instalado no disco rígido (HDD)"
+t_PSStore="PlayStation®Store"
+t_DLC_LoadingList="Verificando conteúdo baixável instalado no disco rígido (HDD)"
+;-- END OF SPECIFIC PS3
+
+t_RestoreSettings="Restaurar configurações"
+t_Q_RestoreSettings="Você deseja restaurar as configurações da categoria atual (§CATEGORY§)?"
+t_Modify_ControlsScheme="Modificar esquema de controles"
+t_Modify_VideoSettings="Modificar configurações de vídeo"
+t_Modify_Gamma="Modificar brilho"
+t_Modify_StorageDevice="Selecione o Dispositivo de Armazenamento"
+t_LoadGame="Carregar"
+t_LoadGamePauseMenu="Carregar Jogo"
+t_DeleteSave="Excluir save"
+t_Q_LoadGame="Você quer carregar este save? Qualquer progresso não salvo será perdido e seus autosaves podem ser sobrescritos."
+t_Q_LoadGameMainMenu="Você deseja carregar este save? Seus autosaves podem ser sobrescritos."
+t_Q_SaveGame="Você quer sobrescrever este arquivo de salvamento?"
+t_Q_DeleteSave="Você quer deletar este save?"
+t_QuitGame="Sair do Jogo"
+t_Q_QuitGame="Você deseja sair do jogo?"
+t_BackToMainMenu="Voltar ao Menu Principal"
+t_Q_BackToMainMenu="Todo o progresso não salvo será perdido. Continuar?"
+t_Help="Tutoriais"
+t_ResumeGame="Continuar"
+t_SaveGame="Salvar Jogo"
+t_CreateNewSave="Criar um novo save"
+t_EmptySlot="Slot vazio"
+t_ReadTutorial="Ler tutorial"
+t_Pause="Pausar"
+t_Q_VideoSettings="Novas configurações foram aplicadas. Elas estão corretas?<br>(As configurações anteriores serão restauradas ao final da contagem regressiva)"
+t_GammaHint="Ajuste o brilho até conseguir ver apenas o símbolo mais escuro."
+t_BackToWindows="Voltar ao Windows"
+t_Q_BackToWindows="Você deseja sair do jogo e voltar ao Windows? Qualquer progresso não salvo será perdido."
+;-- GAME OVER
+t_GameOver="Fim de Jogo"
+t_ContinueFromLastSave="Continuar do Último Save"
+t_LoadASpecificSave="Carregar jogo"
+
+; DLC06_BEGIN
+t_ExitDLC06="Sair de §DLC06_NAME§"
+t_Q_ExitDLC06="Você deseja sair de §DLC06_NAME§ e voltar ao Menu Principal?"
+t_Q_ExitDLC06_IG="Você deseja sair de §DLC06_NAME§ e voltar ao Menu Principal? Qualquer progresso não salvo será perdido."
+t_BackToDLC06MainMenu="Sair da Missão"
+t_Q_BackToDLC06MainMenu="Você deseja sair da Missão e retornar ao Menu Principal de §DLC06_NAME§? Qualquer progresso não salvo será perdido."
+; DLC06_END
+
+; DLC07 BEGIN
+t_transitionFromDLC06Desc="Um save de §DLC06_NAME§ foi encontrado. Você pode usar seu progresso em §DLC07_NAME§. Você recuperará seu equipamento e poderes.<br/>Qual progresso você deseja usar?"
+t_noDLC06Save="Novo Jogo"
+t_useDLC06Save_q="Você escolheu usar o progresso §SAVE§ de §DLC06_NAME§ em §DLC07_NAME§. Continuar?"
+t_useNoDLC06Save_q="Você escolheu não usar nenhuma progressão de §DLC06_NAME§ em §DLC07_NAME§. Continuar?"
+; DLC07 END
+
+[DisGFxMoviePlayerMissionStats_Texts]
+t_ReplayMission="Reiniciar Missão"
+t_Found="Encontrado"
+
+[DisGFxMoviePlayerMainMenu_Texts]
+;--MAIN ------
+t_PressStart="PRESSIONE $Start$"
+t_PressAnyKey="PRESSIONE QUALQUER TECLA"
+t_NewGame="Novo Jogo"
+t_Missions="Missões"
+t_SeeMissionStats="Estatísticas da missão"
+t_Extras="Extras"
+t_ON="LIGADO"
+t_OFF="DESLIGADO"
+;-- NEW GAME SCREEN ------
+t_difficulty0="Fácil"
+t_difficulty0Desc="Uma experiência casual para novos jogadores. O dano dos inimigos é reduzido, sua recuperação de vida é melhorada e as poções são mais eficazes."
+t_difficulty1="Normal"
+t_difficulty1Desc="Furtividade e combate são moderadamente difíceis. Dano padrão dos inimigos e eficácia das poções."
+t_difficulty2="Difícil"
+t_difficulty2Desc="Desafio aumentado para jogadores experientes. Inimigos causam mais dano e são mais perceptivos."
+t_difficulty3="Muito Difícil"
+t_difficulty3Desc="Uma experiência brutal para jogadores hardcore. Os inimigos causam dano extremo, têm percepções aguçadas e as poções são menos eficazes."
+t_Q_NewGame="Criar um novo jogo irá sobrescrever os salvamentos automáticos anteriores. Continuar?"
+;-- MISSION ------
+t_Campaign="Campanha"
+t_MissionsScreenDesc="Escolha a missão para jogar"
+
+; DLC06 BEGIN
+t_difficulty0_DLC06="Novato"
+t_difficulty0_DLC06Desc="Uma experiência casual para novos jogadores. O dano dos inimigos é reduzido, sua recuperação de vida é melhorada e as poções são mais eficazes."
+t_difficulty1_DLC06="Veterano"
+t_difficulty1_DLC06Desc="Uma experiência moderadamente desafiadora. Os inimigos causam mais dano e possuem percepções mais aguçadas."
+t_difficulty2_DLC06="Elite"
+t_difficulty2_DLC06Desc="Um desafio sério para jogadores hardcore. Inimigos causam dano extremo, têm percepções aguçadas e poções são menos eficazes."
+t_difficulty3_DLC06="Mestre Assassino"
+t_difficulty3_DLC06Desc="Uma experiência brutal."
+
+; DLC06 END
+
+; DLC07 BEGIN
+t_HighChaos="Alto Caos"
+t_LowChaos="Baixo Caos"
+t_FreshProgression="Novo Jogo"
+t_Q_NewGame_DLC07="Criar um novo jogo substituirá os salvamentos automáticos anteriores de §DLC07_NAME§. Continuar?"
+
+;--- These are the same as in [DisGFxMoviePlayerBase_Texts] but must be written in capital letters ---
+t_DownloadableContent_Caps="CONTEÚDO PARA DOWNLOAD"
+t_DownloadableContent_Caps_XBOX="CONTEÚDO PARA DOWNLOAD"
+t_DownloadableContent_Caps_PS3="CONTEÚDO PARA DOWNLOAD"
+
+[Misc]
+t_MissionsScreenDesc="Missões e Conteúdo para Download"
+t_MissionsScreenDesc_XBOX="Missões e Conteúdo para Download"
+t_MissionsScreenDesc_PS3="Missões e Conteúdo para Download"
+
+[DisGFxMoviePlayerStore_Texts]
+t_Upgrades="MELHORIAS"
+t_Purchases="COMPRAS"
+t_PurchaseUpgrade="Compre esta melhoria"
+t_Purchase="Comprar"
+t_PurchaseConfirmation="Você quer comprar §ITEM§ por §PRICE§?"
+t_ItemQuantityOwned="Possuído:"
+t_NewUpgrade="Nova atualização disponível"
+t_NewUpgrades="Novas melhorias disponíveis"
+t_NewUpgradeDesc="O Projeto que você trouxe para Piero desbloqueia esta melhoria:"
+t_NewUpgradesDesc="Os Projetos que você trouxe para Piero desbloqueiam estas melhorias:"
+t_PrerequisiteItem="Item §ITEM§ necessário"
+;-- DLC06 BEGIN
+t_Q_ExitStore="Você deseja parar de fazer compras e prosseguir para a missão?"
+t_ExitStore="Iniciar Missão"
+t_NewUpgradeDesc_DLC06="O Plano que você encontrou desbloqueia esta melhoria:"
+t_NewUpgradesDesc_DLC06="Os Blueprints que você encontrou desbloquearam estas melhorias:"
+;-- DLC06 END
+
+[DisGFxMoviePlayerHUD_Texts]
+;--- MISC ---
+t_Hold="SEGURE"
+t_SkipScene="Pular"
+
+;--- OBJECTIVES WINDOW ---
+t_ObjCompleted="CONCLUÍDO:"
+t_ObjFailed="FALHOU:"
+t_ObjUpdated="ATUALIZADO:"
+t_ObjNew="NOVO:"
+
+;--- TARGET ASSASSINATION NOTIFICATIONS ---
+t_targetAssassinated="Alvo eliminado"
+t_targetNeutralized="Alvo neutralizado"
+t_targetRescued="Alvo resgatado"
+t_targetSpared="Alvo poupado"
+
+[DisGFxMoviePlayerJournal_Texts]
+;---SUB TABS---
+t_All="TODOS"
+t_KeyRing="CHAVEIRO"
+t_Resources="RECURSOS"
+t_Gadgets="GADGETS"
+t_Ammo="MUNIÇÃO"
+t_Upgrades="MELHORIAS"
+t_ConsumeElixir="Consumir elixir"
+
+;--- PAGE OBJECTIVES ---
+t_MissionItems="Itens da Missão"
+t_ChapterNotes="Pistas da missão"
+t_ShowHistory="Exibir histórico"
+t_HideHistory="Ocultar histórico"
+t_ShowHUDMarker="Mostrar marcador de objetivo"
+t_HideHUDMarker="Ocultar marcador de objetivo"
+t_EmptyObjectivesList="Sem tarefas no momento"
+t_Tasks="Tarefas"
+t_PrimaryTasks="Tarefas principais"
+t_SecondaryTasks="Tarefas Opcionais"
+
+;--- PAGE LOGS & NOTES ---
+t_AudioLogs="AUDIOGRAFIAS"
+t_Notes="NOTAS ESCRITAS"
+t_Books="LIVROS"
+t_Maps="MAPAS"
+t_readNote="LER NOTA"
+
+;--- PAGE BONE CHARMS ---
+t_CollectedBoneCharms="Amuletos de Ossos Coletados"
+t_BoneCharmsActivated="Ativação de Talismãs Ósseos:"
+t_BoneCharmEmptySlot="Uma vez ativado, um amuleto de osso aprimora suas capacidades. Muitos amuletos de osso podem ser coletados pelo mundo, cada um com propriedades diferentes.\nEste espaço está vazio, pressione $A$ para selecionar um amuleto de osso para ativar."
+
+;--- PAGE POWERS ---
+t_RunesCount="§NB_RUNES§ Runas"
+t_RuneCount="§NB_RUNES§ Runa"
+t_Acquired="Adquirido"
+t_Acquire="ADQUIRIR"
+t_Upgrade="ATUALIZAR"
+t_ManaConsumption="Consumo de mana:"
+t_AcquirePowers="ADQUIRA PODERES"
+t_AcquireThisPower="ADQUIRA ESTE PODER"
+t_UpgradeThisPower="MELHORE ESTE PODER"
+t_SeeDetails="VER TUTORIAL"
+t_ActivePowers="Poderes"
+t_PassivePowers="Melhorias"
+t_Level="Nível"
+;--
+t_WindBlast="Rajada de Vento"
+t_DarkVision="Visão das Sombras"
+t_Blink="Piscar"
+t_RatSwarm="Enxame Devorador"
+t_BendTime="Dobra o Tempo"
+t_Possession="Posse"
+
+t_ShadowKill="Morte Sombria"
+t_BloodThirst="Sede de Sangue"
+t_Celerity="Agilidade"
+t_Vitality="Vitalidade"
+t_Q_BuyPower="Você quer comprar este poder (§POWER_NAME§) por §RUNES_COST§ runa?"
+t_Q_BuyPower_plural="Você quer comprar este poder (§POWER_NAME§) por §RUNES_COST§ runes?"
+
+;--- PAGE STATS ---
+t_ValuablesGallery="GALERIA DE OBJETOS VALIOSOS"
+t_General="Geral"
+t_Combat="Combate"
+t_Heirlooms="HERANÇAS"
+t_Paintings="PINTURAS"
+t_Maps="MAPAS"
+t_Coins="MOEDAS"
+
+;--- GENERAL ---
+t_ActivateBoneCharm="ATIVAR AMULETO DE OSSO"
+t_RemoveBoneCharm="REMOVER AMULETO DE OSSO"
+t_SelectBoneCharm="SELECIONE ESTE AMULETO ÓSSEO"
+
+t_playLog="REPRODUZIR AUDIOGRAFO"
+t_stopLog="PARAR AUDIOGRAFO"
+t_displayMap="EXIBIR MAPA"
+
+[DisGFxMoviePlayerNote_Texts]
+t_Legend="Lenda"
+;-- STEALTH
+t_tuto_stealth_title="Furtividade"
+t_tuto_stealth_0="Pressione `GBA_Sneak` para entrar no modo furtivo, então fique atrás de cobertura para quebrar a linha de visão com os inimigos e evitar detecção. Enquanto estiver furtivo, seus passos são abafados."
+;-- JOURNAL
+t_tuto_journal_title="O Diário"
+t_tuto_journal_0="Pressione `GBA_Journal` para acessar o diário. Lá, você pode revisar seus objetivos de missão e escolher quais rastrear, ler pistas de missão e informações sobre seu equipamento, e gerenciar seus poderes sobrenaturais."
+t_tuto_journal_1_gamepad="Pressione $LShoulder$ / $RShoulder$ para mudar de seção."
+t_tuto_journal_1_keyboard="Clique nas abas para mudar de seção."
+;-- ASSASSINATIONS
+t_tuto_assassination_title="Assassinatos e Neutralizações Não Letais"
+t_tuto_assassination_0="Com uma espada em mãos, assassine um inimigo desprevenido pressionando `GBA_Primary` ou aproxime-se de um inimigo desprevenido por trás e segure `GBA_Block` para realizar uma neutralização não letal."
+t_tuto_assassination_1="Usar furtividade e a abordagem não letal traz benefícios: menos ratos e chorões, algumas pessoas reagem favoravelmente e o desfecho final não é tão sombrio."
+;-- POWER WHEEL CONSOLE
+t_tuto_wheel_title="Equipando Armas e Poderes"
+t_tuto_wheel_0="Pressione e segure `GBA_Wheel` para abrir a §C_BLUE§Roda de Acesso Rápido§C§. Selecione o gadget ou poder que deseja equipar na mão esquerda e solte `GBA_Wheel` para confirmar."
+t_tuto_wheel_1_gamepad="Atribua um atalho a uma arma ou poder selecionando o item na Roda de Acesso Rápido e pressionando qualquer direção no $DPad$"
+t_tuto_wheel_1_keyboard="Atribua um atalho de teclado a uma arma ou poder selecionando o item na §C_BLUE§Roda de Acesso Rápido§C§ e pressionando qualquer §C_BLUE§Tecla de Atalho§C§. Há 10 teclas de atalho disponíveis, e você pode reconfigurar as atribuições nas opções."
+;-- COMBAT
+t_tuto_combat_title="Combate"
+t_tuto_combat_0="Pressione `GBA_Primary` para atacar com a mão direita, ou `GBA_Secondary` para atacar com a mão esquerda se você tiver uma arma ou poder equipado."
+;-- BLOCK
+t_tuto_block_title="Bloqueio"
+t_tuto_block_0="Pressione e segure `GBA_Block` para bloquear ataques de espada. O timing perfeito desequilibrará os inimigos e os deixará vulneráveis a um contra-ataque letal."
+;-- PERFECT BLOCK
+t_tuto_perfectBlock_title="Bloqueio perfeito"
+t_tuto_perfectBlock_0="Pressione e segure `GBA_Block` para bloquear. Faça isso no momento exato para desequilibrar os inimigos e abri-los para um contra-ataque letal."
+;-- BLUE PRINTS
+t_tuto_bluePrint_title="Projetos"
+t_tuto_bluePrint_0="Colete Projetos para desbloquer novos aprimoramentos e equipamentos na oficina de Piero no Pub Pouso do Cão."
+;-- BONE CHARMS
+t_tuto_boneCharms_title="Amuletos de Ossos"
+t_tuto_boneCharms_0="Amuletos Ósseos concedem pequenos benefícios sobrenaturais. Localize-os ouvindo a "canção" que emitem. Por padrão, você pode ativar até 3 Amuletos Ósseos simultaneamente na seção de Amuletos Ósseos do Diário."
+;-- CHAOS
+t_tuto_chaos_title="Caos"
+t_tuto_chaos_0="Suas ações afetam a cidade. Um alto número de mortes resulta em mais ratos e chorões, reações diferentes de seus aliados e desfechos finais mais sombrios."
+;-- COUNTER ATTACK
+t_tuto_counterAttack_title="Contra-ataque"
+t_tuto_counterAttack_0="Você acabou de desequilibrar seu inimigo ao bloquear com o timing perfeito. Agora, pressione `GBA_Primary` para executar um contra-ataque letal."
+;-- PLAY YOUR WAY
+t_tuto_playYourWay_options_title="Jogue do Seu Jeito: Opções"
+t_tuto_playYourWay_options_0="A próxima área está repleta de caminhos que permitem várias abordagens para cumprir sua missão. Procure por plataformas elevadas, túneis de ratos, passagens aquáticas e esconderijos."
+t_tuto_playYourWay_pathways_title="Jogue do Seu Jeito: Caminhos"
+t_tuto_playYourWay_pathways_0="Você pode passar por esta Parede de Luz de várias maneiras:"
+t_tuto_playYourWay_pathways_1="- Desative-o removendo o tanque de óleo de baleia<br> - Suba pelas caixas à direita e use o telhado<br> - Encontre outro caminho seguindo as ruas à direita<br> - Possua um rato e use o pequeno túnel à esquerda"
+t_tuto_playYourWay_pathways2_title="Jogue do Seu Jeito: Caminhos"
+t_tuto_playYourWay_pathways2_0="Existem muitos caminhos para suas missões: ruas principais, becos, janelas, túneis de rato, telhados e vias aquáticas. Experimente diferentes formas de alcançar seus objetivos."
+t_tuto_playYourWay_powers_title="Jogue do Seu Jeito: Poderes"
+t_tuto_playYourWay_powers_0="Os Poderes que você obtém das Runas podem ser usados de forma criativa para derrotar inimigos ou se mover pelo ambiente. Teleporte-se de telhado em telhado, possua ratos e peixes, ou desacelere o tempo antes de avançar sobre um grupo de inimigos."
+;-- REWIRE TOOL
+t_tuto_rewireTool_title="Ferramenta de reconfiguração"
+t_tuto_rewireTool_0="Desative dispositivos de segurança ou faça-os trabalhar a seu favor usando uma Ferramenta de Redirecionamento no painel de circuitos do dispositivo que deseja hackear (isso consome a Ferramenta de Redirecionamento)."
+t_tuto_rewireTool_1="Paredes de Luz, Pórticos de Arco e Torres de Vigia religados prejudicarão seus inimigos em vez de você, enquanto alarmes religados serão completamente desativados."
+;-- SPRING RAZOR
+t_tuto_springRazor_title="Estilingue"
+t_tuto_springRazor_0="Uma armadilha de estilhaços pode ser fixada em qualquer superfície mirando nela e pressionando `GBA_Secondary`. Ela será ativada quando um inimigo se aproximar, lançando uma nuvem de estilhaços."
+;-- RUNES
+t_tuto_runes_title="Runas e Aquisição de Poderes"
+t_tuto_runes_0="Depois de coletar algumas Runas, abra o Diário e vá até a seção de Poderes para trocá-las por habilidades."
+t_tuto_runes_1="Runas podem ser coletadas e usadas para adquirir poderes sobrenaturais."
+;-- HEART
+t_tuto_heart_title="O Coração"
+t_tuto_heart_0="Equipar o Coração na mão esquerda ajuda você a localizar Talismãs de Ossos ou Runas, mesmo através de paredes.<br><br>O Coração bate e brilha quando você está virado para um Talismã de Ossos ou uma Runa, e bate mais rápido conforme você se aproxima.<br><br>O Coração sussurrará segredos se você pressionar `GBA_Secondary` enquanto mira em uma pessoa ou local."
+;-- LEAN
+t_tuto_lean_title="Inclinando-se nos Cantos"
+t_tuto_lean_0_gamepad="Ao segurar `GBA_Lean_Gamepad` e pressionar para a esquerda ou direita no Analógico Esquerdo, você pode se inclinar nas esquinas, permitindo olhar à frente sem ser visto pelos inimigos."
+t_tuto_lean_0_keyboard="Ao pressionar `GBA_LeanLeft` ou `GBA_LeanRight`, você pode se inclinar nas esquinas, permitindo que olhe à frente sem ser visto pelos inimigos."
+;-- SHOP
+t_tuto_shop_title="Loja e Melhorias"
+t_tuto_shop_0="Piero pode fabricar e aprimorar equipamentos com o dinheiro que você coleta."
+t_tuto_shop_1="Levar os §C_BLUE§planos§C§ coletados a Piero permitirá que você §C_BLUE§desbloqueie novas melhorias§C§ para comprar.<br>Esses serviços podem ser acessados conversando com Piero a qualquer momento."
+;-- DROP ASSASSINATION
+t_tuto_dropAssassination_title="Eliminação por Queda"
+t_tuto_dropAssassination_0="Pule sobre um inimigo de cima e pressione `GBA_Primary` pouco antes de pousar sobre ele para realizar um assassinato em queda. Você não sofrerá nenhum dano da queda."
+
+;----------- POWERS ---------
+;-- DEVOURING SWARM
+t_tuto_pRatsSwarm_title="Poder: Enxame Devorador"
+t_tuto_pRatsSwarm_0="Pressione `GBA_Secondary` para invocar um enxame voraz de ratos que consumirá cadáveres ou atacará o ser vivo mais próximo. Os ratos se dispersam após um tempo. No nível 2, mais ratos são gerados e devoram corpos mais rapidamente."
+;-- BLINK
+t_tuto_pBlink_title="Poder: Piscar"
+t_tuto_pBlink_0="Pressione `GBA_Secondary` para executar um avanço rápido e furtivo pelo mundo. Você também pode usá-lo para subir, mas a distância é reduzida. Mirar em bordas permitirá que você se Teleporte para frente e suba."
+t_tuto_pBlink_1="Segure `GBA_Secondary` para mirar seu destino com precisão. Uma esfera azul indica que você deve alcançar seu destino. Uma seta azul indica que você irá escalar ao chegar ao destino."
+t_tuto_pBlink_2="O poder do Piscar é útil para furtividade, exploração, combate e fugas de situações de combate."
+;-- WINDBLAST
+t_tuto_pWindBlast_title="Poder: Rajada de Vento"
+t_tuto_pWindBlast_0="Pressione `GBA_Secondary` para liberar uma poderosa rajada de vento, derrubando seus inimigos e arremessando-os. Esse poder também apagará incêndios, quebrará portas de madeira e soprará projéteis como flechas de volta para o inimigo que os disparou. No nível 2, o Sopro do Vento arremessará os inimigos contra a parede com força suficiente para matá-los."
+;-- DARKVISION
+t_tuto_pDarkVision_title="Poder: Visão das Sombras"
+t_tuto_pDarkVision_0="Pressione `GBA_Secondary` para enxergar no escuro e revelar seres vivos através de paredes sólidas. Você também pode ver seus campos de visão, além de uma representação visual dos sons que você emite. O nível 2 mostra itens importantes através das paredes, como dispositivos de segurança, armas, munição, moedas, chaves ou armadilhas."
+;-- POSSESSION
+t_tuto_pPossession_title="Poder: Possessão"
+t_tuto_pPossession_0="Pressione `GBA_Secondary` para se fundir fisicamente ao corpo de qualquer animal por um tempo limitado. Você pode encerrar a Possessão pressionando `GBA_Secondary` novamente. Se seu hospedeiro morrer, você sofrerá o mesmo destino. Animais pequenos não sobrevivem ao processo de possessão.<br><br>No nível 2, você também pode possuir pessoas. Dentro de outro corpo humano, você fica muito desajeitado para fazer qualquer coisa além de ações básicas, como abrir portas ou carregar objetos."
+;-- BEND TIME
+t_tuto_pBendTime_title="Poder: Dobrar o Tempo"
+t_tuto_pBendTime_0="Pressione `GBA_Secondary` para desacelerar o mundo ao seu redor por um tempo limitado, ou até que você pressione `GBA_Secondary` novamente para encerrar o poder. <br><br>No Nível 2, o tempo para completamente. Inimigos e sistemas de segurança não percebem sua presença durante a duração."
+;-- SHADOW KILL
+t_tuto_pShadowKill_title="Poder: Morte Sombria"
+t_tuto_pShadowKill_0="Cada vez que você mata um inimigo desprevenido, o corpo vira cinzas, desaparecendo para que você não precise escondê-lo. No nível 2, todos os inimigos mortos viram cinzas."
+;-- BLOOD THIRSTY
+t_tuto_pBloodThirsty_title="Poder: Sanguinário"
+t_tuto_pBloodThirsty_0_gamepad="Permite que você acumule Adrenalina bloqueando ataques, realizando assassinatos e causando dano corpo a corpo. Quando a Adrenalina estiver no máximo, aproxime-se de um inimigo e pressione `GBA_Lean_Gamepad` para uma fatalidade instantânea.<br><br>No Nível 2, toque duas vezes em `GBA_Lean_Gamepad` para executar um ataque de Adrenalina duplo, eliminando instantaneamente mais de um inimigo. Você pode se mover e mirar livremente durante a execução para mirar em seus alvos."
+t_tuto_pBloodThirsty_0_keyboard="Permite acumular Adrenalina bloqueando ataques, realizando assassinatos e causando dano corpo a corpo. Quando a Adrenalina estiver no máximo, aproxime-se de um inimigo e pressione `GBA_Block` + `GBA_Primary` para uma execução instantânea.<br><br>No Nível 2, pressione `GBA_Primary` duas vezes enquanto segura `GBA_Block` para executar um ataque duplo de Adrenalina, eliminando instantaneamente mais de um inimigo. Você pode se mover e mirar livremente durante essa ação para mirar em seus alvos."
+;-- VITALITY
+t_tuto_pVitality_title="Poder: Vitalidade"
+t_tuto_pVitality_0="Você tem uma barra de saúde estendida.<br>No nível 2, você regenera mais saúde, mais rápido."
+;-- CELERITY
+t_tuto_pCelerity_title="Poder: Agilidade"
+t_tuto_pCelerity_0="Você pode pular mais alto segurando `GBA_Jump`.<br><br>No nível 2, você consegue correr muito mais rápido."
+
+
+; DLC06 BEGIN
+;-------------- GADGETS ------
+;-- CHOKE DUST
+t_tuto_chokeDust_title="Poeira Sufocante"
+t_tuto_chokeDust_0="Este poderoso irritante pode ser arremessado, criando uma nuvem nociva. Inimigos afetados ficarão temporariamente cegos e incapacitados."
+;-- ARC MINE
+t_tuto_arcMine_title="Mina de Arco"
+t_tuto_arcMine_0="Coloque esta mina em quase qualquer lugar. Quando ativada, ela libera uma poderosa carga elétrica, reduzindo o alvo a cinzas."
+;-- ARC MINE STUN
+t_tuto_arcMineStun_title="Mina Atordoante"
+t_tuto_arcMineStun_0="Coloque esta mina em quase qualquer lugar. Quando acionada, ela liberará um choque elétrico, deixando o alvo inconsciente."
+;-- FAVORS
+t_tuto_favors_title="Favores"
+t_tuto_favors_0="Como Daud, você pode usar sua rede de espiões e mercadores corruptos para comprar equipamentos e melhorias antes de cada missão.<br><br>Você também pode pagar por Favores especiais. Esses Favores podem ter uma variedade de efeitos na missão, como conceder acesso a esconderijos de equipamentos ou revelar informações secretas."
+
+;----------- POWERS ---------
+;-- DARKVISION
+t_tuto_pDarkVision_DLC06_title="Poder: Olhar do Vazio"
+t_tuto_pDarkVision_DLC06_0="Pressione `GBA_Secondary` para enxergar no escuro e localizar Talismãs Ósseos e Runas. Com este poder equipado, a Marca do Forasteiro na mão de Daud brilhará quando você estiver de frente para um Talismã Ósseo ou uma Runa.<br><br>O Nível 2 permite ver itens importantes através de paredes sólidas, como dispositivos de segurança, munição, moedas e chaves, além de seres vivos. Você também pode ver seus campos de visão, bem como uma representação visual dos sons que você produz."
+;-- TRANSVERSAL
+t_tuto_pTransversal_title="Poder: Piscar"
+t_tuto_pTransversal_0="Desloque-se rapidamente de um lugar para outro sem ser notado. Você pode se mover horizontalmente e verticalmente, e mirar em bordas para escalá-las. O tempo congela se você parar de se mover enquanto mira, mesmo no meio de um pulo. Isso lhe dá tempo para planejar uma fuga ou realizar feitos como mudar de direção no ar.<br><br>Segure `GBA_Secondary` para mirar. Enquanto mira, um marcador esférico indica onde você vai parar. Para congelar o tempo, solte todos os controles de movimento, incluindo `GBA_Jump`."
+;-- SUMMON ASSASSIN
+t_tuto_pSummonAssassin_title="Poder: Invocar Assassino"
+t_tuto_pSummonAssassin_0="Como Daud, invoque aliados para se juntarem a você em combate.<br>Segure `GBA_Secondary` para mirar em um local ou inimigo. Solte `GBA_Secondary` para invocar um aliado assassino. Seu aliado assassino escolherá o inimigo mais próximo e atacará. Se você mirou em um inimigo, o assassino atacará esse personagem primeiro, e depois passará para outros inimigos próximos.<br>Se o assassino for invocado sem ninguém por perto para atacar, ele ficará por um tempo antes de desaparecer."
+;-- ARCANE BOND
+t_tuto_pArcaneBond_title="Poder: Vínculo Arcano"
+t_tuto_pArcaneBond_0="Compartilhe seus poderes com seus aliados assassinos. No nível 1, os assassinos se beneficiarão de `GBA_Blink` e `GBA_Vitality`. Isso significa que eles podem se teletransportar e ganhar um aumento de saúde.<br><br>No nível 2, os assassinos se beneficiam de `GBA_BendTime` e `GBA_ShadowKill`. Quando seu poder `GBA_BendTime` está ativo, os assassinos se movem na velocidade normal. Com `GBA_ShadowKill`, os inimigos viram cinzas em vez de deixar um corpo."
+
+;----------- BLUEPRINTS ---------
+t_tuto_bluePrint_DLC06_title="Projetos"
+t_tuto_bluePrint_DLC06_0="Colete Projetos para desbloquear novas melhorias e equipamentos no início da próxima missão."
+; DLC06 END
+
+; DLC07 BEGIN
+;-------------- GADGETS ------
+t_tuto_crackedCharms_title="Amuletos Ósseos Corrompidos"
+t_tuto_crackedCharms_0="Talismãs Ósseos Corrompidos são poderosos, mas vêm com um custo. Localize-os, como talismãs normais, ouvindo a "canção" que emitem ou usando o poder §C_BLUE§Olhar do Vazio§C§. Equipe-os na aba §C_BLUE§Talismãs Ósseos§C§ do Diário."
+;----------- POWERS ---------
+;-- PULL
+t_tuto_pPull_title="Poder: Puxar"
+t_tuto_pPull_0="No nível 1, agarre objetos inanimados à distância com `GBA_Secondary`. Itens como dinheiro, munição e chaves podem ser roubados de longe. Outros objetos fora de alcance, como garrafas ou Tanques de Óleo de Baleia, também podem ser pegos.<br>No nível 2, puxe seres vivos e corpos por um custo de mana um pouco maior do que para objetos inanimados. Quando os inimigos estão próximos o suficiente, são erguidos indefesos e podem ser executados ou sufocados. Cadáveres e corpos inconscientes são carregados automaticamente."
+;-- SUMMON ASSASSIN (same texts than DLC06)
+t_tuto_pSummonAssassinOR_title="Poder: Invocar Assassino"
+t_tuto_pSummonAssassinOR_0="Como Daud, invoque aliados para se juntarem a você em combate.<br>Segure `GBA_Secondary` para mirar em um local ou inimigo. Solte `GBA_Secondary` para invocar um aliado assassino. Seu aliado assassino escolherá o inimigo mais próximo e atacará. Se você mirou em um inimigo, o assassino atacará esse personagem primeiro, depois passará para outros inimigos próximos.<br>Se o assassino for invocado sem ninguém por perto para atacar, ele permanecerá por um tempo antes de desaparecer."
+; DLC07 END
+
+[MessageBoxErrors]
+Yes=Sim
+No=Não
+OK=OK
+Cancel=Cancelar
+Retry=Tentar novamente
+Delete=Excluir
+DeleteRetry=Excluir e tentar novamente
+FreespaceRetry=Espaço livre e tentar novamente
+Overwrite=Sobrescrever
+FreeDiscSpace=Espaço livre em disco
+Loading=Carregando
+Saving=Salvando
+ChangeStorage=Alterar armazenamento
+SelectStorageDevice=Selecionar dispositivo de armazenamento
+SignInError=Ocorreu uma alteração no login. Você será redirecionado para a tela inicial.
+SignOutError=Ocorreu uma alteração no login. Você será redirecionado para a tela de título.
+ControllerDisconnected=O controle foi desconectado. Reconecte um controle e pressione OK para continuar.
+StorageDeviceNotSelected=Nenhum dispositivo de armazenamento selecionado.
+NewStorageDeviceContainsUserSettingsTitle=Aviso
+NewStorageDeviceContainsUserSettingsText=Você selecionou um dispositivo de armazenamento que contém um arquivo existente de "Configurações do Usuário e Desbloqueios de Conteúdo para Download". Isso substituirá o progresso, pontuações, desbloqueios e configurações salvos neste arquivo. Deseja continuar?
+StorageDeviceDisconnected=O dispositivo de armazenamento foi desconectado.
+LoadingSaveDataCorrupted=Falha ao carregar. Os dados de salvamento estão corrompidos.
+SavingSaveDataCorrupted=Falha ao salvar. Os dados de salvamento estão corrompidos.
+SaveDataOwnershipFailedPS3_PC=Estes dados de salvamento não pertencem à sua conta.
+SaveDataOwnershipFailedX360=Estes dados de salvamento não pertencem ao seu perfil de jogador.
+StorageSpaceMissingX360=Não há espaço de armazenamento livre suficiente para salvar o jogo. Faltam `space_amount` kB. Selecionar um novo dispositivo de armazenamento e tentar novamente?
+StorageSpaceMissingPS3=Espaço de armazenamento livre insuficiente para salvar o jogo. Faltam `space_amount` kB.
+StorageSpaceMissingPC=Não há espaço de armazenamento livre suficiente para salvar o jogo. Faltam `space_amount` kB. Libere algum espaço antes de tentar novamente.
+GenericSaveFail=Houve um problema ao salvar o jogo.
+GenericLoadFail=Houve um problema ao carregar o jogo.
+GenericDeleteFail=Houve um problema ao excluir o jogo salvo.
+SaveDataUpdateMissingX360=Este jogo salvo foi criado em uma versão mais recente de Dishonored. Por favor, baixe todas as atualizações.
+SaveDataUpdateMissingPC_PS3=Falha ao carregar. O jogo precisa de um patch ausente para usar este jogo salvo.
+SaveDataDLCMissingX360=Conteúdo Necessário Indisponível. Certifique-se de que todos os dispositivos de armazenamento estejam devidamente conectados ou baixe o conteúdo novamente.
+SaveDataDLCMissingPS3=Conteúdo necessário indisponível. Verifique se o conteúdo está instalado ou baixe-o novamente.
+OnlineFeatureDisabledPS3=Para acessar este conteúdo, você precisa estar conectado à PlayStation®Network. Faça login em um perfil habilitado para PlayStation®Network.
+OnlineFeatureDisabledX360=Para acessar este conteúdo, você precisa estar conectado ao Xbox LIVE. Faça login em um perfil habilitado para Xbox LIVE.
+LoadingOptionsCorrupted=Falha ao carregar as opções. Os dados de salvamento estão corrompidos.
+OptionsOwnershipFailedPS3_PC=Estes dados de Opções não pertencem à sua conta.
+OptionsOwnershipFailedX360=Estes dados de Opções não pertencem ao seu perfil de jogador.
+GenericOptionsLoadFail=Falha ao carregar os dados salvos das opções.
+ResetOptionsToDefault=Redefinir opções para padrão
+ContinueWithoutSaving=Continuar sem salvar
+AutoSaveDisabled=Os salvamentos automáticos estão desativados. Você precisa salvar seu progresso para desbloquear a missão atual no menu principal. Deseja salvar?
+InaccessibleDLC=Conteúdo necessário indisponível. Certifique-se de que todos os dispositivos de armazenamento estejam conectados corretamente ou baixe o conteúdo novamente. Você será retornado à tela inicial.
+
+; DLC05_BEGIN
+
+LeaderboardUserNotConnectedErrorX360=Você não está conectado ao Xbox LIVE. As pontuações obtidas durante os desafios não serão publicadas nas Tabelas de Classificação. É necessário estar conectado ao Xbox LIVE para publicar pontuações nas Tabelas de Classificação.
+LeaderboardUserNotConnectedErrorPS3=Você não está conectado ao PlayStation®Network. As pontuações obtidas durante os desafios não serão publicadas nas Tabelas de Classificação. É necessário estar conectado ao PlayStation®Network para publicar pontuações nas Tabelas de Classificação.
+LeaderboardUserNotConnectedErrorPC=Você não está conectado ao Steam. As pontuações obtidas durante os desafios não serão publicadas nas Tabelas de Classificação. É necessário estar logado no Steam para publicar pontuações nas Tabelas de Classificação.
+LeaderboardUserDisconnectedErrorX360=Houve um problema ao ler as Tabelas de Classificação. Verifique sua conexão com o Xbox LIVE.
+LeaderboardUserDisconnectedErrorPS3=Houve um problema ao ler as Tabelas de Classificação. Verifique sua conexão com a PlayStation®Network.
+LeaderboardUserDisconnectedErrorPC=Houve um problema ao ler as Tabelas de Classificação. Verifique sua conexão com a Steam.
+LeaderboardAccessForbiddenErrorPS3=O serviço online está desativado na sua conta do PlayStation®Network devido a restrições de controle parental.
+LeaderboardGenericReadErrorX360=Houve um problema ao ler as Tabelas de Classificação. Verifique sua conexão com o Xbox LIVE. É necessário estar conectado ao Xbox LIVE para enviar pontuações às Tabelas de Classificação.
+LeaderboardGenericReadErrorPS3=Houve um problema ao ler as Tabelas de Classificação. Verifique sua conexão com a PlayStation®Network. É necessário estar conectado à PlayStation®Network para enviar pontuações às Tabelas de Classificação.
+LeaderboardGenericReadErrorPC=Houve um problema ao ler as Tabelas de Classificação. Verifique sua conexão com a Steam. Você precisa estar conectado à Steam para enviar pontuações às Tabelas de Classificação.
+LeaderboardIniVerificationFailed=Verificação de integridade dos arquivos falhou, as pontuações obtidas durante os desafios não serão publicadas nas Tabelas de Classificação.
+NetworkConnectionLostX360=A conexão com o Xbox LIVE foi perdida. Suas pontuações não serão publicadas nas Tabelas de Classificação. É necessário estar conectado ao Xbox LIVE para publicar pontuações nas Tabelas de Classificação.
+NetworkConnectionLostPS3=Você foi desconconectado do PlayStation®Network. Suas pontuações não serão publicadas nas Tabelas de Classificação. É necessário estar conectado ao PlayStation®Network para publicar pontuações nas Tabelas de Classificação.
+NetworkConnectionLostPC=A conexão com o Steam foi perdida. Suas pontuações não serão publicadas nas Tabelas de Classificação. Você precisa estar conectado ao Steam para publicar pontuações nas Tabelas de Classificação.
+NetworkConnectionLostNoScorePendingX360=Você foi desconconectado do Xbox LIVE. As Tabelas de Classificação estão indisponíveis no momento. Você precisa estar conectado ao Xbox LIVE para enviar pontuações às Tabelas de Classificação.
+NetworkConnectionLostNoScorePendingPS3=Você foi desconconectado do PlayStation®Network. As Tabelas de Classificação estão indisponíveis no momento. É necessário estar conectado ao PlayStation®Network para enviar pontuações às Tabelas de Classificação.
+NetworkConnectionLostNoScorePendingPC=Você foi desconconectado do Steam. As Tabelas de Classificação estão indisponíveis no momento. É necessário estar conectado ao Steam para enviar pontuações às Tabelas de Classificação.
+ContinueWithoutLeaderboardsX360=Continuar
+ContinueWithoutLeaderboardsPS3=Continuar sem Fazer Login
+ContinueWithoutLeaderboardsPC=Continuar
+SignInPS3=Entrar
+
+; DLC05_END
+
+;----------- MISC ---------
+[DishonoredUsableObject]
+m_MatchingKey=""
+
+[DisTweaks_Possessable]
+m_DisallowPossessionMessage="Este alvo não pode ser possuído no momento."
+
+[DisTweaks_AudioLogPlayer]
+m_Stages[1]=(m_InteractTextOverride="`GBA_Use` Stop the audiograph")
+m_UnlockInteractText="`GBA_Use` Unlock"
+m_LockedMessage=""
+m_UnauthorizedMessage=""
+m_FocusMessage=""
+m_FocusLockedMessage=""
+
+[DisTweaks_WhaleOilReceptacle]
+m_EmptyBatteryMessage="Este tanque está vazio"
+
+[DisTweaks_AlarmBell]
+m_UnlockInteractText=""
+m_LockedMessage=""
+m_UnauthorizedMessage=""
+m_FocusMessage=""
+m_FocusLockedMessage=""
+
+[DisTweaks_Climbable]
+m_StopClimbingInteractText="`GBA_Jump` pular"
+
+[DisTweaks_WaterSource]
+m_UnlockInteractText="`GBA_Use` Unlock"
+m_LockedMessage=""
+m_UnauthorizedMessage=""
+m_FocusMessage=""
+m_FocusLockedMessage=""
+
+[DisTweaks_DynamicUsableObject]
+m_Stages[1]=(m_InteractTextOverride=" `GBA_Use` close")
+m_UnlockInteractText=""
+m_LockedMessage=""
+m_UnauthorizedMessage=""
+m_FocusMessage=""
+m_FocusLockedMessage=""
+
+[DisTweaks_UsableObject]
+m_UnlockInteractText=""
+m_LockedMessage=""
+m_UnauthorizedMessage=""
+m_FocusMessage=""
+m_FocusLockedMessage=""
+
+[DisTweaks_Climbable]
+m_StopClimbingInteractText="`GBA_Jump` pular para fora"
+
+[DisTweaks_UsableObject]
+m_UnlockInteractText="`GBA_Use` Unlock"
+m_LockedMessage=""
+m_UnauthorizedMessage=""
+m_FocusMessage=""
+m_FocusLockedMessage=""
+
+[DisTweaks_WhaleOilReceptacle]
+m_EmptyBatteryMessage="Este tanque está vazio"
+
+[DisTweaks_WaterSource]
+m_UnlockInteractText="`GBA_Use` Unlock"
+m_LockedMessage=""
+m_UnauthorizedMessage=""
+m_FocusMessage=""
+m_FocusLockedMessage=""
+
+[DisTweaks_AlarmBell]
+m_UnlockInteractText=""
+m_LockedMessage=""
+m_UnauthorizedMessage=""
+m_FocusMessage=""
+m_FocusLockedMessage=""
+
+; DLC05_BEGIN
+
+[DisGFxMoviePlayerNote]
+m_DLCMaps[0].m_MapTitle="Mystery Foe Challenge Map"
+m_DLCMaps[1].m_MapTitle="Slaughterhouse Exterior"
+m_DLCMaps[1].m_Legend[0]=(m_Description="You are here")
+m_DLCMaps[1].m_Legend[1]=(m_Description="Loading Dock")
+m_DLCMaps[1].m_Legend[2]=(m_Description="Main Entrance")
+m_DLCMaps[1].m_Legend[3]=(m_Description="Break Room")
+m_DLCMaps[1].m_Legend[4]=(m_Description="Boat Storage")
+m_DLCMaps[1].m_Legend[5]=(m_Description="Sewer Flow Control")
+m_DLCMaps[2].m_MapTitle="Slaughterhouse Interior"
+m_DLCMaps[2].m_Legend[0]=(m_Description="You are here")
+m_DLCMaps[2].m_Legend[1]=(m_Description="Shipping")
+m_DLCMaps[2].m_Legend[2]=(m_Description="Meat Locker")
+m_DLCMaps[2].m_Legend[3]=(m_Description="Killing Floor")
+m_DLCMaps[2].m_Legend[4]=(m_Description="Refinery")
+m_DLCMaps[2].m_Legend[5]=(m_Description="Whale Harvesting")
+m_DLCMaps[2].m_Legend[6]=(m_Description="Laborer Washroom")
+m_DLCMaps[2].m_Legend[7]=(m_Description="Canteen")
+m_DLCMaps[2].m_Legend[8]=(m_Description="Accounting")
+m_DLCMaps[2].m_Legend[9]=(m_Description="Management Office")
+m_DLCMaps[3].m_MapTitle="Slaughterhouse Interior"
+m_DLCMaps[3].m_Legend[0]=(m_Description="You are here")
+m_DLCMaps[3].m_Legend[1]=(m_Description="Shipping")
+m_DLCMaps[3].m_Legend[2]=(m_Description="Meat Locker")
+m_DLCMaps[3].m_Legend[3]=(m_Description="Killing Floor")
+m_DLCMaps[3].m_Legend[4]=(m_Description="Refinery")
+m_DLCMaps[3].m_Legend[5]=(m_Description="Whale Harvesting")
+m_DLCMaps[3].m_Legend[6]=(m_Description="Laborer Washroom")
+m_DLCMaps[3].m_Legend[7]=(m_Description="Canteen")
+m_DLCMaps[3].m_Legend[8]=(m_Description="Accounting")
+m_DLCMaps[3].m_Legend[9]=(m_Description="Management Office")
+m_DLCMaps[4].m_MapTitle="Slaughterhouse Interior"
+m_DLCMaps[4].m_Legend[0]=(m_Description="You are here")
+m_DLCMaps[4].m_Legend[1]=(m_Description="Shipping")
+m_DLCMaps[4].m_Legend[2]=(m_Description="Meat Locker")
+m_DLCMaps[4].m_Legend[3]=(m_Description="Killing Floor")
+m_DLCMaps[4].m_Legend[4]=(m_Description="Refinery")
+m_DLCMaps[4].m_Legend[5]=(m_Description="Whale Harvesting")
+m_DLCMaps[4].m_Legend[6]=(m_Description="Laborer Washroom")
+m_DLCMaps[4].m_Legend[7]=(m_Description="Canteen")
+m_DLCMaps[4].m_Legend[8]=(m_Description="Accounting")
+m_DLCMaps[4].m_Legend[9]=(m_Description="Management Office")
+m_DLCMaps[5].m_MapTitle="Slaughterhouse Interior"
+m_DLCMaps[5].m_Legend[0]=(m_Description="You are here")
+m_DLCMaps[5].m_Legend[1]=(m_Description="Shipping")
+m_DLCMaps[5].m_Legend[2]=(m_Description="Meat Locker")
+m_DLCMaps[5].m_Legend[3]=(m_Description="Killing Floor")
+m_DLCMaps[5].m_Legend[4]=(m_Description="Refinery")
+m_DLCMaps[5].m_Legend[5]=(m_Description="Whale Harvesting")
+m_DLCMaps[5].m_Legend[6]=(m_Description="Laborer Washroom")
+m_DLCMaps[5].m_Legend[7]=(m_Description="Canteen")
+m_DLCMaps[5].m_Legend[8]=(m_Description="Accounting")
+m_DLCMaps[5].m_Legend[9]=(m_Description="Management Office")
+m_DLCMaps[6].m_MapTitle="Estate District"
+m_DLCMaps[6].m_Legend[0]=(m_Description="You are here")
+m_DLCMaps[6].m_Legend[1]=(m_Description="Timsh Estate and Law Offices")
+m_DLCMaps[6].m_Legend[2]=(m_Description="Apartment 7")
+m_DLCMaps[6].m_Legend[3]=(m_Description="Apartment 10")
+m_DLCMaps[6].m_Legend[4]=(m_Description="Watch Office")
+m_DLCMaps[6].m_Legend[5]=(m_Description="Hatter Gang Territory")
+m_DLCMaps[6].m_Legend[6]=(m_Description="Docks")
+m_DLCMaps[6].m_Legend[7]=(m_Description="Sewer Access")
+m_DLCMaps[6].m_Legend[8]=(m_Description="Treaver's Close")
+m_DLCMaps[6].m_Legend[9]=(m_Description="Whaler Outpost")
+m_DLCMaps[7].m_MapTitle="Timsh Estate"
+m_DLCMaps[7].m_Legend[0]=(m_Description="Law Offices")
+m_DLCMaps[7].m_Legend[1]=(m_Description="Reception")
+m_DLCMaps[7].m_Legend[2]=(m_Description="Office of Barrister Timsh")
+m_DLCMaps[7].m_Legend[3]=(m_Description="Timsh Apartment")
+m_DLCMaps[7].m_Legend[4]=(m_Description="Lobby")
+m_DLCMaps[7].m_Legend[5]=(m_Description="Restrooms")
+m_DLCMaps[7].m_Legend[6]=(m_Description="Storage")
+m_DLCMaps[7].m_Legend[7]=(m_Description="Smoking Lounge")
+m_DLCMaps[7].m_Legend[8]=(m_Description="Library")
+m_DLCMaps[7].m_Legend[9]=(m_Description="Barrister's Desk")
+m_DLCMaps[7].m_Legend[10]=(m_Description="Dining")
+m_DLCMaps[7].m_Legend[11]=(m_Description="Private Chambers")
+m_DLCMaps[8].m_MapTitle="Overseer Assault Plan"
+m_DLCMaps[8].m_Legend[0]=(m_Description="Commerce Building")
+m_DLCMaps[8].m_Legend[1]=(m_Description="Greaves Oil Refinery")
+m_DLCMaps[8].m_Legend[2]=(m_Description="Rudshore Gate")
+m_DLCMaps[8].m_Legend[3]=(m_Description="Suspected Occultist Lair")
+
+[DisDLC05GameInfo]
+m_Challenges[0]=(m_Name="Mystery Foe",m_Description="Collect the four clues without being detected to discover who your target is and execute him or her.",m_ExpertModeDesc="Very Hard stealth difficulty. The clues are placed on the belts of some characters.")
+m_Challenges[1]=(m_Name="Burglar",m_Description="Sneak into the mansion to recover the six Clockwork Eggs and as many valuables as you can, such as heirlooms, paintings, and coins.",m_ExpertModeDesc="Very Hard stealth difficulty. You have no supernatural powers. Some doors and chests are locked, and the placement of the valuables is different.")
+m_Challenges[2]=(m_Name="Back Alley Brawl",m_Description="Fight your way through increasingly difficult waves of enemies.",m_ExpertModeDesc="Combat difficulty set to Very Hard. The enemies are aware of you as soon as they appear.")
+m_Challenges[3]=(m_Name="Assassin’s Run",m_Description="Armed with just a crossbow, proceed through the level and shoot your targets as fast as possible while avoiding shooting civilians.",m_ExpertModeDesc="")
+m_Challenges[4]=(m_Name="Oil Drop",m_Description="Shoot as many falling Whale Oil Tanks as possible.",m_ExpertModeDesc="")
+m_Challenges[5]=(m_Name="Bend Time Massacre",m_Description="Break the glass to start Bend Time and kill as many enemies as possible. Between each successive round, a bonus challenge can be attempted.",m_ExpertModeDesc="")
+m_Challenges[6]=(m_Name="Kill Chain",m_Description="Kill an increasingly high number of enemies in a continuous chain using the environments and/or your powers. Between each round, a bonus challenge can be attempted.",m_ExpertModeDesc="")
+m_Challenges[7]=(m_Name="Bonfires",m_Description="Touch as many beams of red light as you can before the time runs out.",m_ExpertModeDesc="Assassins patrol the area. Grab the elixirs dispatched around the map to restore your mana.")
+m_Challenges[8]=(m_Name="Train Runner",m_Description="Reach the goal as fast as possible.",m_ExpertModeDesc="Mana is limited. Some Assassins patrol the area. Some obstacles are added.")
+m_Challenges[9]=(m_Name="Kill Cascade",m_Description="Perform Drop Assassinations as you try to reach the final platform as fast as possible.",m_ExpertModeDesc="Some obstacles are added between platforms. You take damage from falls.")
+
+[DisDLC05MoviePlayerHUD_Texts]
+t_GO = "GO!"
+t_Phase = "Round"
+t_Wave = "Round"
+t_Wave_inf = "Infinite Round"
+t_Unlocked = "Unlocked:"
+t_NewEggDiscovered = "§COUNT§/§MAX§ Clockwork Egg found"
+t_NewEggDiscovered_p = "§COUNT§/§MAX§ Clockwork Eggs found"
+t_PossibleKC = "Possible: "
+t_GoalKC = "Goal: "
+t_KillsKC = "Kills: "
+t_NextPhase="Próxima Rodada"
+t_BonusPhase="Rodada Bônus"
+t_ComboBroken="Corrente quebrada"
+t_EmilyDollFound="§COUNT§/§MAX§ Bonecas da Emily encontradas"
+
+[DisDLC05MoviePlayerChallengeMenu_Texts]
+t_Gallery = "Gallery"
+t_BackToMainMenu = "Back to Main Menu"
+t_ExpertModeTitle = "Expert mode: "
+t_ChallengeUnlockCondition = "To unlock this challenge, you have to obtain §C_WHITE§2 stars§C§ in Normal mode (§PTS_COUNT§)"
+t_StartChallenge="Iniciar Desafio"
+t_Credits="Créditos"
+t_DLC05_Name="Provas da Cidade de Dunwall"
+t_Q_DLC05_BackToMain="Sair de §C_BLUE§Desafios da Cidade de Dunwall§C§ para voltar ao menu principal?"
+t_Welcome_txt0="Bem-vindo às Provas da Cidade de Dunwall!<br>Aqui você pode aprimorar suas habilidades de assassino sobrenatural em §C_WHITE§10 desafios diferentes§C§ e comparar seu desempenho com o de outros jogadores ao redor do mundo.<br>Há 4 tipos de desafios:"
+t_Welcome_txt1="Sua pontuação é avaliada com uma classificação de 3 Estrelas. Para cada Estrela conquistada, você desbloqueia uma obra de arte na §C_WHITE§Galeria§C§."
+t_Welcome_txt2="Conseguir uma classificação de §C_WHITE§2 Estrelas§C§ em alguns desafios desbloqueia uma versão §C_WHITE§Especialista§C§ desse desafio."
+t_Welcome_txt3_Xenon="Seu progresso, pontuações e desbloqueios são salvos automaticamente nas suas configurações de usuário."
+t_Welcome_txt3_PS3="Seu progresso, pontuações e desbloqueios são salvos automaticamente nas suas configurações de usuário."
+t_Welcome_txt3_PC="Seu progresso, pontuações e desbloqueios são salvos automaticamente nas suas configurações de usuário."
+t_ArtworkUnlockCondition_0="Desbloqueio: Obtenha §STARS§ estrela(s) (§PTS_COUNT§) em §CHALLENGE§ - §MODE§"
+t_ArtworkUnlockCondition_0p="Desbloqueio: Obtenha §STARS§ estrelas (§PTS_COUNT§) em §CHALLENGE§ - §MODE§"
+t_ArtworkUnlockCondition_1="Desbloqueio: Desbloqueie todas as obras de arte do modo §MODE§"
+[DisDLC05MoviePlayerResultsMenu_Texts]
+t_BestScore="Melhor pontuação no desafio"
+t_FinalScore="Pontuação Final"
+t_NewRecord="Novo Recorde!"
+t_Found="Encontrado"
+t_NotFound="Não encontrado"
+t_EmilyDoll="A Boneca da Emily"
+t_ReplayChallenge="Desafio de Replay"
+t_UnlockedArtworkTitle="Obra de arte desbloqueada"
+t_UnlockedArtworkTxt="Uma nova ilustração está disponível na galeria"
+t_UnlockedChallengeTitle="Desafio desbloqueado"
+t_UnlockedChallengeTxt="O desafio “§NAME§” (Especialista) já está disponível"
+
+[DisDLC05MoviePlayerBrief_Texts]
+t_Section_Ob="Objetivos"
+t_Section_Sc="Pontuação"
+t_Section_Sp="Especial"
+t_Section_Go="Fim de jogo"
+t_Type="Tipo:"
+
+
+t_AssassinsTraining_N_Ob_d="Armado apenas com uma besta, avance pelo nível e atire em seus alvos o mais rápido possível, evitando os civis."
+t_AssassinsTraining_N_Ob_0="Este desafio vai testar sua mobilidade e sua precisão. A área está cheia de inimigos. Cada sala fica trancada até que você acerte todos os alvos. Sua besta tem munição infinita."
+t_AssassinsTraining_N_Sc_0="Quanto mais rápido você chegar ao fim, mais pontos você ganha."
+t_AssassinsTraining_N_Sc_1="Atire nos inimigos com precisão e estilo para uma pontuação melhor."
+t_AssassinsTraining_N_Sc_2="Poupar civis aumenta sua pontuação."
+t_AssassinsTraining_N_Go_d="O desafio termina se você morrer."
+
+
+t_BendTimeMassacre_N_Ob_d="Quebre o vidro para ativar o Tempo Distorcido (por alguns segundos) e mate o máximo de inimigos possível."
+t_BendTimeMassacre_N_Ob_0="Você enfrentará uma sequência de rodadas com situações e recursos diferentes. Use o ambiente a seu favor. Você pode repetir uma rodada quantas vezes quiser, mas apenas a pontuação da primeira tentativa bem-sucedida será adicionada ao seu total."
+t_BendTimeMassacre_N_Sc_0="Cada eliminação te dá pontos."
+t_BendTimeMassacre_N_Sc_1="Matar inimigos com estilo te dá mais pontos."
+t_BendTimeMassacre_N_Sc_2="Eliminar todos os inimigos em um round concede pontos bônus."
+t_BendTimeMassacre_N_Sp_d="Cada vez que uma rodada é concluída, você tem uma única tentativa para jogar uma rodada bônus com um objetivo único, ganhando pontos extras se completá-la."
+t_BendTimeMassacre_N_Go_d="Nenhum. Se você falhar em uma rodada ou morrer, basta reiniciá-la."
+
+
+t_Arena_N_Ob_d="Lute seu caminho através de ondas de inimigos cada vez mais difíceis."
+t_Arena_N_Sc_0="Cada inimigo que você elimina concede pontos."
+t_Arena_N_Sc_1="Matar inimigos com estilo te dá mais pontos."
+t_Arena_N_Sp_0="Um Mercador Dourado aparecerá por 30 segundos. Acerte-o para ganhar munição e elixires. Mate-o para obter melhorias de equipamento."
+t_Arena_N_Sp_1="Runas aparecem aleatoriamente no ambiente entre algumas rodadas. Colete-as para obter um novo poder."
+t_Arena_N_Sp_2="Há facções rivais, e elas vão lutar entre si. Você pode usar essa situação a seu favor, mas apenas suas próprias eliminações aumentarão sua pontuação."
+t_Arena_N_Go_d="O desafio acaba se você morrer."
+t_Arena_E_Ob_0="Os inimigos causam muito mais dano e sabem onde você está assim que aparecem."
+
+
+t_ChainKill_N_Ob_d="Elimine um número crescente de inimigos com menos de 4 segundos entre cada abate."
+t_ChainKill_N_Ob_0="A contagem regressiva entre cada abate só começa após o primeiro ataque."
+t_ChainKill_N_Ob_1="Leve o tempo necessário para planejar sua sequência de ações. Experimente seus poderes sobrenaturais e gadgets. A habilidade Dobrar o Tempo é sua maior aliada. Também é possível usar o ambiente de forma criativa."
+t_ChainKill_N_Sc_0="Cada eliminação te dá pontos."
+t_ChainKill_N_Sc_1="Quanto menor o tempo entre as mortes, mais pontos você ganha."
+t_ChainKill_N_Sc_2="Matar inimigos com estilo te dá mais pontos."
+t_ChainKill_N_Sp_d="Cada vez que uma rodada é concluída, você tem uma única tentativa para jogar uma rodada bônus com um objetivo único, ganhando pontos extras se completá-la."
+t_ChainKill_N_Go_d="Nenhuma. Se você falhar em uma rodada, basta reiniciá-la."
+
+
+t_Countdown_N_Ob_d="Toque no maior número de feixes de luz vermelha possível antes que o tempo acabe."
+t_Countdown_N_Ob_0="Toque nos feixes de luz vermelhos que aparecem aleatoriamente.<br>Cada feixe de luz que você alcançar estenderá a contagem regressiva.<br>Poderes de mobilidade como `GBA_Blink` e `GBA_Agility` são as melhores ferramentas para este desafio.<br>Se você cair no Vazio, reiniciará no último feixe que alcançou."
+t_Countdown_N_Ob_1="Não há dano de queda.<br>Sua mana recarrega muito rapidamente, então não hesite em usar Piscar com frequência."
+t_Countdown_N_Sc_0="Cada feixe vermelho alcançado aumenta sua pontuação, incluindo um bônus por alcançar o próximo rapidamente."
+t_Countdown_N_Sc_1="Alguns saltos difíceis concedem um bônus de pontuação quando executados."
+t_Countdown_N_Go_d="O desafio termina quando o cronômetro chegar a 0."
+t_Countdown_E_Ob_1="Assassinos patrulham a área.<br>Sua mana se regenerará lentamente.<br>Pegue os elixires de mana pela área para restaurá-la mais rápido."
+t_Countdown_E_Sc_2="Sua saúde restante ao final do desafio concede um bônus de pontuação."
+t_Countdown_E_Go_d="O jogo termina quando o cronômetro chega a 0 ou se você morrer."
+
+
+t_DropAttack_N_Ob_d="Execute Assassinatos em Queda enquanto tenta alcançar a plataforma final o mais rápido possível."
+t_DropAttack_N_Ob_0="Inimigos são marcados por um feixe de luz.<br>Para conseguir recompensas melhores ou avançar mais rápido, você pode sair do caminho marcado.<br>Se cair no Vazio, você reinicia na plataforma do último inimigo que derrotou."
+t_DropAttack_N_Ob_1="Você não sofre dano ao cair."
+t_DropAttack_N_Sc_0="Quanto maior a queda antes de um assassinato em queda, mais pontos você marca."
+t_DropAttack_N_Sc_1="Quanto mais rápido você chegar ao fim, maior será sua pontuação."
+t_DropAttack_N_Sp_d="Se você seguir o caminho, pode usar a cor dos feixes de luz como pista:"
+t_DropAttack_N_Sp_0="VERDE: Corra e caia para alcançar o alvo (Sem Pular, Sem Piscar)."
+t_DropAttack_N_Sp_1="AMARELO: Corra e faça um Salto de Agilidade para alcançar o alvo (Sem Piscar)."
+t_DropAttack_N_Sp_2="VERMELHO: Corra, faça um Salto de Agilidade e Pisque para alcançar o alvo."
+t_DropAttack_N_Go_d="Nenhum."
+t_DropAttack_E_Ob_1="Você realmente sofre dano ao cair, então realizar Assassinatos de Queda bem-sucedidos é sua melhor chance de sobrevivência.<br>A área tem obstáculos adicionais."
+t_DropAttack_E_Go_d="O desafio acaba se você morrer."
+
+ 
+t_MysteryMan_N_Ob_d="Colete as quatro pistas sem ser detectado para descobrir quem é seu alvo e executá-lo."
+t_MysteryMan_N_Ob_0="O alvo é escolhido aleatoriamente cada vez que você joga.<br>Você pode tentar descobrir quem é seu alvo sem todas as pistas, mas se matar um inocente, o desafio acaba.<br>NÃO seja visto, caso contrário seu alvo tentará fugir. Se ele ou ela escapar, o desafio acaba."
+t_MysteryMan_N_Sc_0="Se você eliminar a pessoa certa sem coletar todas as pistas, receberá um bônus de pontuação."
+t_MysteryMan_N_Sc_1="Evitar os guardas completamente vale mais pontos do que deixá-los inconscientes."
+t_MysteryMan_N_Go_d="O desafio acaba se o alvo escapar ou se você matar uma pessoa inocente."
+t_MysteryMan_E_Ob_1="As pistas estão nos cintos de alguns personagens. Você terá que roubá-los. Os inimigos têm uma percepção mais aguçada."
+
+
+t_OilRain_N_Ob_d="Atire no máximo possível de Tanques de Óleo de Baleia que estão caindo.<br>Você tem uma pistola totalmente melhorada com munição infinita. Cada rodada termina com uma "Rodada Especial" mais desafiadora, sinalizada por um som de trombeta."
+t_OilRain_N_Sc_0="Cada tanque destruído te dá pontos."
+t_OilRain_N_Sc_1="Você ganha um bônus de pontuação se destruir vários tanques ao mesmo tempo."
+t_OilRain_N_Sc_2="Você ganha um bônus de pontuação se não errar nenhum tanque durante uma rodada."
+t_OilRain_N_Sc_3="Você ganha um bônus de pontuação por boa precisão."
+t_OilRain_N_Sp_d="Existem vários tipos de Tanques de Óleo de Baleia:"
+t_OilRain_N_Sp_0="Tanque Comum: serve apenas para pontos"
+t_OilRain_N_Sp_1="Tanque de Ouro: desacelera o tempo por 2 segundos"
+t_OilRain_N_Sp_2="Tanque Rosa: restaura 35% da sua saúde"
+t_OilRain_N_Sp_3="Tanque Roxo: cria uma nuvem de fumaça ao ser atingido"
+t_OilRain_N_Sp_4="Tanque Verde: ativa a Visão Noturna por 15 segundos"
+t_OilRain_N_Go_d="O desafio acaba se você morrer."
+
+
+t_Race_N_Ob_d="Alcance a linha de chegada o mais rápido possível.<br>Poderes de mobilidade como `GBA_Blink` e `GBA_Agility` são as melhores ferramentas para este desafio."
+t_Race_N_Ob_0="Você começa com a barra de Mana cheia."
+t_Race_N_Sc_0="Quanto mais rápido você chegar ao fim, maior será sua pontuação."
+t_Race_N_Sc_1="Sua saúde e mana restantes ao final do desafio concedem pontos bônus."
+t_Race_N_Go_d="O desafio acaba se você morrer ou cair no Vazio."
+t_Race_E_Ob_0="Você não começa com a barra de Mana cheia, e Assassinos patrulham a área. A área tem obstáculos adicionais."
+
+
+t_Thief_N_Ob_d="Roube os seis Ovos Mecânicos e saia da mansão."
+t_Thief_N_Ob_0="Invada na mansão para recuperar os Ovos e o máximo de objetos de valor que conseguir."
+t_Thief_N_Ob_1="NÃO seja visto. Ninguém pode saber que você esteve lá."
+t_Thief_N_Sc_0="Evitar os guardas vale mais pontos do que deixá-los inconscientes, o que, por sua vez, vale mais do que matá-los."
+t_Thief_N_Sc_1="Quanto mais saques opcionais você coletar, mais pontos você marca."
+t_Thief_N_Sp_d="Esta mansão está cheia de segredos, procure em todos os lugares."
+t_Thief_N_Go_d="O desafio acaba quando você for visto 3 vezes ou morrer."
+t_Thief_E_Ob_2="Você não tem poderes sobrenaturais.<br>Algumas portas e baús agora estão trancados.<br>A localização de muitos itens valiosos foi alterada.<br>Os inimigos têm percepções mais aguçadas e causam mais dano."
+t_Thief_E_Sp_0="Fique de olho nas 16 figurinhas escondidas."
+
+
+[DLC05MiscTexts]
+NewDLCInstalled=Vá ao menu MISSÕES* para encontrar seu novo Pacote de Conteúdo para Download.
+NewDLCInstalled_XBOX=Vá ao menu MISSÕES* para encontrar seu novo Pacote de Conteúdo para Download.
+NewDLCInstalled_PS3=Vá ao menu MISSÕES* para encontrar seu novo Pacote de Conteúdo para Download.
+DollFoundMessage=`c/`t Dolls found
+
+; DLC05_END
+
+; DLC06_BEGIN
+[DisDLC06MoviePlayerMainMenu_Texts]
+t_Gallery = "Gallery"
+t_BackToMainMenu = "Back to Main Menu"
+t_Credits="Créditos"
+t_LastDifficultyUnlockCondition="Complete a campanha para desbloquer o modo de dificuldade Assassino Mestre."
+ProfileSaveWarning=Desbloquear um novo modo de dificuldade é salvo automaticamente nas suas configurações de usuário.
+
+; DLC06_END

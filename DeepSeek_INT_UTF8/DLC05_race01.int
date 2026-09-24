@@ -1,0 +1,7 @@
+﻿[DLC01_race01_obj DishonoredObjective]
+m_Description="Chegue ao final o mais rápido possível"
+
+[DLC01_race01_obj:DishonoredTask_Custom_0 DishonoredTask_Custom]
+m_Description="Chegue ao final"
+m_Status=""
+

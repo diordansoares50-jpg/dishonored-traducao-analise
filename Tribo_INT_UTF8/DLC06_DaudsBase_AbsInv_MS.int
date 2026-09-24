@@ -1,0 +1,25 @@
+﻿[DLC06_AbsInv_AttackPlans DisAbstractItem]
+m_ItemName="Overseer Assault Plan"
+m_PluralItemName=""
+m_Description="Drafted by the Office of the High Overseer, dedicated to finding and eradicating Daud's mercenary assassins and their hideout."
+
+[DLC06_Notes_BoneCharm DisAbstractItem]
+m_ItemName="Heretical Artifact"
+m_PluralItemName=""
+m_Description="Please log this superstitious artifact. It was found on one of Daud's men in a training area within the commerce building. There should be a crate in the temporary headquarters for items of this nature. Deposit it there after you create a log entry for it.\n\nOverseer Marcus"
+
+[DLC06_Notes_Flooded DisAbstractItem]
+m_ItemName="Abandoned Journal"
+m_PluralItemName=""
+m_Description="I've managed to make a space for myself here. Thankfully, Rudshore is all but completely abandoned. Up in this room, I'm protected from the occasional scavenger and the flooding during heavy rain. I'd like to return to my office in the commerce building to see if I can find some of my old books, but I've yet to build up the courage. Eventually, I'll run out of canned meats and then I'll have no choice. No need for courage when desperation kicks in."
+
+[DLC06_Notes_VictoryLetter DisAbstractItem]
+m_ItemName="Victory Letter"
+m_PluralItemName=""
+m_Description="Overseer Pike,\nI have taken the commerce building. A temporary headquarters has been set up in a nearby structure. My men are dealing with a number of captives that should prove to be very informative. We have achieved a total victory here, catching the enemy by surprise. The plans for a larger coordinated assault were obviously unnecessary. I am confident that Daud will show himself and will be in our custody shortly. \n\nOverseer Leonard Hume"
+
+[DLC06_Notes_WaterLevel DisAbstractItem]
+m_ItemName="Pump System Report"
+m_PluralItemName=""
+m_Description="Log Entry: Standing water, not more than ankle deep. Something must be blocking the drainage.\n\nLog Entry: Drainage was cleared and the standing water isn't an issue any longer. Note: Pump system may be insufficient for high-volume situations.\n\nLog Entry: Waist-high water, drainage problems again. The accountants are going to have to swim to work if something isn't done about the pump system.\n\nLog: Last day in Rudshore: my new post starts tomorrow. I've restated my concerns about the pumps. I suggest my replacement check the valve pressures and system mechanical integrity immediately."
+

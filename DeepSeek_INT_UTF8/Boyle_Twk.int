@@ -1,0 +1,89 @@
+﻿[Door_Transitions.LTD_Balcony_to_Bedroom:DisTweaks_InteractableInterface_16 DisTweaks_InteractableInterface]
+m_Name="Porta"
+m_InteractText="Pressione `k para ir ao Segundo Andar da Mansão (Proibido!)"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Door_Transitions.LTD_Ballroom_to_Garden:DisTweaks_InteractableInterface_16 DisTweaks_InteractableInterface]
+m_Name="Porta"
+m_InteractText="Pressione `k para ir para os Jardins Boyle"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Door_Transitions.LTD_Bedroom_to_Balcony:DisTweaks_InteractableInterface_16 DisTweaks_InteractableInterface]
+m_Name="Porta"
+m_InteractText="Pressione `k para ir ao Jardim Varanda"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Door_Transitions.LTD_Cellar_to_Sewer:DisTweaks_InteractableInterface_16 DisTweaks_InteractableInterface]
+m_Name="Porta Indestrutível"
+m_InteractText="`k para ir para os Esgotos"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Door_Transitions.LTD_Courtyard_to_Foyer:DisTweaks_InteractableInterface_16 DisTweaks_InteractableInterface]
+m_Name="Porta"
+m_InteractText="Pressione `k para ir ao Saguão da Mansão Boyle"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Door_Transitions.LTD_Foyer_to_Courtyard:DisTweaks_InteractableInterface_16 DisTweaks_InteractableInterface]
+m_Name="Porta"
+m_InteractText="Pressione `k para ir ao Pátio Boyle"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Door_Transitions.LTD_Garden_to_Ballroom:DisTweaks_InteractableInterface_16 DisTweaks_InteractableInterface]
+m_Name="Porta"
+m_InteractText="Pressione `k para ir ao Salão de Baile da Mansão Boyle"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Door_Transitions.LTD_Sewer_to_Cellar:DisTweaks_InteractableInterface_16 DisTweaks_InteractableInterface]
+m_Name="Porta Indestrutível"
+m_InteractText="`k para ir para as Adegas da Mansão Boyle"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Special.vault_switch_twk:DisTweaks_InteractableInterface_0 DisTweaks_InteractableInterface]
+m_Name="Interruptor de Segurança da Porta"
+m_InteractText="`GBA_Use` usar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[static_watch_tower_twk:DisTweaks_InteractableInterface_16 DisTweaks_InteractableInterface]
+m_Name=""
+m_InteractText=""
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+m_UnlockInteractText="`GBA_Use` Desbloquear"
+
+[wheel_for_teleport_twk:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Roda de Manivela"
+m_InteractText="Segure `GBA_Use` Virar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+

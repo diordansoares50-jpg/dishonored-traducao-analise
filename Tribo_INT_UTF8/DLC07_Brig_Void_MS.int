@@ -1,0 +1,8 @@
+﻿[EmilyPaintingUse_twk:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Ritual Painting Frame"
+m_InteractText="`GBA_Use` Replace Painting"
+
+[RitualNoteUse_twk:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Ritual Notes"
+m_InteractText="`GBA_Use` Read the Ritual Notes"
+

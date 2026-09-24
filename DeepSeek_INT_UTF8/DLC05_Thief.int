@@ -1,0 +1,55 @@
+﻿[THIEF_Obj DishonoredObjective]
+m_Description="Ladrão"
+
+[THIEF_Obj:DishonoredTask_Custom_10 DishonoredTask_Custom]
+m_Description="Volte para onde você começou"
+m_Status=""
+
+[THIEF_Obj:DishonoredTask_Custom_14 DishonoredTask_Custom]
+m_Description="(Opcional) Colete todos os itens valiosos."
+m_Status=""
+
+[THIEF_Obj:DishonoredTask_Custom_15 DishonoredTask_Custom]
+m_Description="Ladrão de Torta!"
+m_Status=""
+
+[THIEF_Obj:DishonoredTask_Custom_16 DishonoredTask_Custom]
+m_Description="Um conjunto completo"
+m_Status=""
+
+[THIEF_Obj:DishonoredTask_Custom_17 DishonoredTask_Custom]
+m_Description="Encontre o Ovo Driscol"
+m_Status=""
+
+[THIEF_Obj:DishonoredTask_Custom_18 DishonoredTask_Custom]
+m_Description="Encontre o Ovo de Redmoor"
+m_Status=""
+
+[THIEF_Obj:DishonoredTask_Custom_19 DishonoredTask_Custom]
+m_Description="Encontre o Ovo de Wynnedown"
+m_Status=""
+
+[THIEF_Obj:DishonoredTask_Custom_20 DishonoredTask_Custom]
+m_Description="Encontrar Ovo de Potterstead"
+m_Status=""
+
+[THIEF_Obj:DishonoredTask_Custom_21 DishonoredTask_Custom]
+m_Description="Encontre o Ovo Cullero"
+m_Status=""
+
+[THIEF_Obj:DishonoredTask_Custom_22 DishonoredTask_Custom]
+m_Description="Encontre todos os ovos de corda."
+m_Status=""
+
+[THIEF_Obj:DishonoredTask_Custom_7 DishonoredTask_Custom]
+m_Description="Entre na mansão"
+m_Status=""
+
+[THIEF_Obj:DishonoredTask_Custom_8 DishonoredTask_Custom]
+m_Description="Encontre o Ovo Yaro"
+m_Status=""
+
+[THIEF_Obj:DishonoredTask_Custom_9 DishonoredTask_Custom]
+m_Description="(Opcional) Colete 2000 moedas em itens de valor"
+m_Status=""
+

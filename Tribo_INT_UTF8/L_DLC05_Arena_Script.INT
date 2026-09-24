@@ -1,0 +1,20 @@
+﻿[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_ShowLocationDiscovery_16 DisSeqAct_ShowLocationDiscovery]
+m_LocationName="Merchant Round"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_ShowLocationDiscovery_19 DisSeqAct_ShowLocationDiscovery]
+m_LocationName="A Rune Has Appeared"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_DLC05_MarkerControl_2 DisSeqAct_DLC05_MarkerControl]
+m_TargetName="Merchant"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_DLC05_MarkerControl_1 DisSeqAct_DLC05_MarkerControl]
+m_TargetName="Rune"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_DLC05_MarkerControl_0 DisSeqAct_DLC05_MarkerControl]
+m_TargetName="Merchant"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_DialogScriptedChoice_0 DisSeqAct_DialogScriptedChoice]
+m_Title=""
+m_Choices[0]=(m_ChoiceText="Retry")
+m_Choices[1]=(m_ChoiceText="Return to Challenges Menu")
+

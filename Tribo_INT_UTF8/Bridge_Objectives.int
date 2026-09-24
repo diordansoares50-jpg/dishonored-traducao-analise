@@ -1,0 +1,73 @@
+﻿[Abduct_Sokolov DishonoredObjective]
+m_Description="Sequestre Sokolov"
+
+[Abduct_Sokolov:DishonoredTask_Custom_0 DishonoredTask_Custom]
+m_Description="Encontre Sokolov"
+m_Status=""
+
+[Abduct_Sokolov:DishonoredTask_Custom_1 DishonoredTask_Custom]
+m_Description="Leve Sokolov para o barqueiro Samuel em baixo da ponte próxima da casa de Sokolov"
+m_Status=""
+
+[Abduct_Sokolov:DishonoredTask_Custom_2 DishonoredTask_Custom]
+m_Description="Viaje com o barqueiro Samuel para a Ponte de Kaldwin"
+m_Status=""
+
+[Abduct_Sokolov:DishonoredTask_Custom_4 DishonoredTask_Custom]
+m_Description="Viaje com Samuel (e Sokolov) de volta para o Bar Cova do Cão"
+m_Status=""
+
+[Abduct_Sokolov:DishonoredTask_Custom_5 DishonoredTask_Custom]
+m_Description="Encontre e entre na casa de Sokolov"
+m_Status=""
+
+[Abduct_Sokolov:DishonoredTask_Custom_7 DishonoredTask_Custom]
+m_Description="Deixe Sokolov inconsciente"
+m_Status=""
+
+[Abduct_Sokolov:DishonoredTask_Custom_8 DishonoredTask_Custom]
+m_Description="Desative os holofotes dos pontos de controle para que Samuel possa se aproximar da casa de Sokolov"
+m_Status=""
+
+[Painting_Safe DishonoredObjective]
+m_Description="(Opcional) Investigue o cofre"
+
+[Painting_Safe:DishonoredTask_Custom_9 DishonoredTask_Custom]
+m_Description="(Opcional) Abra o cofre escondido atrás do quadro"
+m_Status=""
+
+[Thug_Prisoner DishonoredObjective]
+m_Description="(Opcional) Ajude o Varredor"
+
+[Thug_Prisoner:DishonoredTask_Custom_0 DishonoredTask_Custom]
+m_Description="(Opcional) Encontre a chave da cela"
+m_Status=""
+
+[Thug_Prisoner:DishonoredTask_Custom_1 DishonoredTask_Custom]
+m_Description="(Opcional) Siga o Varredor"
+m_Status=""
+
+[Thug_Prisoner:DishonoredTask_Custom_2 DishonoredTask_Custom]
+m_Description="(Opcional) Mate as ostras do rio"
+m_Status=""
+
+[Thug_Prisoner:DishonoredTask_Custom_3 DishonoredTask_Custom]
+m_Description="(Opcional) Encontre a chave do pier"
+m_Status=""
+
+[Thug_Prisoner:DishonoredTask_Custom_4 DishonoredTask_Custom]
+m_Description="(Opcional) Abre a cela"
+m_Status=""
+
+[Thug_Prisoner:DishonoredTask_Custom_5 DishonoredTask_Custom]
+m_Description="(Opcional) Siga o Varredor"
+m_Status=""
+
+[Thug_Prisoner:DishonoredTask_Custom_6 DishonoredTask_Custom]
+m_Description="(Opcional) Abra a porta do pier"
+m_Status=""
+
+[Thug_Prisoner:DishonoredTask_Custom_7 DishonoredTask_Custom]
+m_Description="(Opcional) Siga o Varredor"
+m_Status=""
+

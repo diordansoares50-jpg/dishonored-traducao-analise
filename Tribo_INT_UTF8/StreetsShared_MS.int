@@ -1,0 +1,8 @@
+﻿[Chains.Climbable_chain_NonFixed_900_Twk:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Corrente"
+m_InteractText="`GBA_Use` Agarrar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+

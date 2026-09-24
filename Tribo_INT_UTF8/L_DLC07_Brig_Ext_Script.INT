@@ -1,0 +1,72 @@
+﻿[TheWorld:PersistentLevel.Main_Sequence.GraveYardAccess.DisSeqAct_DialogScriptedChoice_0 DisSeqAct_DialogScriptedChoice]
+m_Title=""
+m_Choices[0]=(m_ChoiceText="Repair the grave switch")
+m_Choices[1]=(m_ChoiceText="Wait")
+
+[TheWorld:PersistentLevel.Main_Sequence.Main_Entrance.DisSeqAct_DialogScriptedChoice_8 DisSeqAct_DialogScriptedChoice]
+m_Title=""
+m_Choices[0]=(m_ChoiceText="Go to Brigmore Manor")
+m_Choices[1]=(m_ChoiceText="Stay in Brigmore Exterior")
+
+[TheWorld:PersistentLevel.Main_Sequence.Main_Entrance.DisSeqAct_ShowHUDMessage_9 DisSeqAct_ShowHUDMessage]
+m_Message="New Mission Clue Added"
+
+[TheWorld:PersistentLevel.Main_Sequence.Main_Entrance.DisSeqAct_UpdateTaskTarget_0 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Front Door"
+
+[TheWorld:PersistentLevel.Main_Sequence.Main_Entrance.DisSeqAct_UpdateTaskTarget_1 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Backyard"
+
+[TheWorld:PersistentLevel.Main_Sequence.Main_Entrance.DisSeqAct_UpdateTaskTarget_2 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Front Door"
+
+[TheWorld:PersistentLevel.Main_Sequence.Objectives.AcquireGrannyObjective.DisSeqAct_UpdateTaskTarget_34 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Brigmore Water Source"
+
+[TheWorld:PersistentLevel.Main_Sequence.Objectives.DisSeqAct_ShowHUDMessage_0 DisSeqAct_ShowHUDMessage]
+m_Message="New Mission Clue Added"
+
+[TheWorld:PersistentLevel.Main_Sequence.Objectives.DisSeqAct_ShowHUDMessage_9 DisSeqAct_ShowHUDMessage]
+m_Message="New Mission Clue Added"
+
+[TheWorld:PersistentLevel.Main_Sequence.Objectives.DisSeqAct_ShowLocationDiscovery_0 DisSeqAct_ShowLocationDiscovery]
+m_LocationName="Brigmore Crypt"
+
+[TheWorld:PersistentLevel.Main_Sequence.Objectives.DisSeqAct_ShowLocationDiscovery_1 DisSeqAct_ShowLocationDiscovery]
+m_LocationName="Brigmore Estate"
+
+[TheWorld:PersistentLevel.Main_Sequence.Objectives.DisSeqAct_UpdateTaskTarget_0 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Garden Shed"
+
+[TheWorld:PersistentLevel.Main_Sequence.Objectives.DisSeqAct_UpdateTaskTarget_29 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Crypt"
+
+[TheWorld:PersistentLevel.Main_Sequence.Objectives.DisSeqAct_UpdateTaskTarget_36 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Garden Shed"
+
+[TheWorld:PersistentLevel.Main_Sequence.Objectives.DisSeqAct_UpdateTaskTarget_42 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Graveyard"
+
+[TheWorld:PersistentLevel.Main_Sequence.Objectives.PlayerFindsCrypt.DisSeqAct_UpdateTaskTarget_43 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Note"
+
+[TheWorld:PersistentLevel.Main_Sequence.Objectives_Level_Transitions.DisSeqAct_DialogScriptedChoice_1 DisSeqAct_DialogScriptedChoice]
+m_Title=""
+m_Choices[0]=(m_ChoiceText="Go to Brigmore Manor")
+m_Choices[1]=(m_ChoiceText="Stay in the Crypt")
+
+[TheWorld:PersistentLevel.Main_Sequence.StoreFavorObjectives.DisSeqAct_UpdateTaskTarget_0 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Cache"
+
+[TheWorld:PersistentLevel.Main_Sequence.StoreFavorObjectives.DisSeqAct_UpdateTaskTarget_1 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Waterfall"
+
+[TheWorld:PersistentLevel.Main_Sequence.StoreFavorObjectives.DisSeqAct_UpdateTaskTarget_2 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Shoreline"
+
+[TheWorld:PersistentLevel.Main_Sequence.StoreFavorObjectives.DisSeqAct_UpdateTaskTarget_39 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Red-jacket Witch"
+
+[TheWorld:PersistentLevel.Main_Sequence.StoreFavorObjectives.DisSeqAct_UpdateTaskTarget_40 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Hole in the Fence"
+

@@ -1,0 +1,24 @@
+﻿[Pwn_Griff_MSmall DisTweaks_NPCPawn]
+m_BusyText="Este personagem está ocupado"
+m_CannotStealMessage="Você não pode carregar mais munição deste tipo"
+
+[Pwn_Griff_MSmall:DisTweaks_InteractableInterface_15 DisTweaks_InteractableInterface]
+m_Name="Griff"
+m_InteractText=""
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Pwn_Griff_Weeper_MSmall DisTweaks_NPCPawn]
+m_BusyText="Este personagem está ocupado"
+m_CannotStealMessage="Você não pode carregar mais munição deste tipo"
+
+[Pwn_Griff_Weeper_MSmall:DisTweaks_InteractableInterface_15 DisTweaks_InteractableInterface]
+m_Name="Griff"
+m_InteractText=""
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+

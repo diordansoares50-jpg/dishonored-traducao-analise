@@ -1,0 +1,170 @@
+﻿[Alarm.Alarm_Regent_twk:DisTweaks_Interactable_AlarmBell_0 DisTweaks_Interactable_AlarmBell]
+m_UnringAlarmText="`GBA_Use` silêncio"
+m_Name="Sino de Alarme"
+m_InteractText="`GBA_Use` anel"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[AudiographPanel_twk:DisTweaks_InteractableInterface_16 DisTweaks_InteractableInterface]
+m_Name="Reprodutor de Audiograph"
+m_InteractText="`GBA_Use` Reproduzir Audiógrafo"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Door_Transitions.LedgeTransitionDoor_twk:DisTweaks_InteractableInterface_16 DisTweaks_InteractableInterface]
+m_Name="Para o Exterior da Torre de Dunwall"
+m_InteractText="`GBA_Use` Abrir"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Door_Transitions.LedgeTransitionDoorExt_twk:DisTweaks_InteractableInterface_16 DisTweaks_InteractableInterface]
+m_Name="Para o Saguão da Torre de Dunwall"
+m_InteractText="`GBA_Use` Abrir"
+
+[Door_Transitions.LTD_Courtyard_to_Foyer_twk DisTweaks_UsableObject]
+m_UnlockInteractText="`GBA_Use` Desbloquear"
+m_LockedMessage="Trancada. Você precisa da `k"
+m_UnauthorizedMessage=""
+m_FocusMessage=""
+m_FocusLockedMessage=""
+
+[Door_Transitions.LTD_Courtyard_to_Foyer_twk:DisTweaks_InteractableInterface_16 DisTweaks_InteractableInterface]
+m_Name="Para o Saguão da Torre de Dunwall"
+m_InteractText="`GBA_Use` Abrir"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Door_Transitions.LTD_FishEntrance_to_Foyer_twk DisTweaks_UsableObject]
+m_UnlockInteractText="`GBA_Use` Desbloquear"
+m_LockedMessage="Trancado. Você precisa da `k"
+m_UnauthorizedMessage=""
+m_FocusMessage=""
+m_FocusLockedMessage=""
+
+[Door_Transitions.LTD_FishEntrance_to_Foyer_twk:DisTweaks_InteractableInterface_16 DisTweaks_InteractableInterface]
+m_Name="Para o Vestíbulo da Torre de Dunwall"
+m_InteractText="`GBA_Use` Abrir"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Door_Transitions.LTD_FoyerLedge_to_YardLedge_twk:DisTweaks_InteractableInterface_16 DisTweaks_InteractableInterface]
+m_Name=""
+m_InteractText="Pressione `GBA_Use` Viajar para o Parapeito do Pátio da Torre"
+
+[Door_Transitions.LTD_FoyerMain_To_Courtyard_twk DisTweaks_UsableObject]
+m_UnlockInteractText="`GBA_Use` Desbloquear"
+m_LockedMessage="Trancado. Você precisa da `k"
+m_UnauthorizedMessage=""
+m_FocusMessage=""
+m_FocusLockedMessage=""
+
+[Door_Transitions.LTD_FoyerMain_To_Courtyard_twk:DisTweaks_InteractableInterface_16 DisTweaks_InteractableInterface]
+m_Name="Para o Exterior da Torre de Dunwall"
+m_InteractText="`GBA_Use` Abrir"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Door_Transitions.LTD_FoyerSide_to_FishEnt_twk DisTweaks_UsableObject]
+m_UnlockInteractText="`GBA_Use` Desbloquear"
+m_LockedMessage="Trancado. Você precisa da `k"
+m_UnauthorizedMessage=""
+m_FocusMessage=""
+m_FocusLockedMessage=""
+
+[Door_Transitions.LTD_FoyerSide_to_FishEnt_twk:DisTweaks_InteractableInterface_16 DisTweaks_InteractableInterface]
+m_Name="Para o Exterior da Torre de Dunwall"
+m_InteractText="`GBA_Use` Abrir"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Door_Transitions.LTD_Ledge_to_Foyer_twk:DisTweaks_InteractableInterface_16 DisTweaks_InteractableInterface]
+m_Name=""
+m_InteractText="Pressione `GBA_Use` Viajar para a Cornija do Vestíbulo"
+
+[Door_Transitions.LTD_rooftop_to_interiorStairs_twk DisTweaks_UsableObject]
+m_UnlockInteractText="`GBA_Use` Desbloquear"
+m_LockedMessage="Trancado. Você precisa da `k"
+m_UnauthorizedMessage=""
+m_FocusMessage=""
+m_FocusLockedMessage=""
+
+[Door_Transitions.LTD_rooftop_to_interiorStairs_twk:DisTweaks_InteractableInterface_16 DisTweaks_InteractableInterface]
+m_Name="Para o Interior da Torre de Dunwall"
+m_InteractText="`GBA_Use` Abrir"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Door_Transitions.LTD_TowerStairs_to_Roof_twk DisTweaks_UsableObject]
+m_UnlockInteractText="`GBA_Use` Desbloquear"
+m_LockedMessage="Esta porta é aberta em outro lugar."
+m_UnauthorizedMessage=""
+m_FocusMessage=""
+m_FocusLockedMessage=""
+
+[Door_Transitions.LTD_TowerStairs_to_Roof_twk:DisTweaks_InteractableInterface_16 DisTweaks_InteractableInterface]
+m_Name="Para o Topo da Torre de Dunwall"
+m_InteractText="`GBA_Use` Abrir"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[FireplaceLightSwitch_twk:DisTweaks_InteractableInterface_16 DisTweaks_InteractableInterface]
+m_Name="Luz"
+m_InteractText="`GBA_Use` Virar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Lens_Lever_twk DisTweaks_UsableObject]
+m_LockedMessage="Não pode ser usado agora"
+
+[Pwn_PropagandaOfficer DisTweaks_NPCPawn]
+m_BusyText="Este personagem está ocupado"
+m_CannotStealMessage="Você não pode carregar mais munição deste tipo"
+
+[Pwn_PropagandaOfficer:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Oficial de Propaganda"
+m_InteractText=""
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[TowerReturn_Notes_Granny DisAbstractItem]
+m_ItemName="Querida"
+m_PluralItemName=""
+m_Description="Oh, queridinho, queridinho. Lá no porão, tão sombrio. Por que você não vem me ver? Quando você estava aqui, nós os fizemos gritar, não foi? Volte para me visitar e eu lhe darei outro presente, entalhado e brilhante. Você não é lá muito bom para uma conversa decente, sabe, mas eu adoro vê-lo trabalhar. Volte e eu lhe contarei histórias, que histórias.
+
+Sua Querida Vovó"
+
+[TowerReturn_Notes_Worship DisAbstractItem]
+m_ItemName="Supervisor Chant"
+m_PluralItemName=""
+m_Description="Refreie uma mente errante antes que se torne irascível e dividida. Dois inimigos podem ocupar o mesmo corpo? Não, pois o primeiro o conduzirá para um lado, e o segundo para outro, até que tropecem num fosso. Da mesma forma, dois pensamentos contrários não podem permanecer por muito tempo na mente de um homem, ou ele se tornará fraco de vontade e sujeito a qualquer heresia. Refreie a língua mentirosa que é como uma faísca na boca de um homem. É coisa tão pequena, mas de uma única faísca uma cidade inteira pode arder até ao chão. O pai de uma mentira sofrerá um castigo agravado por cada pessoa a quem ela for transmitida. Refreie os pés errantes que adoram transgredir. Eles não dão atenção às pedras que demarcam os campos de outros homens. Vagueiam por terras estrangeiras, apenas para regressar com as solas enegrecidas pela iniquidade."
+
+[tray_twk:DisTweaks_InteractableInterface_17 DisTweaks_InteractableInterface]
+m_Name="Painel"
+m_InteractText="`GBA_Use` Carregar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+

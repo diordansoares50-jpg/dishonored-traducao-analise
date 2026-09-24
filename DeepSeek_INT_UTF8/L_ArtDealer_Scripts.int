@@ -1,0 +1,37 @@
+﻿[TheWorld:PersistentLevel.DisDoor_0 DisDoor]
+m_DoorName=""
+m_MatchingKey=""
+m_MatchingKeys[0]="Art Dealer's Safe Combination"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_DialogScriptedChoice_0 DisSeqAct_DialogScriptedChoice]
+m_Title=""
+m_Choices[0]=(m_ChoiceText="Go to Clavering Blvd")
+m_Choices[1]=(m_ChoiceText="Stay at Art Dealer's Apartment")
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_DialogScriptedChoice_1 DisSeqAct_DialogScriptedChoice]
+m_Title=""
+m_Choices[0]=(m_ChoiceText="Go to Bottle Street")
+m_Choices[1]=(m_ChoiceText="Stay at Art Dealer's Apartment")
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_DialogScriptedChoice_2 DisSeqAct_DialogScriptedChoice]
+m_Title=""
+m_Choices[0]=(m_ChoiceText="Go to Clavering Blvd")
+m_Choices[1]=(m_ChoiceText="Stay at Art Dealer's Apartment")
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_DialogScriptedChoice_3 DisSeqAct_DialogScriptedChoice]
+m_Title=""
+m_Choices[0]=(m_ChoiceText="Go to Clavering Blvd")
+m_Choices[1]=(m_ChoiceText="Stay at Art Dealer's Apartment")
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_ShowHUDMessage_3 DisSeqAct_ShowHUDMessage]
+m_Message="Nova Pista de Missão Adicionada"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_ShowLocationDiscovery_1 DisSeqAct_ShowLocationDiscovery]
+m_LocationName="Apartamento do Marchand"
+
+[TheWorld:PersistentLevel.Main_Sequence.HeartTargets.DisSeqAct_UpdateTaskTarget_0 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Boulevard Clavering"
+
+[TheWorld:PersistentLevel.Main_Sequence.HeartTargets.DisSeqAct_UpdateTaskTarget_14 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Avenida Clavering"
+

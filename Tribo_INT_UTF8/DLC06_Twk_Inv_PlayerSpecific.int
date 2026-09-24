@@ -1,0 +1,10 @@
+﻿[DLC06_Inv_WristbowDaud:pPlayerSpecific DisTweaks_InventoryItem_PlayerSpecific]
+m_Name="Daud's Wristbow"
+m_Description="A silent, concealed weapon crafted from the finest materials. Used to launch bolts, sleep darts and explosive bolts."
+
+[DLC06_Proj_Wristbolt_DELETEME:DisTweaks_InteractableInterface_0 DisTweaks_InteractableInterface]
+m_Name="Explosive Bolt"
+
+[DLC06_Proj_WristBolt_Explosive:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Explosive Bolt"
+

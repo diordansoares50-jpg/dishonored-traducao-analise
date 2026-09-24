@@ -1,0 +1,75 @@
+﻿[DLC07_DW_GetEngineCoil_Obj DishonoredObjective]
+m_Description="Restaurar O Motor Da Nave"
+
+[DLC07_DW_GetEngineCoil_Obj:DishonoredTask_Custom_0 DishonoredTask_Custom]
+m_Description="Voltar à Orla"
+m_Status=""
+
+[DLC07_DW_GetEngineCoil_Obj:DishonoredTask_Custom_1 DishonoredTask_Custom]
+m_Description="Instale a bobina do motor na Undine"
+m_Status=""
+
+[DLC07_DW_GetEngineCoil_Obj:DishonoredTask_Custom_2 DishonoredTask_Custom]
+m_Description="Recuperar a bobina do motor"
+m_Status=""
+
+[DLC07_DW_GetEngineCoil_Obj:DishonoredTask_Custom_3 DishonoredTask_Custom]
+m_Description="Encontre o Velhote"
+m_Status=""
+
+[DLC07_DW_GetEngineCoil_Obj:DishonoredTask_Custom_4 DishonoredTask_Custom]
+m_Description="(Opcional) Procure por pistas sobre a Bobina do Motor no escritório principal da Fábrica Têxtil"
+m_Status=""
+
+[DLC07_DW_GetEngineCoil_Obj:DishonoredTask_Custom_5 DishonoredTask_Custom]
+m_Description="Fale com o Velhote"
+m_Status=""
+
+[DLC07_DW_GetEngineCoil_Obj:DishonoredTask_Custom_62 DishonoredTask_Custom]
+m_Description="Viaje para o apartamento do mecânico Hatter nas ruas"
+m_Status=""
+
+[DLC07_DW_GetEngineCoil_Obj:DishonoredTask_Custom_65 DishonoredTask_Custom]
+m_Description="(Opcional) Procurar no laboratório de Trimble"
+m_Status=""
+
+[DLC07_DW_GetEngineCoil_Obj:DishonoredTask_Custom_66 DishonoredTask_Custom]
+m_Description="Viaje para a Fábrica de Tecidos"
+m_Status=""
+
+[DLC07_DW_GetEngineCoil_Obj:DishonoredTask_Custom_67 DishonoredTask_Custom]
+m_Description="Encontre o mecânico do Chapeleiro no esgoto"
+m_Status=""
+
+[DLC07_DW_GetEngineCoil_Obj:DishonoredTask_Custom_68 DishonoredTask_Custom]
+m_Description="Procure o mecânico Hatter morto no esgoto"
+m_Status=""
+
+[DLC07_DW_GetEngineCoil_Obj:DishonoredTask_Custom_69 DishonoredTask_Custom]
+m_Description="Revistar o apartamento do mecânico Hatter"
+m_Status=""
+
+[DLC07_DW_GetEngineCoil_Obj:DishonoredTask_Custom_70 DishonoredTask_Custom]
+m_Description="Use a combinação para entrar na sala de máquinas"
+m_Status=""
+
+[DLC07_DW_GetEngineCoil_Obj:DishonoredTask_Custom_71 DishonoredTask_Custom]
+m_Description="Procure pela bobina do motor na Fábrica Têxtil"
+m_Status=""
+
+[DLC07_DW_GetEngineCoil_Obj:DishonoredTask_Custom_90 DishonoredTask_Custom]
+m_Description="Fale com o Velho"
+m_Status=""
+
+[DLC07_DW_GetEngineCoil_Obj:DishonoredTask_Custom_91 DishonoredTask_Custom]
+m_Description="(Opcional) Eliminar Trimble"
+m_Status=""
+
+[DLC07_DW_GetEngineCoil_Obj:DishonoredTask_Custom_92 DishonoredTask_Custom]
+m_Description="Obtenha o código para a fechadura da porta da sala de máquinas"
+m_Status=""
+
+[DLC07_DW_GetEngineCoil_Obj:DishonoredTask_Custom_93 DishonoredTask_Custom]
+m_Description="(Opcional) Fale com o Velho"
+m_Status=""
+

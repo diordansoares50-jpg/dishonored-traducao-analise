@@ -1,0 +1,36 @@
+﻿[Pwn_Bridge_Pratchett DisTweaks_NPCPawn]
+m_BusyText="Este personagem está ocupado"
+m_CannotStealMessage="Você não pode carregar mais munição deste tipo"
+
+[Pwn_Bridge_Pratchett:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Pratchett"
+m_InteractText=""
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Pwn_MiddleClass_F_1_NoPanic DisTweaks_NPCPawn]
+m_BusyText="Este personagem está ocupado"
+m_CannotStealMessage="Você não pode carregar mais munição deste tipo"
+
+[Pwn_MiddleClass_F_1_NoPanic:DisTweaks_InteractableInterface_8 DisTweaks_InteractableInterface]
+m_Name="Sobrevivente"
+m_InteractText=""
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Pwn_Thug_BridgePrison DisTweaks_NPCPawn]
+m_BusyText="Este personagem está ocupado"
+m_CannotStealMessage="Você não pode carregar mais munição deste tipo"
+
+[Pwn_Thug_BridgePrison:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Valentão"
+m_InteractText=""
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+

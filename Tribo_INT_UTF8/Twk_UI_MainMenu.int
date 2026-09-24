@@ -1,0 +1,9 @@
+﻿[Twk_GFxMoviePlayerMainMenu DisTweaks_GFxMoviePlayerMainMenu]
+m_NoProfileMessage="Você não está logado. Para salvar o seu progresso, você precisa estar logado. Você quer fazer login agora?"
+m_NoProfileChoiceOK="SIM"
+m_NoProfileChoiceBack="NÃO"
+m_NoStorageDeviceMessage="Você não selecionou um dispositivo de armazenamento, o progresso não será salvo. Continuar? Você pode selecionar um dispositivo de armazeamento no menu opções."
+m_NoStorageDeviceChoiceOK="ACEITAR"
+m_NoStorageDeviceChoiceBack="Voltar"
+m_GameInstallMessage="Para uma melhor experiência de jogo, recomendamos instalar DISHONORED no HD do seu Xbox 360. A instalação completa requer 5GB de espaço disponível. Olhe o manual de instruções para aprender a como instalar o jogo no HD do seu Xbox 360."
+m_GameInstallChoiceOK="ACEITAR"

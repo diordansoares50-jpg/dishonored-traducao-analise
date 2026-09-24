@@ -1,0 +1,12 @@
+﻿[Twk_Pawn_E3_Weeper DisTweaks_NPCPawn]
+m_BusyText="Esse personagem está ocupado"
+m_CannotStealMessage="Você não pode mais carregar esse tipo de munição"
+
+[Twk_Pawn_E3_Weeper:DisTweaks_InteractableInterface_1 DisTweaks_InteractableInterface]
+m_Name="Sobrevivente"
+m_InteractText=""
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+

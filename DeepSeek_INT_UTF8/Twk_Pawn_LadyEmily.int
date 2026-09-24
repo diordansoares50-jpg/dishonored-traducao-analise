@@ -1,0 +1,24 @@
+﻿[Pwn_LadyEmily DisTweaks_NPCPawn]
+m_BusyText="Este personagem está ocupado"
+m_CannotStealMessage="Você não pode carregar mais munição deste tipo"
+
+[Pwn_LadyEmily:DisTweaks_InteractableInterface_39 DisTweaks_InteractableInterface]
+m_Name="Lady Emily"
+m_InteractText=""
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Pwn_LadyEmily_TowerEmpress DisTweaks_NPCPawn]
+m_BusyText="Este personagem está ocupado"
+m_CannotStealMessage="Você não pode carregar mais munição deste tipo"
+
+[Pwn_LadyEmily_TowerEmpress:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Senhorita Emily"
+m_InteractText=""
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+

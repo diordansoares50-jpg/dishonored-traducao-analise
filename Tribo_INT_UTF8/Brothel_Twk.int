@@ -1,0 +1,56 @@
+﻿[Door_Transitions.LTD_Brothel_to_Streets:DisTweaks_InteractableInterface_16 DisTweaks_InteractableInterface]
+m_Name="Porta para o Distrito da Destilaria"
+m_InteractText="`GBA_Use` Abrir"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Door_Transitions.LTD_Brothel_to_StreetsMain:DisTweaks_InteractableInterface_16 DisTweaks_InteractableInterface]
+m_Name="Porta para Clavering Boulevard"
+m_InteractText="`GBA_Use` Abrir"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Door_Transitions.LTD_Brothel_to_StreetsRoof:DisTweaks_InteractableInterface_16 DisTweaks_InteractableInterface]
+m_Name="Porta para o Hotel Recanto do Capitão"
+m_InteractText="`GBA_Use` Abrir"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Twk_Pawn_EliteBodyGuard_01 DisTweaks_NPCPawn]
+m_BusyText="Esse personagem está ocupado"
+m_CannotStealMessage="Você não pode mais carregar esse tipo de munição"
+
+[Twk_Pawn_EliteBodyGuard_01:DisTweaks_InteractableInterface_1 DisTweaks_InteractableInterface]
+m_Name="Oficial da Guarda"
+m_InteractText=""
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Twk_Pawn_EliteBodyGuard_02 DisTweaks_NPCPawn]
+m_BusyText="Esse personagem está ocupado"
+m_CannotStealMessage="Você não pode mais carregar esse tipo de munição"
+
+[Twk_Pawn_EliteBodyGuard_02:DisTweaks_InteractableInterface_74 DisTweaks_InteractableInterface]
+m_Name="Oficial da Guarda"
+m_InteractText=""
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[ValveBase_twk:DisTweaks_InteractableInterface_11 DisTweaks_InteractableInterface]
+m_Name="Base da Válvula"
+m_InteractText="`GBA_Use` Usar"
+m_AltInteractText=""
+m_UseMessage="Algo está faltando"
+m_AltUseMessage=""
+m_CannotUseMessage=""
+

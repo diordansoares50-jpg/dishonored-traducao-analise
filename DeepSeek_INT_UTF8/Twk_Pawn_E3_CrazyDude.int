@@ -1,0 +1,12 @@
+﻿[Twk_Pawn_E3_CrazyDude DisTweaks_NPCPawn]
+m_BusyText="Este personagem está ocupado"
+m_CannotStealMessage="Você não pode carregar mais munição deste tipo"
+
+[Twk_Pawn_E3_CrazyDude:DisTweaks_InteractableInterface_4 DisTweaks_InteractableInterface]
+m_Name="Sobrevivente Louco"
+m_InteractText=""
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+

@@ -1,0 +1,51 @@
+﻿[abstract_items.AdrenalineTutorial_Note DisAbstractItem]
+m_ItemName="Tutorial de Consciência"
+m_PluralItemName=""
+m_Description="Adrenalina e Mortalidades\nSe você acumular adrenalina suficiente, a tela brilhará nas bordas, permitindo que você mate um inimigo com um único ataque. (Pressione Y quando a adrenalina estiver no máximo para iniciar uma morte por adrenalina.) Você ganha adrenalina assassinando inimigos desprevenidos ou durante combates com espada ao desferir um golpe bem-sucedido, bloquear ou aparar."
+
+[abstract_items.AwarenessTutorial_Note DisAbstractItem]
+m_ItemName="Tutorial de Consciência"
+m_PluralItemName=""
+m_Description="Percepção\nQuando um inimigo percebe você, as bordas da sua visão piscarão. Saia da linha de visão ou entre nas sombras rapidamente para evitar ser detectado."
+
+[abstract_items.DropDownTutorial_Note DisAbstractItem]
+m_ItemName="Tutorial de Placeholder"
+m_PluralItemName=""
+m_Description="!!!!!!!!! Tutorial de Espaço Reservado, Não Entre em Pânico!!!!!!!!"
+
+[abstract_items.ElixirTutorial_Note DisAbstractItem]
+m_ItemName="Tutorial de Consciência"
+m_PluralItemName=""
+m_Description="Amuletos de Ossos\nEntalhados a partir dos ossos e dentes de grandes baleias, os amuletos de ossos concedem ao dono pequenos benefícios sobrenaturais. Todos os amuletos de ossos coletados são listados no diário, onde você pode escolher quais 5 estão ativos. (Nota: Todos os amuletos de ossos que você descobrir são persistentes e disponíveis em todos os jogos.)"
+
+[abstract_items.FloorSoundTutorial_Note DisAbstractItem]
+m_ItemName="Tutorial de Consciência"
+m_PluralItemName=""
+m_Description="Som e Superfície do Piso\nNa maioria das vezes, correr ou andar são silenciosos demais para alertar guardas próximos. No entanto, você faz mais barulho em superfícies de piso metálico, especialmente ao correr."
+
+[abstract_items.JournalTutorial_Note DisAbstractItem]
+m_ItemName="Tutorial de Consciência"
+m_PluralItemName=""
+m_Description="O Diário  
+Seus objetivos, anotações e inventário podem ser encontrados em seu diário, incluindo notas sobre melhorias de equipamentos, habilidades incomuns e itens especiais. (Pressione Voltar para acessar o diário.)"
+
+[abstract_items.LightShadowTutorial_Note DisAbstractItem]
+m_ItemName="Tutorial de Consciência"
+m_PluralItemName=""
+m_Description="Luz e Sombra\nPressione B para se esgueirar. Os inimigos terão mais dificuldade em detectá-lo na escuridão, especialmente a distâncias maiores. Para permanecer oculto enquanto se esgueira, fique nas sombras, esconda-se atrás de objetos e aproxime-se dos inimigos por trás ou pelos lados."
+
+[abstract_items.PlaceholderTuto DisAbstractItem]
+m_ItemName="Tutorial de Placeholder"
+m_PluralItemName=""
+m_Description="!!!!!!!!! Tutorial de Espaço Reservado, Não Entre em Pânico!!!!!!!!"
+
+[abstract_items.RuneTutorial_Note DisAbstractItem]
+m_ItemName="Tutorial de Percepção"
+m_PluralItemName=""
+m_Description="Runas\nForjadas a partir de crânios de baleias, esses artefatos raros servem como moeda sobrenatural. Coletar e gastar runas permitirá que você adquira e aprimore poderes únicos. As runas e anotações sobre seus poderes são registradas em seu diário."
+
+[abstract_items.WhaleBoneCharmTutorial_Note DisAbstractItem]
+m_ItemName="Tutorial de Consciência"
+m_PluralItemName=""
+m_Description="Talismãs de Osso\nEntalhados a partir dos ossos e dentes de grandes baleias, os talismãs de osso concedem ao dono pequenos benefícios sobrenaturais. Todos os talismãs de osso coletados são listados no diário, onde você pode escolher quais 5 estarão ativos. (Observação: Todos os talismãs de osso que você descobrir são persistentes e disponíveis em todos os jogos.)"
+

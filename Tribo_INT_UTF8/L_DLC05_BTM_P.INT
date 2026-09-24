@@ -1,0 +1,26 @@
+﻿[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_DLC05_ShowWaveNumber_1 DisSeqAct_DLC05_ShowWaveNumber]
+m_CustomText="Bonus Round Completed"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_DLC05_ShowWaveNumber_3 DisSeqAct_DLC05_ShowWaveNumber]
+m_CustomText="Bonus Round Failed"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_SetTutorialMessage_16 DisSeqAct_SetTutorialMessage]
+m_TutorialMessage="Progress into a succession of rounds with different situations and resources."
+m_TutorialMessage_Gamepad=""
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_SetTutorialMessage_17 DisSeqAct_SetTutorialMessage]
+m_TutorialMessage="Break the glass to start the Bend Time."
+m_TutorialMessage_Gamepad=""
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_SetTutorialMessage_18 DisSeqAct_SetTutorialMessage]
+m_TutorialMessage="You'll then have a few seconds of Bend Time to kill as many people as possible."
+m_TutorialMessage_Gamepad=""
+
+[TheWorld:PersistentLevel.Main_Sequence.Global_Score.DisSeqAct_ShowHUDMessage_2 DisSeqAct_ShowHUDMessage]
+m_Message="Resetting Score"
+
+[TheWorld:PersistentLevel.Main_Sequence.Phase_6.DisSeqAct_DialogScriptedChoice_22 DisSeqAct_DialogScriptedChoice]
+m_Title=""
+m_Choices[0]=(m_ChoiceText="Restart Bend Time Massacre")
+m_Choices[1]=(m_ChoiceText="Return to Menu")
+

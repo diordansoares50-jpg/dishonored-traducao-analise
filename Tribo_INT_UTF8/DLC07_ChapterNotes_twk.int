@@ -1,0 +1,305 @@
+﻿[BRIGMORE.ChapterLog_Brigmore DisAbstractItem]
+m_ItemName="Notes: Brigmore Estate"
+m_PluralItemName=""
+m_Description="Delilah Copperspoon's hideout is the old Brigmore Estate. Infiltrate the estate and find her."
+
+[BRIGMORE.Chapternotes_Brigmore_keyhint DisAbstractItem]
+m_ItemName="Key to the Estate"
+m_PluralItemName=""
+m_Description="A witch named Isabelle seems to have the estate key. She is in the back yard."
+
+[BRIGMORE.Chapternotes_Brigmore_lanternhint DisAbstractItem]
+m_ItemName="Magic Lantern"
+m_PluralItemName=""
+m_Description="The lantern is apparently used to open a gate through one of Delilah's paintings.  "
+
+[BRIGMORE.Chapternotes_Brigmore_leverhint DisAbstractItem]
+m_ItemName="A Heavy Lever"
+m_PluralItemName=""
+m_Description="This lever belongs to some mechanism. Perhaps searching the grounds is in order."
+
+[BRIGMORE.Chapternotes_Brigmore_Overhint DisAbstractItem]
+m_ItemName="Kaldwin Girl"
+m_PluralItemName=""
+m_Description="Apparently Emily Kaldwin and the paintings of her are central to Delilah's plans."
+
+[BRIGMORE.Chapternotes_Brigmore_studiohint DisAbstractItem]
+m_ItemName="Delilah's studio"
+m_PluralItemName=""
+m_Description="Delilah has a studio somewhere inside the manor. It seems to contain something of value."
+
+[BRIGMORE.Chapternotes_Brigmore_switchhint DisAbstractItem]
+m_ItemName="Missing Lever Location"
+m_PluralItemName=""
+m_Description="A mechanized lid to the tomb of Jessop Brigmore has been disabled. The missing lever may be in the estate's garden shed."
+
+[Coldridge.ChapterLog_Coldridge DisAbstractItem]
+m_ItemName="Notes: Coldridge Prison"
+m_PluralItemName=""
+m_Description="Lizzy Stride, the leader of the Dead Eels, is somewhere inside Coldridge Prison. The former Lord Protector's escape has put the place on high alert."
+
+[Coldridge.ChapterNotes_AngryPrisoner DisAbstractItem]
+m_ItemName="Angry Prisoner"
+m_PluralItemName=""
+m_Description="The Prisoner in cell D03 has a score to settle with one of the guards. Opening his cell could create a good distraction."
+
+[Coldridge.ChapterNotes_ArcPylon DisAbstractItem]
+m_ItemName="Arc Pylon"
+m_PluralItemName=""
+m_Description="An Arc Pylon guards the entry way. Escaping prisoners don't stand a chance against it."
+
+[Coldridge.ChapterNotes_CrazedPrisoner_A15 DisAbstractItem]
+m_ItemName="Unstable Prisoner"
+m_PluralItemName=""
+m_Description="The man in cell A15 seems unstable. Opening his cell could create a distraction."
+
+[Coldridge.ChapterNotes_CrazedPrisoner_D22 DisAbstractItem]
+m_ItemName="Unstable Prisoner"
+m_PluralItemName=""
+m_Description="The man in cell D22 seems unstable. Opening his cell could create a distraction."
+
+[Coldridge.ChapterNotes_Disguise DisAbstractItem]
+m_ItemName="Overseer Disguise"
+m_PluralItemName=""
+m_Description="You’ve donned an Overseer disguise in order to infiltrate Coldridge Prison. The prison guards summoned an Overseer to investigate an occult scene in the interrogation room, and will probably expect you to play the part."
+
+[Coldridge.ChapterNotes_Hatter DisAbstractItem]
+m_ItemName="The Hatter"
+m_PluralItemName=""
+m_Description="The Hatter in cell D11 wants Lizzy Stride dead."
+
+[Coldridge.ChapterNotes_Helpful DisAbstractItem]
+m_ItemName="Helpful Guard"
+m_PluralItemName=""
+m_Description="Guards are being executed in the courtyard. They may have useful information to share if they were spared."
+
+[Coldridge.ChapterNotes_LizzyCarry DisAbstractItem]
+m_ItemName="Carry Stride"
+m_PluralItemName=""
+m_Description="Lizzy Stride can't walk, she'll need to be carried out of Coldridge."
+
+[Coldridge.ChapterNotes_LizzyStride DisAbstractItem]
+m_ItemName="Lizzy Stride"
+m_PluralItemName=""
+m_Description="Lizzy Stride is the leader of the Eels, and a difficult prisoner. Extra precautions have been taken to keep her locked up."
+
+[Coldridge.ChapterNotes_Logbook DisAbstractItem]
+m_ItemName="The Log Book"
+m_PluralItemName=""
+m_Description="A log book of all transfers within the prison is kept in the guard booth between sections C and D. Lizzy's cell number should be in there."
+
+[Coldridge.ChapterNotes_Offlimits DisAbstractItem]
+m_ItemName="Off Limits"
+m_PluralItemName=""
+m_Description="The cell controls above the courtyard, prisoner cell blocks, and execution yard are off limits."
+
+[Coldridge.ChapterNotes_StrideCell_A00 DisAbstractItem]
+m_ItemName="Stride's Cell"
+m_PluralItemName=""
+m_Description="Lizzy Stride is being held in cell A00"
+
+[Coldridge.ChapterNotes_StrideCell_A21 DisAbstractItem]
+m_ItemName="Stride's Cell"
+m_PluralItemName=""
+m_Description="Lizzy Stride is being held in cell A21"
+
+[Coldridge.ChapterNotes_StrideCell_C28 DisAbstractItem]
+m_ItemName="Stride's Cell"
+m_PluralItemName=""
+m_Description="Lizzy Stride is being held in cell C28"
+
+[Coldridge.ChapterNotes_StrideCell_D24 DisAbstractItem]
+m_ItemName="Stride's Cell"
+m_PluralItemName=""
+m_Description="Lizzy Stride is being held in cell D24"
+
+[DrapersWard.ChapterLog_DrapersWard DisAbstractItem]
+m_ItemName="Notes: Drapers Ward"
+m_PluralItemName=""
+m_Description="Lizzy Stride, leader of the Dead Eels gang, is captain of the ship Undine. Aid Lizzy and use the Undine to sail up the river to Brigmore Manor."
+
+[DrapersWard.Chapternotes_Mill_Code165 DisAbstractItem]
+m_ItemName="Engine Room Combination"
+m_PluralItemName=""
+m_Description="Engine Room Combination: 165"
+
+[DrapersWard.Chapternotes_Mill_Code238 DisAbstractItem]
+m_ItemName="Engine Room Combination"
+m_PluralItemName=""
+m_Description="Engine Room Combination: 238"
+
+[DrapersWard.Chapternotes_Mill_Code387 DisAbstractItem]
+m_ItemName="Engine Room Combination"
+m_PluralItemName=""
+m_Description="Engine Room Combination: 387"
+
+[DrapersWard.Chapternotes_Mill_Code408 DisAbstractItem]
+m_ItemName="Engine Room Combination"
+m_PluralItemName=""
+m_Description="Engine Room Combination: 408"
+
+[DrapersWard.Chapternotes_Mill_Code572 DisAbstractItem]
+m_ItemName="Engine Room Combination"
+m_PluralItemName=""
+m_Description="Engine Room Combination: 572"
+
+[DrapersWard.Chapternotes_Mill_Code669 DisAbstractItem]
+m_ItemName="Engine Room Combination"
+m_PluralItemName=""
+m_Description="Engine Room Combination: 669"
+
+[DrapersWard.Chapternotes_Mill_Code774 DisAbstractItem]
+m_ItemName="Engine Room Combination"
+m_PluralItemName=""
+m_Description="Engine Room Combination: 774"
+
+[DrapersWard.Chapternotes_Mill_Code837 DisAbstractItem]
+m_ItemName="Engine Room Combination"
+m_PluralItemName=""
+m_Description="Engine Room Combination: 837"
+
+[DrapersWard.Chapternotes_Mill_Code873 DisAbstractItem]
+m_ItemName="Engine Room Combination"
+m_PluralItemName=""
+m_Description="Engine Room Combination: 873"
+
+[DrapersWard.Chapternotes_Mill_Code984 DisAbstractItem]
+m_ItemName="Engine Room Combination"
+m_PluralItemName=""
+m_Description="Engine Room Combination: 984"
+
+[DrapersWard.Chapternotes_Mill_Combohint DisAbstractItem]
+m_ItemName="Engine Coil"
+m_PluralItemName=""
+m_Description="A combination is needed to reach the engine coil running the mill. Find the Geezer to see if he will make a deal to give it up."
+
+[DrapersWard.Chapternotes_Mill_Formulahint DisAbstractItem]
+m_ItemName="Search Lab"
+m_PluralItemName=""
+m_Description="Search Nurse Trimble's lab for the antitoxin formula."
+
+[DrapersWard.Chapternotes_Mill_Gashint DisAbstractItem]
+m_ItemName="Toxic Gas Release"
+m_PluralItemName=""
+m_Description="If the Geezer dies or is unhooked from his life support it will release a toxic gas that will kill everyone in the Mill. The gas can eat through a gas mask."
+
+[DrapersWard.Chapternotes_Mill_GCode16 DisAbstractItem]
+m_ItemName="Engine Room Combination"
+m_PluralItemName=""
+m_Description="Engine Room Combination: 16..."
+
+[DrapersWard.Chapternotes_Mill_GCode23 DisAbstractItem]
+m_ItemName="Engine Room Combination"
+m_PluralItemName=""
+m_Description="Engine Room Combination: 23..."
+
+[DrapersWard.Chapternotes_Mill_GCode38 DisAbstractItem]
+m_ItemName="Engine Room Combination"
+m_PluralItemName=""
+m_Description="Engine Room Combination: 38..."
+
+[DrapersWard.Chapternotes_Mill_GCode40 DisAbstractItem]
+m_ItemName="Engine Room Combination"
+m_PluralItemName=""
+m_Description="Engine Room Combination: 40..."
+
+[DrapersWard.Chapternotes_Mill_GCode57 DisAbstractItem]
+m_ItemName="Engine Room Combination"
+m_PluralItemName=""
+m_Description="Engine Room Combination: 57..."
+
+[DrapersWard.Chapternotes_Mill_GCode66 DisAbstractItem]
+m_ItemName="Engine Room Combination"
+m_PluralItemName=""
+m_Description="Engine Room Combination: 66..."
+
+[DrapersWard.Chapternotes_Mill_GCode77 DisAbstractItem]
+m_ItemName="Engine Room Combination"
+m_PluralItemName=""
+m_Description="Engine Room Combination: 77..."
+
+[DrapersWard.Chapternotes_Mill_GCode83 DisAbstractItem]
+m_ItemName="Engine Room Combination"
+m_PluralItemName=""
+m_Description="Engine Room Combination: 83..."
+
+[DrapersWard.Chapternotes_Mill_GCode87 DisAbstractItem]
+m_ItemName="Engine Room Combination"
+m_PluralItemName=""
+m_Description="Engine Room Combination: 87..."
+
+[DrapersWard.Chapternotes_Mill_GCode98 DisAbstractItem]
+m_ItemName="Engine Room Combination"
+m_PluralItemName=""
+m_Description="Engine Room Combination: 98..."
+
+[DrapersWard.Chapternotes_Mill_Labhint DisAbstractItem]
+m_ItemName="Nurse Trimble"
+m_PluralItemName=""
+m_Description="Trimble is the real brains behind the Mill operation. He only leaves the Geezer to attend his lab experiments."
+
+[DrapersWard.Chapternotes_Mill_Mechanichint DisAbstractItem]
+m_ItemName="Hatter Mechanic in Sewer"
+m_PluralItemName=""
+m_Description="The Hatter mechanic has not returned from trying to restore the water in the sewers. He knows the combination to the engine room."
+
+[DrapersWard.Chapternotes_Sewer_MaintKey DisAbstractItem]
+m_ItemName="Hatter Mechanic Apt Key"
+m_PluralItemName=""
+m_Description="The Hatter Mechanic's key opens the locker in his apartment, located in Drapers Ward Streets."
+
+[DrapersWard.Chapternotes_Ship_Drowning DisAbstractItem]
+m_ItemName="A drowned victim"
+m_PluralItemName=""
+m_Description="The mutineer Edgar Wakefield has drowned a gang member that was loyal to Lizzy, and sank him in the river near the Undine."
+
+[DrapersWard.Chapternotes_Ship_EdgarLives DisAbstractItem]
+m_ItemName="Mercy for a Traitor"
+m_PluralItemName=""
+m_Description="You kept Edgar Wakefield alive when you had every reason to kill him. This mercy has not gone unnoticed."
+
+[DrapersWard.Chapternotes_Ship_EngineCoil DisAbstractItem]
+m_ItemName="The Stolen Engine Coil"
+m_PluralItemName=""
+m_Description="The Hatters have stolen the Engine Coil from the Dead Eel's ship the Undine. The ship is inoperable without it. It must be recovered before Lizzy can take you up the river to the Brigmore Manor."
+
+[DrapersWard.Chapternotes_Ship_ScoutSpotted DisAbstractItem]
+m_ItemName="Scout Spotted"
+m_PluralItemName=""
+m_Description="A mysterious figure was seen scouting the Undine and her crew, but they teleported away before you could investigate further."
+
+[DrapersWard.Chapternotes_Street_DressMaker DisAbstractItem]
+m_ItemName="The Dressmaker"
+m_PluralItemName=""
+m_Description="The dressmaker in Drapers Ward once crafted upscale clothing for Emily Kaldwin, heir to the throne."
+
+[DrapersWard.Chapternotes_Street_GangWar DisAbstractItem]
+m_ItemName="Gang War"
+m_PluralItemName=""
+m_Description="The Dead Eels and the Hatters are engaged in a full scale gang war."
+
+[DrapersWard.Chapternotes_Street_Granny DisAbstractItem]
+m_ItemName="Granny's Recipe"
+m_PluralItemName=""
+m_Description="Granny Rags prepared a renewal of her vows to the Outsider. Complete the ritual to collect the wedding gift."
+
+[DrapersWard.Chapternotes_Street_Jerome DisAbstractItem]
+m_ItemName="Jerome the Black Market Merchant"
+m_PluralItemName=""
+m_Description="A former merchant from Drapers Ward's better days, Jerome now deals in black market and hard-to-find items from the safety of his apartment overlooking Millinery Canal."
+
+[DrapersWard.Chapternotes_Street_Oxrush DisAbstractItem]
+m_ItemName="The Oxrush Flower"
+m_PluralItemName=""
+m_Description="The rare Oxrush flower is prized for its medicinal and alchemical properties."
+
+[DrapersWard.Chapternotes_Street_Password DisAbstractItem]
+m_ItemName="Hatter's Mill Password"
+m_PluralItemName=""
+m_Description="The Hatters have a secret password they use to gain entry to the Textile Mill that serves as their base."
+
+[DrapersWard.Chapternotes_Street_Skinflint DisAbstractItem]
+m_ItemName="Skinflint is a deadbeat."
+m_PluralItemName=""
+m_Description="The Hatter known as Skinflint has never paid Jerome for the goods he took. Skinflint is a chain smoker charged with guarding the sewer door near the canal."
+

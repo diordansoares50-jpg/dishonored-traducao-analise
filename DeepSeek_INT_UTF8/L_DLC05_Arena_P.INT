@@ -1,0 +1,20 @@
+﻿[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_DialogScriptedChoice_1 DisSeqAct_DialogScriptedChoice]
+m_Title=
+m_Choices[0]=(m_ChoiceText="")
+m_Choices[1]=(m_ChoiceText="")
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_SetTutorialMessage_39 DisSeqAct_SetTutorialMessage]
+m_TutorialMessage="O cronômetro de contagem regressiva só começa após o primeiro inimigo ser eliminado. Aproveite para preparar suas ações com calma."
+m_TutorialMessage_Gamepad=""
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_SetTutorialMessage_38 DisSeqAct_SetTutorialMessage]
+m_TutorialMessage="Lute seu caminho através de ondas de inimigos cada vez mais difíceis."
+m_TutorialMessage_Gamepad=""
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_SetTutorialMessage_37 DisSeqAct_SetTutorialMessage]
+m_TutorialMessage="Atacar o Mercador Dourado para receber Poções e munição. Matá-lo para receber melhorias de equipamento."
+m_TutorialMessage_Gamepad=""
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_SetTutorialMessage_36 DisSeqAct_SetTutorialMessage]
+m_TutorialMessage="Colete Runas para receber um novo poder."
+m_TutorialMessage_Gamepad=""

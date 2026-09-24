@@ -1,0 +1,755 @@
+﻿[Base.AbstractItemPickupBase DisTweaks_AbstractItemPickup]
+m_SingleItemPickupMessage=""
+
+[Base.AbstractItemPickupBase:DisTweaks_Interactable_PickupBase_3 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name="`i"
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Base.ComponentPickupBase DisTweaks_AbstractItemPickup]
+m_SingleItemPickupMessage=""
+
+[Base.ComponentPickupBase:pInteractableTweaks_PickupBase DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name="`i"
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Base.FoodPickupBase DisTweaks_StatPickup]
+m_SingleAmmoPickupMessage=""
+m_EmptyPickupMessage=""
+
+[Base.FoodPickupBase:DisTweaks_Interactable_PickupBase_35 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name=""
+m_InteractText="`GBA_Use` Comer"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage="Você não pode mais carregar esse tipo de munição"
+
+[Base.GenericPickupBase:DisTweaks_Interactable_PickupBase_83 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name=""
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage="Você não pode pegar isso"
+
+[Base.InventoryPickupBase DisTweaks_InventoryPickup]
+m_SingleAmmoPickupMessage=""
+m_EmptyPickupMessage=""
+
+[Base.InventoryPickupBase:DisTweaks_Interactable_PickupBase_44 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name=""
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage="Você não pode pegar isso"
+
+[Base.InventoryPickupSwordBase DisTweaks_InventoryPickup]
+m_SingleAmmoPickupMessage=""
+m_EmptyPickupMessage=""
+
+[Base.InventoryPickupSwordBase:DisTweaks_Interactable_PickupBase_58 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name="Espada"
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage="Você já tem uma espada melhor"
+
+[Base.PickupBase:DisTweaks_Interactable_PickupBase_2 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name=""
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Base.StatPickupBase DisTweaks_StatPickup]
+m_SingleAmmoPickupMessage=""
+m_EmptyPickupMessage=""
+
+[Base.StatPickupBase:DisTweaks_Interactable_PickupBase_34 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name=""
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage="Você não pode mais carregar esse tipo de munição"
+
+[Food.ApricotTartlet_twk DisTweaks_StatPickup]
+m_SingleAmmoPickupMessage=""
+m_EmptyPickupMessage=""
+
+[Food.ApricotTartlet_twk:DisTweaks_Interactable_PickupBase_88 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name="Empada de Damasco"
+m_InteractText="`GBA_Use` Comer"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage="Você não pode mais carregar esse tipo de munição"
+
+[Food.BarleyBread_twk DisTweaks_StatPickup]
+m_SingleAmmoPickupMessage=""
+m_EmptyPickupMessage=""
+
+[Food.BarleyBread_twk:DisTweaks_Interactable_PickupBase_60 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name="Pão"
+m_InteractText="`GBA_Use` Comer"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage="Você não pode mais carregar esse tipo de munição"
+
+[Food.BloodSausage_twk DisTweaks_StatPickup]
+m_SingleAmmoPickupMessage=""
+m_EmptyPickupMessage=""
+
+[Food.BloodSausage_twk:DisTweaks_Interactable_PickupBase_89 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name="Morcela de Serkonos"
+m_InteractText="`GBA_Use` Comer"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage="Você não pode mais carregar esse tipo de munição"
+
+[Food.BluejawedHagfishEggs_twk DisTweaks_StatPickup]
+m_SingleAmmoPickupMessage=""
+m_EmptyPickupMessage=""
+
+[Food.BluejawedHagfishEggs_twk:DisTweaks_Interactable_PickupBase_38 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name="Ovos de Enguias de Mandíbula Azul"
+m_InteractText="`GBA_Use` Comer"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage="Você não pode mais carregar esse tipo de munição"
+
+[Food.BrinedHagfish_twk DisTweaks_StatPickup]
+m_SingleAmmoPickupMessage=""
+m_EmptyPickupMessage=""
+
+[Food.BrinedHagfish_twk:DisTweaks_Interactable_PickupBase_36 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name="Lata de Enguia Salmourada"
+m_InteractText="`GBA_Use` Comer"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage="Você não pode mais carregar esse tipo de munição"
+
+[Food.Drink_Cider_01_twk DisTweaks_StatPickup]
+m_SingleAmmoPickupMessage=""
+m_EmptyPickupMessage=""
+
+[Food.Drink_Cider_01_twk:DisTweaks_Interactable_PickupBase_90 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name="Sidra de Gristol"
+m_InteractText=" `GBA_Use` Beber"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage="Você não pode mais carregar esse tipo de munição"
+
+[Food.Fruit_Apple_01_twk DisTweaks_StatPickup]
+m_SingleAmmoPickupMessage=""
+m_EmptyPickupMessage=""
+
+[Food.Fruit_Apple_01_twk:DisTweaks_Interactable_PickupBase_61 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name="Maçã de Morley"
+m_InteractText="`GBA_Use` Comer"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage="Você não pode mais carregar esse tipo de munição"
+
+[Food.Fruit_Apple_02_twk DisTweaks_StatPickup]
+m_SingleAmmoPickupMessage=""
+m_EmptyPickupMessage=""
+
+[Food.Fruit_Apple_02_twk:DisTweaks_Interactable_PickupBase_91 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name="Maçã de Gristol"
+m_InteractText="`GBA_Use` Comer"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage="Você não pode mais carregar esse tipo de munição"
+
+[Food.Fruit_grappa_twk DisTweaks_StatPickup]
+m_SingleAmmoPickupMessage=""
+m_EmptyPickupMessage=""
+
+[Food.Fruit_grappa_twk:DisTweaks_Interactable_PickupBase_92 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name="Uvas de Serkonos"
+m_InteractText="`GBA_Use` Comer"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage="Você não pode mais carregar esse tipo de munição"
+
+[Food.Fruit_pear_twk DisTweaks_StatPickup]
+m_SingleAmmoPickupMessage=""
+m_EmptyPickupMessage=""
+
+[Food.Fruit_pear_twk:DisTweaks_Interactable_PickupBase_39 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name="Pêra de Tyvia"
+m_InteractText="`GBA_Use` Comer"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage="Você não pode mais carregar esse tipo de munição"
+
+[Food.Fruit_rotten_pear_twk DisTweaks_StatPickup]
+m_SingleAmmoPickupMessage=""
+m_EmptyPickupMessage=""
+
+[Food.Fruit_rotten_pear_twk:DisTweaks_Interactable_PickupBase_93 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name="Pêra Podre de Tyvia"
+m_InteractText="`GBA_Use` Comer"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage="Você não pode mais carregar esse tipo de munição"
+
+[Food.JelliedEels_twk DisTweaks_StatPickup]
+m_SingleAmmoPickupMessage=""
+m_EmptyPickupMessage=""
+
+[Food.JelliedEels_twk:DisTweaks_Interactable_PickupBase_37 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name="Lata de Enguias em Gelatina Pratchett"
+m_InteractText="`GBA_Use` Comer"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage="Você não pode mais carregar esse tipo de munição"
+
+[Food.PottedWhaleMeat_twk DisTweaks_StatPickup]
+m_SingleAmmoPickupMessage=""
+m_EmptyPickupMessage=""
+
+[Food.PottedWhaleMeat_twk:DisTweaks_Interactable_PickupBase_65 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name="Lata de Carne de Baleia em Conserva"
+m_InteractText="`GBA_Use` Comer"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage="Você não pode mais carregar esse tipo de munição"
+
+[Food.RatSkewer_twk DisTweaks_StatPickup]
+m_SingleAmmoPickupMessage=""
+m_EmptyPickupMessage=""
+
+[Food.RatSkewer_twk:DisTweaks_Interactable_PickupBase_94 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name="Espetinho de Rato"
+m_InteractText="`GBA_Use` Comer"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage="Você não pode mais carregar esse tipo de munição"
+
+[Objects.Account_ledger_twk:DisTweaks_Interactable_PickupBase_84 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name=""
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage="Você não pode pegar isso"
+
+[Objects.Secret_black_journal_twk:DisTweaks_Interactable_PickupBase_85 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name=""
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage="Você não pode pegar isso"
+
+[Objects.Sextant_twk:DisTweaks_Interactable_PickupBase_86 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name=""
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage="Você não pode pegar isso"
+
+[Objects.WorldMap_twk:DisTweaks_Interactable_PickupBase_87 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name=""
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage="Você não pode pegar isso"
+
+[Stat.Elixir_Health_twk:DisTweaks_Interactable_PickupBase_32 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name="Elixir de Saúde de Sokolov"
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage="Você não pode mais carregar elixires"
+
+[Stat.Elixir_Mana_twk:DisTweaks_Interactable_PickupBase_43 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name="Remédio Espiritual de Piero"
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage="Você não pode mais carregar remédios"
+
+[Stat.WhaleBoneCharm_01_twk:DisTweaks_Interactable_PickupBase_42 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name="Encanto de Ossos"
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Weapons.Crossbow_Corvo_twk DisTweaks_InventoryPickup]
+m_SingleAmmoPickupMessage=""
+m_EmptyPickupMessage=""
+
+[Weapons.Crossbow_Corvo_twk:DisTweaks_Interactable_PickupBase_80 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name="Besta"
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage="Você não pode pegar isso"
+
+[Weapons.Grenade_Corvo_twk DisTweaks_InventoryPickup]
+m_SingleAmmoPickupMessage=""
+m_EmptyPickupMessage=""
+
+[Weapons.Grenade_Corvo_twk:DisTweaks_Interactable_PickupBase_77 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name="Granada"
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage="Você não pode mais carregar esse tipo de munição"
+
+[Weapons.Gun_Corvo_twk DisTweaks_InventoryPickup]
+m_SingleAmmoPickupMessage=""
+m_EmptyPickupMessage=""
+
+[Weapons.Gun_Corvo_twk:DisTweaks_Interactable_PickupBase_45 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name=""
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage="Você não pode pegar isso"
+
+[Weapons.Gun_Elite_twk DisTweaks_InventoryPickup]
+m_SingleAmmoPickupMessage=""
+m_EmptyPickupMessage=""
+
+[Weapons.Gun_Elite_twk:DisTweaks_Interactable_PickupBase_62 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name="Pistola"
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage="Você pegou `n balas"
+m_AltUseMessage=""
+m_CannotUseMessage="Você não pode mais carregar esse tipo de munição"
+
+[Weapons.MusicAmp_twk DisTweaks_InventoryPickup]
+m_SingleAmmoPickupMessage=""
+m_EmptyPickupMessage=""
+
+[Weapons.MusicAmp_twk:DisTweaks_Interactable_PickupBase_95 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name=""
+m_InteractText=""
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Weapons.MusicBox_twk DisTweaks_InventoryPickup]
+m_SingleAmmoPickupMessage=""
+m_EmptyPickupMessage=""
+
+[Weapons.MusicBox_twk:DisTweaks_Interactable_PickupBase_96 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name=""
+m_InteractText=""
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Weapons.Sword_Assassin_twk DisTweaks_InventoryPickup]
+m_SingleAmmoPickupMessage=""
+m_EmptyPickupMessage=""
+
+[Weapons.Sword_Assassin_twk:DisTweaks_Interactable_PickupBase_97 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name="Lâmina de Assassino"
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage="Você já tem uma espada melhor"
+
+[Weapons.Sword_City_twk DisTweaks_InventoryPickup]
+m_SingleAmmoPickupMessage=""
+m_EmptyPickupMessage=""
+
+[Weapons.Sword_City_twk:DisTweaks_Interactable_PickupBase_59 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name="Espada dos Guardas da Cidade"
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage="Você já tem uma espada melhor"
+
+[Weapons.Sword_Elite_twk DisTweaks_InventoryPickup]
+m_SingleAmmoPickupMessage=""
+m_EmptyPickupMessage=""
+
+[Weapons.Sword_Elite_twk:DisTweaks_Interactable_PickupBase_63 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name="Espada do Oficial"
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage="Você já tem uma espada melhor"
+
+[Weapons.Sword_Overseer_twk DisTweaks_InventoryPickup]
+m_SingleAmmoPickupMessage=""
+m_EmptyPickupMessage=""
+
+[Weapons.Sword_Overseer_twk:DisTweaks_Interactable_PickupBase_78 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name="Sabre do Supervisor"
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage="Você já tem uma espada melhor"
+
+[Weapons.Sword_SpecialCorvo_twk DisTweaks_InventoryPickup]
+m_SingleAmmoPickupMessage=""
+m_EmptyPickupMessage=""
+
+[Weapons.Sword_SpecialCorvo_twk:DisTweaks_Interactable_PickupBase_79 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name="Espada"
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage="Você já tem uma espada melhor"
+
+[Weapons.Sword_Thug_twk DisTweaks_InventoryPickup]
+m_SingleAmmoPickupMessage=""
+m_EmptyPickupMessage=""
+
+[Weapons.Sword_Thug_twk:DisTweaks_Interactable_PickupBase_98 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name="Cutelo de Gangue"
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage="Você já tem uma espada melhor"
+
+[Weapons.Sword_Torturer_twk DisTweaks_InventoryPickup]
+m_SingleAmmoPickupMessage=""
+m_EmptyPickupMessage=""
+
+[Weapons.Sword_Torturer_twk:DisTweaks_Interactable_PickupBase_98 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name="Cutelo de Gangue"
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage="Você já tem uma espada melhor"
+
+[Weapons_Ammo.Bolt_Ammo_twk DisTweaks_StatPickup]
+m_SingleAmmoPickupMessage=""
+m_EmptyPickupMessage=""
+
+[Weapons_Ammo.Bolt_Ammo_twk:DisTweaks_Interactable_PickupBase_48 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name="Seta"
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage="Você não pode mais carregar esse tipo de munição"
+
+[Weapons_Ammo.Bolts_Ammo_twk DisTweaks_StatPickup]
+m_SingleAmmoPickupMessage=""
+m_EmptyPickupMessage=""
+
+[Weapons_Ammo.Bolts_Ammo_twk:DisTweaks_Interactable_PickupBase_99 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name="Setas"
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage="Você não pode mais carregar esse tipo de munição"
+
+[Weapons_Ammo.Bolts_Purse_twk DisTweaks_StatPickup]
+m_SingleAmmoPickupMessage=""
+m_EmptyPickupMessage=""
+
+[Weapons_Ammo.Bolts_Purse_twk:DisTweaks_Interactable_PickupBase_100 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name="Bolsa de Setas"
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage="Você não pode mais carregar esse tipo de munição"
+
+[Weapons_Ammo.Bullets_Ammo_twk DisTweaks_StatPickup]
+m_SingleAmmoPickupMessage=""
+m_EmptyPickupMessage=""
+
+[Weapons_Ammo.Bullets_Ammo_twk:DisTweaks_Interactable_PickupBase_46 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name="Balas"
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage="Você não pode mais carregar esse tipo de munição"
+
+[Weapons_Ammo.ExplosiveBullets_Ammo_twk DisTweaks_StatPickup]
+m_SingleAmmoPickupMessage=""
+m_EmptyPickupMessage=""
+
+[Weapons_Ammo.ExplosiveBullets_Ammo_twk:DisTweaks_Interactable_PickupBase_49 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name="Balas Explosivas"
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage="Você não pode mais carregar esse tipo de munição"
+
+[Weapons_Ammo.Flare_Ammo_Tallboy_twk DisTweaks_StatPickup]
+m_SingleAmmoPickupMessage=""
+m_EmptyPickupMessage=""
+
+[Weapons_Ammo.Flare_Ammo_Tallboy_twk:pInteractableTweaks_PickupBase DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name="Armamento de Tallboy"
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage="Você não pode mais carregar esse tipo de munição"
+
+[Weapons_Ammo.Flare_Ammo_twk DisTweaks_StatPickup]
+m_SingleAmmoPickupMessage=""
+m_EmptyPickupMessage=""
+
+[Weapons_Ammo.Flare_Ammo_twk:DisTweaks_Interactable_PickupBase_47 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name="Seta Incendiária"
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage="Você não pode mais carregar esse tipo de munição"
+
+[Weapons_Ammo.Flares_Ammo_twk DisTweaks_StatPickup]
+m_SingleAmmoPickupMessage=""
+m_EmptyPickupMessage=""
+
+[Weapons_Ammo.Flares_Ammo_twk:DisTweaks_Interactable_PickupBase_101 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name="Setas Incendiárias"
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage="Você não pode mais carregar esse tipo de munição"
+
+[Weapons_Ammo.Grenade_Ammo_twk DisTweaks_StatPickup]
+m_SingleAmmoPickupMessage=""
+m_EmptyPickupMessage=""
+
+[Weapons_Ammo.Grenade_Ammo_twk:DisTweaks_Interactable_PickupBase_50 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name="Granada"
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage="Você não pode mais carregar esse tipo de munição"
+
+[Weapons_Ammo.Grenade_Ammo_WithItem_twk DisTweaks_InventoryPickup]
+m_SingleAmmoPickupMessage=""
+m_EmptyPickupMessage=""
+
+[Weapons_Ammo.Grenade_Ammo_WithItem_twk:DisTweaks_Interactable_PickupBase_53 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name="Granada"
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage="Você não pode mais carregar esse tipo de munição"
+
+[Weapons_Ammo.Pistol_Ammo_twk DisTweaks_StatPickup]
+m_SingleAmmoPickupMessage=""
+m_EmptyPickupMessage="Vazio"
+
+[Weapons_Ammo.Pistol_Ammo_twk:DisTweaks_Interactable_PickupBase_102 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name="Pistola"
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage="Você não pode mais carregar esse tipo de munição"
+
+[Weapons_Ammo.SleepDart_Ammo_twk DisTweaks_StatPickup]
+m_SingleAmmoPickupMessage=""
+m_EmptyPickupMessage=""
+
+[Weapons_Ammo.SleepDart_Ammo_twk:DisTweaks_Interactable_PickupBase_54 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name="Dardo Tranquilizante"
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage="Você não pode mais carregar esse tipo de munição"
+
+[Weapons_Ammo.SleepDarts_Ammo_twk DisTweaks_StatPickup]
+m_SingleAmmoPickupMessage=""
+m_EmptyPickupMessage=""
+
+[Weapons_Ammo.SleepDarts_Ammo_twk:DisTweaks_Interactable_PickupBase_103 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name="Dardos Tranquilizantes"
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage="Você não pode mais carregar esse tipo de munição"
+
+[Weapons_Ammo.SpringRazor_Ammo_twk DisTweaks_StatPickup]
+m_SingleAmmoPickupMessage=""
+m_EmptyPickupMessage=""
+
+[Weapons_Ammo.SpringRazor_Ammo_twk:DisTweaks_Interactable_PickupBase_51 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name="Navalha de Mola"
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage="Você não pode mais carregar esse tipo de munição"
+
+[Weapons_Ammo.SpringRazor_Ammo_WithItem_twk DisTweaks_InventoryPickup]
+m_SingleAmmoPickupMessage=""
+m_EmptyPickupMessage=""
+
+[Weapons_Ammo.SpringRazor_Ammo_WithItem_twk:DisTweaks_Interactable_PickupBase_52 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name="Navalha de Mola"
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage="Você não pode mais carregar esse tipo de munição"
+
+[Weapons_Ammo.SpringRazor_AmmoWithGravity_Twk DisTweaks_StatPickup]
+m_SingleAmmoPickupMessage=""
+m_EmptyPickupMessage=""
+
+[Weapons_Ammo.SpringRazor_AmmoWithGravity_Twk:pInteractableTweaks_PickupBase DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name="Navalha de Mola"
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage="Você não pode mais carregar esse tipo de munição"
+
+[Weapons_Ammo.StickyGrenade_Ammo_twk DisTweaks_StatPickup]
+m_SingleAmmoPickupMessage=""
+m_EmptyPickupMessage=""
+
+[Weapons_Ammo.StickyGrenade_Ammo_twk:DisTweaks_Interactable_PickupBase_55 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name="Granada Adesiva"
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage="Você não pode mais carregar esse tipo de munição"
+
+[Weapons_Ammo.StickyGrenade_Ammo_WithItem_twk DisTweaks_InventoryPickup]
+m_SingleAmmoPickupMessage=""
+m_EmptyPickupMessage=""
+
+[Weapons_Ammo.StickyGrenade_Ammo_WithItem_twk:DisTweaks_Interactable_PickupBase_56 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name="Granada Adesiva"
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage="Você não pode mais carregar esse tipo de munição"
+
+[Weapons_Ammo.StickyGrenade_AmmoWithGravity_twk DisTweaks_StatPickup]
+m_SingleAmmoPickupMessage=""
+m_EmptyPickupMessage=""
+
+[Weapons_Ammo.StickyGrenade_AmmoWithGravity_twk:pInteractableTweaks_PickupBase DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name="Granada Adesiva"
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage="Você não pode mais carregar esse tipo de munição"
+

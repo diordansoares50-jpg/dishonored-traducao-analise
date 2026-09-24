@@ -1,0 +1,171 @@
+﻿[Alarm.Alarm_panel_Box_twk:DisTweaks_InteractableInterface_1 DisTweaks_InteractableInterface]
+m_Name="Painel do Alarme"
+
+[Alarm.Alarm_panel_twk:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Circuitos do Alarme"
+m_UseMessage="Esse alarme foi desativado."
+
+[Alarm.AlarmBase DisTweaks_AlarmBell]
+m_UnlockInteractText="`GBA_Use` Destrancar"
+m_LockedMessage=""
+m_UnauthorizedMessage=""
+m_FocusMessage=""
+m_FocusLockedMessage=""
+
+[Alarm.AlarmBase:DisTweaks_Interactable_AlarmBell_0 DisTweaks_Interactable_AlarmBell]
+m_UnringAlarmText="`GBA_Use` Silenciar"
+m_Name="Alarme"
+m_InteractText=" `GBA_Use` Soar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[ArcPylon.Arcpylon_eye_panel_box_twk:DisTweaks_InteractableInterface_1 DisTweaks_InteractableInterface]
+m_Name="Painel do Poste Arco"
+
+[ArcPylon.ArcPylon_eye_panel_twk:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Circuitos do Poste Arco"
+m_UseMessage="A partir de agora, esse Poste Arco fará danos ao inimigo, e não a você."
+
+[Battery.WhaleOilBattery_empty_twk DisTweaks_WhaleOilBattery]
+m_EmptyName="Tanque de Óleo Vazio"
+
+[Battery.WhaleOilBattery_empty_twk:DisTweaks_InteractableInterface_0 DisTweaks_InteractableInterface]
+m_Name="Tanque de Óleo de Baleia"
+m_InteractText="`GBA_Use` Carregar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Battery.WhaleOilBattery_twk DisTweaks_WhaleOilBattery]
+m_EmptyName="Tanque de Óleo Vazio"
+
+[Battery.WhaleOilBattery_twk:DisTweaks_InteractableInterface_0 DisTweaks_InteractableInterface]
+m_Name="Tanque de Óleo de Baleia"
+m_InteractText="`GBA_Use` Carregar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Battery.WhaleOilReceptacle_twk DisTweaks_WhaleOilReceptacle]
+m_EmptyBatteryMessage="Esse tanque está vazio"
+
+[Battery.WhaleOilReceptacleHub_twk DisTweaks_WhaleOilReceptacle]
+m_EmptyBatteryMessage="Esse tanque está vazio"
+
+[Generic.Generic_eye_panel_box_twk DisTweaks_UsableObject]
+m_Stages[1]=(m_InteractTextOverride="`GBA_Use` Fechar")
+m_UnlockInteractText="`GBA_Use` Destrancar"
+m_LockedMessage=""
+m_UnauthorizedMessage=""
+m_FocusMessage=""
+m_FocusLockedMessage=""
+
+[Generic.Generic_eye_panel_box_twk:DisTweaks_InteractableInterface_1 DisTweaks_InteractableInterface]
+m_Name="Painel de Metal"
+m_InteractText="`GBA_Use` Abrir"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Generic.Generic_eye_panel_twk DisTweaks_UsableObject]
+m_UnlockInteractText="`GBA_Use` Destrancar"
+m_LockedMessage=""
+m_UnauthorizedMessage="`GBA_Use` Usar"
+m_FocusMessage="Ferramentas de Religação restantes: `q"
+m_FocusLockedMessage=""
+
+[Generic.Generic_eye_panel_twk:DisTweaks_InteractableInterface_0 DisTweaks_InteractableInterface]
+m_Name="Circuitos"
+m_InteractText="`GBA_Use` Religar"
+m_AltInteractText=""
+m_UseMessage="Esse dispositivo foi religado"
+m_AltUseMessage=""
+m_CannotUseMessage="Você não tem mais ferramentas de religação."
+
+[SecurityDoor.SecurityDoor_eye_panel_box_twk:DisTweaks_InteractableInterface_1 DisTweaks_InteractableInterface]
+m_Name="Painel da Porta de Segurança"
+
+[SecurityDoor.SecurityDoor_eye_panel_twk:pInteractableTweaks DisTweaks_InteractableInterface]
+m_UseMessage="Agora essa porta se abrirá para você."
+
+[SecurityDoor.secutiry_door_twk DisTweaks_Door]
+m_DoorOpenCCW.m_InteractTextOverride=""
+m_DoorOpenCW.m_InteractTextOverride=""
+m_DoorCloseCCW.m_InteractTextOverride="`GBA_Use` Fechar"
+m_DoorCloseCW.m_InteractTextOverride="`GBA_Use` Fechar"
+m_DoorSlamOpenCCW.m_InteractTextOverride=""
+m_DoorSlamOpenCW.m_InteractTextOverride=""
+
+[SecurityDoor.secutiry_door_twk:DisTweaks_InteractableInterface_3 DisTweaks_InteractableInterface]
+m_Name="Porta de Metal Indestrutível"
+
+[TripodTrap.BulletLauncher_twk:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Lançador de Balas"
+
+[TripodTrap.ExplosiveBulletLauncher_twk:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Lançador de Balas Explosivas"
+
+[TripodTrap.GrenadeLauncher_twk:DisTweaks_InteractableInterface_2 DisTweaks_InteractableInterface]
+m_Name="Lançador de Projéteis"
+m_InteractText="`GBA_Use` Desativar"
+m_AltInteractText=""
+m_UseMessage="Lançador desativado"
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[TripodTrap.SamuelSignalLauncher_twk:DisTweaks_InteractableInterface_2 DisTweaks_InteractableInterface]
+m_Name="Lançador de Sinais de Samuel"
+m_InteractText=""
+m_UseMessage=""
+
+[TripodTrap.TrapExplosiveArrow_twk:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Seta Incendiária"
+
+[TripodTrap.Tripod_twk:DisTweaks_InteractableInterface_4 DisTweaks_InteractableInterface]
+m_Name=""
+m_InteractText=""
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[TripodTrap.Tripwire_DoubleDoor_twk:DisTweaks_InteractableInterface_0 DisTweaks_InteractableInterface]
+m_Name="Arame Explosivo"
+m_InteractText="`GBA_Use` Ativar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[TripodTrap.Tripwire_Hallway_twk:DisTweaks_InteractableInterface_1 DisTweaks_InteractableInterface]
+m_Name="Arame Explosivo"
+m_InteractText="`GBA_Use` Ativar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[TripodTrap.Tripwire_SimpleDoor_twk:DisTweaks_InteractableInterface_2 DisTweaks_InteractableInterface]
+m_Name="Arame Explosivo"
+m_InteractText="`GBA_Use` Ativar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[WallOfLight.WallOfLight_eye_panel_box_twk:DisTweaks_InteractableInterface_1 DisTweaks_InteractableInterface]
+m_Name="Painel da Porta de Segurança"
+
+[WallOfLight.WallOfLight_eye_panel_twk:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Circuitos da Parede de Luz"
+m_UseMessage="A partir de agora, essa Parede de Luz fará danos ao inimigo, e não a você."
+
+[WatchTower.WatchTower_eye_panel_twk:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Circuitos da Torre da Guarda"
+m_UseMessage="A partir de agora, essa Torre da Guarda irá atirar nos inimigos, e não em você."
+

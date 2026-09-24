@@ -1,0 +1,35 @@
+﻿[BoyleHeirloom1_AbsItm DisAbstractItem]
+m_ItemName="Herança dos Boyle 1"
+m_PluralItemName=""
+m_Description="Herança de Boyle 1"
+
+[BoyleHeirloom2_AbsItm DisAbstractItem]
+m_ItemName="Herança de Boyle 2"
+m_PluralItemName=""
+m_Description="Herança de Boyle 2"
+
+[BoyleHeirloom3_AbsItm DisAbstractItem]
+m_ItemName="Relíquia da Família Boyle 3"
+m_PluralItemName=""
+m_Description="Relíquia da Família Boyle 3"
+
+[BoyleHeirloom4_AbsItm DisAbstractItem]
+m_ItemName="Herança de Boyle 4"
+m_PluralItemName=""
+m_Description="Herança da Família Boyle 4"
+
+[BoyleHeirloom5_AbsItm DisAbstractItem]
+m_ItemName="Herança Boyle 4"
+m_PluralItemName=""
+m_Description="Herança Boyle 4"
+
+[boyleinvitation_AbsItm DisAbstractItem]
+m_ItemName="Convite para a festa de Boyle"
+m_PluralItemName=""
+m_Description="Convite para a festa de Boyle"
+
+[boylepartydrink_AbsItm DisAbstractItem]
+m_ItemName="Uma bebida para a Senhorita White"
+m_PluralItemName=""
+m_Description="Uma bebida para a Senhorita White"
+

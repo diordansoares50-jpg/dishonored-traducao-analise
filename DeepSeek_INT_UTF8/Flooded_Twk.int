@@ -1,0 +1,302 @@
+﻿[Battery.WhaleOilBatteryEmpty_Twk:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Tanque de Óleo de Baleia"
+m_InteractText="`GBA_Use` Carregar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Brick_twk:DisTweaks_InteractableInterface_10 DisTweaks_InteractableInterface]
+m_Name="Tijolo Solto"
+m_InteractText="`GBA_Use` Carregar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[DBdoor_medium_poor_metal_ext_Alfa_twk DisTweaks_Door]
+m_DoorOpenCCW.m_InteractTextOverride=""
+m_DoorOpenCW.m_InteractTextOverride=""
+m_DoorCloseCCW.m_InteractTextOverride="`GBA_Use` Fechar"
+m_DoorCloseCW.m_InteractTextOverride="`GBA_Use` Fechar"
+m_DoorSlamOpenCCW.m_InteractTextOverride=""
+m_DoorSlamOpenCW.m_InteractTextOverride=""
+m_UnlockInteractText="`GBA_Use` Desbloquear"
+m_LockedMessage="Está emperrado"
+m_UnauthorizedMessage=""
+m_FocusMessage=""
+m_FocusLockedMessage="Está emperrado"
+
+[DBdoor_medium_poor_metal_ext_Alfa_twk:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Porta Inquebrável"
+m_InteractText="`GBA_Use` Abrir"
+m_AltInteractText="Segure `GBA_Use` na Fechadura"
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[door_refinerygatelocked DisTweaks_Door]
+m_DoorOpenCCW.m_InteractTextOverride=""
+m_DoorOpenCW.m_InteractTextOverride=""
+m_DoorCloseCCW.m_InteractTextOverride="`GBA_Use` Fechar"
+m_DoorCloseCW.m_InteractTextOverride="`GBA_Use` Fechar"
+m_DoorSlamOpenCCW.m_InteractTextOverride=""
+m_DoorSlamOpenCW.m_InteractTextOverride=""
+m_UnlockInteractText="`GBA_Use` Desbloquear"
+m_LockedMessage="Trancado"
+m_UnauthorizedMessage=""
+m_FocusMessage=""
+m_FocusLockedMessage="Trancado"
+
+[door_refinerygatelocked:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Porta"
+m_InteractText="`GBA_Use` Abrir"
+m_AltInteractText="Segure `GBA_Use` Fechadura"
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[door_tallboyarena DisTweaks_Door]
+m_DoorOpenCCW.m_InteractTextOverride=""
+m_DoorOpenCW.m_InteractTextOverride=""
+m_DoorCloseCCW.m_InteractTextOverride="`GBA_Use` Fechar"
+m_DoorCloseCW.m_InteractTextOverride="`GBA_Use` Fechar"
+m_DoorSlamOpenCCW.m_InteractTextOverride=""
+m_DoorSlamOpenCW.m_InteractTextOverride=""
+m_UnlockInteractText="`GBA_Use` Desbloquear"
+m_LockedMessage="Trancado"
+m_UnauthorizedMessage=""
+m_FocusMessage=""
+m_FocusLockedMessage="Trancado"
+
+[door_tallboyarena:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Porta"
+m_InteractText="`GBA_Use` Abrir"
+m_AltInteractText="Segure `GBA_Use` Fechadura"
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[FloodedWheel_H2U_1Shot_D2U_twk DisTweaks_UsableObject]
+m_LockedMessage="Você precisa das duas mãos para girar isso."
+
+[FloodedWheel_H2U_1Shot_D2U_twk:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Manivela da Porta"
+m_InteractText="Segure `GBA_Use` Girar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[lever_01_floodedgate_twk DisTweaks_UsableObject]
+m_LockedMessage="Inoperável"
+
+[lever_01_floodedgate_twk:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Controle do Portão"
+m_InteractText="`GBA_Use` Usar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[LTDs.LTD_toFAssassins1:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Viaje para o Central Rudshore"
+m_InteractText="`GBA_Use` Abrir"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[LTDs.LTD_toFAssassins2:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Viajar para a Base do Daud"
+m_InteractText="`GBA_Use` Abrir"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[LTDs.LTD_toFGate:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Entre no Túnel do Guardião do Portão"
+m_InteractText="`GBA_Use` Abrir"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[LTDs.LTD_toFGate_Incomplete:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="O Túnel do Guardião do Portão"
+m_InteractText="Volte aqui quando seus objetivos forem concluídos."
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[LTDs.LTD_toFRefinery1:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Viaje para a Refinaria Greaves"
+m_InteractText="`GBA_Use` Abrir"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[LTDs.LTD_toFRefinery2:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Para a Refinaria Greaves"
+m_InteractText="`GBA_Use` Abrir"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[LTDs.LTD_toFStreets1:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Viaje para o Nível da Rua da Orla de Rudshore"
+m_InteractText="`GBA_Use` Abrir"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[LTDs.LTD_toFStreets2:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Viaje para o Nível Superior da Orla de Rudshore"
+m_InteractText="`GBA_Use` Abrir"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[LTDs.LTD_toFStreets3:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Viaje para o Mercado Rudshore"
+m_InteractText="`GBA_Use` Abrir"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[LTDs.LTD_toStreetSewer:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Viajar para os Arredores do Distrito do Porto Antigo"
+m_InteractText="`GBA_Use` Abrir"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Pouches.Pouch_Daud DisTweaks_AbstractItemPickup]
+m_SingleItemPickupMessage=""
+
+[Pouches.Pouch_Daud:pInteractableTweaks_PickupBase DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name="Bolsa"
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Stat.Elixir_Health_Pouch_twk:pInteractableTweaks_PickupBase DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name="Bolsa de Elixir de Vida"
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage="Você não pode carregar mais elixires"
+
+[Stat.Elixir_Mana_Pouch_twk:pInteractableTweaks_PickupBase DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name="Bolsa de Remédios Espirituais"
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage="Você não pode carregar mais remédios"
+
+[valve_puzzle_part2_twk:DisTweaks_InteractableInterface_54 DisTweaks_InteractableInterface]
+m_Name="Roda de Manivela"
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[wall_lever_01_bridge_twk:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Controle da Ponte Levadiça"
+m_InteractText="`GBA_Use` Usar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[wall_lever_01_dispenser_twk DisTweaks_UsableObject]
+m_LockedMessage="Remover Tanque Vazio"
+
+[wall_lever_01_dispenser_twk:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Descartar Tanque Vazio"
+m_InteractText="`GBA_Use` Usar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[wall_lever_01_oilpump_twk DisTweaks_UsableObject]
+m_LockedMessage="Tanque Vazio Necessário"
+
+[wall_lever_01_oilpump_twk:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Encher Tanque Vazio"
+m_InteractText="`GBA_Use` Usar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[wall_lever_01_stair_twk:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Controle de Escadas"
+m_InteractText="`GBA_Use` Usar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[WeaponBox_twk:DisTweaks_InteractableInterface_11 DisTweaks_InteractableInterface]
+m_Name="Caixa de Armas"
+m_InteractText="`GBA_Use` Usar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[weapons_box_twk DisTweaks_InventoryPickup]
+m_SingleAmmoPickupMessage=""
+m_EmptyPickupMessage=""
+
+[weapons_box_twk:DisTweaks_Interactable_PickupBase_0 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name="Meu Equipamento"
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage="Você não pode pegar isso"
+
+[wood_blank_400_brickbreak_twk:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Tábua de madeira"
+m_InteractText="`GBA_Use` Carregar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[wood_plank_200_brickbreak_twk:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Tábua de Madeira"
+m_InteractText="`GBA_Use` Carregar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[wood_plank_group_05_twk:DisTweaks_InteractableInterface_41 DisTweaks_InteractableInterface]
+m_Name="Tábuas de Madeira"
+m_InteractText=""
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+

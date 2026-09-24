@@ -1,0 +1,36 @@
+﻿[Pwn_Daud_MTall_1 DisTweaks_NPCPawn]
+m_BusyText="Este personagem está ocupado"
+m_CannotStealMessage="Você não pode carregar mais munição deste tipo"
+
+[Pwn_Daud_MTall_1:DisTweaks_InteractableInterface_0 DisTweaks_InteractableInterface]
+m_Name="Daud, Assassino da Imperatriz"
+m_InteractText=""
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Pwn_Daud_MTall_Surrender DisTweaks_NPCPawn]
+m_BusyText="Este personagem está ocupado"
+m_CannotStealMessage="Você não pode carregar mais munição deste tipo"
+
+[Pwn_Daud_MTall_Surrender:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Daud, Assassino da Imperatriz"
+m_InteractText=""
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Pwn_DaudIntro_MTall_1 DisTweaks_NPCPawn]
+m_BusyText="Este personagem está ocupado"
+m_CannotStealMessage="Você não pode carregar mais munição deste tipo"
+
+[Pwn_DaudIntro_MTall_1:DisTweaks_InteractableInterface_0 DisTweaks_InteractableInterface]
+m_Name="Daud, Assassino da Imperatriz"
+m_InteractText=""
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+

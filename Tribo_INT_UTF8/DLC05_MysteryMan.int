@@ -1,0 +1,37 @@
+﻿[MysteryMan_FindClues DishonoredObjective]
+m_Description="Collect Clues"
+
+[MysteryMan_FindClues:DishonoredTask_Custom_17 DishonoredTask_Custom]
+m_Description="Find Clue #1"
+m_Status=""
+
+[MysteryMan_FindClues:DishonoredTask_Custom_18 DishonoredTask_Custom]
+m_Description="Find Clue #4"
+m_Status=""
+
+[MysteryMan_FindClues:DishonoredTask_Custom_19 DishonoredTask_Custom]
+m_Description="Find Clue #3"
+m_Status=""
+
+[MysteryMan_FindClues:DishonoredTask_Custom_20 DishonoredTask_Custom]
+m_Description="Find Clue #2"
+m_Status=""
+
+[MysteryMan_GlobalDistractions DishonoredObjective]
+m_Description="Setup a distraction to gather everyone in a room"
+
+[MysteryMan_GlobalDistractions:DishonoredTask_Custom_17 DishonoredTask_Custom]
+m_Description="Change clock time to start the piano concert"
+m_Status=""
+
+[MysteryMan_GlobalDistractions:DishonoredTask_Custom_20 DishonoredTask_Custom]
+m_Description="Change clock time to start the buffet"
+m_Status=""
+
+[MysteryMan_KillTarget DishonoredObjective]
+m_Description="Kill the target"
+
+[MysteryMan_KillTarget:DishonoredTask_Custom_17 DishonoredTask_Custom]
+m_Description="Kill your target!"
+m_Status=""
+

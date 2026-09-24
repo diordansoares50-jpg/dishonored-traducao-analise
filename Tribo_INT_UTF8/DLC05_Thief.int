@@ -1,0 +1,55 @@
+﻿[THIEF_Obj DishonoredObjective]
+m_Description="Thief"
+
+[THIEF_Obj:DishonoredTask_Custom_10 DishonoredTask_Custom]
+m_Description="Get back to where you started"
+m_Status=""
+
+[THIEF_Obj:DishonoredTask_Custom_14 DishonoredTask_Custom]
+m_Description="(Optional) Collect all of the valuables."
+m_Status=""
+
+[THIEF_Obj:DishonoredTask_Custom_15 DishonoredTask_Custom]
+m_Description="Pie Thief!"
+m_Status=""
+
+[THIEF_Obj:DishonoredTask_Custom_16 DishonoredTask_Custom]
+m_Description="A full set"
+m_Status=""
+
+[THIEF_Obj:DishonoredTask_Custom_17 DishonoredTask_Custom]
+m_Description="Find the Driscol Egg"
+m_Status=""
+
+[THIEF_Obj:DishonoredTask_Custom_18 DishonoredTask_Custom]
+m_Description="Find the Redmoor Egg"
+m_Status=""
+
+[THIEF_Obj:DishonoredTask_Custom_19 DishonoredTask_Custom]
+m_Description="Find the Wynnedown Egg"
+m_Status=""
+
+[THIEF_Obj:DishonoredTask_Custom_20 DishonoredTask_Custom]
+m_Description="Find Potterstead Egg"
+m_Status=""
+
+[THIEF_Obj:DishonoredTask_Custom_21 DishonoredTask_Custom]
+m_Description="Find the Cullero Egg"
+m_Status=""
+
+[THIEF_Obj:DishonoredTask_Custom_22 DishonoredTask_Custom]
+m_Description="Find all of the clockwork eggs"
+m_Status=""
+
+[THIEF_Obj:DishonoredTask_Custom_7 DishonoredTask_Custom]
+m_Description="Get inside the mansion"
+m_Status=""
+
+[THIEF_Obj:DishonoredTask_Custom_8 DishonoredTask_Custom]
+m_Description="Find the Yaro Egg"
+m_Status=""
+
+[THIEF_Obj:DishonoredTask_Custom_9 DishonoredTask_Custom]
+m_Description="(Optional) Collect 2000 coins worth of valuables"
+m_Status=""
+

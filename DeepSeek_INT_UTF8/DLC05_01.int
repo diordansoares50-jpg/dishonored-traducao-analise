@@ -1,0 +1,33 @@
+﻿[DLC_Countdown_Medium DishonoredObjective]
+m_Description="Alcance o alvo o mais rápido possível."
+
+[DLC_Countdown_Medium:DishonoredTask_Custom_9 DishonoredTask_Custom]
+m_Description="Alvo"
+m_Status=""
+
+[DLC_Infected DishonoredObjective]
+m_Description="Agora você está infectado e sangrando! Mate inimigos para ganhar vida."
+
+[DLC_Infected:DishonoredTask_Custom_9 DishonoredTask_Custom]
+m_Description="Tente sobreviver."
+m_Status=""
+
+[DLC_MP_Medium DishonoredObjective]
+m_Description="Elimine os alvos na ordem correta sem ser visto."
+
+[DLC_MP_Medium:DishonoredTask_Custom_21 DishonoredTask_Custom]
+m_Description="Terceiro alvo."
+m_Status=""
+
+[DLC_MP_Medium:DishonoredTask_Custom_22 DishonoredTask_Custom]
+m_Description="Quarto e último alvo."
+m_Status=""
+
+[DLC_MP_Medium:DishonoredTask_Custom_8 DishonoredTask_Custom]
+m_Description="Segundo alvo."
+m_Status=""
+
+[DLC_MP_Medium:DishonoredTask_Custom_9 DishonoredTask_Custom]
+m_Description="Primeiro alvo."
+m_Status=""
+

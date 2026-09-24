@@ -1,0 +1,133 @@
+﻿[BoyleAssassination DishonoredObjective]
+m_Description="Assassinar Lady Boyle"
+
+[BoyleAssassination:DishonoredTask_Custom_0 DishonoredTask_Custom]
+m_Description="Viaje com Samuel até a Propriedade Boyle"
+m_Status=""
+
+[BoyleAssassination:DishonoredTask_Custom_1 DishonoredTask_Custom]
+m_Description="Identifique qual fantasia seu alvo está usando"
+m_Status=""
+
+[BoyleAssassination:DishonoredTask_Custom_10 DishonoredTask_Custom]
+m_Description="Samuel se mudou! Encontre-o - depois do portão do canal"
+m_Status=""
+
+[BoyleAssassination:DishonoredTask_Custom_11 DishonoredTask_Custom]
+m_Description="Processo de Eliminação - O amante do Regente está morto"
+m_Status=""
+
+[BoyleAssassination:DishonoredTask_Custom_12 DishonoredTask_Custom]
+m_Description="Encontre uma forma de entrar na Mansão Boyle"
+m_Status=""
+
+[BoyleAssassination:DishonoredTask_Custom_13 DishonoredTask_Custom]
+m_Description="Eliminar Esma Boyle: Vestido Vermelho"
+m_Status=""
+
+[BoyleAssassination:DishonoredTask_Custom_14 DishonoredTask_Custom]
+m_Description="Eliminar Esma Boyle: Vestido Branco"
+m_Status=""
+
+[BoyleAssassination:DishonoredTask_Custom_15 DishonoredTask_Custom]
+m_Description="Eliminar Esma Boyle: Vestido Preto"
+m_Status=""
+
+[BoyleAssassination:DishonoredTask_Custom_16 DishonoredTask_Custom]
+m_Description="Eliminar Lydia Boyle: Vestido Vermelho"
+m_Status=""
+
+[BoyleAssassination:DishonoredTask_Custom_17 DishonoredTask_Custom]
+m_Description="Eliminar Lydia Boyle: Vestido Branco"
+m_Status=""
+
+[BoyleAssassination:DishonoredTask_Custom_18 DishonoredTask_Custom]
+m_Description="Eliminar Lydia Boyle: Vestido Preto"
+m_Status=""
+
+[BoyleAssassination:DishonoredTask_Custom_19 DishonoredTask_Custom]
+m_Description="Eliminar Waverly Boyle: Vestido Vermelho"
+m_Status=""
+
+[BoyleAssassination:DishonoredTask_Custom_2 DishonoredTask_Custom]
+m_Description="(Não letal) Nocauteie Esma Boyle e entregue-a viva ao porão"
+m_Status=""
+
+[BoyleAssassination:DishonoredTask_Custom_20 DishonoredTask_Custom]
+m_Description="Eliminar Waverly Boyle: Vestido Branco"
+m_Status=""
+
+[BoyleAssassination:DishonoredTask_Custom_21 DishonoredTask_Custom]
+m_Description="Eliminar Waverly Boyle: Vestido Preto"
+m_Status=""
+
+[BoyleAssassination:DishonoredTask_Custom_22 DishonoredTask_Custom]
+m_Description="(Opcional) Subir furtivamente e revistar os três quartos em busca de pistas"
+m_Status=""
+
+[BoyleAssassination:DishonoredTask_Custom_23 DishonoredTask_Custom]
+m_Description="(Opcional) Reúna informações conversando com os convidados"
+m_Status=""
+
+[BoyleAssassination:DishonoredTask_Custom_24 DishonoredTask_Custom]
+m_Description="(Opcional) Use o convite da festa para contornar o porteiro"
+m_Status=""
+
+[BoyleAssassination:DishonoredTask_Custom_25 DishonoredTask_Custom]
+m_Description="(Opcional) Pegue uma bebida para a Srta. White"
+m_Status=""
+
+[BoyleAssassination:DishonoredTask_Custom_26 DishonoredTask_Custom]
+m_Description="(Opcional) Fale com o Lorde Brisby"
+m_Status=""
+
+[BoyleAssassination:DishonoredTask_Custom_3 DishonoredTask_Custom]
+m_Description="(Não letal) Nocauteie Lydia Boyle e entregue-a viva ao porão"
+m_Status=""
+
+[BoyleAssassination:DishonoredTask_Custom_4 DishonoredTask_Custom]
+m_Description="(Não letal) Nocauteie Waverly Boyle e entregue-a viva ao porão"
+m_Status=""
+
+[BoyleAssassination:DishonoredTask_Custom_5 DishonoredTask_Custom]
+m_Description="Fale com Lorde Pendleton no Hound Pits Pub"
+m_Status=""
+
+[BoyleAssassination:DishonoredTask_Custom_6 DishonoredTask_Custom]
+m_Description="Fugir de volta para o barco de Samuel"
+m_Status=""
+
+[BoyleAssassination:DishonoredTask_Custom_7 DishonoredTask_Custom]
+m_Description="Eliminar Esma Boyle"
+m_Status=""
+
+[BoyleAssassination:DishonoredTask_Custom_8 DishonoredTask_Custom]
+m_Description="Eliminar Lydia Boyle"
+m_Status=""
+
+[BoyleAssassination:DishonoredTask_Custom_9 DishonoredTask_Custom]
+m_Description="Eliminar Waverly Boyle"
+m_Status=""
+
+[BoyleOutsiderObjective DishonoredObjective]
+m_Description="Missão do Forasteiro"
+
+[BoyleOutsiderObjective:DishonoredTask_Custom_1 DishonoredTask_Custom]
+m_Description="Encontre uma alavanca e use-a"
+m_Status=""
+
+[PendeltonsNote DishonoredObjective]
+m_Description="Nota de Pendleton"
+
+[PendeltonsNote:DishonoredTask_Custom_0 DishonoredTask_Custom]
+m_Description="(Opcional) Entregue uma nota ao Lorde Shaw: Ele está com uma máscara de lobo na festa dos Boyle."
+m_Status=""
+
+[PendeltonsNote:DishonoredTask_Custom_1 DishonoredTask_Custom]
+m_Description="Voltar para a Hound Pits Pub"
+m_Status=""
+
+[PendeltonsNote:DishonoredTask_Custom_2 DishonoredTask_Custom]
+m_Description="(Opcional) Siga Lord Shaw"
+m_Status=""
+

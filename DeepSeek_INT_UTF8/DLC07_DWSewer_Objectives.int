@@ -1,0 +1,54 @@
+﻿[DLC07_DW_MissingMechanic_Obj DishonoredObjective]
+m_Description="O Mecânico Desaparecido"
+
+[DLC07_DW_MissingMechanic_Obj:DishonoredTask_Custom_0 DishonoredTask_Custom]
+m_Description="Pegue a Chave do Esgoto do Bairro dos Drapers com a Enfermeira Trimble"
+m_Status=""
+
+[DLC07_DW_MissingMechanic_Obj:DishonoredTask_Custom_1 DishonoredTask_Custom]
+m_Description="Procure no apartamento do mecânico Hatter pela combinação da Sala de Máquinas"
+m_Status=""
+
+[DLC07_DW_MissingMechanic_Obj:DishonoredTask_Custom_2 DishonoredTask_Custom]
+m_Description="Procure no Esgoto do Bairro dos Alfaiates pelo mecânico Chapeleiro desaparecido"
+m_Status=""
+
+[DLC07_DW_MissingMechanic_Obj:DishonoredTask_Custom_3 DishonoredTask_Custom]
+m_Description="Procure por pistas no cadáver do mecânico do Chapeleiro"
+m_Status=""
+
+[DLC07_DW_MissingMechanic_Obj:DishonoredTask_Custom_4 DishonoredTask_Custom]
+m_Description="Viaje até o apartamento do mecânico Hatter nas ruas"
+m_Status=""
+
+[DLC07_DW_RestoreWater_Obj DishonoredObjective]
+m_Description="Restaurar a Água para a Fábrica Têxtil"
+
+[DLC07_DW_RestoreWater_Obj:DishonoredTask_Custom_62 DishonoredTask_Custom]
+m_Description="Voltar para a Enfermeira Trimble"
+m_Status=""
+
+[DLC07_DW_RestoreWater_Obj:DishonoredTask_Custom_65 DishonoredTask_Custom]
+m_Description="Ligar o Fluxo de Água para a Fábrica Têxtil"
+m_Status=""
+
+[DLC07_DW_RestoreWater_Obj:DishonoredTask_Custom_66 DishonoredTask_Custom]
+m_Description="Viaje para o Esgoto do Bairro dos Alfaiates"
+m_Status=""
+
+[DLC07_DW_RestoreWater_Obj:DishonoredTask_Custom_67 DishonoredTask_Custom]
+m_Description="Limpe o que estiver bloqueando a Máquina de Água"
+m_Status=""
+
+[DLC07_DW_RestoreWater_Obj:DishonoredTask_Custom_68 DishonoredTask_Custom]
+m_Description="Conecte a Chave de Válvula à Válvula"
+m_Status=""
+
+[DLC07_DW_RestoreWater_Obj:DishonoredTask_Custom_69 DishonoredTask_Custom]
+m_Description="Encontre a Chave da Válvula de Controle de Água"
+m_Status=""
+
+[DLC07_DW_RestoreWater_Obj:DishonoredTask_Custom_89 DishonoredTask_Custom]
+m_Description="Encontre a Estação de Controle de Água"
+m_Status=""
+

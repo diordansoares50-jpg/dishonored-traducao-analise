@@ -1,0 +1,60 @@
+﻿[Pwn_CityGuard_Pendleton_MSmall_0 DisTweaks_NPCPawn]
+m_BusyText="Este personagem está ocupado"
+m_CannotStealMessage="Você não pode carregar mais munição deste tipo"
+
+[Pwn_CityGuard_Pendleton_MSmall_0:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Guarda da Guarda da Cidade"
+m_InteractText=""
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Twk_Pawn_CityGuard01_Pendleton DisTweaks_NPCPawn]
+m_BusyText="Este personagem está ocupado"
+m_CannotStealMessage="Você não pode carregar mais munição deste tipo"
+
+[Twk_Pawn_CityGuard01_Pendleton:DisTweaks_InteractableInterface_66 DisTweaks_InteractableInterface]
+m_Name="Guarda da Cidade"
+m_InteractText=""
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Twk_Pawn_CityGuard01Helm_Pendleton DisTweaks_NPCPawn]
+m_BusyText="Este personagem está ocupado"
+m_CannotStealMessage="Você não pode carregar mais munição deste tipo"
+
+[Twk_Pawn_CityGuard01Helm_Pendleton:DisTweaks_InteractableInterface_67 DisTweaks_InteractableInterface]
+m_Name="Guarda da Cidade"
+m_InteractText=""
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Twk_Pawn_CityGuard02_Pendleton DisTweaks_NPCPawn]
+m_BusyText="Este personagem está ocupado"
+m_CannotStealMessage="Você não pode carregar mais munição deste tipo"
+
+[Twk_Pawn_CityGuard02_Pendleton:DisTweaks_InteractableInterface_68 DisTweaks_InteractableInterface]
+m_Name="Guarda da Guarda da Cidade"
+m_InteractText=""
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Twk_Pawn_CityGuard02Helm_Pendleton DisTweaks_NPCPawn]
+m_BusyText="Este personagem está ocupado"
+m_CannotStealMessage="Você não pode carregar mais munição deste tipo"
+
+[Twk_Pawn_CityGuard02Helm_Pendleton:DisTweaks_InteractableInterface_69 DisTweaks_InteractableInterface]
+m_Name="Guarda da Guarda da Cidade"
+m_InteractText=""
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+

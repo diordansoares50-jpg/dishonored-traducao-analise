@@ -1,0 +1,64 @@
+﻿[Twk_Proj_Arrow:DisTweaks_InteractableInterface_3 DisTweaks_InteractableInterface]
+m_Name="Seta"
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage="Você não pode mais carregar esse tipo de munição"
+
+[Twk_Proj_Arrow_Flare:DisTweaks_InteractableInterface_4 DisTweaks_InteractableInterface]
+m_Name="Seta Incendiária"
+m_InteractText="`GBA_Use` Apagar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage="Você não pode mais carregar esse tipo de munição"
+
+[Twk_Proj_Arrow_Sleep:DisTweaks_InteractableInterface_5 DisTweaks_InteractableInterface]
+m_Name="Dardo Tranquilizante"
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage="Você não pode mais carregar esse tipo de munição"
+
+[Twk_Proj_Bullet:DisTweaks_InteractableInterface_2 DisTweaks_InteractableInterface]
+m_Name="Bala"
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage="Você não pode mais carregar esse tipo de munição"
+
+[Twk_Proj_Bullet_Elite:DisTweaks_InteractableInterface_2 DisTweaks_InteractableInterface]
+m_Name="Bala"
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage="Você não pode mais carregar esse tipo de munição"
+
+[Twk_Proj_Bullet_Explosive:DisTweaks_InteractableInterface_1 DisTweaks_InteractableInterface]
+m_Name="Bala"
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage="Você não pode mais carregar esse tipo de munição"
+
+[Twk_Proj_BulletUpgraded:DisTweaks_InteractableInterface_2 DisTweaks_InteractableInterface]
+m_Name="Bala"
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage="Você não pode mais carregar esse tipo de munição"
+
+[Twk_Proj_RiverKrust_NonExplosive:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Cuspe da Ostra do Rio"
+m_InteractText=""
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+

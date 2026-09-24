@@ -1,0 +1,16 @@
+﻿[Tweaks.safe_door_twk DisTweaks_UsableObject]
+m_Stages[1]=(m_InteractTextOverride="`GBA_Use` Close")
+m_LockedMessage="Combinação Necessária"
+
+[Tweaks.safe_door_twk:DisTweaks_InteractableInterface_6 DisTweaks_InteractableInterface]
+m_Name="Seguro"
+m_InteractText="`GBA_Use` Abrir"
+
+[Tweaks.Twk_Door_Small_Lck DisTweaks_Door]
+m_DoorOpenCCW.m_InteractTextOverride=""
+m_DoorOpenCW.m_InteractTextOverride=""
+m_DoorCloseCCW.m_InteractTextOverride="`GBA_Use` Fechar"
+m_DoorCloseCW.m_InteractTextOverride="`GBA_Use` Fechar"
+m_DoorSlamOpenCCW.m_InteractTextOverride=""
+m_DoorSlamOpenCW.m_InteractTextOverride=""
+

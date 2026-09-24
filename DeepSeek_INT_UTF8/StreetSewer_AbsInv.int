@@ -1,0 +1,35 @@
+﻿[books.GrannyCameoSecret DisAbstractItem]
+m_ItemName="Diário do Explorador"
+m_PluralItemName=""
+m_Description="[Trecho do diário de um explorador e filósofo natural]
+
+As interpretações do Dr. Hazian sobre as esculturas pandessianas são o auge da ignorância. O tema central não é renovação, mas um terrível aviso. A figura central não é um espírito benigno. É claramente um monstro, e a joia um tipo de fetiche, talvez a chave de seu poder sombrio.
+
+Os painéis devem ser lidos da seguinte forma: A figura heróica rouba a joia do monstro e a lança em um fogo inextinguível. Assim, o monstro se torna mortal e o herói consegue matá-lo, quebrando o ciclo de terror.
+
+[Nota rabiscada nas margens]
+
+Vera tem demonstrado um interesse desmedido em meus manuais de campo. Tais apetites são impróprios para uma dama de sua posição. Terei que repreendê-la.
+
+[Segunda nota, escrita em outra caligrafia]
+
+Que tédio, tédio, querido"
+
+[books.GrannyRuneRecipe DisAbstractItem]
+m_ItemName="Manuscrito de Cheiro Estranho"
+m_PluralItemName=""
+m_Description="[Trecho de um manuscrito sem título, escrito em letra rabiscada]
+
+Mais forte que escultura em osso? Um crânio cheio de astúcia. Bílis de baleia. Ossos numa pilha. Branco-raspado reluzente. Acender fogo e gordura crepitante. Grandes bolhas negras de cuspe. Fumaça sobe. Fumaça sobe.
+
+Penas. Pássaro de olhos loucos caiu no chão.
+
+Sementes. Urtiga. Agulhuda. Agulhas veem.
+
+Mexer um pouco."
+
+[GrannyRags_Cameo_AbsInv DisAbstractItem]
+m_ItemName="Cameo da Vovó Trapos"
+m_PluralItemName=""
+m_Description="Cameo da Vovó Rags"
+

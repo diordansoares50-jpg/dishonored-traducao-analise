@@ -1,0 +1,4 @@
+﻿[DLC06_Pckp_Saw:pInteractableTweaks_PickupBase DisTweaks_Interactable_PickupBase]
+m_Name="Butcher Equipment"
+m_InteractText="`GBA_Use` Salvage"
+

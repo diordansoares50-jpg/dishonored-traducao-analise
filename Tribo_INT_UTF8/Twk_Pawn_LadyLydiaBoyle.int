@@ -1,0 +1,24 @@
+﻿[Twk_Pawn_LadyLydiaBoyle DisTweaks_NPCPawn]
+m_BusyText="Esse personagem está ocupado"
+m_CannotStealMessage="Você não pode mais carregar esse tipo de munição"
+
+[Twk_Pawn_LadyLydiaBoyle:DisTweaks_InteractableInterface_2 DisTweaks_InteractableInterface]
+m_Name="Lady Boyle"
+m_InteractText=""
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Twk_Pawn_LadyLydiaBoyle_INVINC DisTweaks_NPCPawn]
+m_BusyText="Esse personagem está ocupado"
+m_CannotStealMessage="Você não pode mais carregar esse tipo de munição"
+
+[Twk_Pawn_LadyLydiaBoyle_INVINC:DisTweaks_InteractableInterface_2 DisTweaks_InteractableInterface]
+m_Name="Lady Boyle"
+m_InteractText=""
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+

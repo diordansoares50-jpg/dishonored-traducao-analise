@@ -1,0 +1,35 @@
+﻿[DLC06_M01Stat_Slaughterhouse DisTweaks_MissionStats]
+m_MissionSummaryItems[0]=(m_Description="Put Down the Captive Whale")
+m_MissionSummaryItems[1]=(m_Description="Destroyed the Rothwild Slaughterhouse")
+m_MissionSummaryItems[2]=(m_Description="Shipped Bundry Rothwild to a Remote Island")
+m_MissionSummaryItems[3]=(m_Description="Freed the Detained Laborers")
+m_MissionSummaryItems[4]=(m_Description="Completed the Granny Rags Recipe")
+m_MissionSummaryItems[5]=(m_Description="Looted the Watch Officer’s Safe")
+
+[DLC06_M02Stat_Timsh DisTweaks_MissionStats]
+m_MissionSummaryItems[0]=(m_Description="Completed Granny's Recipe")
+m_MissionSummaryItems[1]=(m_Description="Killed General Turnbull")
+m_MissionSummaryItems[2]=(m_Description="Raided all of Timsh's Chests")
+m_MissionSummaryItems[3]=(m_Description="Had Barrister Timsh Arrested")
+m_MissionSummaryItems[4]=(m_Description="Spoke with 'Delilah'")
+m_MissionSummaryItems[5]=(m_Description="Sniped Timsh with Billie Lurk Watching")
+
+[DLC06_M03Stat_DaudBase DisTweaks_MissionStats]
+m_MissionSummaryItems[0]=(m_Description="Killed Billie Lurk")
+m_MissionSummaryItems[1]=(m_Description="Spared Billie Lurk")
+m_MissionSummaryItems[2]=(m_Description="Rescued All Your Assassins")
+m_MissionSummaryItems[3]=(m_Description="Eliminated All the Overseers Armed With Music Boxes")
+
+[DLC06_MissionStats_Base DisTweaks_MissionStats]
+m_MissionStats[0]=(m_Description="Hostiles Killed")
+m_MissionStats[1]=(m_Description="Civilians Killed")
+m_MissionStats[2]=(m_Description="Alarms Rung")
+m_MissionStats[3]=(m_Description="Dead or Unconscious Bodies Found")
+m_MissionStats[4]=(m_Description="Overall Chaos (Current Total)")
+m_MissionStats[5]=(m_Description="Didn't Kill Anyone")
+m_MissionStats[6]=(m_Description="Ghost (Never Detected)")
+m_MissionStats[7]=(m_Description="Runes Found")
+m_MissionStats[8]=(m_Description="Bone Charms Found")
+m_MissionStats[9]=(m_Description="Outsider Shrines Found")
+m_MissionStats[10]=(m_Description="Coins Found")
+

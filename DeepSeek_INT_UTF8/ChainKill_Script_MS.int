@@ -1,0 +1,76 @@
+﻿[Notes.AbstrInv_Disclaimer DisAbstractItem]
+m_ItemName="Cadeia de Mortes"
+m_PluralItemName=""
+m_Description="Elimine um número crescente de inimigos com menos de 4 segundos entre cada abate.
+
+O temporizador de contagem regressiva só começa após o primeiro inimigo ser eliminado. Tome seu tempo para preparar suas ações.
+
+Experimente seus poderes sobrenaturais e dispositivos. Especificamente, o Dobrar o Tempo é seu melhor aliado.
+Também é possível usar o ambiente de forma criativa.
+Não se esqueça de reprogramar os sistemas de segurança se pretender usá-los a seu favor.
+
+Pontuação:
+* Cada abate concede pontos.
+* Quanto menos tempo entre os abates, mais pontos você marca.
+* Elimine inimigos de maneiras diferentes para marcar mais pontos.
+
+Especial:
+Cada vez que uma rodada é concluída, você tem a possibilidade de jogar uma rodada bônus com um objetivo único. Não estrague essa chance, você não pode reiniciá-la se falhar.
+
+Fim de Jogo:
+Não há fim de jogo. Se você falhar uma rodada, apenas a reinicia."
+
+[Notes.AbstrInv_Phase01_Chain_Disclaimer DisAbstractItem]
+m_ItemName="Rodada 01 - Bônus em Cadeia"
+m_PluralItemName=""
+m_Description="Mate 3 personagens em 1 segundo sem usar o Tempo Curvo."
+
+[Notes.AbstrInv_Phase01_Env_Disclaimer DisAbstractItem]
+m_ItemName="Rodada 01 - Bônus Ambiental"
+m_PluralItemName=""
+m_Description="Mate 3 personagens usando os Auto-falantes de Rua."
+
+[Notes.AbstrInv_Phase02_Chain_Disclaimer DisAbstractItem]
+m_ItemName="Rodada 02 - Bônus em Cadeia"
+m_PluralItemName=""
+m_Description="Mate 6 personagens usando apenas a Besta."
+
+[Notes.AbstrInv_Phase02_Env_Disclaimer DisAbstractItem]
+m_ItemName="Rodada 02 - Bônus Ambiental"
+m_PluralItemName=""
+m_Description="Mate 6 personagens sem usar nenhuma arma física."
+
+[Notes.AbstrInv_Phase03_Chain_Disclaimer DisAbstractItem]
+m_ItemName="Rodada 03 - Bônus em Cadeia"
+m_PluralItemName=""
+m_Description="Mate 10 personagens usando apenas sua espada e o poder de Teleporte."
+
+[Notes.AbstrInv_Phase03_Env_Disclaimer DisAbstractItem]
+m_ItemName="Rodada 03 - Bônus Ambiental"
+m_PluralItemName=""
+m_Description="Mate 10 personagens usando tanques de óleo de baleia."
+
+[Notes.AbstrInv_Phase04_Chain_Disclaimer DisAbstractItem]
+m_ItemName="Rodada 04 - Bônus em Cadeia"
+m_PluralItemName=""
+m_Description="Mate 15 personagens usando apenas o poder de Explosão de Vento."
+
+[Notes.AbstrInv_Phase04_Env_Disclaimer DisAbstractItem]
+m_ItemName="Rodada 04 - Bônus Ambiental"
+m_PluralItemName=""
+m_Description="Mate 15 personagens sem usar nenhuma Arma."
+
+[Notes.AbstrInv_Phase05_Chain_Disclaimer DisAbstractItem]
+m_ItemName="Rodada 05 - Bônus em Cadeia"
+m_PluralItemName=""
+m_Description="Mate 20 personagens usando apenas Granadas."
+
+[Notes.AbstrInv_Phase05_Env_Disclaimer DisAbstractItem]
+m_ItemName="Rodada 05 - Bônus Ambiental"
+m_PluralItemName=""
+m_Description="Mate 20 personagens usando pelo menos 3 Mortes Ambientais diferentes."
+
+[Notes.DisclaimerExpert_Pickup DisTweaks_AbstractItemPickupNote]
+m_PressKeyToReadMessage=""
+m_OnPickupMessage=""
+

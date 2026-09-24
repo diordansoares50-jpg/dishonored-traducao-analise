@@ -1,0 +1,107 @@
+﻿[Obj_SewerEscape DishonoredObjective]
+m_Description="Estabelecer Contato"
+
+[Obj_SewerEscape:DishonoredTask_Custom_0 DishonoredTask_Custom]
+m_Description="Fuja dos esgotos para encontrar um novo aliado"
+m_Status=""
+
+[Obj_SewerEscape:DishonoredTask_Custom_1 DishonoredTask_Custom]
+m_Description="Encontre os suprimentos escondidos nos esgotos"
+m_Status=""
+
+[Obj_SewerEscape:DishonoredTask_Custom_4 DishonoredTask_Custom]
+m_Description="Fale com Samuel, o Barqueiro"
+m_Status=""
+
+[Prison_Escape DishonoredObjective]
+m_Description="Escapar da Prisão de Coldridge"
+
+[Prison_Escape:DishonoredTask_Custom_0 DishonoredTask_Custom]
+m_Description="Chegue aos túneis de esgoto"
+m_Status=""
+
+[Prison_Escape:DishonoredTask_Custom_1 DishonoredTask_Custom]
+m_Description="Encontre o baú de suprimentos nos esgotos"
+m_Status=""
+
+[Prison_Escape:DishonoredTask_Custom_2 DishonoredTask_Custom]
+m_Description="Escape dos esgotos para encontrar um novo aliado"
+m_Status=""
+
+[Prison_Escape:DishonoredTask_Custom_3 DishonoredTask_Custom]
+m_Description="Fugir para os esgotos"
+m_Status=""
+
+[Prison_Escape:DishonoredTask_Custom_4 DishonoredTask_Custom]
+m_Description="Fale com Samuel, o Barqueiro"
+m_Status=""
+
+[Prison_Escape:DishonoredTask_Custom_7 DishonoredTask_Custom]
+m_Description="Escapar pela porta externa"
+m_Status=""
+
+[Prison_Escape:DishonoredTask_Custom_8 DishonoredTask_Custom]
+m_Description="Pular da ponte"
+m_Status=""
+
+[Prison_FindBomb DishonoredObjective]
+m_Description="Encontre o Explosivo"
+
+[Prison_FindBomb:DishonoredTask_Custom_0 DishonoredTask_Custom]
+m_Description="Entre na Sala de Interrogação"
+m_Status=""
+
+[Prison_FindBomb:DishonoredTask_Custom_1 DishonoredTask_Custom]
+m_Description="Abra sua cela"
+m_Status=""
+
+[Prison_FindBomb:DishonoredTask_Custom_10 DishonoredTask_Custom]
+m_Description="Siga pela passarela até a Sala de Interrogação"
+m_Status=""
+
+[Prison_FindBomb:DishonoredTask_Custom_11 DishonoredTask_Custom]
+m_Description="Pegue o explosivo"
+m_Status=""
+
+[Prison_FindBomb:DishonoredTask_Custom_12 DishonoredTask_Custom]
+m_Description="Lute ou infiltre-se até a passarela"
+m_Status=""
+
+[Prison_FindBomb:DishonoredTask_Custom_13 DishonoredTask_Custom]
+m_Description="(Opcional) Estrangular o guarda até desmaiar"
+m_Status=""
+
+[Prison_FindBomb:DishonoredTask_Custom_2 DishonoredTask_Custom]
+m_Description="Pegar uma arma"
+m_Status=""
+
+[Prison_FindBomb:DishonoredTask_Custom_9 DishonoredTask_Custom]
+m_Description="Pegue a chave do cinto do guarda"
+m_Status=""
+
+[Prison_FindNote DishonoredObjective]
+m_Description="Carta de um Amigo"
+
+[Prison_FindNote:DishonoredTask_Custom_12 DishonoredTask_Custom]
+m_Description="Coma sua última refeição"
+m_Status=""
+
+[Prison_FindNote:DishonoredTask_Custom_13 DishonoredTask_Custom]
+m_Description="Leia a mensagem"
+m_Status=""
+
+[Prison_PlantBomb DishonoredObjective]
+m_Description="Plante o Explosivo"
+
+[Prison_PlantBomb:DishonoredTask_Custom_0 DishonoredTask_Custom]
+m_Description="Entre no corredor que leva à porta externa"
+m_Status=""
+
+[Prison_PlantBomb:DishonoredTask_Custom_1 DishonoredTask_Custom]
+m_Description="Plante o explosivo"
+m_Status=""
+
+[Prison_PlantBomb:DishonoredTask_Custom_16 DishonoredTask_Custom]
+m_Description="Atravesse o pátio"
+m_Status=""
+

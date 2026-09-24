@@ -1,0 +1,140 @@
+﻿[Daud.ChapterLog_Daud DisAbstractItem]
+m_ItemName="Notas: O Surge"
+m_PluralItemName=""
+m_Description="Delilah é uma poderosa bruxa que lidera um coven que se mudou para as ruínas da Mansão Brigmore. Você retornou à sua base secreta no Distrito Alagado para planejar seu próximo movimento."
+
+[Daud.ChapterNotes_Artifact DisAbstractItem]
+m_ItemName="Artefato Herético"
+m_PluralItemName=""
+m_Description="Os Supervisores estão recolhendo artefatos confiscados em seu quartel-general temporário."
+
+[Daud.ChapterNotes_Brief DisAbstractItem]
+m_ItemName="Briefing"
+m_PluralItemName=""
+m_Description="Os Supervisores tomaram a base de surpresa, os assassinos estão dispersos e alguns foram capturados. Liberte-os para retomar o controle da área."
+
+[Daud.ChapterNotes_HumeLetter DisAbstractItem]
+m_ItemName="Carta de Hume"
+m_PluralItemName=""
+m_Description="O Supervisor Hume é responsável por liderar o ataque. Os planos de assalto que ele ignorou estão no quartel-general temporário do Supervisor."
+
+[Slaughter.ChapterLog_Slaughter DisAbstractItem]
+m_ItemName="Notas: Um Capitão da Indústria"
+m_PluralItemName=""
+m_Description="Bundry Rothwild é um empresário implacável que possui um matadouro e uma frota de navios baleeiros, incluindo um navio chamado The Delilah. Infiltre-se no Matadouro Rothwild e descubra o que está por trás do nome."
+
+[Slaughter.ChapterNotes_Slaughter_Abigail DisAbstractItem]
+m_ItemName="Abigail Ames"
+m_PluralItemName=""
+m_Description="Abigail Ames é uma agente do rival Matadouro Ramsey, com a missão de infiltrar-se e sabotar a operação de Rothwild."
+
+[Slaughter.ChapterNotes_Slaughter_Butcher DisAbstractItem]
+m_ItemName="Os Açougueiros"
+m_PluralItemName=""
+m_Description="Os açougueiros são ferozmente leais a Bundry Rothwild, e muitos já atuaram nas gangues de Dunwall antes de se juntarem a ele. Além de seus trabalhos, também servem como capangas de Rothwild."
+
+[Slaughter.ChapterNotes_Slaughter_Chair DisAbstractItem]
+m_ItemName="Cadeira de Interrogatório"
+m_PluralItemName=""
+m_Description="Na área do frigorífico há uma cadeira de interrogatório improvisada usada para coagir trabalhadores e descobrir seus segredos."
+
+[Slaughter.ChapterNotes_Slaughter_Code DisAbstractItem]
+m_ItemName="Números Misteriosos"
+m_PluralItemName=""
+m_Description="Você descobriu um velho pedaço de papel com os números sete, dois e oito escritos nele."
+
+[Slaughter.ChapterNotes_Slaughter_Crate DisAbstractItem]
+m_ItemName="A Caixa Vazia"
+m_PluralItemName=""
+m_Description="Uma caixa vazia, adaptada para carga viva, será enviada em breve."
+
+[Slaughter.ChapterNotes_Slaughter_FavorAlarm DisAbstractItem]
+m_ItemName="Alarmes Desativados"
+m_PluralItemName=""
+m_Description="Como resultado do seu suborno, o sistema de alarme foi desativado e não haverá alerta se você começar a abrir as válvulas de pressão na área da refinaria."
+
+[Slaughter.ChapterNotes_Slaughter_Granny DisAbstractItem]
+m_ItemName="Receita da Vovó"
+m_PluralItemName=""
+m_Description="Granny Rags escreveu vários rituais e fórmulas para produzir itens de poder."
+
+[Slaughter.ChapterNotes_Slaughter_Saw DisAbstractItem]
+m_ItemName="A Serra do Açougueiro"
+m_PluralItemName=""
+m_Description="Os açougueiros de baleias usam uma serra poderosa que corta a carne em segundos. Ela também pode disparar projéteis para esculpir partes da baleia difíceis de alcançar. Os açougueiros são devastadoramente hábeis em manusear essas lâminas."
+
+[Slaughter.ChapterNotes_Slaughter_Ship DisAbstractItem]
+m_ItemName="Navio do Advogado Timsh"
+m_PluralItemName=""
+m_Description="O advogado Arnold Timsh batizou um novo navio baleeiro com o nome de uma pintora chamada Delilah, que o cativou. Depois, em um pânico estranho, ele a expulsou e livrou-se de todos os vínculos com ela."
+
+[Slaughter.ChapterNotes_Slaughter_Sokolov DisAbstractItem]
+m_ItemName="Minas de Arco"
+m_PluralItemName=""
+m_Description="Anton Sokolov doou Minas Arc para Bundry Rothwild. Rothwild permite que Sokolov estude baleias no matadouro, e às vezes o favor é retribuído na forma de projetos para ferramentas protótipo."
+
+[Slaughter.ChapterNotes_Slaughter_Strike DisAbstractItem]
+m_ItemName="Trabalhadores em Greve"
+m_PluralItemName=""
+m_Description="Os trabalhadores do Matadouro Rothwild se rebelaram contra o patrão e se recusam a trabalhar até que suas condições melhorem. Exceto pelos Açougueiros, que permanecem no trabalho."
+
+[Slaughter.ChapterNotes_Slaughter_Whale DisAbstractItem]
+m_ItemName="Misericórdia para a Baleia Cativa"
+m_PluralItemName=""
+m_Description="Se for aplicada energia elétrica suficiente, a baleia cativa pode ser abatida em um instante."
+
+[Timsh.ChapterLog_Timsh DisAbstractItem]
+m_ItemName="Notas: Domínio Eminente"
+m_PluralItemName=""
+m_Description="Delilah já pintou retratos para o Barrister Arnold Timsh, um aristocrata corrupto que usa seus poderes legais para despejar famílias de suas casas e reivindicar propriedades para o Lorde Regente, com base em acusações falsas de praga. A sobrinha do Barrister Timsh, Thalia, o odeia. Ela prometeu ajudá-lo a localizar Delilah, por um preço. Encontre-se com Thalia para descobrir o que ela sabe."
+
+[Timsh.ChapterNotes_LegalPlaza DisAbstractItem]
+m_ItemName="A Praça Jurídica"
+m_PluralItemName=""
+m_Description="O escritório e a propriedade de Timsh ficam à frente de uma ampla praça que marca o centro do Distrito Jurídico."
+
+[Timsh.ChapterNotes_Timsh_Key DisAbstractItem]
+m_ItemName="Chave do Timsh"
+m_PluralItemName=""
+m_Description="Timsh carrega uma chave importante consigo o tempo todo."
+
+[Timsh.ChapterNotes_Timsh_Outpost DisAbstractItem]
+m_ItemName="Um Posto Avançado"
+m_PluralItemName=""
+m_Description="Há um posto avançado no telhado com vista para a Praça Legal que contém informações e suprimentos. A Tenente Billie Lurk estará lá assim que terminar o reconhecimento."
+
+[Timsh.ChapterNotes_Timsh_Prisoner DisAbstractItem]
+m_ItemName="Um Prisioneiro"
+m_PluralItemName=""
+m_Description="Os guardas capturaram uma pessoa suspeita. Ele é possivelmente um antigo associado de Timsh."
+
+[Timsh.ChapterNotes_Timsh_Timsh1 DisAbstractItem]
+m_ItemName="Localização de Timsh"
+m_PluralItemName=""
+m_Description="Timsh está no saguão do térreo."
+
+[Timsh.ChapterNotes_Timsh_Timsh2 DisAbstractItem]
+m_ItemName="Localização de Timsh"
+m_PluralItemName=""
+m_Description="Timsh está em seu escritório no 3º andar."
+
+[Timsh.ChapterNotes_Timsh_Timsh3 DisAbstractItem]
+m_ItemName="Localização de Timsh"
+m_PluralItemName=""
+m_Description="Timsh está em seu quarto no 4º andar."
+
+[Timsh.ChapterNotes_Timsh_Waterfront DisAbstractItem]
+m_ItemName="Um Caminho para a Orla Marítima"
+m_PluralItemName=""
+m_Description="Um apartamento perto da propriedade de Timsh leva de volta aos telhados da orla."
+
+[Timsh.ChapterNotes_Timsh_Will1 DisAbstractItem]
+m_ItemName="A Localização da Vontade"
+m_PluralItemName=""
+m_Description="A Vontade está em um depósito anexo ao saguão do térreo."
+
+[Timsh.ChapterNotes_Timsh_Will2 DisAbstractItem]
+m_ItemName="A Localização da Vontade"
+m_PluralItemName=""
+m_Description="O Testamento está no escritório de Timsh, no 3º andar."
+

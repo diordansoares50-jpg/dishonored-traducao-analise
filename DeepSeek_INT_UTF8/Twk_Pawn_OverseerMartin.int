@@ -1,0 +1,24 @@
+﻿[Twk_Pawn_OverseerMartin DisTweaks_NPCPawn]
+m_BusyText="Este personagem está ocupado"
+m_CannotStealMessage="Você não pode carregar mais munição deste tipo"
+
+[Twk_Pawn_OverseerMartin:DisTweaks_InteractableInterface_44 DisTweaks_InteractableInterface]
+m_Name="Martin"
+m_InteractText=""
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Twk_Pawn_OverseerMartin_NoCombat DisTweaks_NPCPawn]
+m_BusyText="Este personagem está ocupado"
+m_CannotStealMessage="Você não pode carregar mais munição deste tipo"
+
+[Twk_Pawn_OverseerMartin_NoCombat:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Martin"
+m_InteractText=""
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+

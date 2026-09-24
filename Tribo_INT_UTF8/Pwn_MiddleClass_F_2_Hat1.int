@@ -1,0 +1,24 @@
+﻿[Pwn_MiddleClass_F_2_Hat1 DisTweaks_NPCPawn]
+m_BusyText="Esse personagem está ocupado"
+m_CannotStealMessage="Você não pode mais carregar esse tipo de munição"
+
+[Pwn_MiddleClass_F_2_Hat1:DisTweaks_InteractableInterface_20 DisTweaks_InteractableInterface]
+m_Name="Sobrevivente"
+m_InteractText=""
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Pwn_MiddleClass_F_2_Hat1_NoAnxious DisTweaks_NPCPawn]
+m_BusyText="Esse personagem está ocupado"
+m_CannotStealMessage="Você não pode mais carregar esse tipo de munição"
+
+[Pwn_MiddleClass_F_2_Hat1_NoAnxious:DisTweaks_InteractableInterface_20 DisTweaks_InteractableInterface]
+m_Name="Sobrevivente"
+m_InteractText=""
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+

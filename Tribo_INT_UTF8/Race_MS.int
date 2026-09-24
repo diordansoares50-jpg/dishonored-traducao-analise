@@ -1,0 +1,28 @@
+﻿[door_small_poor_int_wood_locked_twk DisTweaks_Door]
+m_DoorOpenCCW.m_InteractTextOverride=""
+m_DoorOpenCW.m_InteractTextOverride=""
+m_DoorCloseCCW.m_InteractTextOverride="`GBA_Use` Close"
+m_DoorCloseCW.m_InteractTextOverride="`GBA_Use` Close"
+m_DoorSlamOpenCCW.m_InteractTextOverride=""
+m_DoorSlamOpenCW.m_InteractTextOverride=""
+m_LockedMessage=""
+m_FocusLockedMessage="Locked"
+
+[Notes.DisclaimerExpert_AbstrInv DisAbstractItem]
+m_ItemName="Train Runner"
+m_PluralItemName=""
+m_Description="Reach the finish line as fast as possible.\n\nHigh mobility using the Blink power and Agility will be your best ally. \n\nThe path is full of new obstacles and closed doors. \n\nAssassins now patrol the area. If you kill them, they will quickly come back. \n\nScoring:\n* The faster you reach the end, the more points you score.\n* Your remaining health and mana at the end of the challenge gives you a score bonus.\n\nGame Over: \nThe challenge is over if you die or fall into the Void."
+
+[Notes.DisclaimerExpert_Pickup DisTweaks_AbstractItemPickupNote]
+m_PressKeyToReadMessage=""
+m_OnPickupMessage=""
+
+[Notes.DisclaimerNormal_AbstrInv DisAbstractItem]
+m_ItemName="Train Runner"
+m_PluralItemName=""
+m_Description="Reach the finish line as fast as possible.\n\nHigh mobility using the Blink power and Agility will be your best ally. \n\nScoring:\n* The faster you reach the end, the more points you score.\n* Your remaining Health and Mana at the end of the challenge gives you a score bonus.\n\nGame Over: \nThe challenge is over if you die or fall into the Void."
+
+[Notes.DisclaimerNormal_Pickup DisTweaks_AbstractItemPickupNote]
+m_PressKeyToReadMessage=""
+m_OnPickupMessage=""
+

@@ -1,0 +1,581 @@
+﻿[Breakable.Ovrsr_PASpeaker_twk:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name=""
+m_InteractText=""
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[ChairCampbell_intDrop_twk:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Cadeira de Interrogatório"
+m_InteractText="`GBA_Use` Colocar Campbell"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[ChairCampbell_interact_twk:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Prelado Supervisor Campbell"
+m_InteractText="`GBA_Use` Marca do Herege"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[coins.Ovrsr_DonBox_Coin10 DisTweaks_AbstractItemPickup]
+m_SingleItemPickupMessage=""
+
+[coins.Ovrsr_DonBox_Coin10:DisTweaks_Interactable_PickupBase_2 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name="Moeda de 10"
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[coins.Ovrsr_DonBox_Coin25 DisTweaks_AbstractItemPickup]
+m_SingleItemPickupMessage=""
+
+[coins.Ovrsr_DonBox_Coin25:DisTweaks_Interactable_PickupBase_2 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name="Moeda de 10"
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[coins.Ovrsr_DonBox_Coin50 DisTweaks_AbstractItemPickup]
+m_SingleItemPickupMessage=""
+
+[coins.Ovrsr_DonBox_Coin50:DisTweaks_Interactable_PickupBase_2 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name="Moeda de 10"
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[door_ovrsr_kennel_twk DisTweaks_Door]
+m_DoorOpenCCW.m_InteractTextOverride=""
+m_DoorOpenCW.m_InteractTextOverride=""
+m_DoorCloseCCW.m_InteractTextOverride="`GBA_Use` Fechar"
+m_DoorCloseCW.m_InteractTextOverride="`GBA_Use` Fechar"
+m_DoorSlamOpenCCW.m_InteractTextOverride=""
+m_DoorSlamOpenCW.m_InteractTextOverride=""
+m_UnlockInteractText="`GBA_Use` Destrancar"
+m_LockedMessage="É aberta por uma alavanca"
+m_UnauthorizedMessage=""
+m_FocusMessage=""
+m_FocusLockedMessage=""
+
+[door_ovrsr_kennel_twk:DisTweaks_InteractableInterface_31 DisTweaks_InteractableInterface]
+m_Name="Porta da Jaula dos Cães"
+m_InteractText="`GBA_Use` Abrir"
+m_AltInteractText="Segure `GBA_Use` para olhar pelo buraco da fechadura"
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Door_Transitions.LTD_OvrBackInt_to_Ovrsr:DisTweaks_InteractableInterface_16 DisTweaks_InteractableInterface]
+m_Name="Ao Escritório do Prelado Supervisor"
+m_InteractText="`GBA_Use` Abrir"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Door_Transitions.LTD_OvrKennel_to_Ovrsr:DisTweaks_InteractableInterface_16 DisTweaks_InteractableInterface]
+m_Name="Ao Escritório do Prelado Supervisor"
+m_InteractText="`GBA_Use` Abrir"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Door_Transitions.LTD_Ovrsr_to_OvrBack:DisTweaks_InteractableInterface_16 DisTweaks_InteractableInterface]
+m_Name="Ao Pátio de Trás"
+m_InteractText="`GBA_Use` Abrir"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Door_Transitions.LTD_Ovrsr_to_OvrBackInt:DisTweaks_InteractableInterface_16 DisTweaks_InteractableInterface]
+m_Name="Ao Pátio de Trás"
+m_InteractText="`GBA_Use` Abrir"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Door_Transitions.LTD_Ovrsr_to_OvrKennel:DisTweaks_InteractableInterface_16 DisTweaks_InteractableInterface]
+m_Name="Aos Canis"
+m_InteractText="`GBA_Use` Abrir"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Door_Transitions.LTD_Ovrsr_to_streets:DisTweaks_InteractableInterface_16 DisTweaks_InteractableInterface]
+m_Name="Ao Distrito da Destilaria"
+m_InteractText="`GBA_Use` Abrir"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Door_Transitions.LTD_OvrsrBack_to_Ovrsr:DisTweaks_InteractableInterface_16 DisTweaks_InteractableInterface]
+m_Name="Para a Praça Holger"
+m_InteractText="`GBA_Use` Abrir"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[evidence_twk:DisTweaks_InteractableInterface_54 DisTweaks_InteractableInterface]
+m_Name="Evidência"
+m_InteractText="`GBA_Use` Carregar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[InWorldReading.Twk_Map_Ovrsr1st DisTweaks_AbstractItemPickupNote]
+m_PressKeyToReadMessage=""
+m_OnPickupMessage=""
+m_SingleItemPickupMessage=""
+
+[InWorldReading.Twk_Map_Ovrsr1st:DisTweaks_Interactable_PickupBase_55 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name=""
+m_InteractText=" `GBA_Use` Olhar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[InWorldReading.Twk_Map_Ovrsr2nd DisTweaks_AbstractItemPickupNote]
+m_PressKeyToReadMessage=""
+m_OnPickupMessage=""
+m_SingleItemPickupMessage=""
+
+[InWorldReading.Twk_Map_Ovrsr2nd:DisTweaks_Interactable_PickupBase_56 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name=""
+m_InteractText=" `GBA_Use` Olhar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[InWorldReading.Twk_Map_OvrsrBack DisTweaks_AbstractItemPickupNote]
+m_PressKeyToReadMessage=""
+m_OnPickupMessage=""
+m_SingleItemPickupMessage=""
+
+[InWorldReading.Twk_Map_OvrsrBack:DisTweaks_Interactable_PickupBase_82 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name=""
+m_InteractText=" `GBA_Use` Olhar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[InWorldReading.Twk_Map_OvrsrHigh DisTweaks_AbstractItemPickupNote]
+m_PressKeyToReadMessage=""
+m_OnPickupMessage=""
+m_SingleItemPickupMessage=""
+
+[InWorldReading.Twk_Map_OvrsrHigh:DisTweaks_Interactable_PickupBase_72 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name=""
+m_InteractText=" `GBA_Use` Olhar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[musicalbox_usable_twk DisTweaks_UsableObject]
+m_UnlockInteractText="`GBA_Use` Destrancar"
+m_LockedMessage=""
+m_UnauthorizedMessage=""
+m_FocusMessage=""
+m_FocusLockedMessage=""
+
+[musicalbox_usable_twk:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Caixa de Música do Supervisor"
+m_InteractText=" `GBA_Use` Usar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+m_Name="Caixa de Música do Supervisor"
+m_InteractText=" `GBA_Use` Usar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[ovrsr_Bookshelf_Twk:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name=""
+m_InteractText=" `GBA_Use` Colocar Livro(s)"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[ovrsr_CollectionsBox_Twk:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Caixa da Coleção do Supervisor"
+m_InteractText=" `GBA_Use` Usar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Ovrsr_DroppableGlass_Twk:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="[Name]"
+m_InteractText=" `GBA_Use` Usar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Ovrsr_FakeAGPlayer_Twk:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Reprodutor de Músicas"
+m_InteractText="`GBA_Use` Reproduzir/Pausar Música"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Ovrsr_IncinCodeDoor DisTweaks_Door]
+m_DoorOpenCCW.m_InteractTextOverride=""
+m_DoorOpenCW.m_InteractTextOverride=""
+m_DoorCloseCCW.m_InteractTextOverride="`GBA_Use` Fechar"
+m_DoorCloseCW.m_InteractTextOverride="`GBA_Use` Fechar"
+m_DoorSlamOpenCCW.m_InteractTextOverride=""
+m_DoorSlamOpenCW.m_InteractTextOverride=""
+m_UnlockInteractText="`GBA_Use` Destrancar"
+m_LockedMessage="Trancada com uma combinação"
+m_UnauthorizedMessage=""
+m_FocusMessage=""
+m_FocusLockedMessage=""
+
+[Ovrsr_IncinCodeDoor:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Porta Indestrutível"
+m_InteractText="`GBA_Use` Abrir"
+m_AltInteractText="Segure `GBA_Use` para olhar pelo buraco da fechadura"
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[ovrsr_IntChair_Twk:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Cadeira de Interrogatório"
+m_InteractText=" `GBA_Use` Colocar Campbell"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[ovrsr_interrDoor_twk DisTweaks_Door]
+m_DoorOpenCCW.m_InteractTextOverride=""
+m_DoorOpenCW.m_InteractTextOverride=""
+m_DoorCloseCCW.m_InteractTextOverride="`GBA_Use` Fechar"
+m_DoorCloseCW.m_InteractTextOverride="`GBA_Use` Fechar"
+m_DoorSlamOpenCCW.m_InteractTextOverride=""
+m_DoorSlamOpenCW.m_InteractTextOverride=""
+m_UnlockInteractText="`GBA_Use` Destrancar"
+m_LockedMessage="É aberta por uma alavanca"
+m_UnauthorizedMessage=""
+m_FocusMessage=""
+m_FocusLockedMessage=""
+
+[ovrsr_interrDoor_twk:DisTweaks_InteractableInterface_31 DisTweaks_InteractableInterface]
+m_Name="Porta Indestrutível"
+m_InteractText="`GBA_Use` Abrir"
+m_AltInteractText="Segure `GBA_Use` para olhar pelo buraco da fechadura"
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[ovrsr_MeetingDoorMetal DisTweaks_Door]
+m_DoorOpenCCW.m_InteractTextOverride=""
+m_DoorOpenCW.m_InteractTextOverride=""
+m_DoorCloseCCW.m_InteractTextOverride="`GBA_Use` Fechar"
+m_DoorCloseCW.m_InteractTextOverride="`GBA_Use` Fechar"
+m_DoorSlamOpenCCW.m_InteractTextOverride=""
+m_DoorSlamOpenCW.m_InteractTextOverride=""
+m_UnlockInteractText="`GBA_Use` Destrancar"
+m_LockedMessage="Essa porta é aberta por outro lugar."
+m_UnauthorizedMessage=""
+m_FocusMessage=""
+m_FocusLockedMessage=""
+
+[ovrsr_MeetingDoorMetal:DisTweaks_InteractableInterface_44 DisTweaks_InteractableInterface]
+m_Name="Porta de Metal Indestrutível"
+m_InteractText="`GBA_Use` Abrir"
+m_AltInteractText="Segure `GBA_Use` para olhar pelo buraco da fechadura"
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Ovrsr_Movable_Lever:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Alavanca de abertura do Canil"
+m_InteractText="`GBA_Use` Carregar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Ovrsr_Movable_Valve:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Válvula da Porta do Armazém"
+m_InteractText="`GBA_Use` Carregar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Ovrsr_MusicAudioGraph DisTweaks_AbstractItemPickupAudioLog]
+m_SingleItemPickupMessage="Novo audiógrafo adicionado ao seu Diário"
+
+[Ovrsr_MusicAudioGraph:DisTweaks_Interactable_PickupBase_83 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name=""
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Ovrsr_PhysBoneCharm:pInteractableTweaks_PickupBase DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name="Encanto de Ossos"
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[ovrsr_spawnAreaDoor_twk DisTweaks_Door]
+m_DoorOpenCCW.m_InteractTextOverride=""
+m_DoorOpenCW.m_InteractTextOverride=""
+m_DoorCloseCCW.m_InteractTextOverride="`GBA_Use` Fechar"
+m_DoorCloseCW.m_InteractTextOverride="`GBA_Use` Fechar"
+m_DoorSlamOpenCCW.m_InteractTextOverride=""
+m_DoorSlamOpenCW.m_InteractTextOverride=""
+m_UnlockInteractText="`GBA_Use` Destrancar"
+m_LockedMessage=""
+m_UnauthorizedMessage=""
+m_FocusMessage=""
+m_FocusLockedMessage=""
+
+[ovrsr_StocksLock_Twk DisTweaks_UsableObject]
+m_UnlockInteractText="`GBA_Use` Destrancar"
+m_LockedMessage=""
+
+[ovrsr_spawnAreaDoor_twk:DisTweaks_InteractableInterface_31 DisTweaks_InteractableInterface]
+m_Name="Porta Indestrutível"
+m_InteractText="`GBA_Use` Abrir"
+m_AltInteractText="Segure `GBA_Use` para olhar pelo buraco da fechadura"
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[ovrsr_StocksLock_Twk:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Tranca do Estoque"
+m_InteractText=" `GBA_Use` Destrancar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Ovrsr_KeyBottle:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Garrafa Estranha"
+
+[OvrsrBackHold_NeverFinish_valve_twk:DisTweaks_InteractableInterface_8 DisTweaks_InteractableInterface]
+m_Name="Válvula"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[OvrsrCampbellPoisonGlass_Twk:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Copo de Campbell"
+m_InteractText=" `GBA_Use` Usar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[OvrsrCurnowPoisonGlass_Twk:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Copo de Curnow"
+m_InteractText=" `GBA_Use` Usar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[OvrsrDrain_valve_twk:DisTweaks_InteractableInterface_8 DisTweaks_InteractableInterface]
+m_Name="Válvula"
+m_InteractText="Segure `GBA_Use` para girar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[OvrsrPoisonGlass_Twk:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="[Name]"
+m_InteractText=" `GBA_Use` Usar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[pawns.Ovrsr_GrateWalker DisTweaks_NPCPawn]
+m_BusyText="Esse personagem está ocupado"
+m_CannotStealMessage="Você não pode mais carregar esse tipo de munição"
+
+[pawns.Ovrsr_GrateWalker:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Supervisor"
+m_InteractText=""
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[pawns.Ovrsr_HoundEatenCorpse DisTweaks_NPCPawn]
+m_BusyText="Esse personagem está ocupado"
+m_CannotStealMessage="Você não pode mais carregar esse tipo de munição"
+
+[pawns.Ovrsr_HoundEatenCorpse:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Cadáver"
+m_InteractText=""
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[pawns.Ovrsr_Pwn_Elsa DisTweaks_NPCPawn]
+m_BusyText="Esse personagem está ocupado"
+m_CannotStealMessage="Você não pode mais carregar esse tipo de munição"
+
+[pawns.Ovrsr_Pwn_Elsa:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Elsa"
+m_InteractText=""
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[pawns.Pwn_OverseerOffice_MTall_1 DisTweaks_NPCPawn]
+m_BusyText="Esse personagem está ocupado"
+m_CannotStealMessage="Você não pode mais carregar esse tipo de munição"
+
+[pawns.Pwn_OverseerOffice_MTall_1:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Supervisor"
+m_InteractText=""
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[pawns.Pwn_OvrsrLowGuard_MT_0 DisTweaks_NPCPawn]
+m_BusyText="Esse personagem está ocupado"
+m_CannotStealMessage="Você não pode mais carregar esse tipo de munição"
+
+[pawns.Pwn_OvrsrLowGuard_MT_0:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Guarda Inferior"
+m_InteractText=""
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[pawns.Pwn_WolfHound_Asleep DisTweaks_NPCPawn]
+m_BusyText="Esse personagem está ocupado"
+m_CannotStealMessage="Você não pode mais carregar esse tipo de munição"
+
+[pawns.Pwn_WolfHound_Asleep:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Cão de Guarda"
+m_InteractText=""
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Pickups.FloatSparrowFeather_twk DisTweaks_AbstractItemPickup]
+m_SingleItemPickupMessage=""
+
+[Pickups.FloatSparrowFeather_twk:DisTweaks_Interactable_PickupBase_85 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name="`i"
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Stockslock_twk:DisTweaks_InteractableInterface_16 DisTweaks_InteractableInterface]
+m_Name="Tranca do Estoque"
+m_InteractText=" `GBA_Use` Destrancar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Textures.Twk_OvrsrCrumple01 DisTweaks_AbstractItemPickupNote]
+m_PressKeyToReadMessage=""
+m_OnPickupMessage="Nova nota adicionada ao seu Diário"
+m_SingleItemPickupMessage=""
+
+[Textures.Twk_OvrsrCrumple01:DisTweaks_Interactable_PickupBase_86 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name=""
+m_InteractText="`GBA_Use` Ler"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Twk_Inv_Pistol_Overseer_Office:pPlayerSpecific DisTweaks_InventoryItem_PlayerSpecific]
+m_Name="Pistola dos Guardas da Cidade"
+m_Description="Arma de fogo moderna, usada pelos Oficiais da Guarda, veteranos e nobres."
+
+[Twk_OvrsrCrumple02 DisTweaks_AbstractItemPickupNote]
+m_PressKeyToReadMessage=""
+m_OnPickupMessage="Nova nota adicionada ao seu Diário"
+m_SingleItemPickupMessage=""
+
+[Twk_OvrsrCrumple02:DisTweaks_Interactable_PickupBase_81 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name=""
+m_InteractText="`GBA_Use` Ler"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[twk_SickWolfhound DisTweaks_NPCPawn]
+m_BusyText="Esse personagem está ocupado"
+m_CannotStealMessage="Você não pode mais carregar esse tipo de munição"
+
+[twk_SickWolfhound:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Cão de Guarda"
+m_InteractText=""
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[UsableBust_twk:DisTweaks_InteractableInterface_16 DisTweaks_InteractableInterface]
+m_Name="Olho de Holger"
+m_InteractText=" `GBA_Use` Empurrar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+

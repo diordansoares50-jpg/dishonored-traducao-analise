@@ -1,0 +1,111 @@
+﻿[door_small_poor_ext_metal_nokey_twk DisTweaks_Door]
+m_DoorOpenCCW.m_InteractTextOverride=""
+m_DoorOpenCW.m_InteractTextOverride=""
+m_DoorCloseCCW.m_InteractTextOverride="`GBA_Use` Fechar"
+m_DoorCloseCW.m_InteractTextOverride="`GBA_Use` Fechar"
+m_DoorSlamOpenCCW.m_InteractTextOverride=""
+m_DoorSlamOpenCW.m_InteractTextOverride=""
+m_FocusLockedMessage="Não pode ser aberto neste momento"
+
+[Door_Transitions.LTD_ArtDlr_to_Streets_twk:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Porta para Clavering Blvd"
+m_InteractText="`GBA_Use` Abrir"
+
+[Door_Transitions.LTD_ArtDlrBackDoor_toStreets:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Porta para a Rua da Garrafa"
+m_InteractText="`GBA_Use` Abrir"
+
+[Door_Transitions.LTD_Distillery_to_Streets_twk:DisTweaks_InteractableInterface_16 DisTweaks_InteractableInterface]
+m_Name="Porta para a Rua da Garrafa"
+m_InteractText="`GBA_Use` Abrir"
+
+[Door_Transitions.LTD_Galvani_to_Streets_twk:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Porta para a Avenida Clavering"
+m_InteractText="`GBA_Use` Abrir"
+
+[Door_Transitions.LTD_Street_to_BrothelRoof_twk:DisTweaks_InteractableInterface_16 DisTweaks_InteractableInterface]
+m_Name="Porta para O Gato Dourado"
+m_InteractText="`GBA_Use` Abrir"
+
+[Door_Transitions.LTD_Streets1_to_ArtDlrBackDoor DisTweaks_UsableObject]
+m_LockedMessage="Não pode ser aberto neste momento"
+
+[Door_Transitions.LTD_Streets1_to_ArtDlrBackDoor:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Porta do Apartamento do Marchand de Arte"
+m_InteractText="`GBA_Use` Abrir"
+
+[Door_Transitions.LTD_streets1_to_Ovrsr_twk:DisTweaks_InteractableInterface_16 DisTweaks_InteractableInterface]
+m_Name="Porta para a Praça Holger"
+m_InteractText="`GBA_Use` Abrir"
+
+[Door_Transitions.LTD_streets1_to_SwrWrks_twk DisTweaks_UsableObject]
+m_LockedMessage="Trancado"
+
+[Door_Transitions.LTD_streets1_to_SwrWrks_twk:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Porta para a Estação de Esgotos de Dunwall"
+m_InteractText="`GBA_Use` Abrir"
+
+[Door_Transitions.LTD_Streets_to_ArtDlr_twk:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Porta para o Apartamento do Marchand de Arte"
+m_InteractText="`GBA_Use` Abrir"
+
+[Door_Transitions.LTD_Streets_to_ArtDlrBackDoor:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Porta do Apartamento do Marchand de Arte"
+m_InteractText="`GBA_Use` Abrir"
+
+[Door_Transitions.LTD_Streets_to_Distillery_twk:DisTweaks_InteractableInterface_16 DisTweaks_InteractableInterface]
+m_Name="Porta para a Destilaria de Uísque de Dunwall"
+m_InteractText="`GBA_Use` Abrir"
+
+[Door_Transitions.LTD_Streets_to_Galvani_twk:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Porta para os Escritórios de Galvani"
+m_InteractText="`GBA_Use` Abrir"
+
+[Door_Transitions.LTD_StrtSewer_to_Pub_twk DisTweaks_UsableObject]
+m_LockedMessage="Trancado"
+
+[Door_Transitions.LTD_StrtSewer_to_Pub_twk:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Porta para o Pub Hound Pits"
+m_InteractText="`GBA_Use` Abrir"
+
+[Door_Transitions.LTD_StrtsSewer_toFLooded_twk:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Porta para o Portão de Rudshore"
+
+[galvani.book_interact_twk:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Livro Falso"
+m_InteractText="`GBA_Use` Usar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[galvani.Number2_twk:DisTweaks_Interactable_PickupBase_29 DisTweaks_Interactable_PickupBase]
+m_Name=""
+m_InteractText=""
+
+[Galvani_PantryDoor_twk DisTweaks_UsableObject]
+m_UnlockInteractText="`GBA_Use` Destravar porta"
+m_LockedMessage="Chave da Despensa de Galvani necessária"
+
+[Galvani_PantryDoor_twk:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Porta de Metal Inquebrável"
+m_InteractText="`GBA_Use` Abrir"
+
+[GrannyRags.Twk_Inv_GrannyRagsHand:pPlayerSpecific DisTweaks_InventoryItem_PlayerSpecific]
+m_Name=""
+m_Description=""
+
+[ThugStuff.Twk_Whiskey:DisTweaks_InteractableInterface_1 DisTweaks_InteractableInterface]
+m_Name="Garrafa de uísque"
+m_InteractText="`GBA_Use` Carregar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Whiskeybottle_01_twk:DisTweaks_InteractableInterface_5 DisTweaks_InteractableInterface]
+m_Name="Garrafa explosiva"
+
+[WoLFireObject:DisTweaks_InteractableInterface_54 DisTweaks_InteractableInterface]
+m_Name="Cinzeiro"
+

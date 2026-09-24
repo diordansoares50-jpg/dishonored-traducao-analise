@@ -1,0 +1,15 @@
+﻿[ExplosiveDevice_AbsItm DisAbstractItem]
+m_ItemName="Explosivo de Corda"
+m_PluralItemName=""
+m_Description="Plante esta bomba na porta externa."
+
+[PrnSewerNotes.PrsnSewer_FirstNote DisAbstractItem]
+m_ItemName="Nota de um Amigo"
+m_PluralItemName=""
+m_Description="Corvo, se estás a ler isto, significa que o nosso plano funcionou e conseguiste escapar de Coldridge. Um dos nossos contactos escondeu armas para ti mais adiante nos esgotos. Apanha o equipamento e encontra o Samuel onde estes túneis desaguam no rio. Ele trará-te até nós.\n\nUm Amigo que te Encontrará em Breve"
+
+[PrnSewerNotes.PrsnSewer_Safe451_Alt DisAbstractItem]
+m_ItemName="Compartilhar da Jelly"
+m_PluralItemName=""
+m_Description="Jelly,\n\nCaso você seja burro demais para lembrar, olhe para o seu uísque pela resposta. Uísque. Entendeu?\n\nSe quiser a sua parte, você resolve isso. Se não, volto para buscá-la no mês que vem."
+

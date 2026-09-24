@@ -1,0 +1,24 @@
+﻿[Pwn_CityRatVictim DisTweaks_NPCPawn]
+m_BusyText="Este personagem está ocupado"
+m_CannotStealMessage="Você não pode carregar mais munição deste tipo"
+
+[Pwn_CityRatVictim:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Guarda da Vigilância Urbana"
+m_InteractText=""
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Pwn_LowerRatVictim DisTweaks_NPCPawn]
+m_BusyText="Este personagem está ocupado"
+m_CannotStealMessage="Você não pode carregar mais munição deste tipo"
+
+[Pwn_LowerRatVictim:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Observar Guarda Baixa"
+m_InteractText=""
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+

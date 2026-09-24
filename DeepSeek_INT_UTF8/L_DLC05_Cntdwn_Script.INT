@@ -1,0 +1,58 @@
+﻿[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_DialogScriptedChoice_0 DisSeqAct_DialogScriptedChoice]
+m_Title=""
+m_Choices[0]=(m_ChoiceText="Retry")
+m_Choices[1]=(m_ChoiceText="Back to Menu")
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_DLC05_MarkerControl_10 DisSeqAct_DLC05_MarkerControl]
+m_TargetName="Alvo"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_DLC05_MarkerControl_11 DisSeqAct_DLC05_MarkerControl]
+m_TargetName="Alvo"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_DLC05_MarkerControl_2 DisSeqAct_DLC05_MarkerControl]
+m_TargetName="Alvo"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_DLC05_MarkerControl_5 DisSeqAct_DLC05_MarkerControl]
+m_TargetName="Alvo"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_DLC05_MarkerControl_7 DisSeqAct_DLC05_MarkerControl]
+m_TargetName="Alvo"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_DLC05_MarkerControl_8 DisSeqAct_DLC05_MarkerControl]
+m_TargetName="Alvo"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_DLC05_MarkerControl_9 DisSeqAct_DLC05_MarkerControl]
+m_TargetName="Alvo"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_SetTutorialMessage_27 DisSeqAct_SetTutorialMessage]
+m_TutorialMessage="Assassinos patrulham a área."
+m_TutorialMessage_Gamepad=""
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_SetTutorialMessage_28 DisSeqAct_SetTutorialMessage]
+m_TutorialMessage="Sua mana se regenera muito lentamente."
+m_TutorialMessage_Gamepad=""
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_SetTutorialMessage_29 DisSeqAct_SetTutorialMessage]
+m_TutorialMessage="A alta mobilidade usando o poder de `GBA_Blink` e `GBA_Agility` serão seus melhores aliados."
+m_TutorialMessage_Gamepad=""
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_SetTutorialMessage_30 DisSeqAct_SetTutorialMessage]
+m_TutorialMessage="Sua mana se regenera muito rápido, não hesite em usar o Piscar com frequência."
+m_TutorialMessage_Gamepad=""
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_SetTutorialMessage_31 DisSeqAct_SetTutorialMessage]
+m_TutorialMessage="Toque nos feixes de luz vermelhos que aparecem aleatoriamente."
+m_TutorialMessage_Gamepad=""
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_SetTutorialMessage_32 DisSeqAct_SetTutorialMessage]
+m_TutorialMessage="Cada feixe de luz que você alcançar estenderá o tempo da contagem regressiva."
+m_TutorialMessage_Gamepad=""
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_SetTutorialMessage_33 DisSeqAct_SetTutorialMessage]
+m_TutorialMessage="Toque o maior número possível de feixes de luz vermelha antes que o tempo acabe."
+m_TutorialMessage_Gamepad=""
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_SetTutorialMessage_34 DisSeqAct_SetTutorialMessage]
+m_TutorialMessage="Pegue os elixires de mana espalhados pela área para restaurá-la mais rápido."
+m_TutorialMessage_Gamepad=""
+

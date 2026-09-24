@@ -1,0 +1,12 @@
+﻿[Pwn_Overseer_Houndmaster_MTall_1 DisTweaks_NPCPawn]
+m_BusyText="Este personagem está ocupado"
+m_CannotStealMessage="Você não pode carregar mais munição deste tipo"
+
+[Pwn_Overseer_Houndmaster_MTall_1:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Supervisor"
+m_InteractText=""
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+

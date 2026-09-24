@@ -1,0 +1,58 @@
+﻿[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_DialogScriptedChoice_0 DisSeqAct_DialogScriptedChoice]
+m_Title=""
+m_Choices[0]=(m_ChoiceText="Retry")
+m_Choices[1]=(m_ChoiceText="Back to Menu")
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_DLC05_MarkerControl_10 DisSeqAct_DLC05_MarkerControl]
+m_TargetName="Target"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_DLC05_MarkerControl_11 DisSeqAct_DLC05_MarkerControl]
+m_TargetName="Target"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_DLC05_MarkerControl_2 DisSeqAct_DLC05_MarkerControl]
+m_TargetName="Target"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_DLC05_MarkerControl_5 DisSeqAct_DLC05_MarkerControl]
+m_TargetName="Target"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_DLC05_MarkerControl_7 DisSeqAct_DLC05_MarkerControl]
+m_TargetName="Target"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_DLC05_MarkerControl_8 DisSeqAct_DLC05_MarkerControl]
+m_TargetName="Target"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_DLC05_MarkerControl_9 DisSeqAct_DLC05_MarkerControl]
+m_TargetName="Target"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_SetTutorialMessage_27 DisSeqAct_SetTutorialMessage]
+m_TutorialMessage="Assassins patrol the area."
+m_TutorialMessage_Gamepad=""
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_SetTutorialMessage_28 DisSeqAct_SetTutorialMessage]
+m_TutorialMessage="Your mana regenerates very slowly."
+m_TutorialMessage_Gamepad=""
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_SetTutorialMessage_29 DisSeqAct_SetTutorialMessage]
+m_TutorialMessage="High mobility using the Blink power and Agility will be your best allies. "
+m_TutorialMessage_Gamepad=""
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_SetTutorialMessage_30 DisSeqAct_SetTutorialMessage]
+m_TutorialMessage="Your mana regenerates very quickly, don't hesitate to use Blink a lot."
+m_TutorialMessage_Gamepad=""
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_SetTutorialMessage_31 DisSeqAct_SetTutorialMessage]
+m_TutorialMessage="Touch the red beams of light that appear randomly."
+m_TutorialMessage_Gamepad=""
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_SetTutorialMessage_32 DisSeqAct_SetTutorialMessage]
+m_TutorialMessage="Each beam of light that you reach will extend the countdown time."
+m_TutorialMessage_Gamepad=""
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_SetTutorialMessage_33 DisSeqAct_SetTutorialMessage]
+m_TutorialMessage="Touch as many red beams of light as you can before the time runs out."
+m_TutorialMessage_Gamepad=""
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_SetTutorialMessage_34 DisSeqAct_SetTutorialMessage]
+m_TutorialMessage="Grab the mana elixirs dispatched around the area to restore it faster."
+m_TutorialMessage_Gamepad=""
+

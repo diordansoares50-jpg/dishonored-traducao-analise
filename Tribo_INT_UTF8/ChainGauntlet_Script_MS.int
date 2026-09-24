@@ -1,0 +1,48 @@
+﻿[Characters.Pwn_Daud_MTall_1:DisTweaks_InteractableInterface_0 DisTweaks_InteractableInterface]
+m_Name="Daud, Killer of the Empress"
+
+[Characters.Pwn_Executioner_Combatant:DisTweaks_InteractableInterface_50 DisTweaks_InteractableInterface]
+m_Name="Torturer"
+m_InteractText="Torturer"
+m_AltInteractText="Torturer"
+m_UseMessage="Torturer"
+
+[Characters.Pwn_Griff_MSmall:DisTweaks_InteractableInterface_15 DisTweaks_InteractableInterface]
+m_Name="Merchant"
+
+[Notes.AbstrInv_Disclaimer_Expert DisAbstractItem]
+m_ItemName="Back Alley Brawl"
+m_PluralItemName=""
+m_Description="Fight your way through increasingly difficult waves of enemies.\n\nThe enemies deal much more damage. \n\nScoring:\n* Each enemy kill scores you points.\n* Killing enemies in various ways scores more points.\n\nSpecial:\nA golden Merchant will sometimes appear and disappear after 30 seconds.\nHit him to earn supplies to survive longer. \nKill him to earn upgrades for your gear.\n\nRunes appear randomly in the environment between some rounds.\nCollect them to gain a new power.\n\nThere are rival factions and they will fight each other.  You can use this situation to your advantage, but you won't score points unless you kill a character yourself.\n\nGame Over: \nThe challenge is over if you die."
+
+[Notes.AbstrInv_Disclaimer_Normal DisAbstractItem]
+m_ItemName="Back Alley Brawl"
+m_PluralItemName=""
+m_Description="Fight your way through increasingly difficult waves of enemies.\n\nScoring:\n* Each enemy kill scores you points.\n* Killing enemies in various ways scores more points.\n\nSpecial:\nA golden Merchant will sometimes appear and disappear after 30 seconds.\nHit him to earn supplies to survive longer. \nKill him to earn upgrades for your gear.\n\nRunes appear randomly in the environment between some rounds.\nCollect them to gain a new power.\n\nThere are rival factions and they will fight each other.  You can use this situation to your advantage, but you won't score points unless you kill a character yourself.\n\nGame Over: \nThe challenge is over if you die."
+
+[Notes.Pickup_Disclaimer_Expert DisTweaks_AbstractItemPickupNote]
+m_PressKeyToReadMessage=""
+m_OnPickupMessage=""
+
+[Notes.Pickup_Disclaimer_Normal DisTweaks_AbstractItemPickupNote]
+m_PressKeyToReadMessage=""
+m_OnPickupMessage=""
+
+[Pickups.Twk_Rune:DisTweaks_Interactable_PickupBase_4 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText="(cannot pick up Runes during Possession)"
+m_Name="Power Rune"
+
+[Tweaks.Twk_Bolts_Ammo:DisTweaks_Interactable_PickupBase_99 DisTweaks_Interactable_PickupBase]
+m_Name="Bolts"
+
+[Tweaks.Twk_Bullets_Ammo:DisTweaks_Interactable_PickupBase_46 DisTweaks_Interactable_PickupBase]
+m_Name="Bullets"
+
+[Tweaks.Twk_Elixir_Health:DisTweaks_Interactable_PickupBase_32 DisTweaks_Interactable_PickupBase]
+m_Name="Sokolov's Health Elixir"
+m_CannotUseMessage="You cannot carry any more elixirs"
+
+[Tweaks.Twk_Elixir_Mana:DisTweaks_Interactable_PickupBase_43 DisTweaks_Interactable_PickupBase]
+m_Name="Piero's Spiritual Remedy"
+m_CannotUseMessage="You cannot carry any more remedies"
+

@@ -1,0 +1,252 @@
+﻿[PwnBody_Eaten DisTweaks_NPCPawn]
+m_BusyText="Este personagem está ocupado"
+m_CannotStealMessage="Você não pode carregar mais munição deste tipo"
+
+[PwnBody_Eaten:DisTweaks_InteractableInterface_3 DisTweaks_InteractableInterface]
+m_Name="Cadáver"
+m_InteractText=""
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[PwnDead_Assassin_MTall_1 DisTweaks_NPCPawn]
+m_BusyText="Este personagem está ocupado"
+m_CannotStealMessage="Você não pode carregar mais munição deste tipo"
+
+[PwnDead_Assassin_MTall_1:DisTweaks_InteractableInterface_3 DisTweaks_InteractableInterface]
+m_Name="Cadáver"
+m_InteractText=""
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[PwnDead_Base DisTweaks_NPCPawn]
+m_BusyText="Este personagem está ocupado"
+m_CannotStealMessage="Você não pode carregar mais munição deste tipo"
+
+[PwnDead_Base:DisTweaks_InteractableInterface_3 DisTweaks_InteractableInterface]
+m_Name="Cadáver"
+m_InteractText=""
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[PwnDead_CityGuard_MSmall_1 DisTweaks_NPCPawn]
+m_BusyText="Este personagem está ocupado"
+m_CannotStealMessage="Você não pode carregar mais munição deste tipo"
+
+[PwnDead_CityGuard_MSmall_1:DisTweaks_InteractableInterface_3 DisTweaks_InteractableInterface]
+m_Name="Cadáver"
+m_InteractText=""
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[PwnDead_EliteGuard_MTall_1 DisTweaks_NPCPawn]
+m_BusyText="Este personagem está ocupado"
+m_CannotStealMessage="Você não pode carregar mais munição deste tipo"
+
+[PwnDead_EliteGuard_MTall_1:DisTweaks_InteractableInterface_3 DisTweaks_InteractableInterface]
+m_Name="Cadáver"
+m_InteractText=""
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[PwnDead_LowerGuard_MTall_1 DisTweaks_NPCPawn]
+m_BusyText="Este personagem está ocupado"
+m_CannotStealMessage="Você não pode carregar mais munição deste tipo"
+
+[PwnDead_LowerGuard_MTall_1:DisTweaks_InteractableInterface_3 DisTweaks_InteractableInterface]
+m_Name="Cadáver"
+m_InteractText=""
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[PwnDead_MiddleClass_F_1 DisTweaks_NPCPawn]
+m_BusyText="Este personagem está ocupado"
+m_CannotStealMessage="Você não pode carregar mais munição deste tipo"
+
+[PwnDead_MiddleClass_F_1:DisTweaks_InteractableInterface_3 DisTweaks_InteractableInterface]
+m_Name="Cadáver"
+m_InteractText=""
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[PwnDead_MiddleClass_F_2 DisTweaks_NPCPawn]
+m_BusyText="Este personagem está ocupado"
+m_CannotStealMessage="Você não pode carregar mais munição deste tipo"
+
+[PwnDead_MiddleClass_F_2:DisTweaks_InteractableInterface_3 DisTweaks_InteractableInterface]
+m_Name="Cadáver"
+m_InteractText=""
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[PwnDead_MiddleClass_MSmall_1 DisTweaks_NPCPawn]
+m_BusyText="Este personagem está ocupado"
+m_CannotStealMessage="Você não pode carregar mais munição deste tipo"
+
+[PwnDead_MiddleClass_MSmall_1:DisTweaks_InteractableInterface_3 DisTweaks_InteractableInterface]
+m_Name="Cadáver"
+m_InteractText=""
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[PwnDead_MiddleClass_MTall_1 DisTweaks_NPCPawn]
+m_BusyText="Este personagem está ocupado"
+m_CannotStealMessage="Você não pode carregar mais munição deste tipo"
+
+[PwnDead_MiddleClass_MTall_1:DisTweaks_InteractableInterface_3 DisTweaks_InteractableInterface]
+m_Name="Cadáver"
+m_InteractText=""
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[PwnDead_Overseer_MTall_1 DisTweaks_NPCPawn]
+m_BusyText="Este personagem está ocupado"
+m_CannotStealMessage="Você não pode carregar mais munição deste tipo"
+
+[PwnDead_Overseer_MTall_1:DisTweaks_InteractableInterface_3 DisTweaks_InteractableInterface]
+m_Name="Cadáver"
+m_InteractText=""
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[PwnDead_Prostitute_F_1 DisTweaks_NPCPawn]
+m_BusyText="Este personagem está ocupado"
+m_CannotStealMessage="Você não pode carregar mais munição deste tipo"
+
+[PwnDead_Prostitute_F_1:DisTweaks_InteractableInterface_3 DisTweaks_InteractableInterface]
+m_Name="Cadáver"
+m_InteractText=""
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[PwnDead_Servant_F_1 DisTweaks_NPCPawn]
+m_BusyText="Este personagem está ocupado"
+m_CannotStealMessage="Você não pode carregar mais munição deste tipo"
+
+[PwnDead_Servant_F_1:DisTweaks_InteractableInterface_3 DisTweaks_InteractableInterface]
+m_Name="Cadáver"
+m_InteractText=""
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[PwnDead_TallboyAsleep_1 DisTweaks_NPCPawn]
+m_BusyText="Este personagem está ocupado"
+m_CannotStealMessage="Você não pode carregar mais munição deste tipo"
+
+[PwnDead_TallboyAsleep_1:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Cadáver"
+m_InteractText=""
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[PwnDead_Thug_MSmall_1 DisTweaks_NPCPawn]
+m_BusyText="Este personagem está ocupado"
+m_CannotStealMessage="Você não pode carregar mais munição deste tipo"
+
+[PwnDead_Thug_MSmall_1:DisTweaks_InteractableInterface_3 DisTweaks_InteractableInterface]
+m_Name="Cadáver"
+m_InteractText=""
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[PwnDead_Thug_MSmall_2 DisTweaks_NPCPawn]
+m_BusyText="Este personagem está ocupado"
+m_CannotStealMessage="Você não pode carregar mais munição deste tipo"
+
+[PwnDead_Thug_MSmall_2:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Cadáver"
+m_InteractText=""
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[PwnDead_WeeperMC_F_2 DisTweaks_NPCPawn]
+m_BusyText="Este personagem está ocupado"
+m_CannotStealMessage="Você não pode carregar mais munição deste tipo"
+
+[PwnDead_WeeperMC_F_2:DisTweaks_InteractableInterface_3 DisTweaks_InteractableInterface]
+m_Name="Cadáver"
+m_InteractText=""
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[PwnDead_WeeperMC_MTall_1 DisTweaks_NPCPawn]
+m_BusyText="Este personagem está ocupado"
+m_CannotStealMessage="Você não pode carregar mais munição deste tipo"
+
+[PwnDead_WeeperMC_MTall_1:DisTweaks_InteractableInterface_3 DisTweaks_InteractableInterface]
+m_Name="Cadáver"
+m_InteractText=""
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[PwnDead_WeeperMiddle_F_1 DisTweaks_NPCPawn]
+m_BusyText="Este personagem está ocupado"
+m_CannotStealMessage="Você não pode carregar mais munição deste tipo"
+
+[PwnDead_WeeperMiddle_F_1:DisTweaks_InteractableInterface_3 DisTweaks_InteractableInterface]
+m_Name="Cadáver"
+m_InteractText=""
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[PwnDead_WeeperMiddle_MSmall_1 DisTweaks_NPCPawn]
+m_BusyText="Este personagem está ocupado"
+m_CannotStealMessage="Você não pode carregar mais munição deste tipo"
+
+[PwnDead_WeeperMiddle_MSmall_1:DisTweaks_InteractableInterface_3 DisTweaks_InteractableInterface]
+m_Name="Cadáver"
+m_InteractText=""
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[PwnDead_WeeperProstitute_F_1 DisTweaks_NPCPawn]
+m_BusyText="Este personagem está ocupado"
+m_CannotStealMessage="Você não pode carregar mais munição deste tipo"
+
+[PwnDead_WeeperProstitute_F_1:DisTweaks_InteractableInterface_3 DisTweaks_InteractableInterface]
+m_Name="Cadáver"
+m_InteractText=""
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+

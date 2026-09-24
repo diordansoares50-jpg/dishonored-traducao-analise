@@ -1,0 +1,24 @@
+﻿[Twk_Pawn_GuardCaptain DisTweaks_NPCPawn]
+m_BusyText="Este personagem está ocupado"
+m_CannotStealMessage="Você não pode carregar mais munição deste tipo"
+
+[Twk_Pawn_GuardCaptain:DisTweaks_InteractableInterface_51 DisTweaks_InteractableInterface]
+m_Name="Geoff Curnow"
+m_InteractText=""
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Twk_Pawn_GuardCaptainIntro DisTweaks_NPCPawn]
+m_BusyText="Este personagem está ocupado"
+m_CannotStealMessage="Você não pode carregar mais munição deste tipo"
+
+[Twk_Pawn_GuardCaptainIntro:DisTweaks_InteractableInterface_51 DisTweaks_InteractableInterface]
+m_Name="Geoff Curnow"
+m_InteractText=""
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+

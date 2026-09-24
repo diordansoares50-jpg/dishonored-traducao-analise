@@ -1,0 +1,25 @@
+﻿[DLC06_ArcMine_Placed_Base:DisTweaks_InteractableInterface_291 DisTweaks_InteractableInterface]
+m_Name="Mina de Arco"
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage="Você não pode carregar mais munição deste tipo"
+
+[DLC06_Inv_ArcMine:pPlayerSpecific DisTweaks_InventoryItem_PlayerSpecific]
+m_Name="Mina de Arco"
+m_Description="Uma armadilha letal que pode ser colocada em quase qualquer superfície."
+
+[DLC06_Inv_StunMine:pPlayerSpecific DisTweaks_InventoryItem_PlayerSpecific]
+m_Name="Mina de Atordoamento"
+m_Description="Uma armadilha não letal que pode ser colocada em quase qualquer superfície."
+
+[DLC06_Pckp_Ammo_ArcMine:pInteractableTweaks_PickupBase DisTweaks_Interactable_PickupBase]
+m_Name="Mina de Arco"
+
+[DLC06_Pckp_Ammo_StunMine:pInteractableTweaks_PickupBase DisTweaks_Interactable_PickupBase]
+m_Name="Mina de Atordoamento"
+
+[DLC06_StunMine_Placed:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Mina Atordoante"
+

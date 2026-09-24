@@ -1,0 +1,98 @@
+﻿[AntiToxinEmptyVial_twk DisTweaks_WhaleOilBattery]
+m_EmptyName=""
+
+[AntiToxinEmptyVial_twk:DisTweaks_InteractableInterface_0 DisTweaks_InteractableInterface]
+m_Name="Empty Elixir Vial"
+m_InteractText=" `GBA_Use` carry"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[DLC07_BullRatFetus_twk:DisTweaks_Interactable_PickupBase_0 DisTweaks_Interactable_PickupBase]
+m_Name="Bull Rat Fetus"
+
+[DLC07_EngineCoil_twk:DisTweaks_Interactable_PickupBase_0 DisTweaks_Interactable_PickupBase]
+m_Name="Engine Coil"
+
+[DLC07_EngineCoilMount_Twk:DisTweaks_InteractableInterface_16 DisTweaks_InteractableInterface]
+m_Name="Engine Coil Mount"
+m_InteractText="`GBA_Use` Connect Engine Coil"
+m_CannotUseMessage="Engine Coil Needed"
+
+[DLC07_GeenhowCushion_twk:DisTweaks_InteractableInterface_54 DisTweaks_InteractableInterface]
+m_Name="Pillow"
+
+[DLC07_LabAGCard_interact_twk:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Audiograph Card"
+m_InteractText="`GBA_Use` Take"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage="Audiograph Required"
+
+[DLC07_LabAudioG_interact_twk:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Audiograph Player"
+m_InteractText="`GBA_Use` Use"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage="Audiograph Required"
+
+[DLC07_LabAudioGraph_Twk DisTweaks_AudioLogPlayer]
+m_Stages[1]=(m_InteractTextOverride="`GBA_Use` Stop the audiograph")
+
+[DLC07_LabAudioGraph_Twk:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Audiograph Player"
+m_InteractText="`GBA_Use` Use"
+
+[DLC07_LTD_MillToSewer_twk DisTweaks_UsableObject]
+m_UnlockInteractText="`GBA_Use` Unlock"
+m_LockedMessage="`k needed"
+m_UnauthorizedMessage=""
+m_FocusMessage=""
+m_FocusLockedMessage=""
+
+[DLC07_LTD_MillToSewer_twk:DisTweaks_InteractableInterface_16 DisTweaks_InteractableInterface]
+m_Name="Door to Drapers Ward Sewer"
+m_InteractText="`GBA_Use` Open"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[DLC07_LTD_MillToStreet_twk DisTweaks_UsableObject]
+m_UnlockInteractText="`GBA_Use` Unlock"
+m_LockedMessage="`k needed"
+m_UnauthorizedMessage=""
+m_FocusMessage=""
+m_FocusLockedMessage=""
+
+[DLC07_LTD_MillToStreet_twk:DisTweaks_InteractableInterface_16 DisTweaks_InteractableInterface]
+m_Name="Door to Drapers Ward Streets"
+m_InteractText="`GBA_Use` Open"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[DLC07_OxidizingAgent_twk:DisTweaks_Interactable_PickupBase_0 DisTweaks_Interactable_PickupBase]
+m_Name="Metallic Salts"
+
+[DLC07_OxRush_twk:DisTweaks_Interactable_PickupBase_0 DisTweaks_Interactable_PickupBase]
+m_Name="Oxrush Flower"
+
+[DLC07_Undine_lever_twk DisTweaks_UsableObject]
+m_LockedMessage="Locked"
+
+[DLC07_Undine_lever_twk:DisTweaks_InteractableInterface_0 DisTweaks_InteractableInterface]
+m_Name="Ship Engine Throttle"
+
+[DLC07_Vaccine_twk:DisTweaks_Interactable_PickupBase_0 DisTweaks_Interactable_PickupBase]
+m_Name="Antitoxin"
+m_InteractText="`GBA_Use` Drink"
+
+[still_02_twk:DisTweaks_InteractableInterface_8 DisTweaks_InteractableInterface]
+m_Name="Valve"
+m_InteractText="`GBA_Use` Use"
+

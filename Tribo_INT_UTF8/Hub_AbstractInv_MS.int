@@ -1,0 +1,10 @@
+﻿[BP_Piero_ArcPylon2_AbsItm DisAbstractItem]
+m_ItemName="Plantas do Protótipo"
+m_PluralItemName=""
+m_Description="Parece que são as plantas para o Poste Arco, mas elas são complicadas demais para decifrar.\n"
+
+[BP_Piero_ArcPylon_AbsItm DisAbstractItem]
+m_ItemName="Plantas do Poste Arco de Piero"
+m_PluralItemName=""
+m_Description="Essas plantas têm tudo o que Piero precisa para terminar seu Poste Arco experimental melhorado."
+

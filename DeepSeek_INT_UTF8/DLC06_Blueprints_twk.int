@@ -1,0 +1,12 @@
+﻿[AbstractItems.DLC06_BP_ArcMine_twk DisTweaks_AbstractItemPickup]
+m_SingleItemPickupMessage="Novos itens e melhorias da Mina do Arco disponíveis"
+
+[AbstractItems.DLC06_BP_Armor_twk DisTweaks_AbstractItemPickup]
+m_SingleItemPickupMessage="Nova atualização disponível: Armadura Aprimorada"
+
+[AbstractItems.DLC06_BP_Boots_twk DisTweaks_AbstractItemPickup]
+m_SingleItemPickupMessage="Nova atualização disponível: Furtividade de Bota 1"
+
+[AbstractItems.DLC06_BP_ExpBolts_twk DisTweaks_AbstractItemPickup]
+m_SingleItemPickupMessage="Novo item disponível: Parafuso Explosivo"
+

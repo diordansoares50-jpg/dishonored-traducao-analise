@@ -1,0 +1,15 @@
+﻿[DLC06_Intro_Obj DishonoredObjective]
+m_Description="Uma Visita do Forasteiro"
+
+[DLC06_Intro_Obj:DishonoredTask_Custom_59 DishonoredTask_Custom]
+m_Description="Use o Piscar para alcançar a área da pintura"
+m_Status=""
+
+[DLC06_Intro_Obj:DishonoredTask_Custom_60 DishonoredTask_Custom]
+m_Description="Use o Piscar para alcançar a carruagem"
+m_Status=""
+
+[DLC06_Intro_Obj:DishonoredTask_Custom_61 DishonoredTask_Custom]
+m_Description="Alcance o Forasteiro"
+m_Status=""
+

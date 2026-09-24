@@ -1,0 +1,15 @@
+﻿[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_UpdateTaskTarget_0 DisSeqAct_UpdateTaskTarget]
+m_TargetName=""
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_UpdateTaskTarget_1 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Pista"
+
+[TheWorld:PersistentLevel.Main_Sequence.HeartTargets.DisSeqAct_UpdateTaskTarget_15 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Última Mensagem do Informante"
+
+[TheWorld:PersistentLevel.Main_Sequence.HeartTargets.DisSeqAct_UpdateTaskTarget_2 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Clavering Boulevard"
+
+[TheWorld:PersistentLevel.Main_Sequence.HeartTargets.DisSeqAct_UpdateTaskTarget_3 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Informante de Slackjaw"
+

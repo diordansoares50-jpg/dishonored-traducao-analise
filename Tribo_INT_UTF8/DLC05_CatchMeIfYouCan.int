@@ -1,0 +1,7 @@
+﻿[CatchMe_KillTarget DishonoredObjective]
+m_Description="Kill the aristocrat"
+
+[CatchMe_KillTarget:DishonoredTask_Custom_18 DishonoredTask_Custom]
+m_Description="Kill Him!"
+m_Status=""
+

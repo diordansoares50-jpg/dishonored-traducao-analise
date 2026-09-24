@@ -1,0 +1,26 @@
+﻿[TempMesh.ExplosiveDevice_twk DisTweaks_AbstractItemPickup]
+m_SingleItemPickupMessage=""
+
+[TempMesh.ExplosiveDevice_twk:DisTweaks_Interactable_PickupBase_0 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name="`i"
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Twk_Note_Bread DisTweaks_AbstractItemPickupNote]
+m_PressKeyToReadMessage=""
+m_OnPickupMessage="Nova nota adicionada ao seu diário"
+m_SingleItemPickupMessage=""
+
+[Twk_Note_Bread:DisTweaks_Interactable_PickupBase_1 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name=""
+m_InteractText="`GBA_Use` Ler"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+

@@ -1,0 +1,90 @@
+﻿[BTM_Objective_Phase1 DishonoredObjective]
+m_Description="Massacre do Tempo Curvado - Rodada 1"
+
+[BTM_Objective_Phase1:DishonoredTask_Custom_0 DishonoredTask_Custom]
+m_Description="Mate 3 inimigos antes que o tempo acabe."
+m_Status=""
+
+[BTM_Objective_Phase1:DishonoredTask_Custom_1 DishonoredTask_Custom]
+m_Description="Bônus de Economia:  Mate 2 inimigos com o mesmo virote de besta."
+m_Status=""
+
+[BTM_Objective_Phase1:DishonoredTask_Custom_2 DishonoredTask_Custom]
+m_Description="Bônus de Trauma por Força Contundente: Mate 3 inimigos usando tijolos ou outros objetos encontrados."
+m_Status=""
+
+[BTM_Objective_Phase2 DishonoredObjective]
+m_Description="Bend Time Massacre - Rodada 2"
+
+[BTM_Objective_Phase2:DishonoredTask_Custom_0 DishonoredTask_Custom]
+m_Description="Mate 5 inimigos antes que o tempo acabe."
+m_Status=""
+
+[BTM_Objective_Phase2:DishonoredTask_Custom_1 DishonoredTask_Custom]
+m_Description="Bônus da Agenda:  Mate os 3 nobres, mas deixe os 3 guardas ilesos."
+m_Status=""
+
+[BTM_Objective_Phase2:DishonoredTask_Custom_2 DishonoredTask_Custom]
+m_Description="Bônus de Propaganda:  Elimine todos os 6 inimigos usando o alto-falante de rua."
+m_Status=""
+
+[BTM_Objective_Phase3 DishonoredObjective]
+m_Description="Bend Time Massacre - Rodada 3"
+
+[BTM_Objective_Phase3:DishonoredTask_Custom_0 DishonoredTask_Custom]
+m_Description="Mate 7 inimigos antes que o tempo acabe."
+m_Status=""
+
+[BTM_Objective_Phase3:DishonoredTask_Custom_1 DishonoredTask_Custom]
+m_Description="Bônus de Paciência:  Mate todos os 9 inimigos, mas não permita que nenhum morra antes que o tempo curvado termine."
+m_Status=""
+
+[BTM_Objective_Phase3:DishonoredTask_Custom_2 DishonoredTask_Custom]
+m_Description="Bônus Alfineteiro: Acerte o Negociante de Arte com quatro dardos de besta, cada um dos quais quebrou um painel de vidro."
+m_Status=""
+
+[BTM_Objective_Phase4 DishonoredObjective]
+m_Description="Bend Time Massacre - Rodada 4"
+
+[BTM_Objective_Phase4:DishonoredTask_Custom_0 DishonoredTask_Custom]
+m_Description="Mate 10 inimigos antes que o tempo acabe."
+m_Status=""
+
+[BTM_Objective_Phase4:DishonoredTask_Custom_1 DishonoredTask_Custom]
+m_Description="Bônus Cirúrgico: Mate os três Pendletons e não permita que nenhum inimigo os note ou morra."
+m_Status=""
+
+[BTM_Objective_Phase4:DishonoredTask_Custom_2 DishonoredTask_Custom]
+m_Description="Bônus Sangue por Óleo: Mate 10 inimigos usando apenas tanques de óleo de baleia."
+m_Status=""
+
+[BTM_Objective_Phase5 DishonoredObjective]
+m_Description="Bend Time Massacre - Rodada 5"
+
+[BTM_Objective_Phase5:DishonoredTask_Custom_0 DishonoredTask_Custom]
+m_Description="Mate pelo menos 7 inimigos antes que o tempo acabe."
+m_Status=""
+
+[BTM_Objective_Phase5:DishonoredTask_Custom_1 DishonoredTask_Custom]
+m_Description="Bônus de Preconceito: Mate todos os 6 Supervisores."
+m_Status=""
+
+[BTM_Objective_Phase5:DishonoredTask_Custom_2 DishonoredTask_Custom]
+m_Description="Bônus Batata Quente: Mate Campbell com o tanque de óleo de baleia aceso na sala oposta antes que ele exploda."
+m_Status=""
+
+[BTM_Objective_Phase6 DishonoredObjective]
+m_Description="Massacre do Tempo Distorcido - Rodada Final"
+
+[BTM_Objective_Phase6:DishonoredTask_Custom_0 DishonoredTask_Custom]
+m_Description="Mate 15 inimigos."
+m_Status=""
+
+[BTM_Objective_Phase6:DishonoredTask_Custom_1 DishonoredTask_Custom]
+m_Description="Bônus do Herói: Salve todos dos tanques de óleo de baleia em chamas!"
+m_Status=""
+
+[BTM_Objective_Phase6:DishonoredTask_Custom_2 DishonoredTask_Custom]
+m_Description="Bônus de Eliminação Total:  Mate todos os 20 inimigos."
+m_Status=""
+

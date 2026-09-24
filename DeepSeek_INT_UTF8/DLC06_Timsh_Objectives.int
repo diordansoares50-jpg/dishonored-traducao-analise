@@ -1,0 +1,134 @@
+﻿[DLC06_Answers_Obj DishonoredObjective]
+m_Description="Obtendo Respostas"
+
+[DLC06_Answers_Obj:DishonoredTask_Custom_46 DishonoredTask_Custom]
+m_Description="Volte ao Cais do Distrito Legal para encontrar Thalia"
+m_Status=""
+
+[DLC06_Answers_Obj:DishonoredTask_Custom_47 DishonoredTask_Custom]
+m_Description="Falar com Thalia"
+m_Status=""
+
+[DLC06_Answers_Obj:DishonoredTask_Custom_48 DishonoredTask_Custom]
+m_Description="Saia pelos esgotos"
+m_Status=""
+
+[DLC06_Thalia_Obj DishonoredObjective]
+m_Description="Um Encontro com Thalia"
+
+[DLC06_Thalia_Obj:DishonoredTask_Custom_27 DishonoredTask_Custom]
+m_Description="Encontre Thalia em Treaver's Close"
+m_Status=""
+
+[DLC06_Thalia_Obj:DishonoredTask_Custom_28 DishonoredTask_Custom]
+m_Description="Resgate Thalia dos Chapeleiros"
+m_Status=""
+
+[DLC06_Thalia_Obj:DishonoredTask_Custom_29 DishonoredTask_Custom]
+m_Description="Falar com Thalia"
+m_Status=""
+
+[DLC06_Timsh_Granny DishonoredObjective]
+m_Description="(Opcional) Receita da Vovó"
+
+[DLC06_Timsh_Granny:DishonoredTask_Custom_59 DishonoredTask_Custom]
+m_Description="(Opcional) A partir do 78, desenhe O Mundo."
+m_Status=""
+
+[DLC06_Timsh_Granny:DishonoredTask_Custom_60 DishonoredTask_Custom]
+m_Description="(Opcional) Coloque a carta de tarô O Mundo aos pés daquele com os olhos do vazio mais negro"
+m_Status=""
+
+[DLC06_Timsh_Granny:DishonoredTask_Custom_61 DishonoredTask_Custom]
+m_Description="(Opcional) Queime o cartão ensanguentado na lareira de um homem que sonha em ser senhor de tudo"
+m_Status=""
+
+[DLC06_Timsh_Granny:DishonoredTask_Custom_62 DishonoredTask_Custom]
+m_Description="(Opcional) Corte sua palma e sangre no cartão"
+m_Status=""
+
+[DLC06_Timsh_Obj DishonoredObjective]
+m_Description="Eliminar o Advogado Arnold Timsh"
+
+[DLC06_Timsh_Obj:DishonoredTask_Custom_37 DishonoredTask_Custom]
+m_Description="Viaje para o Distrito Legal"
+m_Status=""
+
+[DLC06_Timsh_Obj:DishonoredTask_Custom_38 DishonoredTask_Custom]
+m_Description="(Opcional) Investigue o prisioneiro que pode ter sido um antigo associado de Timsh"
+m_Status=""
+
+[DLC06_Timsh_Obj:DishonoredTask_Custom_39 DishonoredTask_Custom]
+m_Description="(Não letal) Troque os documentos na bolsa de cinto de Timsh"
+m_Status=""
+
+[DLC06_Timsh_Obj:DishonoredTask_Custom_40 DishonoredTask_Custom]
+m_Description="(Não letal) Coloque o saco dentro do circulador de ar no porão da mansão de Timsh"
+m_Status=""
+
+[DLC06_Timsh_Obj:DishonoredTask_Custom_42 DishonoredTask_Custom]
+m_Description="Encontre o Último Testamento e Testamento da mãe de Timsh"
+m_Status=""
+
+[DLC06_Timsh_Obj:DishonoredTask_Custom_43 DishonoredTask_Custom]
+m_Description="Mate o Advogado Arnold Timsh"
+m_Status=""
+
+[DLC06_Timsh_Obj:DishonoredTask_Custom_44 DishonoredTask_Custom]
+m_Description="Chegar à Praça Legal"
+m_Status=""
+
+[DLC06_Timsh_Obj:DishonoredTask_Custom_50 DishonoredTask_Custom]
+m_Description="Descubra quaisquer pistas sobre o papel de Delilah aqui"
+m_Status=""
+
+[DLC06_Timsh_Obj:DishonoredTask_Custom_51 DishonoredTask_Custom]
+m_Description="Pegue a Chave da Mansão Timsh"
+m_Status=""
+
+[DLC06_Timsh_Obj:DishonoredTask_Custom_52 DishonoredTask_Custom]
+m_Description="(Não Letal) Não interfira enquanto Timsh é preso pelo General Turnbull"
+m_Status=""
+
+[DLC06_Timsh_Obj:DishonoredTask_Custom_53 DishonoredTask_Custom]
+m_Description="Encontre a chave para o Distrito Legal"
+m_Status=""
+
+[DLC06_Timsh_Obj:DishonoredTask_Custom_54 DishonoredTask_Custom]
+m_Description="(Não Letal) Encontre o diário no apartamento com vista para a Praça Legal"
+m_Status=""
+
+[DLC06_Timsh_Obj:DishonoredTask_Custom_55 DishonoredTask_Custom]
+m_Description="(Não letal) Encontre o saco fedorento no Apartamento 10"
+m_Status=""
+
+[DLC06_Timsh_Obj:DishonoredTask_Custom_56 DishonoredTask_Custom]
+m_Description="Procure no território do Chapeleiro por uma chave para o Distrito Legal"
+m_Status=""
+
+[DLC06_Timsh_Obj:DishonoredTask_Custom_57 DishonoredTask_Custom]
+m_Description="Verifique o posto do capitão pela chave do Distrito Legal"
+m_Status=""
+
+[DLC06_Timsh_Obj:DishonoredTask_Custom_58 DishonoredTask_Custom]
+m_Description="(Opcional) Encontre-se com sua tenente no terraço para o relatório dela e para coletar informações adicionais"
+m_Status=""
+
+[DLC06_Timsh_Obj:DishonoredTask_Custom_63 DishonoredTask_Custom]
+m_Description="(Não letal) Pegar o documento de despejo"
+m_Status=""
+
+[DLC06_TimshFavors1_Obj DishonoredObjective]
+m_Description="(Favor) Fragmento da Escuridão"
+
+[DLC06_TimshFavors1_Obj:DishonoredTask_Custom_37 DishonoredTask_Custom]
+m_Description="Pegue sua Runa perto da ponte em ruínas"
+m_Status=""
+
+[DLC06_TimshFavors2_Obj DishonoredObjective]
+m_Description="(Favor) Óleo de Baleia no Portão"
+
+[DLC06_TimshFavors2_Obj:DishonoredTask_Custom_37 DishonoredTask_Custom]
+m_Description="Seus operativos posicionaram tanques de óleo em locais convenientes perto do portão"
+m_Status=""
+

@@ -1,0 +1,44 @@
+﻿[DLC06_BoundHandsRope_twk DisTweaks_UsableObject]
+m_UnlockInteractText="`GBA_Use` Desbloquear"
+m_LockedMessage=""
+m_UnauthorizedMessage=""
+m_FocusMessage=""
+m_FocusLockedMessage=""
+
+[DLC06_BoundHandsRope_twk:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Corda"
+m_InteractText="`GBA_Use` Assassino Livre"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[DLC06_MercySword_twk DisTweaks_UsableObject]
+m_UnlockInteractText="`GBA_Use` Desbloquear"
+m_LockedMessage=""
+m_UnauthorizedMessage=""
+m_FocusMessage=""
+m_FocusLockedMessage=""
+
+[DLC06_MercySword_twk:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Espada de Billie"
+m_InteractText="`GBA_Use` Devolver a Espada"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[DLC06_RolledNote_Critical_twk DisTweaks_AbstractItemPickupNote]
+m_PressKeyToReadMessage=""
+m_OnPickupMessage="Nova anotação adicionada ao seu diário"
+m_SingleItemPickupMessage=""
+
+[DLC06_RolledNote_Critical_twk:DisTweaks_Interactable_PickupBase_105 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name=""
+m_InteractText="`GBA_Use` Ler"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+

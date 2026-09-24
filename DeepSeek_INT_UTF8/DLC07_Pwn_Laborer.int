@@ -1,0 +1,9 @@
+﻿[DLC07_Pwn_Laborer_F_1:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Operário de Fábrica Têxtil"
+
+[DLC07_Pwn_Laborer_MTall_1:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Trabalhador de Fábrica Têxtil"
+
+[DLC07_Pwn_Laborer_MTall_3_Favor:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Trabalhador de Rothwild"
+

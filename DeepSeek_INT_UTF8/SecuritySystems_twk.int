@@ -1,0 +1,171 @@
+﻿[Alarm.Alarm_panel_Box_twk:DisTweaks_InteractableInterface_1 DisTweaks_InteractableInterface]
+m_Name="Painel de Alarme"
+
+[Alarm.Alarm_panel_twk:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Circuito de Alarme"
+m_UseMessage="Este alarme foi desativado."
+
+[Alarm.AlarmBase DisTweaks_AlarmBell]
+m_UnlockInteractText="`GBA_Use` Desbloquear"
+m_LockedMessage=""
+m_UnauthorizedMessage=""
+m_FocusMessage=""
+m_FocusLockedMessage=""
+
+[Alarm.AlarmBase:DisTweaks_Interactable_AlarmBell_0 DisTweaks_Interactable_AlarmBell]
+m_UnringAlarmText="`GBA_Use` Silêncio"
+m_Name="Sino de Alarme"
+m_InteractText="`GBA_Use` Anel"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[ArcPylon.Arcpylon_eye_panel_box_twk:DisTweaks_InteractableInterface_1 DisTweaks_InteractableInterface]
+m_Name="Painel do Pilar de Arco"
+
+[ArcPylon.ArcPylon_eye_panel_twk:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Circuito do Pilar de Arco"
+m_UseMessage="Este Pilar de Arco agora irá prejudicar os inimigos em vez de você."
+
+[Battery.WhaleOilBattery_empty_twk DisTweaks_WhaleOilBattery]
+m_EmptyName="Tanque de Óleo Vazio"
+
+[Battery.WhaleOilBattery_empty_twk:DisTweaks_InteractableInterface_0 DisTweaks_InteractableInterface]
+m_Name="Tanque de Óleo de Baleia"
+m_InteractText="`GBA_Use` Carregar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Battery.WhaleOilBattery_twk DisTweaks_WhaleOilBattery]
+m_EmptyName="Tanque de Óleo Vazio"
+
+[Battery.WhaleOilBattery_twk:DisTweaks_InteractableInterface_0 DisTweaks_InteractableInterface]
+m_Name="Tanque de Óleo de Baleia"
+m_InteractText="`GBA_Use` Carregar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Battery.WhaleOilReceptacle_twk DisTweaks_WhaleOilReceptacle]
+m_EmptyBatteryMessage="Este tanque está vazio"
+
+[Battery.WhaleOilReceptacleHub_twk DisTweaks_WhaleOilReceptacle]
+m_EmptyBatteryMessage="Este tanque está vazio"
+
+[Generic.Generic_eye_panel_box_twk DisTweaks_UsableObject]
+m_Stages[1]=(m_InteractTextOverride="`GBA_Use` Close")
+m_UnlockInteractText="`GBA_Use` Desbloquear"
+m_LockedMessage=""
+m_UnauthorizedMessage=""
+m_FocusMessage=""
+m_FocusLockedMessage=""
+
+[Generic.Generic_eye_panel_box_twk:DisTweaks_InteractableInterface_1 DisTweaks_InteractableInterface]
+m_Name="Painel de Metal"
+m_InteractText="`GBA_Use` Abrir"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Generic.Generic_eye_panel_twk DisTweaks_UsableObject]
+m_UnlockInteractText="`GBA_Use` Desbloquear"
+m_LockedMessage=""
+m_UnauthorizedMessage="`GBA_Use` Usar"
+m_FocusMessage="Ferramentas de Religar Restantes: `q`"
+m_FocusLockedMessage=""
+
+[Generic.Generic_eye_panel_twk:DisTweaks_InteractableInterface_0 DisTweaks_InteractableInterface]
+m_Name="Circuitaria"
+m_InteractText="`GBA_Use` Religar"
+m_AltInteractText=""
+m_UseMessage="Este dispositivo foi agora recabado."
+m_AltUseMessage=""
+m_CannotUseMessage="Você não tem ferramentas de reconfiguração."
+
+[SecurityDoor.SecurityDoor_eye_panel_box_twk:DisTweaks_InteractableInterface_1 DisTweaks_InteractableInterface]
+m_Name="Painel da Porta de Segurança"
+
+[SecurityDoor.SecurityDoor_eye_panel_twk:pInteractableTweaks DisTweaks_InteractableInterface]
+m_UseMessage="Esta porta agora se abrirá para você."
+
+[SecurityDoor.secutiry_door_twk DisTweaks_Door]
+m_DoorOpenCCW.m_InteractTextOverride=""
+m_DoorOpenCW.m_InteractTextOverride=""
+m_DoorCloseCCW.m_InteractTextOverride="`GBA_Use` Fechar"
+m_DoorCloseCW.m_InteractTextOverride="`GBA_Use` Fechar"
+m_DoorSlamOpenCCW.m_InteractTextOverride=""
+m_DoorSlamOpenCW.m_InteractTextOverride=""
+
+[SecurityDoor.secutiry_door_twk:DisTweaks_InteractableInterface_3 DisTweaks_InteractableInterface]
+m_Name="Porta de Metal Inquebrável"
+
+[TripodTrap.BulletLauncher_twk:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Lançador de Projéteis"
+
+[TripodTrap.ExplosiveBulletLauncher_twk:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Lançador de Balas Explosivas"
+
+[TripodTrap.GrenadeLauncher_twk:DisTweaks_InteractableInterface_2 DisTweaks_InteractableInterface]
+m_Name="Lançador de Projéteis"
+m_InteractText="`GBA_Use` Desarmar"
+m_AltInteractText=""
+m_UseMessage="Lançador desarmado"
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[TripodTrap.SamuelSignalLauncher_twk:DisTweaks_InteractableInterface_2 DisTweaks_InteractableInterface]
+m_Name="Lançador de Sinal de Samuel"
+m_InteractText=""
+m_UseMessage=""
+
+[TripodTrap.TrapExplosiveArrow_twk:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Projétil Incendiário"
+
+[TripodTrap.Tripod_twk:DisTweaks_InteractableInterface_4 DisTweaks_InteractableInterface]
+m_Name=""
+m_InteractText=""
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[TripodTrap.Tripwire_DoubleDoor_twk:DisTweaks_InteractableInterface_0 DisTweaks_InteractableInterface]
+m_Name="Armadilha"
+m_InteractText="`GBA_Use` Gatilho"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[TripodTrap.Tripwire_Hallway_twk:DisTweaks_InteractableInterface_1 DisTweaks_InteractableInterface]
+m_Name="Armadilha"
+m_InteractText="`GBA_Use` Gatilho"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[TripodTrap.Tripwire_SimpleDoor_twk:DisTweaks_InteractableInterface_2 DisTweaks_InteractableInterface]
+m_Name="Armadilha"
+m_InteractText="`GBA_Use` Acionar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[WallOfLight.WallOfLight_eye_panel_box_twk:DisTweaks_InteractableInterface_1 DisTweaks_InteractableInterface]
+m_Name="Painel da Porta de Segurança"
+
+[WallOfLight.WallOfLight_eye_panel_twk:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Circuito da Parede de Luz"
+m_UseMessage="Esta Parede de Luz agora prejudicará inimigos em vez de você."
+
+[WatchTower.WatchTower_eye_panel_twk:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Circuito da Torre de Vigia"
+m_UseMessage="Esta Torre de Vigia agora disparará contra inimigos em vez de você."
+

@@ -1,0 +1,297 @@
+﻿[Inventory.Conviction_Doc_Abst DisAbstractItem]
+m_ItemName="Documento de Despejo"
+m_PluralItemName=""
+m_Description="Este documento, datado de um mês atrás, acusa Timsh de infecção por peste em sua propriedade e ordena a apreensão de seus bens."
+
+[Inventory.Hatter_Evidence_Abst DisAbstractItem]
+m_ItemName="Chapéu da Gangue do Chapeleiro"
+m_PluralItemName=""
+m_Description="Um chapéu que claramente pertence à gangue do Chapeleiro. Parece que um deles entrou no quarto do Capitão e pegou sua chave para o Distrito Legal."
+
+[Inventory.Immunity_Doc_Abst DisAbstractItem]
+m_ItemName="Documento de Imunidade Legal"
+m_PluralItemName=""
+m_Description="Esta é uma carta assinada do Lorde Regente concedendo a Timsh imunidade legal a todas as disposições da peste."
+
+[Inventory.Odorous_Sack_Abst DisAbstractItem]
+m_ItemName="Saco Fedorento"
+m_PluralItemName=""
+m_Description="Esta sacola carrega um odor muito desagradável."
+
+[Inventory.Tarot_Card_Abst DisAbstractItem]
+m_ItemName="Uma Carta Sangrenta"
+m_PluralItemName=""
+m_Description="A carta de tarô 'O Mundo' com seu sangue nela."
+
+[Inventory.Tarot_Card_World_Abst DisAbstractItem]
+m_ItemName="A Carta de Tarot "O Mundo""
+m_PluralItemName=""
+m_Description="A carta de tarô "O Mundo", de um baralho de 78 cartas."
+
+[Inventory.Tarot_Deck_Abst DisAbstractItem]
+m_ItemName="Baralho de Tarot de 78 Cartas"
+m_PluralItemName=""
+m_Description="Um baralho de tarot com 78 cartas"
+
+[Inventory.Timsh_Will_Abst DisAbstractItem]
+m_ItemName="Última Vontade e Testamento"
+m_PluralItemName=""
+m_Description="Última Vontade e Testamento da Mãe de Timsh."
+
+[WrittenNotes.Readable_Address DisAbstractItem]
+m_ItemName="Endereço de um Contato"
+m_PluralItemName=""
+m_Description="7 - Praça Legal"
+
+[WrittenNotes.Readable_AreaNotes DisAbstractItem]
+m_ItemName="Notas de Reconhecimento"
+m_PluralItemName=""
+m_Description="- Timsh é vigoroso para um homem de sua idade. Sabe-se que ele se mantém armado com uma espada e uma pistola, mesmo dentro de sua própria casa. Observou-se que ele geralmente é inquieto e móvel, percorrendo todo o prédio, desde seu quarto no andar superior até o saguão dos escritórios de advocacia no térreo.  
+- Timsh guarda o testamento de sua mãe em um baú em uma sala de armazenamento perto do saguão no térreo.  
+- A porta da frente dá acesso ao saguão dos escritórios de advocacia. O espaço tem dois andares de altura, com varandas que dão vista para o piso do saguão.  
+- A segunda varanda na fachada (portas de vidro) leva diretamente ao escritório de Timsh.  
+- Varandas no andar superior, à direita e à esquerda do prédio. Acesso fácil.  
+- Uma porta dos fundos dá acesso a um porão. Ela é mantida trancada, mas a chave foi fácil de encontrar.  
+- Um elevador de serviço acessível no porão conecta todos os andares, mas é uma viagem só de ida. Assim que você sai, o painel se fecha e a plataforma retorna ao porão.  
+- Timsh carrega uma chave consigo. Quaisquer baús ou armários importantes estão trancados com ela.  
+- Um apartamento próximo à Propriedade de Timsh tem acesso pelo telhado ao Distrito da Orla Marítima."
+
+[WrittenNotes.Readable_Cultist1 DisAbstractItem]
+m_ItemName="Rabiscos do Cultista"
+m_PluralItemName=""
+m_Description="Este foi um pai. Ele gerou seis, de três mães. Ele afogou um deles, mas não foi culpa dele. Um dia, o avô da criança descobriu o que aconteceu, mas o velho não concordou com essa avaliação."
+
+[WrittenNotes.Readable_Cultist2 DisAbstractItem]
+m_ItemName="Rabiscos do Cultista"
+m_PluralItemName=""
+m_Description="Este gostava de esculpir madeira. Certa vez, esculpiu uma pequena baleia. Falava com ela e a mantinha no bolso. Seus veios conheciam todos os seus segredos. Assim como eu."
+
+[WrittenNotes.Readable_Cultist3 DisAbstractItem]
+m_ItemName="Rabiscos do Cultista"
+m_PluralItemName=""
+m_Description="Este trabalhou tanto que quebrou as duas mãos. Quando não servia mais para nada, jogaram-no fora. A mãe cuidou dele até morrer. Depois disso, ele recorreu à mendicância. E então morreu."
+
+[WrittenNotes.Readable_Cultist4 DisAbstractItem]
+m_ItemName="Rabiscos do Cultista"
+m_PluralItemName=""
+m_Description="Esta era uma professora. Ela costumava ensinar às crianças sobre a de olhos negros que via em seus sonhos. Ninguém sabia. Mas então uma das crianças entrou em transe e começou a chorar seu nome. Então os Supervisores vieram."
+
+[WrittenNotes.Readable_Cultist5 DisAbstractItem]
+m_ItemName="Rabiscos do Cultista"
+m_PluralItemName=""
+m_Description="Este nasceu em uma família rica. Ele permaneceu no campo, porque era o único lugar onde podia ver as estrelas à noite. Nunca foi educado, então não sabia o que elas eram. Costumava rezar para elas."
+
+[WrittenNotes.Readable_DelilahPoem DisAbstractItem]
+m_ItemName="Um Poema de Delilah"
+m_PluralItemName=""
+m_Description="Quando a Bela Emily acordou um dia  
+Viu o mundo de um jeito diferente  
+Seus olhos agora olhavam com a astúcia de uma estranha  
+Sua boca delicada sorria o sorriso de uma estranha  
+Suas mãos agora trabalhavam a ira de uma estranha  
+Seus pés agora trilhavam o caminho de uma estranha  
+Emily se alimentava, outra crescia mais forte  
+Os desejos da estranha a impulsionavam adiante,  
+E ninguém que olhasse para o rosto de Emily  
+Jamais adivinharia quem reinava no lugar de Emily."
+
+[WrittenNotes.Readable_Doctor DisAbstractItem]
+m_ItemName="Carta de um Médico"
+m_PluralItemName=""
+m_Description="Advogado Timsh,
+
+Receio que não posso, em boa consciência, continuar como médico de sua mãe. A forma como você repetidamente nega a ela acesso a práticas que poderiam potencialmente restaurar sua lucidez não passa de uma sentença de morte, e não desejo fazer parte disso. Tenha um bom dia, senhor.
+
+- Doutor Partridge"
+
+[WrittenNotes.Readable_DWBroken DisAbstractItem]
+m_ItemName="Um Aviso de Reparo"
+m_PluralItemName=""
+m_Description="Equipe,\n\nO advogado Timsh reclamou do rangido dessas portas, então elas foram removidas até que a ordem de reparo seja emitida. Por favor, não joguem nada no poço do elevador nem façam nada infantil.\n\n- Administração"
+
+[WrittenNotes.Readable_DWDirections DisAbstractItem]
+m_ItemName="Instruções do Elevador de Serviço"
+m_PluralItemName=""
+m_Description="Coloque os itens que deseja entregar na bandeja. Use o mostrador para selecionar o andar, sendo (1) os escritórios de advocacia e o saguão, (2) a sala de fumantes e a biblioteca, (3) o escritório de Timsh, e (4) o salão de jantar e o quarto. Puxe a alavanca e a plataforma subirá. Quando atingir aquele andar, um sino soará para notificar a equipe no local. Uma vez que a carga for removida da plataforma, a máquina a baixará automaticamente de volta. Se você ativar o elevador de serviço sem selecionar um andar, ele irá para o (1) por padrão.
+
+Por favor, não viaje no elevador de serviço."
+
+[WrittenNotes.Readable_FavorRuneNote DisAbstractItem]
+m_ItemName="Nota do Assassino"
+m_PluralItemName=""
+m_Description="Conforme solicitado."
+
+[WrittenNotes.Readable_GrannyRecipe DisAbstractItem]
+m_ItemName="Receita da Vovó"
+m_PluralItemName=""
+m_Description="[Uma página arrancada de um manuscrito antigo, escrita em letra rabiscada]
+
+Cruel Nancy! Tira O Mundo das suas mãos gananciosas.
+Coloca-o diante do noivo de olhos negros
+Corta afiado, corta fundo. Goteja vermelho, pinga.
+Último e menor. Queima-o na lareira de um homem sem lei.
+
+Faz isto por mim, querida, e eu te dou um presente de aniversário.
+-Vovó"
+
+[WrittenNotes.Readable_KeyHintCapt DisAbstractItem]
+m_ItemName="Nota-Chave Ausente"
+m_PluralItemName=""
+m_Description="Cap,\nParece que os Chapéus invadiram e levaram a chave do Distrito Legal. Vou lá dar uma lição neles.\n- Pete"
+
+[WrittenNotes.Readable_KeyHintInside DisAbstractItem]
+m_ItemName="Lista de Tarefas"
+m_PluralItemName=""
+m_Description="- Saquear aquele lugar
+
+- Acertar as contas com Craxton
+
+- Aquela chave que pegamos da Guarda pode nos dar acesso ao Distrito Legal. Vamos conseguir algumas coisas boas para penhorar com os advogados mais tarde hoje à noite. Deixei a chave lá em cima por enquanto.
+
+- Escovar os dentes esta semana"
+
+[WrittenNotes.Readable_KeyHintLegal DisAbstractItem]
+m_ItemName="Aviso"
+m_PluralItemName=""
+m_Description="Cap pegou a chave.
+
+Se precisar dela, boa sorte. Ele está na rua, no Almshouse."
+
+[WrittenNotes.Readable_KeyHintRiver DisAbstractItem]
+m_ItemName="Lista de Tarefas"
+m_PluralItemName=""
+m_Description="- Saquear aquele lugar
+
+- Acertar as contas com Craxton
+
+- Encontrar o corpo de Chauncy onde ele caiu na vista do rio, no final da rua. A chave que ele encontrou pode abrir uma porta para algo bom. Nunca se sabe.
+
+- Escovar os dentes esta semana"
+
+[WrittenNotes.Readable_KeyHintRoof DisAbstractItem]
+m_ItemName="Lista de Tarefas"
+m_PluralItemName=""
+m_Description="- Saquear aquele lugar
+
+- Acertar as contas com Craxton
+
+- Chauncy pegou aquela chave que roubamos da guarda, pois está tentando saquear as casas de uns advogados. Ele foi fazer arrombamento pelos terraços e ainda não desceu. Melhor ver o que aconteceu e recuperar aquela chave.
+
+- Escovar os dentes esta semana"
+
+[WrittenNotes.Readable_KeyNote DisAbstractItem]
+m_ItemName="Nota de Billie Lurk"
+m_PluralItemName=""
+m_Description="Consegui encontrar isso. Deve destrancar a porta aqui. Sei o quanto você odeia ter que caçar chaves.
+
+- Billie"
+
+[WrittenNotes.Readable_LawyerNote1 DisAbstractItem]
+m_ItemName="Nota de um Advogado"
+m_PluralItemName=""
+m_Description="A, quando vamos conseguir uma secretária? Nunca consigo encontrar nenhum dos documentos arquivados por J, e S parece não arquivar nada. Este lugar está se tornando um vórtice de desorganização tão grande que daria para entrar montado numa baleia."
+
+[WrittenNotes.Readable_LawyerNote2 DisAbstractItem]
+m_ItemName="Nota de um Advogado"
+m_PluralItemName=""
+m_Description="S, \n\nSugiro que você pesquise casos relacionados a atos similares de incêndio criminoso. Não acredito que seu cliente tenha uma base sólida, mas se você confundir o suficiente a questão com histórias de terror, o júri pode acabar votando com o coração em vez da razão. É o que Timsh faria, confio.\n\n- J"
+
+[WrittenNotes.Readable_NotetoGerwin DisAbstractItem]
+m_ItemName="Nota para Gerwin"
+m_PluralItemName=""
+m_Description="Entendo sua preocupação com segurança, mas confio na proteção de uma chave pendurada no meu próprio cinto, não numa fechadura de combinação. Uma fechadura de combinação pode ser adivinhada, arrombada ou subornada. Mas com uma fechadura e chave simples, o conteúdo dos meus arquivos permanece seguro.
+
+Quanto a chaves-mestras? Uma fábula. Nunca soube que tal coisa realmente existisse. E você?
+
+- Timsh"
+
+[WrittenNotes.Readable_Overseer DisAbstractItem]
+m_ItemName="Carta dos Supervisores"
+m_PluralItemName=""
+m_Description="Senhor Timsh,\n\nAtualmente não podemos disponibilizar um Supervisor equipado com um dispositivo musical para integrar sua guarda doméstica. Todos os nossos quadros estão atualmente muito ocupados com outros assuntos de maior peso. Se você teme um ataque iminente por parte de um praticante das artes heréticas, sugiro que venha imediatamente à Praça Holger para aconselhamento e proteção.\n\n- Supervisor Mallow, Gabinete do Alto Supervisor"
+
+[WrittenNotes.Readable_Pots DisAbstractItem]
+m_ItemName="Nota sobre Penicos"
+m_PluralItemName=""
+m_Description="Todos os penicos estão atualmente fora para limpeza. Por favor, abstenham-se de urinar por toda a madeira exposta. Vão urinar no beco dos fundos se não conseguirem segurar. Se a equipe reclamar para mim novamente, vou dar a cada um de vocês um banheiro para limpar usando apenas suas meias, entendido?
+
+- Capitão Scott Blossom."
+
+[WrittenNotes.Readable_RolandJournal DisAbstractItem]
+m_ItemName="Diário de Roland"
+m_PluralItemName=""
+m_Description="Então, Timsh acha que é invencível porque carrega uma carta do Lorde Regente que lhe dá imunidade legal contra o confisco de seus bens pelo estado em caso de praga. Ele a leva para todo lado, como um talismã. Mas ele também redigiu o instrumento de sua própria destruição. O documento que ele usa para despejos é um formulário genérico elaborado pelo escritório do Lorde Regente. Foi trivial conseguir um em branco. Conseguir uma falsificação da assinatura do Lorde Regente foi menos fácil, mas, felizmente, alguns dos meus velhos contatos ainda são leais. Agora, tudo o que preciso fazer é trocar os dois documentos. Chegar perto o suficiente de Timsh para fazer isso não será fácil... Talvez eu precise de ajuda de um profissional.
+
+Uma vez feito isso, o tolo só precisa de um empurrão para cair, e essa é a segunda parte.
+
+No porão de Timsh há um dispositivo que circula ar no prédio. Se algum – material – por acaso entrasse no dispositivo, o prédio cheiraria como um covil de chorões. Tive que ser específico quanto ao material real, pois não desejo infectar o guarda ou os servos com a praga e causar sofrimento desnecessário. A senhora desagradável que mora na Unidade 10 se ofereceu para fornecer o item malcheiroso e um saco resistente para contê-lo. Ela anseia pela minha runa em troca, então serei forçado a me desfazer dela. Ela me deu uma chave de sua unidade para que eu possa ir buscar o saco quando estiver pronto para fazer minha jogada."
+
+[WrittenNotes.Readable_Roldand2Timsh DisAbstractItem]
+m_ItemName="Uma Carta de Roland"
+m_PluralItemName=""
+m_Description="Caro Arnold,
+
+Obrigado por ter convidado minha esposa e eu para jantar na semana passada. Nós dois nos divertimos muito. Também agradeço por ter sido tão paciente com o episódio dela. Poucas pessoas são tão compreensivas, e você demonstrou uma considerável elegância. Também fico feliz por ter podido confiar em você com meus arranjos de negócios. Tenho certeza de que você será capaz de mantê-los estritamente confidenciais, mas foi um alívio finalmente poder desabafar sobre as frustrações que preciso suportar diariamente com um colega que entende esse tipo de coisa. Espero que você me permita retribuir o favor e ser seu anfitrião por uma noite.
+
+Atenciosamente,
+- Wiles Roland"
+
+[WrittenNotes.Readable_Scott DisAbstractItem]
+m_ItemName="Nota da Capitã Blossom"
+m_PluralItemName=""
+m_Description="Cozinha,
+
+Os tomates do jantar de ontem estavam passados. Você sabe o quanto eu detesto tomates passados. Eu gosto deles firmes, sem aquela consistência mole. Estou sendo claro? Por favor, não estrague meu jantar novamente.
+
+- Capitão Scott Blossom"
+
+[WrittenNotes.Readable_Timsh2Melissa DisAbstractItem]
+m_ItemName="Um recado de Timsh"
+m_PluralItemName=""
+m_Description="Melissa, sei que é comum as empregadas prenderem o cabelo, mas acho que isso não faz justiça a você. Tenho certeza de que não haveria problema se o deixasse solto, e eu apreciaria a vista.
+
+Se tiver outras preocupações com seu uniforme, por favor, fale comigo. Tenho certeza de que podemos encontrar alguma flexibilidade. Quero garantir que você esteja confortável enquanto trabalha.
+
+- Arnold"
+
+[WrittenNotes.Readable_TimshAlarm DisAbstractItem]
+m_ItemName="Nota do Timsh"
+m_PluralItemName=""
+m_Description="Scott, será mesmo necessário esse dispositivo de alarme no meu escritório? É feio, as cores não combinam e o cabo está marcando o acabamento em madeira. Tenho absoluta certeza de que o modo como foi fixado ao chão custará alguns milhares de moedas para reparar.
+
+- Arnold"
+
+[WrittenNotes.Readable_TimshEvictions DisAbstractItem]
+m_ItemName="Lista de Despejos"
+m_PluralItemName=""
+m_Description="Forrestal - Pátio dos Corvos  
+Ativos Líquidos Estimados: 2.900 moedas  
+Valor do Imóvel: 16.500 moedas  
+
+Dracos - Caminho Fenster  
+Ativos Líquidos Estimados: 1.200 moedas  
+Valor do Imóvel: 22.700 moedas  
+
+Cartwright - Beco Vessler  
+Ativos e Propriedade insignificantes  
+
+Blanken - Caminho Agroosh  
+Arnold, você esqueceu que Rudshore está inundado? Não posso avaliar isso.  
+
+Beddler - Rua Thyme  
+Ativos Líquidos Estimados: 4.600 moedas  
+Valor do Imóvel: 51.500 moedas"
+
+[WrittenNotes.Readable_TimshNotes DisAbstractItem]
+m_ItemName="Notas de Reconhecimento"
+m_PluralItemName=""
+m_Description="- Timsh é vigoroso para um homem de sua idade. Sabe-se que ele se mantém armado com uma espada e uma pistola, mesmo dentro de sua própria casa. Foi observado que ele geralmente é inquieto e móvel, andando por todo o edifício, desde seu quarto no último andar até o saguão dos escritórios de advocacia no térreo.  
+- Timsh guarda o testamento de sua mãe em um baú em seu escritório no terceiro andar.  
+- A porta da frente leva ao saguão dos escritórios de advocacia. O espaço tem dois andares de altura, com varandas que dão vista para o piso do saguão.  
+- A segunda varanda na fachada (portas de vidro) leva diretamente ao escritório de Timsh.  
+- Varandas no último andar, à direita e à esquerda do edifício. Acesso fácil.  
+- Uma porta dos fundos leva a um porão. Ela é mantida trancada, mas foi fácil encontrar uma chave.  
+- Um elevador de serviço acessível no porão conecta todos os andares, mas é uma viagem só de ida. Assim que você sai, o painel se fecha e a plataforma retorna ao porão.  
+- Timsh carrega uma chave consigo. Baús ou armários importantes estão trancados com ela. Um cômodo lateral no último andar também está misteriosamente trancado. Parece ser um estúdio de arte.  
+- Um apartamento próximo à Propriedade de Timsh tem acesso pelo telhado ao Distrito da Orla Marítima."
+

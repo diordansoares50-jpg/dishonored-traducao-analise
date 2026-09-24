@@ -1,0 +1,180 @@
+﻿[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_DialogScriptedChoice_0 DisSeqAct_DialogScriptedChoice]
+m_Title=""
+m_Choices[0]=(m_ChoiceText="")
+m_Choices[1]=(m_ChoiceText="")
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_SetTutorialMessage_22 DisSeqAct_SetTutorialMessage]
+m_TutorialMessage="This mansion is full of secrets, look everywhere. "
+m_TutorialMessage_Gamepad=""
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_SetTutorialMessage_23 DisSeqAct_SetTutorialMessage]
+m_TutorialMessage="There are six Clockwork Eggs to collect, as well as heirlooms, paintings, and coins. "
+m_TutorialMessage_Gamepad=""
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_SetTutorialMessage_24 DisSeqAct_SetTutorialMessage]
+m_TutorialMessage="Sneak into the mansion to recover the Eggs and as many valuables as you can."
+m_TutorialMessage_Gamepad=""
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_SetTutorialMessage_25 DisSeqAct_SetTutorialMessage]
+m_TutorialMessage="Do NOT get spotted. Nobody should know you were even there. "
+m_TutorialMessage_Gamepad=""
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_SetTutorialMessage_26 DisSeqAct_SetTutorialMessage]
+m_TutorialMessage="Steal the six Clockwork Eggs and exit the mansion."
+m_TutorialMessage_Gamepad=""
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_ShowHUDMessage_22 DisSeqAct_ShowHUDMessage]
+m_Message=""
+
+[TheWorld:PersistentLevel.Main_Sequence.Egg_Setup.DisSeqAct_ShowLocationDiscovery_3 DisSeqAct_ShowLocationDiscovery]
+m_LocationName="You Found All six Clockwork Eggs - Return to the Entry Point"
+
+[TheWorld:PersistentLevel.Main_Sequence.Egg_Setup.DisSeqAct_ShowLocationDiscovery_4 DisSeqAct_ShowLocationDiscovery]
+m_LocationName="Found 5 Clockwork Eggs - Only 1 Remains"
+
+[TheWorld:PersistentLevel.Main_Sequence.Egg_Setup.DisSeqAct_ShowLocationDiscovery_5 DisSeqAct_ShowLocationDiscovery]
+m_LocationName="Found 1 Clockwork Egg - 5 Remain"
+
+[TheWorld:PersistentLevel.Main_Sequence.Egg_Setup.DisSeqAct_ShowLocationDiscovery_6 DisSeqAct_ShowLocationDiscovery]
+m_LocationName="Found 2 Clockwork Eggs - 4 Remain"
+
+[TheWorld:PersistentLevel.Main_Sequence.Egg_Setup.DisSeqAct_ShowLocationDiscovery_7 DisSeqAct_ShowLocationDiscovery]
+m_LocationName="Found 3 Clockwork Eggs - 3 Remain"
+
+[TheWorld:PersistentLevel.Main_Sequence.Egg_Setup.DisSeqAct_ShowLocationDiscovery_8 DisSeqAct_ShowLocationDiscovery]
+m_LocationName="Found 4 Clockwork Eggs - 2 Remain"
+
+[TheWorld:PersistentLevel.Main_Sequence.Egg_Setup.DisSeqAct_UpdateTaskTarget_22 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Middle Floor"
+
+[TheWorld:PersistentLevel.Main_Sequence.Egg_Setup.DisSeqAct_UpdateTaskTarget_23 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Cullero Egg"
+
+[TheWorld:PersistentLevel.Main_Sequence.Egg_Setup.DisSeqAct_UpdateTaskTarget_24 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Wynnedown Egg"
+
+[TheWorld:PersistentLevel.Main_Sequence.Egg_Setup.DisSeqAct_UpdateTaskTarget_25 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Yaro Egg"
+
+[TheWorld:PersistentLevel.Main_Sequence.Egg_Setup.DisSeqAct_UpdateTaskTarget_28 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Back Door"
+
+[TheWorld:PersistentLevel.Main_Sequence.Egg_Setup.DisSeqAct_UpdateTaskTarget_29 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Potterstead Egg"
+
+[TheWorld:PersistentLevel.Main_Sequence.Egg_Setup.DisSeqAct_UpdateTaskTarget_30 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Top Floor"
+
+[TheWorld:PersistentLevel.Main_Sequence.Egg_Setup.DisSeqAct_UpdateTaskTarget_32 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Ground Floor"
+
+[TheWorld:PersistentLevel.Main_Sequence.Egg_Setup.DisSeqAct_UpdateTaskTarget_48 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Redmoor Egg"
+
+[TheWorld:PersistentLevel.Main_Sequence.Egg_Setup.DisSeqAct_UpdateTaskTarget_49 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Driscol Egg"
+
+[TheWorld:PersistentLevel.Main_Sequence.Egg_Setup.DisSeqAct_UpdateTaskTarget_51 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Front Door"
+
+[TheWorld:PersistentLevel.Main_Sequence.Guard_Status.DisSeqAct_GameOver_4 DisSeqAct_GameOver]
+m_Reason="Busted! - Game Over"
+
+[TheWorld:PersistentLevel.Main_Sequence.Guard_Status.DisSeqAct_ShowLocationDiscovery_0 DisSeqAct_ShowLocationDiscovery]
+m_LocationName="Busted! - Game Over"
+
+[TheWorld:PersistentLevel.Main_Sequence.Guard_Status.DisSeqAct_ShowLocationDiscovery_1 DisSeqAct_ShowLocationDiscovery]
+m_LocationName="Busted! - Two Chances Remain"
+
+[TheWorld:PersistentLevel.Main_Sequence.Guard_Status.DisSeqAct_ShowLocationDiscovery_2 DisSeqAct_ShowLocationDiscovery]
+m_LocationName="Busted! - One Chance Remains"
+
+[TheWorld:PersistentLevel.Main_Sequence.Tasks_Setup.DisSeqAct_SetTutorialMessage_16 DisSeqAct_SetTutorialMessage]
+m_TutorialMessage="You've discovered the full set of collectable figurines."
+m_TutorialMessage_Gamepad=""
+
+[TheWorld:PersistentLevel.Main_Sequence.Tasks_Setup.DisSeqAct_SetTutorialMessage_17 DisSeqAct_SetTutorialMessage]
+m_TutorialMessage="Get inside the mansion to begin your search for the six eggs."
+m_TutorialMessage_Gamepad=""
+
+[TheWorld:PersistentLevel.Main_Sequence.Tasks_Setup.DisSeqAct_SetTutorialMessage_18 DisSeqAct_SetTutorialMessage]
+m_TutorialMessage="Find all six eggs and then get back out.  Good luck."
+m_TutorialMessage_Gamepad=""
+
+[TheWorld:PersistentLevel.Main_Sequence.Tasks_Setup.DisSeqAct_SetTutorialMessage_19 DisSeqAct_SetTutorialMessage]
+m_TutorialMessage="You found all the eggs. Return to your entry point to complete the challenge."
+m_TutorialMessage_Gamepad=""
+
+[TheWorld:PersistentLevel.Main_Sequence.Tasks_Setup.DisSeqAct_SetTutorialMessage_20 DisSeqAct_SetTutorialMessage]
+m_TutorialMessage="You've found 2000 coins worth of valuables.  "
+m_TutorialMessage_Gamepad=""
+
+[TheWorld:PersistentLevel.Main_Sequence.Tasks_Setup.DisSeqAct_SetTutorialMessage_21 DisSeqAct_SetTutorialMessage]
+m_TutorialMessage="You've found 100% of the valuables.  Good job!"
+m_TutorialMessage_Gamepad=""
+
+[TheWorld:PersistentLevel.Main_Sequence.Tasks_Setup.DisSeqAct_ShowLocationDiscovery_9 DisSeqAct_ShowLocationDiscovery]
+m_LocationName="Challenge Completed"
+
+[TheWorld:PersistentLevel.Main_Sequence.Tasks_Setup.DisSeqAct_UpdateTaskTarget_50 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Entry Point"
+
+[TheWorld:PersistentLevel.Main_Sequence.Bonus_Setup.DisSeqAct_ShowHUDMessage_24 DisSeqAct_ShowHUDMessage]
+m_Message="Collectable Figurine 1/16"
+
+[TheWorld:PersistentLevel.Main_Sequence.Bonus_Setup.DisSeqAct_ShowHUDMessage_25 DisSeqAct_ShowHUDMessage]
+m_Message="Collectable Figurine 2/16"
+
+[TheWorld:PersistentLevel.Main_Sequence.Bonus_Setup.DisSeqAct_ShowHUDMessage_26 DisSeqAct_ShowHUDMessage]
+m_Message="Collectable Figurine 3/16"
+
+[TheWorld:PersistentLevel.Main_Sequence.Bonus_Setup.DisSeqAct_ShowHUDMessage_27 DisSeqAct_ShowHUDMessage]
+m_Message="Collectable Figurine 4/16"
+
+[TheWorld:PersistentLevel.Main_Sequence.Bonus_Setup.DisSeqAct_ShowHUDMessage_28 DisSeqAct_ShowHUDMessage]
+m_Message="Collectable Figurine 5/16"
+
+[TheWorld:PersistentLevel.Main_Sequence.Bonus_Setup.DisSeqAct_ShowHUDMessage_29 DisSeqAct_ShowHUDMessage]
+m_Message="Collectable Figurine 6/16"
+
+[TheWorld:PersistentLevel.Main_Sequence.Bonus_Setup.DisSeqAct_ShowHUDMessage_30 DisSeqAct_ShowHUDMessage]
+m_Message="Collectable Figurine 7/16"
+
+[TheWorld:PersistentLevel.Main_Sequence.Bonus_Setup.DisSeqAct_ShowHUDMessage_31 DisSeqAct_ShowHUDMessage]
+m_Message="Collectable Figurine 8/16"
+
+[TheWorld:PersistentLevel.Main_Sequence.Bonus_Setup.DisSeqAct_ShowHUDMessage_32 DisSeqAct_ShowHUDMessage]
+m_Message="Collectable Figurine 9/16"
+
+[TheWorld:PersistentLevel.Main_Sequence.Bonus_Setup.DisSeqAct_ShowHUDMessage_33 DisSeqAct_ShowHUDMessage]
+m_Message="Collectable Figurine 10/16"
+
+[TheWorld:PersistentLevel.Main_Sequence.Bonus_Setup.DisSeqAct_ShowHUDMessage_34 DisSeqAct_ShowHUDMessage]
+m_Message="Collectable Figurine 11/16"
+
+[TheWorld:PersistentLevel.Main_Sequence.Bonus_Setup.DisSeqAct_ShowHUDMessage_35 DisSeqAct_ShowHUDMessage]
+m_Message="Collectable Figurine 12/16"
+
+[TheWorld:PersistentLevel.Main_Sequence.Bonus_Setup.DisSeqAct_ShowHUDMessage_36 DisSeqAct_ShowHUDMessage]
+m_Message="Collectable Figurine 13/16"
+
+[TheWorld:PersistentLevel.Main_Sequence.Bonus_Setup.DisSeqAct_ShowHUDMessage_37 DisSeqAct_ShowHUDMessage]
+m_Message="Collectable Figurine 14/16"
+
+[TheWorld:PersistentLevel.Main_Sequence.Bonus_Setup.DisSeqAct_ShowHUDMessage_38 DisSeqAct_ShowHUDMessage]
+m_Message="Collectable Figurine 15/16"
+
+[TheWorld:PersistentLevel.Main_Sequence.Bonus_Setup.DisSeqAct_ShowHUDMessage_23 DisSeqAct_ShowHUDMessage]
+m_Message="Collectable Figurine 16/16"
+
+[TheWorld:PersistentLevel.Main_Sequence.Tasks_Setup.DisSeqAct_DLC05_ShowWaveNumber_4 DisSeqAct_DLC05_ShowWaveNumber]
+m_CustomText="Challenge Completed"
+
+[TheWorld:PersistentLevel.Main_Sequence.Guard_Status.DisSeqAct_DLC05_ShowWaveNumber_3 DisSeqAct_DLC05_ShowWaveNumber]
+m_CustomText="Busted! - Game Over"
+
+[TheWorld:PersistentLevel.Main_Sequence.Guard_Status.DisSeqAct_DLC05_ShowWaveNumber_2 DisSeqAct_DLC05_ShowWaveNumber]
+m_CustomText="Busted! - One Chance Remains"
+
+[TheWorld:PersistentLevel.Main_Sequence.Guard_Status.DisSeqAct_DLC05_ShowWaveNumber_1 DisSeqAct_DLC05_ShowWaveNumber]
+m_CustomText="Busted! - Two Chances Remain"

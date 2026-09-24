@@ -1,0 +1,75 @@
+﻿[DLC07_DW_GetEngineCoil_Obj DishonoredObjective]
+m_Description="Restore The Ship's Engine"
+
+[DLC07_DW_GetEngineCoil_Obj:DishonoredTask_Custom_0 DishonoredTask_Custom]
+m_Description="Return to the Riverfront"
+m_Status=""
+
+[DLC07_DW_GetEngineCoil_Obj:DishonoredTask_Custom_1 DishonoredTask_Custom]
+m_Description="Install the engine coil on the Undine"
+m_Status=""
+
+[DLC07_DW_GetEngineCoil_Obj:DishonoredTask_Custom_2 DishonoredTask_Custom]
+m_Description="Retrieve the engine coil"
+m_Status=""
+
+[DLC07_DW_GetEngineCoil_Obj:DishonoredTask_Custom_3 DishonoredTask_Custom]
+m_Description="Find the Geezer"
+m_Status=""
+
+[DLC07_DW_GetEngineCoil_Obj:DishonoredTask_Custom_4 DishonoredTask_Custom]
+m_Description="(Optional) Search the Textile Mill's main office for clues about the Engine Coil"
+m_Status=""
+
+[DLC07_DW_GetEngineCoil_Obj:DishonoredTask_Custom_5 DishonoredTask_Custom]
+m_Description="Talk to the Geezer"
+m_Status=""
+
+[DLC07_DW_GetEngineCoil_Obj:DishonoredTask_Custom_62 DishonoredTask_Custom]
+m_Description="Travel to the Hatter mechanic's apartment in the streets"
+m_Status=""
+
+[DLC07_DW_GetEngineCoil_Obj:DishonoredTask_Custom_65 DishonoredTask_Custom]
+m_Description="(Optional) Search Trimble's lab"
+m_Status=""
+
+[DLC07_DW_GetEngineCoil_Obj:DishonoredTask_Custom_66 DishonoredTask_Custom]
+m_Description="Travel to the Textile Mill"
+m_Status=""
+
+[DLC07_DW_GetEngineCoil_Obj:DishonoredTask_Custom_67 DishonoredTask_Custom]
+m_Description="Find the Hatter mechanic in the sewer"
+m_Status=""
+
+[DLC07_DW_GetEngineCoil_Obj:DishonoredTask_Custom_68 DishonoredTask_Custom]
+m_Description="Search the dead Hatter mechanic in the sewer"
+m_Status=""
+
+[DLC07_DW_GetEngineCoil_Obj:DishonoredTask_Custom_69 DishonoredTask_Custom]
+m_Description="Search the Hatter mechanic's apartment"
+m_Status=""
+
+[DLC07_DW_GetEngineCoil_Obj:DishonoredTask_Custom_70 DishonoredTask_Custom]
+m_Description="Use the combination to enter the engine room"
+m_Status=""
+
+[DLC07_DW_GetEngineCoil_Obj:DishonoredTask_Custom_71 DishonoredTask_Custom]
+m_Description="Search for the engine coil in the Textile Mill"
+m_Status=""
+
+[DLC07_DW_GetEngineCoil_Obj:DishonoredTask_Custom_90 DishonoredTask_Custom]
+m_Description="Talk to the Geezer"
+m_Status=""
+
+[DLC07_DW_GetEngineCoil_Obj:DishonoredTask_Custom_91 DishonoredTask_Custom]
+m_Description="(Optional) Eliminate Trimble"
+m_Status=""
+
+[DLC07_DW_GetEngineCoil_Obj:DishonoredTask_Custom_92 DishonoredTask_Custom]
+m_Description="Get the code to the engine room door lock"
+m_Status=""
+
+[DLC07_DW_GetEngineCoil_Obj:DishonoredTask_Custom_93 DishonoredTask_Custom]
+m_Description="(Optional) Talk to the Geezer"
+m_Status=""
+

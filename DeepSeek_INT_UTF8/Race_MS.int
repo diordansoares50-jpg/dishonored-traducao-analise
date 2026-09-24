@@ -1,0 +1,50 @@
+﻿[door_small_poor_int_wood_locked_twk DisTweaks_Door]
+m_DoorOpenCCW.m_InteractTextOverride=""
+m_DoorOpenCW.m_InteractTextOverride=""
+m_DoorCloseCCW.m_InteractTextOverride="`GBA_Use` Fechar"
+m_DoorCloseCW.m_InteractTextOverride="`GBA_Use` Fechar"
+m_DoorSlamOpenCCW.m_InteractTextOverride=""
+m_DoorSlamOpenCW.m_InteractTextOverride=""
+m_LockedMessage=""
+m_FocusLockedMessage="Trancado"
+
+[Notes.DisclaimerExpert_AbstrInv DisAbstractItem]
+m_ItemName="Corredor de Trem"
+m_PluralItemName=""
+m_Description="Alcance a linha de chegada o mais rápido possível.
+
+A alta mobilidade usando o poder de Teleporte e Agilidade será sua melhor aliada.
+
+O caminho está cheio de novos obstáculos e portas fechadas.
+
+Assassinos agora patrulham a área. Se você matá-los, eles voltarão rapidamente.
+
+Pontuação:
+* Quanto mais rápido você chegar ao fim, mais pontos ganha.
+* Sua saúde e mana restantes no final do desafio concedem um bônus de pontuação.
+
+Fim de Jogo:
+O desafio termina se você morrer ou cair no Vazio."
+
+[Notes.DisclaimerExpert_Pickup DisTweaks_AbstractItemPickupNote]
+m_PressKeyToReadMessage=""
+m_OnPickupMessage=""
+
+[Notes.DisclaimerNormal_AbstrInv DisAbstractItem]
+m_ItemName="Corredor de Trem"
+m_PluralItemName=""
+m_Description="Alcance a linha de chegada o mais rápido possível.
+
+Alta mobilidade usando o poder de Teleporte e Agilidade será seu melhor aliado.
+
+Pontuação:
+* Quanto mais rápido você chegar ao fim, mais pontos ganha.
+* Sua Vida e Mana restantes no final do desafio concedem um bônus de pontuação.
+
+Fim de Jogo:
+O desafio termina se você morrer ou cair no Vazio."
+
+[Notes.DisclaimerNormal_Pickup DisTweaks_AbstractItemPickupNote]
+m_PressKeyToReadMessage=""
+m_OnPickupMessage=""
+

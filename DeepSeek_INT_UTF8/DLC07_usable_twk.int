@@ -1,0 +1,22 @@
+﻿[Chest_02_twk DisTweaks_UsableObject]
+m_Stages[1]=(m_InteractTextOverride="`GBA_Use` Close")
+
+[Chest_02_twk:DisTweaks_InteractableInterface_4 DisTweaks_InteractableInterface]
+m_Name="Baú"
+m_InteractText="`GBA_Use` Abrir"
+
+[DLC07_Mill_Engine_Door_twk:DisTweaks_InteractableInterface_31 DisTweaks_InteractableInterface]
+m_Name="Porta para a Sala de Máquinas"
+m_InteractText="`GBA_Use` Abrir"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage="Combinação Necessária"
+
+[intercom_twk:DisTweaks_InteractableInterface_16 DisTweaks_InteractableInterface]
+m_Name="Intercom"
+m_InteractText="`GBA_Use` Chamar"
+
+[signal_bell_twk:DisTweaks_InteractableInterface_16 DisTweaks_InteractableInterface]
+m_Name="Temporizador de Experimento"
+m_InteractText="`GBA_Use` Usar"

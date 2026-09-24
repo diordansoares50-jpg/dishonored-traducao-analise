@@ -1,0 +1,43 @@
+﻿[DLC07_DW_HelpGeezer_Obj DishonoredObjective]
+m_Description="O Último Desejo do Velhote"
+
+[DLC07_DW_HelpGeezer_Obj:DishonoredTask_Custom_0 DishonoredTask_Custom]
+m_Description="Encontre um Pote de Feto de Rato Touro na sala de armazenamento"
+m_Status=""
+
+[DLC07_DW_HelpGeezer_Obj:DishonoredTask_Custom_1 DishonoredTask_Custom]
+m_Description="Encontre Sais Metálicos no chão de fabricação"
+m_Status=""
+
+[DLC07_DW_HelpGeezer_Obj:DishonoredTask_Custom_2 DishonoredTask_Custom]
+m_Description="Adquira uma Flor de Oxrush no Bairro dos Mercadores"
+m_Status=""
+
+[DLC07_DW_HelpGeezer_Obj:DishonoredTask_Custom_3 DishonoredTask_Custom]
+m_Description="Use a Calma e um Frasco Vazio para misturar os ingredientes da antitoxina"
+m_Status=""
+
+[DLC07_DW_HelpGeezer_Obj:DishonoredTask_Custom_4 DishonoredTask_Custom]
+m_Description="Beber antídoto"
+m_Status=""
+
+[DLC07_DW_HelpGeezer_Obj:DishonoredTask_Custom_5 DishonoredTask_Custom]
+m_Description="Obtenha a fórmula do antídoto"
+m_Status=""
+
+[DLC07_DW_HelpGeezer_Obj:DishonoredTask_Custom_62 DishonoredTask_Custom]
+m_Description="Desligar a Máquina de Suporte Vital do Velhote"
+m_Status=""
+
+[DLC07_DW_HelpGeezer_Obj:DishonoredTask_Custom_66 DishonoredTask_Custom]
+m_Description="Procure no Laboratório de Trimble por pistas da fórmula do antídoto"
+m_Status=""
+
+[DLC07_DW_HelpGeezer_Obj:DishonoredTask_Custom_67 DishonoredTask_Custom]
+m_Description="Descubra o que a chave do laboratório de Trimble abre (Excluir)"
+m_Status=""
+
+[DLC07_DW_HelpGeezer_Obj:DishonoredTask_Custom_68 DishonoredTask_Custom]
+m_Description="Voltar para o Velho"
+m_Status=""
+

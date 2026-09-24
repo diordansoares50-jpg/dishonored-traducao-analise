@@ -1,0 +1,7 @@
+﻿[DLC06_Proj_ChokeDust:pArmedInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Pólvora de Sufocamento Preparada"
+m_InteractText="Pressione `k para carregar"
+
+[DLC06_Proj_ChokeDust:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Poeira Sufocante"
+

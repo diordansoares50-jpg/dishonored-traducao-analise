@@ -1,0 +1,21 @@
+﻿[Characters.Twk_Pawn_Empress:DisTweaks_InteractableInterface_2 DisTweaks_InteractableInterface]
+m_Name="Empress Jessamine Kaldwin"
+
+[Notes.AbstrInv_Disclaimer_Expert DisAbstractItem]
+m_ItemName="Kill Cascade"
+m_PluralItemName=""
+m_Description="Perform Drop Assassinations on your enemies as you try to reach the final platform as fast as possible.\n\nEnemies are marked by a beam of light.\nIn order to score higher drops or go faster, you can go off the marked path.\nIf you fall into the Void, you restart on the last platform you reached.\n\nYou do take damage from falling, so succeeding  your Drop Assassinations is your best chance for survival.\nThere are additional obstacles in this area.\n\nScoring:\n*  The higher the fall before a drop assassination, the more points you score.\n* The faster you reach the end, the more points you score.\n\nSpecial: \nIf you follow the path, you can use the color of the beams of light as a clue:\n* GREEN: Sprint and fall to reach the target (No Jump, No Blink).\n* YELLOW: Sprint and use Agility jump to reach the target (No Blink).\n* RED: Sprint and use Agility jump and Blink to reach the target.\n\nGame Over: \nThe game is over if you die.\n"
+
+[Notes.AbstrInv_Disclaimer_Normal DisAbstractItem]
+m_ItemName="Kill Cascade"
+m_PluralItemName=""
+m_Description="Perform Drop Assassinations on your enemies as you try to reach the final platform as fast as possible.\n\nEnemies are marked by a beam of light.\nIn order to score higher drops or go faster, you can go off the marked path.\nIf you fall into the Void, you restart on the last platform you reached.\n\nYou don't take damage from falling. \n\nScoring:\n* The higher the fall before a drop assassination, the more points you score.\n* The faster you reach the end, the more points you score.\n\nSpecial: \nIf you follow the path, you can use the color of the beams of light as a clue:\n* GREEN: Sprint and fall to reach the target (No Jump, No Blink).\n* YELLOW: Sprint and and use Agilty jump to reach the target (No Blink).\n* RED: Sprint and use Agility jump and Blink to reach the target.\n\nGame Over: \nThere is no game over.\n"
+
+[Notes.Pickup_Disclaimer_Expert DisTweaks_AbstractItemPickupNote]
+m_PressKeyToReadMessage=""
+m_OnPickupMessage=""
+
+[Notes.Pickup_Disclaimer_Normal DisTweaks_AbstractItemPickupNote]
+m_PressKeyToReadMessage=""
+m_OnPickupMessage=""
+

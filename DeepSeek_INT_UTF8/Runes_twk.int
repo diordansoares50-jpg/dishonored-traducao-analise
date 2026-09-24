@@ -1,0 +1,17 @@
+﻿[AbstractItems.Rune_AbsItm DisAbstractItem]
+m_ItemName="Runa"
+m_PluralItemName="Runas"
+m_Description="Esculpidos a partir dos ossos de grandes baleias, estes artefatos podem ser usados para adquirir ou aprimorar poderes sobrenaturais por aqueles que carregam a Marca do Forasteiro."
+
+[Pickups.Rune_twk DisTweaks_AbstractItemPickup]
+m_SingleItemPickupMessage=""
+
+[Pickups.Rune_twk:DisTweaks_Interactable_PickupBase_4 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText="(não é possível coletar Runas durante a Posse)"
+m_Name="`i"
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+

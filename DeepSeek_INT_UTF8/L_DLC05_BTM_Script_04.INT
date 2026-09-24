@@ -1,0 +1,77 @@
+﻿[TheWorld:PersistentLevel.Main_Sequence.Bend_Time_Massacre.DisSeqAct_DLC05_ShowPhaseResults_0 DisSeqAct_DLC05_ShowPhaseResults]
+m_PhaseName="Rodada 4"
+
+[TheWorld:PersistentLevel.Main_Sequence.Bend_Time_Massacre.DisSeqAct_DLC05_DialogScriptedChoice_2 DisSeqAct_DLC05_DialogScriptedChoice]
+m_Title="Escolher Câmera"
+m_Choices[0]=(m_ChoiceText="Planning Room")
+m_Choices[1]=(m_ChoiceText="Library")
+
+[TheWorld:PersistentLevel.Main_Sequence.Bend_Time_Massacre.DisSeqAct_ShowHUDMessage_0 DisSeqAct_ShowHUDMessage]
+m_Message="Aguardando efeitos..."
+
+[TheWorld:PersistentLevel.Main_Sequence.Bend_Time_Massacre.DisSeqAct_ShowLocationDiscovery_12 DisSeqAct_ShowLocationDiscovery]
+m_LocationName="Rodada Bônus Falhou"
+
+[TheWorld:PersistentLevel.Main_Sequence.Bend_Time_Massacre.DisSeqAct_ShowLocationDiscovery_2 DisSeqAct_ShowLocationDiscovery]
+m_LocationName="Rodada Bônus Concluída"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_SetTutorialMessage_1 DisSeqAct_SetTutorialMessage]
+m_TutorialMessage=""
+m_TutorialMessage_Gamepad=""
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_SetTutorialMessage_4 DisSeqAct_SetTutorialMessage]
+m_TutorialMessage="Desafio Bônus. Você terá 6 segundos para matar 10 inimigos usando explosões de tanques de óleo de baleia."
+m_TutorialMessage_Gamepad=""
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_SetTutorialMessage_10 DisSeqAct_SetTutorialMessage]
+m_TutorialMessage=""
+m_TutorialMessage_Gamepad=""
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_SetTutorialMessage_11 DisSeqAct_SetTutorialMessage]
+m_TutorialMessage=""
+m_TutorialMessage_Gamepad=""
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_SetTutorialMessage_20 DisSeqAct_SetTutorialMessage]
+m_TutorialMessage="Você terá 14 segundos para matar 10 inimigos. Quebre o vidro para massacrar."
+m_TutorialMessage_Gamepad=""
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_SetTutorialMessage_21 DisSeqAct_SetTutorialMessage]
+m_TutorialMessage="Desafio Bônus. Você terá 40 segundos para matar todos os três irmãos Pendleton. Não permita que nenhum guarda os veja morrer ou descubra seus corpos."
+m_TutorialMessage_Gamepad=""
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_DLC05_ShowWaveNumber_0 DisSeqAct_DLC05_ShowWaveNumber]
+m_CustomText=""
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_DLC05_ShowWaveNumber_10 DisSeqAct_DLC05_ShowWaveNumber]
+m_CustomText="Rodada 4 - Bônus Cirúrgico"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_DLC05_ShowWaveNumber_3 DisSeqAct_DLC05_ShowWaveNumber]
+m_CustomText="Rodada 4 - Bônus Sangue por Petróleo"
+
+[TheWorld:PersistentLevel.Main_Sequence.Bend_Time_Massacre.DisSeqAct_DLC05_ShowWaveNumber_3 DisSeqAct_DLC05_ShowWaveNumber]
+m_CustomText="Rodada Bônus Falhou: Guarda Morto"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_ShowLocationDiscovery_15 DisSeqAct_ShowLocationDiscovery]
+m_LocationName="Rodada 4"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_ShowLocationDiscovery_23 DisSeqAct_ShowLocationDiscovery]
+m_LocationName="Rodada 4 - Bônus Cirúrgico"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_ShowLocationDiscovery_24 DisSeqAct_ShowLocationDiscovery]
+m_LocationName="Rodada 4 - Bônus Sangue por Petróleo"
+
+[TheWorld:PersistentLevel.Main_Sequence.Environmental.DisSeqAct_DLC05_MarkerControl_0 DisSeqAct_DLC05_MarkerControl]
+m_TargetName="Tanque de Óleo de Baleia"
+
+[TheWorld:PersistentLevel.Main_Sequence.The_Victims.DisSeqAct_ShowLocationDiscovery_21 DisSeqAct_ShowLocationDiscovery]
+m_LocationName="Rodada Bônus Falhou: Guarda Morto"
+
+[TheWorld:PersistentLevel.Main_Sequence.The_Victims.DisSeqAct_UpdateTaskTarget_2 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Morgan Pendleton"
+
+[TheWorld:PersistentLevel.Main_Sequence.The_Victims.DisSeqAct_UpdateTaskTarget_3 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Custis Pendleton"
+
+[TheWorld:PersistentLevel.Main_Sequence.The_Victims.DisSeqAct_UpdateTaskTarget_4 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Trevor Pendleton"
+

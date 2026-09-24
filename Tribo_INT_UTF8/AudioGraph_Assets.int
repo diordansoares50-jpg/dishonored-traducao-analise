@@ -1,0 +1,20 @@
+﻿[AudioGraphPickup_twk DisTweaks_AbstractItemPickupAudioLog]
+m_SingleItemPickupMessage=""
+
+[AudioGraphPickup_twk:DisTweaks_Interactable_PickupBase_118 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name=""
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[AudioGraphPickup_twk:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name=""
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+

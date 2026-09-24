@@ -1,0 +1,8 @@
+﻿[DLC07_EquipChest_interact_twk:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Baú de Equipamento"
+m_InteractText="`GBA_Use` Equipar Equipamento"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+

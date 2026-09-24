@@ -1,0 +1,35 @@
+﻿[Notes.DisclaimerExpert_AbstrInv1 DisAbstractItem]
+m_ItemName="Corrida do Assassino"
+m_PluralItemName=""
+m_Description="Armado apenas com uma besta, avance pelo nível e atire em seus alvos o mais rápido possível, evitando acertar civis.
+
+Este desafio testará sua mobilidade e sua precisão.  
+A área está repleta de inimigos e perigos.  
+Cada sala fica trancada até que você atire em todos os alvos nela.  
+Sua besta tem uma quantidade infinita de virotes.
+
+Pontuação:  
+* Quanto mais rápido você chegar ao final, mais pontos ganha.  
+* Seja preciso - mire na cabeça! - e atire nos inimigos com estilo para uma pontuação melhor.  
+* Atirar em civis reduz sua pontuação.
+
+Fim de Jogo:  
+O desafio termina se você morrer."
+
+[Notes.DisclaimerExpert_Pickup1 DisTweaks_AbstractItemPickupNote]
+m_PressKeyToReadMessage=""
+m_OnPickupMessage=""
+
+[Pwn_AristoParty_1:DisTweaks_InteractableInterface_5 DisTweaks_InteractableInterface]
+m_Name="Civil"
+
+[Twk_Inv_CrossbowCorvoTraining:DisTweaks_InventoryItem_PlayerSpecific_1 DisTweaks_InventoryItem_PlayerSpecific]
+m_Name="Besta do Corvo"
+m_Description="Uma arma exótica e silenciosa, forjada com os melhores materiais. Usada para disparar virotes, dardos soníferos e mísseis incendiários."
+
+[Twk_Inv_PistolCorvoTraining:DisTweaks_InventoryItem_PlayerSpecific_0 DisTweaks_InventoryItem_PlayerSpecific]
+m_Name="Pistola do Corvo"
+m_Description="Feita à mestre com personalização em mente, esta é a melhor arma de fogo das Ilhas. Permite melhorias de pistola e adiciona dano de dispersão de curto alcance."
+
+[Twk_Pawn_1:DisTweaks_InteractableInterface_14 DisTweaks_InteractableInterface]
+m_Name="Civil"

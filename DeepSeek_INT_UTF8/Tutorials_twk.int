@@ -1,0 +1,238 @@
+﻿[Tweaks.AdrenalineTutorial_PickUp DisTweaks_AbstractItemPickupNote]
+m_PressKeyToReadMessage="Tutorial obsoleto, por favor não use!"
+m_OnPickupMessage=""
+m_SingleItemPickupMessage=""
+
+[Tweaks.AdrenalineTutorial_PickUp:DisTweaks_Interactable_PickupBase_102 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name="Área de Transferência"
+m_InteractText="`GBA_Use` Ler"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Tweaks.AssassinationChokeTutorial_PickUp DisTweaks_AbstractItemPickupNote]
+m_PressKeyToReadMessage="`GBA_Journal` Ler o tutorial de derrubada"
+m_OnPickupMessage=""
+m_SingleItemPickupMessage=""
+
+[Tweaks.AssassinationChokeTutorial_PickUp:DisTweaks_Interactable_PickupBase_103 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name="Área de Transferência"
+m_InteractText="`GBA_Use` Ler"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Tweaks.AwarenessTutorial_PickUp DisTweaks_AbstractItemPickupNote]
+m_PressKeyToReadMessage="Tutorial descontinuado, por favor não o use!"
+m_OnPickupMessage=""
+m_SingleItemPickupMessage=""
+
+[Tweaks.AwarenessTutorial_PickUp:DisTweaks_Interactable_PickupBase_104 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name="Área de Transferência"
+m_InteractText="`GBA_Use` Ler"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Tweaks.BlinkTutorial_PickUp DisTweaks_AbstractItemPickupNote]
+m_PressKeyToReadMessage="`GBA_Journal` Ler o tutorial de Piscar"
+m_OnPickupMessage=""
+m_SingleItemPickupMessage=""
+
+[Tweaks.BlinkTutorial_PickUp:DisTweaks_Interactable_PickupBase_105 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name="Área de Transferência"
+m_InteractText="`GBA_Use` Ler"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Tweaks.CombatTutorial_PickUp DisTweaks_AbstractItemPickupNote]
+m_PressKeyToReadMessage=""
+m_OnPickupMessage=""
+m_SingleItemPickupMessage=""
+
+[Tweaks.CombatTutorial_PickUp:DisTweaks_Interactable_PickupBase_106 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name="Área de Transferência"
+m_InteractText="`GBA_Use` Ler"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Tweaks.CraftsmanTutorial_PickUp DisTweaks_AbstractItemPickupNote]
+m_PressKeyToReadMessage="`GBA_Journal` Ler o tutorial do artesão"
+m_OnPickupMessage=""
+m_SingleItemPickupMessage=""
+
+[Tweaks.CraftsmanTutorial_PickUp:DisTweaks_Interactable_PickupBase_107 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name="Área de Transferência"
+m_InteractText="`GBA_Use` Ler"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Tweaks.DropDownTutorial_PickUp DisTweaks_AbstractItemPickupNote]
+m_PressKeyToReadMessage="`GBA_Journal` Ler o tutorial de assassinato em queda"
+m_OnPickupMessage=""
+m_SingleItemPickupMessage=""
+
+[Tweaks.DropDownTutorial_PickUp:DisTweaks_Interactable_PickupBase_108 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name="Área de Transferência"
+m_InteractText="`GBA_Use` Ler"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Tweaks.ElixirTutorial_PickUp DisTweaks_AbstractItemPickupNote]
+m_PressKeyToReadMessage="Tutorial obsoleto, por favor, não o use!"
+m_OnPickupMessage=""
+m_SingleItemPickupMessage=""
+
+[Tweaks.ElixirTutorial_PickUp:DisTweaks_Interactable_PickupBase_109 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name="Área de Transferência"
+m_InteractText="`GBA_Use` Ler"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Tweaks.FloorSoundTutorial_PickUp DisTweaks_AbstractItemPickupNote]
+m_PressKeyToReadMessage="Tutorial descontinuado, por favor não o use!"
+m_OnPickupMessage=""
+m_SingleItemPickupMessage=""
+
+[Tweaks.FloorSoundTutorial_PickUp:DisTweaks_Interactable_PickupBase_110 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name="Área de Transferência"
+m_InteractText="`GBA_Use` Ler"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Tweaks.HeartTutorial_PickUp DisTweaks_AbstractItemPickupNote]
+m_PressKeyToReadMessage="`GBA_Journal` Ler o tutorial do coração"
+m_OnPickupMessage=""
+m_SingleItemPickupMessage=""
+
+[Tweaks.HeartTutorial_PickUp:DisTweaks_Interactable_PickupBase_27 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name="Área de Transferência"
+m_InteractText="`GBA_Use` Ler"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Tweaks.JournalTutorial_PickUp DisTweaks_AbstractItemPickupNote]
+m_PressKeyToReadMessage="`GBA_Journal` Ler o tutorial do diário"
+m_OnPickupMessage=""
+m_SingleItemPickupMessage=""
+
+[Tweaks.JournalTutorial_PickUp:DisTweaks_Interactable_PickupBase_111 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name="Área de Transferência"
+m_InteractText="`GBA_Use` Ler"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Tweaks.LeanTutorial_PickUp DisTweaks_AbstractItemPickupNote]
+m_PressKeyToReadMessage="`GBA_Journal` Ler o tutorial básico"
+m_OnPickupMessage=""
+m_SingleItemPickupMessage=""
+
+[Tweaks.LeanTutorial_PickUp:DisTweaks_Interactable_PickupBase_112 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name="Área de Transferência"
+m_InteractText="`GBA_Use` Ler"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Tweaks.LightShadowTutorial_PickUp DisTweaks_AbstractItemPickupNote]
+m_PressKeyToReadMessage="Pressione `GBA_Sneak` para se esgueirar<BR/>Pressione `GBA_Journal` para ver o Tutorial de Furtividade"
+m_OnPickupMessage=""
+m_SingleItemPickupMessage=""
+
+[Tweaks.LightShadowTutorial_PickUp:DisTweaks_Interactable_PickupBase_113 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name="Área de Transferência"
+m_InteractText="`GBA_Use` Ler"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Tweaks.ObjectivesTutorial_PickUp DisTweaks_AbstractItemPickupNote]
+m_PressKeyToReadMessage="`GBA_Journal` Ler o tutorial do coração"
+m_OnPickupMessage=""
+m_SingleItemPickupMessage=""
+
+[Tweaks.ObjectivesTutorial_PickUp:DisTweaks_Interactable_PickupBase_114 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name="Área de Transferência"
+m_InteractText="`GBA_Use` Ler"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Tweaks.RuneTutorial_PickUp DisTweaks_AbstractItemPickupNote]
+m_PressKeyToReadMessage=""
+m_OnPickupMessage=""
+m_SingleItemPickupMessage=""
+
+[Tweaks.RuneTutorial_PickUp:DisTweaks_Interactable_PickupBase_115 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name="Área de Transferência"
+m_InteractText="`GBA_Use` Ler"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Tweaks.WhaleBoneCharmTutorial_PickUp DisTweaks_AbstractItemPickupNote]
+m_PressKeyToReadMessage="Tutorial descontinuado, por favor não o use!"
+m_OnPickupMessage=""
+m_SingleItemPickupMessage=""
+
+[Tweaks.WhaleBoneCharmTutorial_PickUp:DisTweaks_Interactable_PickupBase_116 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name="Área de Transferência"
+m_InteractText="`GBA_Use` Ler"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Tweaks.WheelTutorial_PickUp DisTweaks_AbstractItemPickupNote]
+m_PressKeyToReadMessage="`GBA_Journal` Ler o tutorial da Roda"
+m_OnPickupMessage=""
+m_SingleItemPickupMessage=""
+
+[Tweaks.WheelTutorial_PickUp:DisTweaks_Interactable_PickupBase_117 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name="Área de Transferência"
+m_InteractText="`GBA_Use` Ler"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+

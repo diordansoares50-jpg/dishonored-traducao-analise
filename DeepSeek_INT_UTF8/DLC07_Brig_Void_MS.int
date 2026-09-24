@@ -1,0 +1,8 @@
+﻿[EmilyPaintingUse_twk:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Moldura de Pintura Ritual"
+m_InteractText="`GBA_Use` Substituir Pintura"
+
+[RitualNoteUse_twk:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Notas do Ritual"
+m_InteractText="`GBA_Use` Ler as Notas do Ritual"
+

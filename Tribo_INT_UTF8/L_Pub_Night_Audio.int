@@ -1,0 +1,95 @@
+﻿[TheWorld:PersistentLevel.DisDoor_0 DisDoor]
+m_DoorName=""
+m_MatchingKey=""
+m_MatchingKeys[0]="Chave do Esgoto do Velho Distrito do Porto"
+
+[TheWorld:PersistentLevel.DisDoor_1 DisDoor]
+m_DoorName=""
+m_MatchingKey=""
+m_MatchingKeys[0]="Chave do Bar"
+
+[TheWorld:PersistentLevel.DisDoor_11 DisDoor]
+m_DoorName=""
+m_MatchingKey=""
+m_MatchingKeys[0]="Chave do Bar"
+
+[TheWorld:PersistentLevel.DisDoor_14 DisDoor]
+m_DoorName=""
+m_MatchingKey=""
+m_MatchingKeys[0]="Chave do Quarto de Havelock"
+
+[TheWorld:PersistentLevel.DisDoor_15 DisDoor]
+m_DoorName=""
+m_MatchingKey=""
+
+[TheWorld:PersistentLevel.DisDoor_17 DisDoor]
+m_DoorName=""
+m_MatchingKey=""
+m_MatchingKeys[0]="Chave do Bar"
+
+[TheWorld:PersistentLevel.DisDoor_19 DisDoor]
+m_DoorName=""
+m_MatchingKey=""
+m_MatchingKeys[0]="Chave do Salão Principal do Bar"
+m_MatchingKeys[1]="Chave do Quarto de Pendleton"
+
+[TheWorld:PersistentLevel.DisDoor_2 DisDoor]
+m_DoorName=""
+m_MatchingKey=""
+m_MatchingKeys[0]="Chave do Bar"
+
+[TheWorld:PersistentLevel.DisDoor_23 DisDoor]
+m_DoorName=""
+m_MatchingKey=""
+m_MatchingKeys[0]="Chave do Bar"
+
+[TheWorld:PersistentLevel.DisDoor_24 DisDoor]
+m_DoorName=""
+m_MatchingKey=""
+m_MatchingKeys[0]="Chave dos Servos"
+
+[TheWorld:PersistentLevel.DisDoor_26 DisDoor]
+m_DoorName=""
+m_MatchingKey=""
+m_MatchingKeys[0]="Chave do Bar"
+
+[TheWorld:PersistentLevel.DisDoor_29 DisDoor]
+m_DoorName=""
+m_MatchingKey=""
+m_MatchingKeys[0]="Chave do Bar"
+
+[TheWorld:PersistentLevel.DisDoor_31 DisDoor]
+m_DoorName=""
+m_MatchingKey=""
+m_MatchingKeys[0]="Chave da Torre de Emily"
+
+[TheWorld:PersistentLevel.DisDoor_4 DisDoor]
+m_DoorName=""
+m_MatchingKey=""
+m_MatchingKeys[0]="Chave do Bar"
+
+[TheWorld:PersistentLevel.DisDoor_5 DisDoor]
+m_DoorName=""
+m_MatchingKey=""
+m_MatchingKeys[0]="Chave da Cova do Cão"
+
+[TheWorld:PersistentLevel.DisDoor_6 DisDoor]
+m_DoorName=""
+m_MatchingKey=""
+m_MatchingKeys[0]="Chave da Oficina de Piero"
+
+[TheWorld:PersistentLevel.DisDoor_7 DisDoor]
+m_DoorName=""
+m_MatchingKey=""
+m_MatchingKeys[0]="Chave dos Servos"
+
+[TheWorld:PersistentLevel.DisDoor_8 DisDoor]
+m_DoorName=""
+m_MatchingKey=""
+m_MatchingKeys[0]="Chave da Torre de Emily"
+
+[TheWorld:PersistentLevel.DisDoor_9 DisDoor]
+m_DoorName=""
+m_MatchingKey=""
+m_MatchingKeys[0]="Chave do Apartamento Abandonado"
+

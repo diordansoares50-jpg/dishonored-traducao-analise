@@ -1,0 +1,37 @@
+﻿[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_ShowLocationDiscovery_14 DisSeqAct_ShowLocationDiscovery]
+m_LocationName="Bonus Round Failed"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_ShowLocationDiscovery_15 DisSeqAct_ShowLocationDiscovery]
+m_LocationName="Bonus Round Completed"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_ShowLocationDiscovery_16 DisSeqAct_ShowLocationDiscovery]
+m_LocationName="Bonus Round Completed"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_DLC05_ShowWaveNumber_5 DisSeqAct_DLC05_ShowWaveNumber]
+m_CustomText="Bonus Round Failed"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_DLC05_ShowWaveNumber_6 DisSeqAct_DLC05_ShowWaveNumber]
+m_CustomText="Bonus Round Failed"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_DLC05_ShowWaveNumber_13 DisSeqAct_DLC05_ShowWaveNumber]
+m_CustomText="Bonus Round Completed"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_DLC05_ShowPhaseResults_6 DisSeqAct_DLC05_ShowPhaseResults]
+m_PhaseName="Round 1"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_DLC05_ShowPhaseResults_7 DisSeqAct_DLC05_ShowPhaseResults]
+m_PhaseName="Round 2"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_DLC05_ShowPhaseResults_8 DisSeqAct_DLC05_ShowPhaseResults]
+m_PhaseName="Round 3"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_DLC05_ShowPhaseResults_4 DisSeqAct_DLC05_ShowPhaseResults]
+m_PhaseName="Round 4"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_DLC05_ShowPhaseResults_5 DisSeqAct_DLC05_ShowPhaseResults]
+m_PhaseName="Round 5"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_DLC05_ShowPhaseResults_2 DisSeqAct_DLC05_ShowPhaseResults]
+m_PhaseName="Round 6"
+
+

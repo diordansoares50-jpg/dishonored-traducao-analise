@@ -1,0 +1,172 @@
+﻿[DLC06_Assault_Ovrs_Objective DishonoredObjective]
+m_Description="Repelir o Ataque do Supervisor"
+
+[DLC06_Assault_Ovrs_Objective:DishonoredTask_Custom_44 DishonoredTask_Custom]
+m_Description="Eliminar Supervisor Hume"
+m_Status=""
+
+[DLC06_Assault_Ovrs_Objective:DishonoredTask_Custom_45 DishonoredTask_Custom]
+m_Description="Procure informações no corpo do Supervisor Hume"
+m_Status=""
+
+[DLC06_Assault_Ovrs_Objective:DishonoredTask_Custom_46 DishonoredTask_Custom]
+m_Description="Elimine o último Supervisor armado com uma caixa de música"
+m_Status=""
+
+[DLC06_Assault_Ovrs_Objective:DishonoredTask_Custom_62 DishonoredTask_Custom]
+m_Description="Obtenha os Planos de Assalto da sede do Supervisor"
+m_Status=""
+
+[DLC06_Assault_Ovrs_Objective:DishonoredTask_Custom_63 DishonoredTask_Custom]
+m_Description="Liberte 5 dos seus assassinos capturados"
+m_Status=""
+
+[DLC06_Assault_Ovrs_Objective:DishonoredTask_Custom_64 DishonoredTask_Custom]
+m_Description="Liberte 4 dos seus assassinos capturados"
+m_Status=""
+
+[DLC06_Assault_Ovrs_Objective:DishonoredTask_Custom_65 DishonoredTask_Custom]
+m_Description="Liberte mais 3 dos seus assassinos capturados"
+m_Status=""
+
+[DLC06_Assault_Ovrs_Objective:DishonoredTask_Custom_66 DishonoredTask_Custom]
+m_Description="Liberte mais 2 dos seus assassinos capturados"
+m_Status=""
+
+[DLC06_Assault_Ovrs_Objective:DishonoredTask_Custom_67 DishonoredTask_Custom]
+m_Description="Liberte mais 1 dos seus assassinos capturados"
+m_Status=""
+
+[DLC06_Assault_Ovrs_Objective:DishonoredTask_Custom_69 DishonoredTask_Custom]
+m_Description="Elimine os 2 últimos Maestros Musicais"
+m_Status=""
+
+[DLC06_Assault_Ovrs_Objective:DishonoredTask_Custom_70 DishonoredTask_Custom]
+m_Description="Elimine os 3 Maestros Musicais restantes"
+m_Status=""
+
+[DLC06_Assault_Ovrs_Objective:DishonoredTask_Custom_71 DishonoredTask_Custom]
+m_Description="Elimine os 4 Maestros Restantes"
+m_Status=""
+
+[DLC06_Assault_Ovrs_Objective:DishonoredTask_Custom_72 DishonoredTask_Custom]
+m_Description="Elimine os 5 Maestros Musicais restantes"
+m_Status=""
+
+[DLC06_Assault_Ovrs_Objective:DishonoredTask_Custom_73 DishonoredTask_Custom]
+m_Description="Elimine os 6 Maestros Musicais restantes"
+m_Status=""
+
+[DLC06_Assault_Ovrs_Objective:DishonoredTask_Custom_74 DishonoredTask_Custom]
+m_Description="Elimine todos os Maestros Musicais restantes"
+m_Status=""
+
+[DLC06_Assault_Ovrs_Objective:DishonoredTask_Custom_77 DishonoredTask_Custom]
+m_Description="Elimine os 7 Maestros Musicais restantes"
+m_Status=""
+
+[DLC06_Assault_Ovrs_Objective:DishonoredTask_Custom_78 DishonoredTask_Custom]
+m_Description="Elimine os 8 Maestros Musicais restantes"
+m_Status=""
+
+[DLC06_Assault_Ovrs_Objective:DishonoredTask_Custom_79 DishonoredTask_Custom]
+m_Description="Um assassino capturado foi incapacitado!"
+m_Status=""
+
+[DLC06_Assault_Ovrs_Objective:DishonoredTask_Custom_80 DishonoredTask_Custom]
+m_Description="Um assassino capturado foi libertado!"
+m_Status=""
+
+[DLC06_Assault_Ovrs_Objective:DishonoredTask_Custom_81 DishonoredTask_Custom]
+m_Description="Um supervisor musical foi eliminado!"
+m_Status=""
+
+[DLC06_Assault_Ovrs_Objective:DishonoredTask_Custom_84 DishonoredTask_Custom]
+m_Description="Encontre-se com seus assassinos"
+m_Status=""
+
+[DLC06_Assault_Plans_Objective DishonoredObjective]
+m_Description="Reagrupar"
+
+[DLC06_Assault_Plans_Objective:DishonoredTask_Custom_44 DishonoredTask_Custom]
+m_Description="Reúna-se com seus assassinos"
+m_Status=""
+
+[DLC06_Assault_Plans_Objective:DishonoredTask_Custom_68 DishonoredTask_Custom]
+m_Description="Decida o destino de Billie Lurk"
+m_Status=""
+
+[DLC06_Assault_Plans_Objective:DishonoredTask_Custom_75 DishonoredTask_Custom]
+m_Description="Revisar os Planos de Assalto"
+m_Status=""
+
+[DLC06_Assault_Plans_Objective:DishonoredTask_Custom_76 DishonoredTask_Custom]
+m_Description="Derrote Billie Lurk"
+m_Status=""
+
+[DLC06_Assault_Plans_Objective:DishonoredTask_Custom_82 DishonoredTask_Custom]
+m_Description="Ordenar o contra-ataque"
+m_Status=""
+
+[DLC06_Assault_Plans_Objective:DishonoredTask_Custom_83 DishonoredTask_Custom]
+m_Description="Acabar com a vida de Billie Lurk"
+m_Status=""
+
+[DLC06_Assault_Scout_Objective DishonoredObjective]
+m_Description="O Mensageiro"
+
+[DLC06_Assault_Scout_Objective:DishonoredTask_Custom_44 DishonoredTask_Custom]
+m_Description="Entre em contato com o batedor"
+m_Status=""
+
+[DLC06_Assault_Trapped_Objective DishonoredObjective]
+m_Description="Assassinos Capturados"
+
+[DLC06_Assault_Trapped_Objective:DishonoredTask_Custom_44 DishonoredTask_Custom]
+m_Description="Encontre-se com Max"
+m_Status=""
+
+[DLC06_Assault_Trapped_Objective:DishonoredTask_Custom_45 DishonoredTask_Custom]
+m_Description="Tirar o Regente Musical"
+m_Status=""
+
+[DLC06_Assault_Trapped_Objective:DishonoredTask_Custom_46 DishonoredTask_Custom]
+m_Description="Liberte o assassino"
+m_Status=""
+
+[DLC06_Assault_Trapped_Objective:DishonoredTask_Custom_53 DishonoredTask_Custom]
+m_Description="Encontre-se com Max"
+m_Status=""
+
+[DLC06_Assault_Trapped_Objective:DishonoredTask_Custom_54 DishonoredTask_Custom]
+m_Description="Encontre-se com Max"
+m_Status=""
+
+[DLC06_Assault_Trapped_Objective:DishonoredTask_Custom_55 DishonoredTask_Custom]
+m_Description="Encontre-se com Max"
+m_Status=""
+
+[DLC06_Assault_Trapped_Objective:DishonoredTask_Custom_56 DishonoredTask_Custom]
+m_Description="Remover o Maestro Musical"
+m_Status=""
+
+[DLC06_Assault_Trapped_Objective:DishonoredTask_Custom_57 DishonoredTask_Custom]
+m_Description="Tirar o Maestro Musical"
+m_Status=""
+
+[DLC06_Assault_Trapped_Objective:DishonoredTask_Custom_58 DishonoredTask_Custom]
+m_Description="Tirar o Maestro Musical"
+m_Status=""
+
+[DLC06_Assault_Trapped_Objective:DishonoredTask_Custom_59 DishonoredTask_Custom]
+m_Description="Liberte o assassino"
+m_Status=""
+
+[DLC06_Assault_Trapped_Objective:DishonoredTask_Custom_60 DishonoredTask_Custom]
+m_Description="Liberte o assassino"
+m_Status=""
+
+[DLC06_Assault_Trapped_Objective:DishonoredTask_Custom_61 DishonoredTask_Custom]
+m_Description="Liberte o assassino"
+m_Status=""
+

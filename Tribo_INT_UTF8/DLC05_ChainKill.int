@@ -1,0 +1,96 @@
+﻿[ChainKill DishonoredObjective]
+m_Description="ChainKill"
+
+[ChainKill:DishonoredTask_Custom_17 DishonoredTask_Custom]
+m_Description="Set up a chain kill to kill as many people as possible!"
+m_Status=""
+
+[ChainKillNormal DishonoredObjective]
+m_Description="ChainKill"
+
+[ChainKillNormal:DishonoredTask_Custom_17 DishonoredTask_Custom]
+m_Description="Set up a chain kill to kill as many people as possible!"
+m_Status=""
+
+[CK_Objective_Phase1 DishonoredObjective]
+m_Description="Chain Kill"
+
+[CK_Objective_Phase1:DishonoredTask_Custom_0 DishonoredTask_Custom]
+m_Description="Kill All Enemies"
+m_Status=""
+
+[CK_Objective_Phase2 DishonoredObjective]
+m_Description="Chain Kill - Round 2"
+
+[CK_Objective_Phase2:DishonoredTask_Custom_0 DishonoredTask_Custom]
+m_Description="Kill 6 enemies."
+m_Status=""
+
+[CK_Objective_Phase2:DishonoredTask_Custom_1 DishonoredTask_Custom]
+m_Description="Bonus Challenge: PLACEHOLDER DONT CHOOSE WIP."
+m_Status=""
+
+[CK_Objective_Phase2:DishonoredTask_Custom_2 DishonoredTask_Custom]
+m_Description="Speed Challenge: PLACEHOLDER DONT CHOOSE WIP."
+m_Status=""
+
+[CK_Objective_Phase3 DishonoredObjective]
+m_Description="Chain Kill - Round 3"
+
+[CK_Objective_Phase3:DishonoredTask_Custom_0 DishonoredTask_Custom]
+m_Description="Kill 10 enemies."
+m_Status=""
+
+[CK_Objective_Phase3:DishonoredTask_Custom_1 DishonoredTask_Custom]
+m_Description="Bonus Challenge: PLACEHOLDER DONT CHOOSE WIP."
+m_Status=""
+
+[CK_Objective_Phase3:DishonoredTask_Custom_2 DishonoredTask_Custom]
+m_Description="Speed Challenge: PLACEHOLDER DONT CHOOSE WIP."
+m_Status=""
+
+[CK_Objective_Phase4 DishonoredObjective]
+m_Description="Chain Kill - Round 4"
+
+[CK_Objective_Phase4:DishonoredTask_Custom_0 DishonoredTask_Custom]
+m_Description="Kill 15 enemies."
+m_Status=""
+
+[CK_Objective_Phase4:DishonoredTask_Custom_1 DishonoredTask_Custom]
+m_Description="Bonus Challenge: PLACEHOLDER DONT CHOOSE WIP."
+m_Status=""
+
+[CK_Objective_Phase4:DishonoredTask_Custom_2 DishonoredTask_Custom]
+m_Description="Speed Challenge: PLACEHOLDER DONT CHOOSE WIP."
+m_Status=""
+
+[CK_Objective_Phase5 DishonoredObjective]
+m_Description="Chain Kill - Round 5"
+
+[CK_Objective_Phase5:DishonoredTask_Custom_0 DishonoredTask_Custom]
+m_Description="Kill 20 enemies."
+m_Status=""
+
+[CK_Objective_Phase5:DishonoredTask_Custom_1 DishonoredTask_Custom]
+m_Description="Bonus Challenge: PLACEHOLDER DONT CHOOSE WIP."
+m_Status=""
+
+[CK_Objective_Phase5:DishonoredTask_Custom_2 DishonoredTask_Custom]
+m_Description="Speed Challenge: PLACEHOLDER DONT CHOOSE WIP."
+m_Status=""
+
+[CK_Objective_Phase6 DishonoredObjective]
+m_Description="Chain kill - Final Round"
+
+[CK_Objective_Phase6:DishonoredTask_Custom_0 DishonoredTask_Custom]
+m_Description="Kill every ennemy in the area which means 25 enemies!"
+m_Status=""
+
+[CK_Objective_Phase6:DishonoredTask_Custom_1 DishonoredTask_Custom]
+m_Description="Bonus Challenge: PLACEHOLDER DONT CHOOSE WIP."
+m_Status=""
+
+[CK_Objective_Phase6:DishonoredTask_Custom_2 DishonoredTask_Custom]
+m_Description="Speed Challenge: PLACEHOLDER DONT CHOOSE WIP."
+m_Status=""
+

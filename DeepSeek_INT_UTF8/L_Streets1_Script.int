@@ -1,0 +1,118 @@
+﻿[TheWorld:PersistentLevel.DisDoor_0 DisDoor]
+m_DoorName=""
+m_MatchingKey=""
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_AddDarkness_0 DisSeqAct_AddDarkness]
+m_Text=""
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_AddDarkness_1 DisSeqAct_AddDarkness]
+m_Text=""
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_AddDarkness_2 DisSeqAct_AddDarkness]
+m_Text=""
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_DialogScriptedChoice_0 DisSeqAct_DialogScriptedChoice]
+m_Title=""
+m_Choices[0]=(m_ChoiceText="Go to Art Dealer's Apartment")
+m_Choices[1]=(m_ChoiceText="Stay on Clavering Blvd")
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_DialogScriptedChoice_1 DisSeqAct_DialogScriptedChoice]
+m_Title=""
+m_Choices[0]=(m_ChoiceText="Go to Dunwall Whiskey Distillery")
+m_Choices[1]=(m_ChoiceText="Stay on Bottle Street")
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_DialogScriptedChoice_2 DisSeqAct_DialogScriptedChoice]
+m_Title=""
+m_Choices[0]=(m_ChoiceText="Go to Art Dealer's Apartment")
+m_Choices[1]=(m_ChoiceText="Stay on Clavering Blvd")
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_DialogScriptedChoice_3 DisSeqAct_DialogScriptedChoice]
+m_Title=""
+m_Choices[0]=(m_ChoiceText="Go to Art Dealer's Apartment")
+m_Choices[1]=(m_ChoiceText="Stay on Clavering Blvd")
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_DialogScriptedChoice_4 DisSeqAct_DialogScriptedChoice]
+m_Title=""
+m_Choices[0]=(m_ChoiceText="Go to Dr. Galvani's Offices")
+m_Choices[1]=(m_ChoiceText="Stay on Clavering Blvd")
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_DialogScriptedChoice_5 DisSeqAct_DialogScriptedChoice]
+m_Title=""
+m_Choices[0]=(m_ChoiceText="Go to Dr. Galvani's Offices")
+m_Choices[1]=(m_ChoiceText="Stay on Clavering Blvd")
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_DialogScriptedChoice_6 DisSeqAct_DialogScriptedChoice]
+m_Title=""
+m_Choices[0]=(m_ChoiceText="Go to Dr. Galvani's Offices")
+m_Choices[1]=(m_ChoiceText="Stay on Clavering Blvd")
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_SetTutorialMessage_1 DisSeqAct_SetTutorialMessage]
+m_TutorialMessage="Use o Piscar para se mover de cobertura em cobertura sem ser visto"
+m_TutorialMessage_Gamepad=""
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_ShowLocationDiscovery_0 DisSeqAct_ShowLocationDiscovery]
+m_LocationName="Guarda da Cidade é Neutro"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_ShowLocationDiscovery_1 DisSeqAct_ShowLocationDiscovery]
+m_LocationName="Entrando na Zona Neutra"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_ShowLocationDiscovery_2 DisSeqAct_ShowLocationDiscovery]
+m_LocationName="Entrando em Zona Hostil"
+
+[TheWorld:PersistentLevel.Main_Sequence.Granny_Intro.DisSeqAct_AddKey_0 DisSeqAct_AddKey]
+m_Name="Chave da Porta da Frente da Vovó"
+
+[TheWorld:PersistentLevel.Main_Sequence.Griff_Trapped.DisSeqAct_AddDarkness_0 DisSeqAct_AddDarkness]
+m_Text=""
+
+[TheWorld:PersistentLevel.Main_Sequence.Location_Discoveries.DisSeqAct_ShowLocationDiscovery_0 DisSeqAct_ShowLocationDiscovery]
+m_LocationName="Entrando em Zona Hostil"
+
+[TheWorld:PersistentLevel.Main_Sequence.Location_Discoveries.DisSeqAct_ShowLocationDiscovery_1 DisSeqAct_ShowLocationDiscovery]
+m_LocationName="Distrito da Destilaria"
+
+[TheWorld:PersistentLevel.Main_Sequence.Location_Discoveries.DisSeqAct_ShowLocationDiscovery_2 DisSeqAct_ShowLocationDiscovery]
+m_LocationName="Destilaria Bottle Street"
+
+[TheWorld:PersistentLevel.Main_Sequence.Location_Discoveries.DisSeqAct_ShowLocationDiscovery_3 DisSeqAct_ShowLocationDiscovery]
+m_LocationName="Avenida Clavering"
+
+[TheWorld:PersistentLevel.Main_Sequence.Objective_Markers.DisSeqAct_UpdateTaskTarget_0 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Parede de Luz"
+
+[TheWorld:PersistentLevel.Main_Sequence.Objective_Markers.DisSeqAct_UpdateTaskTarget_1 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Destilaria de Whisky de Dunwall"
+
+[TheWorld:PersistentLevel.Main_Sequence.Objective_Markers.DisSeqAct_UpdateTaskTarget_10 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Vovó Rags"
+
+[TheWorld:PersistentLevel.Main_Sequence.Objective_Markers.DisSeqAct_UpdateTaskTarget_13 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Cavalheiro Cortês"
+
+[TheWorld:PersistentLevel.Main_Sequence.Objective_Markers.DisSeqAct_UpdateTaskTarget_14 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Cavalheiro Cortês"
+
+[TheWorld:PersistentLevel.Main_Sequence.Objective_Markers.DisSeqAct_UpdateTaskTarget_2 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Praça Holger"
+
+[TheWorld:PersistentLevel.Main_Sequence.Objective_Markers.DisSeqAct_UpdateTaskTarget_21 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Escritórios do Dr. Galvani"
+
+[TheWorld:PersistentLevel.Main_Sequence.Objective_Markers.DisSeqAct_UpdateTaskTarget_22 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Samuel, o Barqueiro"
+
+[TheWorld:PersistentLevel.Main_Sequence.Objective_Markers.DisSeqAct_UpdateTaskTarget_3 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Presente de Aniversário"
+
+[TheWorld:PersistentLevel.Main_Sequence.Objective_Markers.DisSeqAct_UpdateTaskTarget_6 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Presente de Aniversário"
+
+[TheWorld:PersistentLevel.Main_Sequence.Objective_Markers.DisSeqAct_UpdateTaskTarget_7 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Muro de Luz"
+
+[TheWorld:PersistentLevel.Main_Sequence.Objective_Markers.DisSeqAct_UpdateTaskTarget_8 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Cavalheiro Cortês"
+
+[TheWorld:PersistentLevel.Main_Sequence.ThugsAtGrannysDoor.DisSeqAct_AddKey_0 DisSeqAct_AddKey]
+m_Name="Chave da Porta da Frente da Vovó"
+

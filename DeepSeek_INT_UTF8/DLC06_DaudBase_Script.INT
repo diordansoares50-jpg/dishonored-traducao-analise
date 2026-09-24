@@ -1,0 +1,88 @@
+﻿[TheWorld:PersistentLevel.DisDoor_7 DisDoor]
+m_DoorName=""
+
+[TheWorld:PersistentLevel.Main_Sequence._CounterAttack.DisSeqAct_AddDarkness_0 DisSeqAct_AddDarkness]
+m_Text=""
+
+[TheWorld:PersistentLevel.Main_Sequence._CounterAttack.DisSeqAct_AddDarkness_1 DisSeqAct_AddDarkness]
+m_Text=""
+
+[TheWorld:PersistentLevel.Main_Sequence._CounterAttack.DisSeqAct_DialogScriptedChoice_1 DisSeqAct_DialogScriptedChoice]
+m_Title="Suas Ordens?"
+m_Choices[0]=(m_ChoiceText="Kill the remaining Overseers.")
+m_Choices[1]=(m_ChoiceText="Capture the remaining Overseers.")
+
+[TheWorld:PersistentLevel.Main_Sequence.Finale.DisSeqAct_DialogScriptedChoice_0 DisSeqAct_DialogScriptedChoice]
+m_Title=""
+m_Choices[0]=(m_ChoiceText="Spare Billie Lurk.")
+m_Choices[1]=(m_ChoiceText="Execute Billie Lurk.")
+
+[TheWorld:PersistentLevel.Main_Sequence.Objectives.ObjectiveMarkers.DisSeqAct_UpdateTaskTarget_1 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Assassino Capturado"
+
+[TheWorld:PersistentLevel.Main_Sequence.Objectives.ObjectiveMarkers.DisSeqAct_UpdateTaskTarget_10 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Assassino Capturado"
+
+[TheWorld:PersistentLevel.Main_Sequence.Objectives.ObjectiveMarkers.DisSeqAct_UpdateTaskTarget_11 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Assassino Capturado"
+
+[TheWorld:PersistentLevel.Main_Sequence.Objectives.ObjectiveMarkers.DisSeqAct_UpdateTaskTarget_12 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Assassino Capturado"
+
+[TheWorld:PersistentLevel.Main_Sequence.Objectives.ObjectiveMarkers.DisSeqAct_UpdateTaskTarget_13 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Supervisor da Caixa de Música"
+
+[TheWorld:PersistentLevel.Main_Sequence.Objectives.ObjectiveMarkers.DisSeqAct_UpdateTaskTarget_14 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Supervisor da Caixa de Música"
+
+[TheWorld:PersistentLevel.Main_Sequence.Objectives.ObjectiveMarkers.DisSeqAct_UpdateTaskTarget_15 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Supervisor da Caixa de Música"
+
+[TheWorld:PersistentLevel.Main_Sequence.Objectives.ObjectiveMarkers.DisSeqAct_UpdateTaskTarget_17 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Supervisor da Caixa de Música"
+
+[TheWorld:PersistentLevel.Main_Sequence.Objectives.ObjectiveMarkers.DisSeqAct_UpdateTaskTarget_18 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Supervisor da Caixa de Música"
+
+[TheWorld:PersistentLevel.Main_Sequence.Objectives.ObjectiveMarkers.DisSeqAct_UpdateTaskTarget_19 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Supervisor da Caixa de Música"
+
+[TheWorld:PersistentLevel.Main_Sequence.Objectives.ObjectiveMarkers.DisSeqAct_UpdateTaskTarget_20 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Supervisor da Caixa de Música"
+
+[TheWorld:PersistentLevel.Main_Sequence.Objectives.ObjectiveMarkers.DisSeqAct_UpdateTaskTarget_21 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Supervisor da Caixa de Música"
+
+[TheWorld:PersistentLevel.Main_Sequence.Objectives.ObjectiveMarkers.DisSeqAct_UpdateTaskTarget_22 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Supervisor Hume"
+
+[TheWorld:PersistentLevel.Main_Sequence.Objectives.ObjectiveMarkers.DisSeqAct_UpdateTaskTarget_23 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Esperar"
+
+[TheWorld:PersistentLevel.Main_Sequence.Objectives.ObjectiveMarkers.DisSeqAct_UpdateTaskTarget_24 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Esgueirar-se"
+
+[TheWorld:PersistentLevel.Main_Sequence.Objectives.ObjectiveMarkers.DisSeqAct_UpdateTaskTarget_25 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Seu Assassino"
+
+[TheWorld:PersistentLevel.Main_Sequence.Objectives.ObjectiveMarkers.DisSeqAct_UpdateTaskTarget_26 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Esperar"
+
+[TheWorld:PersistentLevel.Main_Sequence.Objectives.ObjectiveMarkers.DisSeqAct_UpdateTaskTarget_4 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Seus Assassinos"
+
+[TheWorld:PersistentLevel.Main_Sequence.Objectives.ObjectiveMarkers.DisSeqAct_UpdateTaskTarget_5 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Assassino"
+
+[TheWorld:PersistentLevel.Main_Sequence.Objectives.ObjectiveMarkers.DisSeqAct_UpdateTaskTarget_6 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Carta do Supervisor Hume"
+
+[TheWorld:PersistentLevel.Main_Sequence.Objectives.ObjectiveMarkers.DisSeqAct_UpdateTaskTarget_7 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Planos de Assalto"
+
+[TheWorld:PersistentLevel.Main_Sequence.Objectives.ObjectiveMarkers.DisSeqAct_UpdateTaskTarget_8 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Supervisor da Caixa de Música"
+
+[TheWorld:PersistentLevel.Main_Sequence.Objectives.ObjectiveMarkers.DisSeqAct_UpdateTaskTarget_9 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Assassino Capturado"
+

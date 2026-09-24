@@ -1,0 +1,12 @@
+﻿[Pwn_BridgeWeeperCiv_F_2 DisTweaks_NPCPawn]
+m_BusyText="Este personagem está ocupado"
+m_CannotStealMessage="Você não pode carregar mais munição deste tipo"
+
+[Pwn_BridgeWeeperCiv_F_2:DisTweaks_InteractableInterface_9 DisTweaks_InteractableInterface]
+m_Name="Sujeito de Teste 312"
+m_InteractText=""
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+

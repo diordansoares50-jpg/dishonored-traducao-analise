@@ -1,0 +1,12 @@
+﻿[Twk_Pawn_LordPendleton DisTweaks_NPCPawn]
+m_BusyText="Este personagem está ocupado"
+m_CannotStealMessage="Você não pode carregar mais munição deste tipo"
+
+[Twk_Pawn_LordPendleton:DisTweaks_InteractableInterface_40 DisTweaks_InteractableInterface]
+m_Name="Lord Pendleton"
+m_InteractText=""
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+

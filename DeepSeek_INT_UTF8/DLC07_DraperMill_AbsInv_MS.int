@@ -1,0 +1,63 @@
+﻿[DLC07_Notes_AntiPoison DisAbstractItem]
+m_ItemName="Antitoxina"
+m_PluralItemName=""
+m_Description="A fórmula do antídoto precisa do seguinte:\nFlor de Oxrush (compre mais com Jerome no Bairro dos Alfaiates.)\nFeto de Rato Touro (um na sala de armazenamento seco)\nSais Metálicos (alguns no piso de fabricação)"
+
+[DLC07_Notes_GeezBattery DisAbstractItem]
+m_ItemName="Substituição do Tanque de Óleo de Baleia"
+m_PluralItemName=""
+m_Description="Atenção: Ao substituir o Tanque de Óleo de Baleia que alimenta a Máquina Pulmonar, você terá muito pouco tempo para fazê-lo. Se não for diligente e o Sr. Chapéu perecer, você liberará um gás tóxico que acabará com sua vida e a de seus companheiros Chapeleiros. Tome cuidado.
+
+Trimble"
+
+[DLC07_Notes_GreenhowHasCode DisAbstractItem]
+m_ItemName="Trimble Sabe a Combinação da Porta"
+m_PluralItemName=""
+m_Description="Fui verificar a situação do fluxo de água nos esgotos. Se você precisar acessar a sala das máquinas enquanto eu estiver fora, fale com o Enfermeiro Trimble. Ele é a única outra pessoa que tem a combinação da porta.\n\n-Pete"
+
+[DLC07_Notes_LabTimer DisAbstractItem]
+m_ItemName="Calibração do Temporizador"
+m_PluralItemName=""
+m_Description="A calibração do meu cronômetro de experimentos está um pouco desregulada. Isso precisa ser corrigido imediatamente. Gosto de verificar meus experimentos logo após o sino tocar. Tenho tudo perfeitamente cronometrado, desde o toque do sino até a caminhada até meu laboratório.
+
+Isso deve ser uma prioridade máxima após você retornar da restauração do fluxo de água nos esgotos.
+
+Trimble"
+
+[DLC07_Notes_MechanicInSewer DisAbstractItem]
+m_ItemName="Mecânica Ausente"
+m_PluralItemName=""
+m_Description="Mandei nosso mecânico-chefe para os esgotos para tentar fazer a água fluir novamente nos canais, mas não tivemos notícias dele desde então. Perdemos outros homens tentando investigar o que aconteceu com ele.
+
+- Trimble"
+
+[DLC07_Notes_MissingMoneyGuy DisAbstractItem]
+m_ItemName="Skeeves Desapareceu"
+m_PluralItemName=""
+m_Description="Parece que o Skeeves não vai voltar da patrulha, já faz seis dias. Não me entenda mal, não estou de luto porque o Skeeves e eu não nos entendíamos em muitas coisas, mas fico triste porque ele jurou que traria de volta um tesouro enorme de moedas que ele conhecia lá no canal de água seca. Eu pensei em tirar todas aquelas moedas dele em alguns jogos de cartas. Mas não será assim. Quem sabe, se aquela água voltar a correr, talvez o leve embora. Mas duvido. Quando você sair do serviço hoje à noite, precisamos brindar ao velho Skeeves."
+
+[Inventory.DLC07_BullRatFetus_Abst DisAbstractItem]
+m_ItemName="Feto de Rato Touro"
+m_PluralItemName=""
+m_Description="Esta grande variedade mutante de rato é conhecida por sua resistência muito forte a venenos."
+
+[Inventory.DLC07_EngineCoil_Abst DisAbstractItem]
+m_ItemName="Bobina do Motor"
+m_PluralItemName=""
+m_Description="As bobinas do motor regulam o sincronismo dos pistões do motor."
+
+[Inventory.DLC07_OxidizingAgent_Abst DisAbstractItem]
+m_ItemName="Sais Metálicos"
+m_PluralItemName=""
+m_Description="Este material liberará oxigênio ao interagir com outros compostos em temperatura específica."
+
+[Inventory.DLC07_OxRush_Abst DisAbstractItem]
+m_ItemName="Flor de Oxrush"
+m_PluralItemName=""
+m_Description="A variante Oxrush é uma flor encontrada na região sul de Pandyssia."
+
+[Inventory.DLC07_Vaccine_Abst DisAbstractItem]
+m_ItemName="Antídoto"
+m_PluralItemName=""
+m_Description="Este antídoto protegerá contra o gás ácido criado por Trimble."
+

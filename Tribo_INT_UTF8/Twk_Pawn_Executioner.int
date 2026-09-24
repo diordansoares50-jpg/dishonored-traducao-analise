@@ -1,0 +1,24 @@
+﻿[Pwn_Executioner_Combatant DisTweaks_NPCPawn]
+m_BusyText="Esse personagem está ocupado"
+m_CannotStealMessage="Você não pode mais carregar esse tipo de munição"
+
+[Pwn_Executioner_Combatant:DisTweaks_InteractableInterface_50 DisTweaks_InteractableInterface]
+m_Name="Torturador"
+m_InteractText="Torturador"
+m_AltInteractText="Torturador"
+m_UseMessage="Torturador"
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Twk_Pawn_Executioner DisTweaks_NPCPawn]
+m_BusyText="Esse personagem está ocupado"
+m_CannotStealMessage="Você não pode mais carregar esse tipo de munição"
+
+[Twk_Pawn_Executioner:DisTweaks_InteractableInterface_50 DisTweaks_InteractableInterface]
+m_Name="Sobrevivente"
+m_InteractText=""
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+

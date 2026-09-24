@@ -1,0 +1,57 @@
+﻿[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_DialogScriptedChoice_0 DisSeqAct_DialogScriptedChoice]
+m_Title=""
+m_Choices[0]=(m_ChoiceText="Ir para o Porão da Mansão Boyle")
+m_Choices[1]=(m_ChoiceText="Ficar no Esgoto")
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_ShowLocationDiscovery_0 DisSeqAct_ShowLocationDiscovery]
+m_LocationName="Mansão Boyle"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_UpdateTaskTarget_0 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Festa das Boyle"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_UpdateTaskTarget_1 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Festa das Boyle"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_UpdateTaskTarget_2 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Festa das Boyle"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_UpdateTaskTarget_25 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Lorde Shaw"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_UpdateTaskTarget_8 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Festa das Boyle"
+
+[TheWorld:PersistentLevel.Main_Sequence.Pistols_in_the_Yard.DisSeqAct_ShowHUDMessage_0 DisSeqAct_ShowHUDMessage]
+m_Message="Nova Pista da Missão adicionada"
+
+[TheWorld:PersistentLevel.Main_Sequence.Pistols_in_the_Yard.DisSeqAct_ShowHUDMessage_1 DisSeqAct_ShowHUDMessage]
+m_Message="Nova Pista da Missão adicionada"
+
+[TheWorld:PersistentLevel.Main_Sequence.Pistols_in_the_Yard.DisSeqAct_UpdateTaskTarget_0 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Sua Marca"
+
+[TheWorld:PersistentLevel.Main_Sequence.Pistols_in_the_Yard.DisSeqAct_UpdateTaskTarget_26 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Lorde Shaw"
+
+[TheWorld:PersistentLevel.Main_Sequence.Pistols_in_the_Yard.DisSeqAct_UpdateTaskTarget_3 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Lorde Shaw"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_DialogScriptedChoice_2 DisSeqAct_DialogScriptedChoice]
+m_Title=""
+m_Choices[0]=(m_ChoiceText="Ir para o Salão de Dança da Mansão Boyle")
+m_Choices[1]=(m_ChoiceText="Ficar no Jardim")
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_DialogScriptedChoice_4 DisSeqAct_DialogScriptedChoice]
+m_Title=""
+m_Choices[0]=(m_ChoiceText="Ir para o Salão da Mansão Boyle")
+m_Choices[1]=(m_ChoiceText="Ficar no Pátio")
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_DialogScriptedChoice_5 DisSeqAct_DialogScriptedChoice]
+m_Title=""
+m_Choices[0]=(m_ChoiceText="Ir para o Segundo Andar da Mansão (Proibido)")
+m_Choices[1]=(m_ChoiceText="Ficar na Varanda")
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_SetTutorialMessage_1 DisSeqAct_SetTutorialMessage]
+m_TutorialMessage="Versão Alfa de Dishonored--Obrigado por jogar."
+m_TutorialMessage_Gamepad=""
+

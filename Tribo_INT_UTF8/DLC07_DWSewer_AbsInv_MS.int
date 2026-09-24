@@ -1,0 +1,26 @@
+﻿[DLC07_Notes_BrokenFan DisAbstractItem]
+m_ItemName="Broken Fan"
+m_PluralItemName=""
+m_Description="Do not use the venting system until the fan motor is replaced. This thing nearly came off its drive shaft. I will let you know when it's back up and ready to go."
+
+[DLC07_Notes_DeadMech DisAbstractItem]
+m_ItemName="Hatter Mechanic To-Do List"
+m_PluralItemName=""
+m_Description="[A barely ledgible to-do list stained with blood and grease]\n\n- Get a new spanner. River Krust ate old one. \n- Check Water Flow Control for Trimble. Hopefully, no rats.\n- Look for Oxrush in the canal. Maggy likes red.\n- Give Maggy my locker key in case she needs to stash her gear in my apartment this week."
+
+[DLC07_Notes_Station DisAbstractItem]
+m_ItemName="Water Control Station"
+m_PluralItemName=""
+m_Description="Royer and a few others went up ahead to the water control station to see why the water flow stopped but they haven't returned. There have been reports of strange noises and a few of our new workers fled for the exit. If someone doesn't come to relieve me soon I'm leaving this place. I'm writing this so you have on record that I did not just abandon my station without just cause.\n\nPreston P."
+
+[DLC07_Notes_Valve DisAbstractItem]
+m_ItemName="Moved Wrench"
+m_PluralItemName=""
+m_Description="Someone took the wrench to the water flow control valve. Please have someone find it and return it to the Water control Station."
+
+[Inventory.DLC07_ValveKey_Abst DisAbstractItem]
+m_ItemName="Water Control Valve Wrench"
+m_PluralItemName=""
+m_Description="A specialized wrench used to open the pressure valves."
+
+

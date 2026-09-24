@@ -1,0 +1,21 @@
+﻿[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_ShowHUDMessage_2 DisSeqAct_ShowHUDMessage]
+m_Message="Nova Pista da Missão adicionada"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_ShowHUDMessage_4 DisSeqAct_ShowHUDMessage]
+m_Message="Nova Pista da Missão adicionada"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_ShowHUDMessage_9 DisSeqAct_ShowHUDMessage]
+m_Message="Nova Pista da Missão adicionada"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_UpdateTaskTarget_0 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Samuel"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_UpdateTaskTarget_2 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Almirante Havelock"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_UpdateTaskTarget_39 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Almirante Havelock"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_UpdateTaskTarget_40 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Samuel"
+

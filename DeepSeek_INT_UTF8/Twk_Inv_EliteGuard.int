@@ -1,0 +1,16 @@
+﻿[Twk_Inv_PistolEliteGuard:DisTweaks_InventoryItem_PlayerSpecific_1 DisTweaks_InventoryItem_PlayerSpecific]
+m_Name="Pistola da Guarda da Cidade"
+m_Description="Armas de fogo modernas, pertencentes a oficiais da Guarda da Cidade, veteranos e a nobreza."
+
+[Twk_Inv_PistolEliteGuardSniper:pPlayerSpecific DisTweaks_InventoryItem_PlayerSpecific]
+m_Name="Pistola da Guarda da Cidade"
+m_Description="Armas de fogo modernas, possuídas por oficiais da Guarda da Cidade, veteranos e a nobreza."
+
+[Twk_Inv_SwordEliteGuard:DisTweaks_InventoryItem_PlayerSpecific_1 DisTweaks_InventoryItem_PlayerSpecific]
+m_Name=""
+m_Description=""
+
+[Twk_Inv_SwordEliteGuard_Player:pPlayerSpecific DisTweaks_InventoryItem_PlayerSpecific]
+m_Name=""
+m_Description=""
+

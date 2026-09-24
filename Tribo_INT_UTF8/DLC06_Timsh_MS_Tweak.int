@@ -1,0 +1,123 @@
+﻿[Doors.DBDoors_big_rich_ext_glass_twk:DisTweaks_InteractableInterface_43 DisTweaks_InteractableInterface]
+m_Name="Glass Door"
+
+[LLDs.LTD_Bridgemore:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Continue to Next Mission"
+m_InteractText="`GBA_Use` Open"
+
+[LLDs.LTD_estate2streets_ground DisTweaks_UsableObject]
+m_LockedMessage="`k needed"
+
+[LLDs.LTD_estate2streets_ground:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Travel to the Legal District Waterfront"
+m_InteractText="`GBA_Use` Open"
+
+[LLDs.LTD_estate2streets_roof:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Travel to the Legal District Waterfront"
+m_InteractText="`GBA_Use` Open"
+
+[LLDs.LTD_streets2estate_ground DisTweaks_UsableObject]
+m_LockedMessage="Locked"
+m_FocusLockedMessage=""
+
+[LLDs.LTD_streets2estate_ground:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Travel to the Legal District"
+m_InteractText="`GBA_Use` Open"
+
+[LLDs.LTD_streets2estate_roof DisTweaks_UsableObject]
+m_LockedMessage="Locked"
+
+[LLDs.LTD_streets2estate_roof:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Enter Apartment 10"
+m_InteractText="`GBA_Use` Open"
+
+[locked_door_medium DisTweaks_Door]
+m_FocusLockedMessage="Locked"
+
+[locked_door_small DisTweaks_Door]
+m_FocusLockedMessage="Locked"
+
+[Moveables.Stone_twk:DisTweaks_InteractableInterface_10 DisTweaks_InteractableInterface]
+m_Name="Loose Stone"
+
+[Pickups.Immunity_Doc_Pickup:pInteractableTweaks_PickupBase DisTweaks_Interactable_PickupBase]
+m_InteractText="`GBA_Use` Switch Documents"
+
+[Pickups.Plant_Doc_Pickup:pInteractableTweaks_PickupBase DisTweaks_Interactable_PickupBase]
+m_InteractText="`GBA_Use` Plant Document"
+
+[Pickups.Twk_LegalDist_Note DisTweaks_AbstractItemPickupNote]
+m_PressKeyToReadMessage=""
+m_OnPickupMessage="New note added to your journal"
+m_SingleItemPickupMessage=""
+
+[Pickups.Twk_LegalDist_Note:DisTweaks_Interactable_PickupBase_31 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name=""
+m_InteractText="`GBA_Use` Read"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Useables.AirCircDoor2_Usable_Twk DisTweaks_UsableObject]
+m_UnlockInteractText="`GBA_Use` Unlock"
+m_LockedMessage=""
+m_UnauthorizedMessage=""
+m_FocusMessage=""
+m_FocusLockedMessage=""
+
+[Useables.AirCircDoor2_Usable_Twk:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Air Circulator Door"
+m_InteractText=" `GBA_Use` Close"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Useables.AirCircDoor_Usable_Twk DisTweaks_UsableObject]
+m_UnlockInteractText="`GBA_Use` Unlock"
+m_LockedMessage=""
+m_UnauthorizedMessage=""
+m_FocusMessage=""
+m_FocusLockedMessage=""
+
+[Useables.AirCircDoor_Usable_Twk:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Air Circulator Door"
+m_InteractText=" `GBA_Use` Open"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Useables.Card_Deck_Useable:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="78 Card Tarot Deck"
+m_InteractText="`GBA_Use` Draw a card"
+
+[Useables.Card_Placement_Useable:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Ritual Location"
+m_InteractText="`GBA_Use` Place Tarot Card"
+
+[Useables.Card_Ritual_Useable:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="The World"
+m_InteractText="`GBA_Use` Bleed on the card"
+
+[Useables.dumbwaiter_dial_01_twk DisTweaks_UsableObject]
+m_UnlockInteractText=""
+m_LockedMessage="Currently Inoperable"
+
+[Useables.dumbwaiter_dial_01_twk:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Dumbwaiter Floor Selection"
+
+[Useables.Falling_Painting_Useable:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Painting"
+m_InteractText="`GBA_Use` Pull down"
+
+[Useables.Moving_Cabinet_Useable:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Cabinet"
+m_InteractText="`GBA_Use` Move"
+
+[Useables.Odorous_Sack_Useable:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Air Circulator"
+m_InteractText="`GBA_Use` Drop the sack"
+

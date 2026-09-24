@@ -1,0 +1,695 @@
+﻿[BOYLE.ChapterNotes_BOYLE DisAbstractItem]
+m_ItemName="Notas: Lady Boyle"
+m_PluralItemName=""
+m_Description="Uma das três Boyle é culpada, você tem que descobrir qual delas. Se misture com os convidados do baile de máscaras e descubra a Boyle correta."
+
+[BOYLE.EsmaDiary DisAbstractItem]
+m_ItemName="Segredos de Esma"
+m_PluralItemName=""
+m_Description="Esma gosta de homens e não é muito exigente. Talvez você possa usar essa informação contra ela. "
+
+[BOYLE.HidingBoyles DisAbstractItem]
+m_ItemName="As Boyles, se Esconderam"
+m_PluralItemName=""
+m_Description="Em meio ao caos, as Boyle fugiram lá para cima, se trancando em um dos quartos."
+
+[BOYLE.LydiaBlack DisAbstractItem]
+m_ItemName="A Cor de Lydia"
+m_PluralItemName=""
+m_Description="Lydia Boyle está vestida de preto esta noite."
+
+[BOYLE.LydiaDiary DisAbstractItem]
+m_ItemName="Segredos de Lydia"
+m_PluralItemName=""
+m_Description="Lydia gosta de músicos e também de música. Talvez você possa usar essa informação contra ela."
+
+[BOYLE.LydiaRed DisAbstractItem]
+m_ItemName="A Cor de Lydia"
+m_PluralItemName=""
+m_Description="Lydia Boyle está vestida de vermelho esta noite."
+
+[BOYLE.LydiaWhite DisAbstractItem]
+m_ItemName="A Cor de Lydia"
+m_PluralItemName=""
+m_Description="Lydia Boyle está vestida de branco esta noite."
+
+[BOYLE.PistolDuelCheat DisAbstractItem]
+m_ItemName="O Duelo de Pistolas"
+m_PluralItemName=""
+m_Description="O duelo de pistolas com Lorde Shaw foi um sucesso, mais ou menos, apesar do tumulto."
+
+[BOYLE.PistolDuelWon DisAbstractItem]
+m_ItemName="O Duelo de Pistolas"
+m_PluralItemName=""
+m_Description="O duelo de pistolas com Lorde Shaw foi um sucesso."
+
+[BOYLE.ReachedParty DisAbstractItem]
+m_ItemName="Infiltrando-se"
+m_PluralItemName=""
+m_Description="A festa está numa zona neutra. Tente ser discreto."
+
+[BOYLE.SamuelsBoat DisAbstractItem]
+m_ItemName="Barco de Samuel"
+m_PluralItemName=""
+m_Description="Talvez Samuel tenha se escondido dos Tallboys, atrás da comporta do canal."
+
+[STREETS.RatVisceraEffect DisAbstractItem]
+m_ItemName="Efeito das Vísceras de Rato"
+m_PluralItemName=""
+m_Description="Contaminando a destilaria de elixir da gangue da Bottle Street com vísceras de rato infectará com a peste todos os que beberem o elixir. Isso inclui os Bottle Street e as pessoas que compram seu produto no mercado negro. "
+
+[BOYLE.TalkToTheTarget DisAbstractItem]
+m_ItemName="O Alvo"
+m_PluralItemName=""
+m_Description="Fale com o objetivo."
+
+[BOYLE.WaveryBlack DisAbstractItem]
+m_ItemName="A Cor de Waverly"
+m_PluralItemName=""
+m_Description="Waverly Boyle está vestida de preto essa noite."
+
+[BOYLE.WaveryDiary DisAbstractItem]
+m_ItemName="Segredos de Waverly"
+m_PluralItemName=""
+m_Description="Waverly é paranoica e acredita que alguém virá matá-la. Talvez essa informação possa ser útil contra ela."
+
+[BOYLE.WaveryRed DisAbstractItem]
+m_ItemName="A Cor de Waverly"
+m_PluralItemName=""
+m_Description="Waverly Boyle está vestindo vermelho essa noite."
+
+[BOYLE.WaveryWhite DisAbstractItem]
+m_ItemName="A Cor de Waverly"
+m_PluralItemName=""
+m_Description="Waverly Boyle está vestindo branco essa noite."
+
+[BOYLE.WhitesDrink DisAbstractItem]
+m_ItemName="Uma bebida para a Srta. White"
+m_PluralItemName=""
+m_Description="Srta. White, com máscara de mariposa, pediu uma bebida."
+
+[Bridge.ChapterNote_AlecInCell DisAbstractItem]
+m_ItemName="Matadores Sussurrando"
+m_PluralItemName=""
+m_Description="Alguns caras comentaram que um de seus amigos foram presos pela guarda e está numa cela próxima."
+
+[Bridge.ChapterNote_DrawbridgeSpots DisAbstractItem]
+m_ItemName="Holofotes da Ponte Levadiça"
+m_PluralItemName=""
+m_Description="Samuel disse que era preciso apagar os holofotes da ponte levadiça para que ele pudesse se aproximar da casa de Sokolov."
+
+[Bridge.ChapterNote_DrawbridgeSpotsOff DisAbstractItem]
+m_ItemName="Holofotes da Ponte Levadiça Apagados"
+m_PluralItemName=""
+m_Description="Os holofotes da ponte levadiça estão apagados. Samuel está esperando debaixo das galerias perto da casa de Sokolov."
+
+[Bridge.ChapterNote_PaintingSafeCode DisAbstractItem]
+m_ItemName="Combinação do Cofre do Quadro"
+m_PluralItemName=""
+m_Description="Uma mulher que você libertou de uma cela fechada com uma Parede de Luz te falou de um cofre. Está escondido no segundo andar de um edifício destruído, atrás de um quadro, a combinação é 294."
+
+[Bridge.ChapterNote_PratchettSafeCode DisAbstractItem]
+m_ItemName="Combinação do Cofre de Pratchett"
+m_PluralItemName=""
+m_Description="Uma nota de Pratchett revela a combinação de seu cofre que está escondido em um de seus quadros."
+
+[Bridge.ChapterNote_SokolovKO DisAbstractItem]
+m_ItemName="Levar Sokolov para Samuel"
+m_PluralItemName=""
+m_Description="Sokolov está inconsciente você tem que leva-lo até Samuel, que espera debaixo de uma galeria próxima."
+
+[Bridge.ChapterNotes_Bridge DisAbstractItem]
+m_ItemName="Notas: O médico real"
+m_PluralItemName=""
+m_Description="Te pediram para sequestrar Anton Sokolov, o chefe da academia de filosofia natural. Seus novos aliados querem levar Sokolov em nome da amante do Lorde Regente, uma misteriosa aliada e uma de suas partidárias da nobreza mais poderosa. Sokolov vive em um grande apartamento em algum lugar da ponte de Kaldwin."
+
+[BROTHEL.ArtDealer_Code_138 DisAbstractItem]
+m_ItemName="Combinação do Cofre do Comerciante de Arte "
+m_PluralItemName=""
+m_Description="A combinação do cofre do Comerciante de Arte é 138."
+
+[BROTHEL.ArtDealer_Code_696 DisAbstractItem]
+m_ItemName="Combinação do Cofre do Comerciante de Arte"
+m_PluralItemName=""
+m_Description="A combinação do cofre do Comerciante de Arte é 696."
+
+[BROTHEL.ArtDealer_Code_879 DisAbstractItem]
+m_ItemName="Combinação do Cofre do Comerciante de Arte"
+m_PluralItemName=""
+m_Description="A combinação do cofre do Comerciante de Arte é 879."
+
+[BROTHEL.ArtDealer_Key DisAbstractItem]
+m_ItemName="Chave da Casa do Comerciante de Arte"
+m_PluralItemName=""
+m_Description="O Comerciante de Arte te deu a chave de sua casa, onde há quadros valiosos."
+
+[BROTHEL.Bunting DisAbstractItem]
+m_ItemName="Bunting, O Comerciante de Arte"
+m_PluralItemName=""
+m_Description="O Comerciante de Arte se chama Bunting, e está numa sala prateada, no primeiro andar."
+
+[BROTHEL.ChapterNotes_BROTHEL DisAbstractItem]
+m_ItemName="Notas: A Casa do Prazer"
+m_PluralItemName=""
+m_Description="Os Legalistas acreditam que os irmãos Pendleton estão com Emily no Gato Dourado. Os Gêmeos são os irmãos mais velhos de Lorde Pendleton, que os odeias, e são leais ao Lorde Regente. Você deve resgatar Emily e eliminar Lorde Custis e Lorde Morgan Pendleton."
+
+[BROTHEL.Curtis_RoopUp DisAbstractItem]
+m_ItemName="Custis Pendleton"
+m_PluralItemName=""
+m_Description="Custis Pendleton está na sala dourada, no quarto andar."
+
+[BROTHEL.Curtis_SmokingRoom DisAbstractItem]
+m_ItemName="Custis Pendleton"
+m_PluralItemName=""
+m_Description="Custis Pendleton está na sala dos fumantes, no segundo andar."
+
+[BROTHEL.Emily_Hint DisAbstractItem]
+m_ItemName="Emily"
+m_PluralItemName=""
+m_Description="Emily está no quarto, acima."
+
+[BROTHEL.Morgan_RoomDown DisAbstractItem]
+m_ItemName="Morgan Pendleton"
+m_PluralItemName=""
+m_Description="Morgan Pendleton está na sala de marfim, no primeiro andar."
+
+[BROTHEL.Morgan_SteamRoom DisAbstractItem]
+m_ItemName="Morgan Pendleton"
+m_PluralItemName=""
+m_Description="Morgan Pendleton está na sauna, abaixo."
+
+[BROTHEL.TargetsLocation_A DisAbstractItem]
+m_ItemName="Livro de Registros do Gato Dourado"
+m_PluralItemName=""
+m_Description="Morgan Pendleton está na sauna, abaixo. Custis Pendleton está na sala dourada, no segundo andar."
+
+[BROTHEL.TargetsLocation_A_with_ArtDealer DisAbstractItem]
+m_ItemName="Livro de Registros do Gato Dourado"
+m_PluralItemName=""
+m_Description="Morgan Pendleton está na sauna, abaixo. Custis Pendleton está na sala dourada, no segundo andar. E o Comerciante de Arte, que se chama Bunting, está na sala prateada do primeiro andar."
+
+[BROTHEL.TargetsLocation_B DisAbstractItem]
+m_ItemName="Livro de Registros do Gato Dourado"
+m_PluralItemName=""
+m_Description="Morgan Pendleton está na sala de marfim no primeiro andar. Custis Pendleton está na sala de fumantes no segundo andar."
+
+[BROTHEL.TargetsLocation_B_with_ArtDealer DisAbstractItem]
+m_ItemName="Livro de Registros do Gato Dourado"
+m_PluralItemName=""
+m_Description="Morgan Pendleton está na sala de marfim, no primeiro andar. Custis Pendleton está na sala dos fumantes, no segundo andar. O Comerciante de Arte, chamado Bunting, está na sala prateada do primeiro andar."
+
+[FLOODED.ChapterLog_Flooded DisAbstractItem]
+m_ItemName="Notas: O Distrito Inundado"
+m_PluralItemName=""
+m_Description="Depois de ser traído e envenenado pelo almirante Havelock, pelo Supervisor Martin e por Lorde Pendleton, você acorda em algum lugar nas ruínas do Distrito Inundado. O Assassino Daud tem você sob custódia. Recupere seu equipamento, enfrente Daud e saia do Distrito Inundado"
+
+[FLOODED.ChapterNotes_Flooded_Assassins DisAbstractItem]
+m_ItemName="Os Pescadores"
+m_PluralItemName=""
+m_Description="Daud e seus assassinos são conhecidos por pescadores, por conta das máscaras de trabalhadores de óleo que usam. Se apropriaram do edifício abandonado da Câmara do Comercio Central de Rudshore. Esteja atento."
+
+[FLOODED.ChapterNotes_Flooded_Daud DisAbstractItem]
+m_ItemName="Base de Daud"
+m_PluralItemName=""
+m_Description=A base de Daud está protegida por seus assassinos (é recomendado recuperar seu equipamento antes de tentar invadi-la ou se infiltrar.)"
+
+[FLOODED.ChapterNotes_Flooded_EscapePlan DisAbstractItem]
+m_ItemName="Plano de Fuga"
+m_PluralItemName=""
+m_Description="Um sobrevivente da peste, chamado Blake, tem um plano de fuga, mas precisa de ajuda."
+
+[FLOODED.ChapterNotes_Flooded_Floodlights DisAbstractItem]
+m_ItemName="Os Holofotes"
+m_PluralItemName=""
+m_Description="A guarda instalou holofotes para iluminar os edifícios em volta do portão de Rudshore. Quando são ativados, os Tallboys começam a caçar sobreviventes da peste e abandonam suas patrulhas."
+
+[FLOODED.ChapterNotes_Flooded_Gateward DisAbstractItem]
+m_ItemName="O Túnel do Portão"
+m_PluralItemName=""
+m_Description="Há um túnel abaixo da base de Daud que leva até os portões de Rudshore. O acesso está fechado e Daud sempre está com a chave, lá em cima."
+
+[FLOODED.ChapterNotes_Flooded_Oil DisAbstractItem]
+m_ItemName="Tanque de Óleo de Baleia"
+m_PluralItemName=""
+m_Description="A refinaria possui equipamento necessário para encher tanques de óleo de baleia."
+
+[FLOODED.ChapterNotes_Flooded_PlagueCarriers DisAbstractItem]
+m_ItemName="Portadores da Peste"
+m_PluralItemName=""
+m_Description="Existem portadores da peste nos edifícios próximos ao portão de Rudshore. Se voltarem para a civilização, infectarão os outros."
+
+[FLOODED.ChapterNotes_Flooded_PlagueWagon1 DisAbstractItem]
+m_ItemName="O Vagão da Peste 1"
+m_PluralItemName=""
+m_Description="O vagão da peste volta do Distrito Inundado em poucos minutos para depositar mais corpos. Enquanto está parado, é possível saltar dos telhados e sair pelos portões de Rudshore subindo nele."
+
+[FLOODED.ChapterNotes_Flooded_PlagueWagon2 DisAbstractItem]
+m_ItemName="O Vagão da Peste 2"
+m_PluralItemName=""
+m_Description="Os telhados podem levar até um ponto inferior por onde passa o vagão da peste."
+
+[FLOODED.ChapterNotes_Flooded_Pylons DisAbstractItem]
+m_ItemName="O Poste Arco"
+m_PluralItemName=""
+m_Description="Para criar um local seguro para os sobreviventes da peste, é necessário desligar o Poste Arco do pátio que está atrás do edifício onde se escondem. Blake comentou que os pisos superiores oferecem boas visualização do pátio."
+
+[FLOODED.ChapterNotes_Flooded_Quarantine DisAbstractItem]
+m_ItemName="Muro de Quarentena"
+m_PluralItemName=""
+m_Description="Um muro de proteção cerca o Distrito Inundado até os portões de Rudshore, é o unico ponto de entrada e de saída."
+
+[FLOODED.ChapterNotes_Flooded_Railcar DisAbstractItem]
+m_ItemName="O Veículo Ferroviário Perdido"
+m_PluralItemName=""
+m_Description="Um veículo ferroviário perdido contém os planos de uma excelente melhoria para armas."
+
+[FLOODED.ChapterNotes_Flooded_RailStation1 DisAbstractItem]
+m_ItemName="Estação Ferroviária 1"
+m_PluralItemName=""
+m_Description="Para chegar a base de Daud você terá que passar pela Estação Ferroviária Central de Rudshore. A porta da estação sempre está fechada."
+
+[FLOODED.ChapterNotes_Flooded_RailStation2 DisAbstractItem]
+m_ItemName="Estação Ferroviária 2"
+m_PluralItemName=""
+m_Description="A estação ferroviária está fechada. A chave poderia estar num edifício próximo. Um dos homens de Daud também poderia tê-la."
+
+[FLOODED.ChapterNotes_Flooded_RailStation3 DisAbstractItem]
+m_ItemName="Estação Ferroviária 3"
+m_PluralItemName=""
+m_Description="Com a chave você pode acessar a Estação Ferroviária Central de Rudshore, e o caminho para a base de Daud."
+
+[FLOODED.ChapterNotes_Flooded_Refinery DisAbstractItem]
+m_ItemName="A Refinaria"
+m_PluralItemName=""
+m_Description="Daud jogou uma caixa que continha (suas) armas e equipamentos nas profundidades da refinaria."
+
+[FLOODED.ChapterNotes_Flooded_RudshoreGate DisAbstractItem]
+m_ItemName="Portão de Rudshore"
+m_PluralItemName=""
+m_Description="O portão de Rudshore está protegido por uma Parede de Luz. Inclusive o vagão da peste deve atravessar seu campo elétrico."
+
+[FLOODED.ChapterNotes_Flooded_Safe DisAbstractItem]
+m_ItemName="Combinação do Cofre"
+m_PluralItemName=""
+m_Description="Há um cofre em um apartamento na Central Rudshore. Sua combinação é 428."
+
+[FLOODED.ChapterNotes_Flooded_Stair DisAbstractItem]
+m_ItemName="As Escadas"
+m_PluralItemName=""
+m_Description="A única forma de chegar ao nível superior da refinaria parece ser por uma escada mecânica. Se você ligar a energia, você poderá descer apenas tocando no interruptor do painel de controle."
+
+[FLOODED.ChapterNotes_Flooded_Streets DisAbstractItem]
+m_ItemName="Ruas Alagadas"
+m_PluralItemName=""
+m_Description="A base de Daud estará protegida por seus assassinos. (É recomendado recuperar suas armas e equipamentos antes de atacar ou se infiltrar.)\n\nAtravesse as ruas inundadas para voltar à refinaria Greaves (Onde seu equipamento foi jogado). Tenha cuidado com os infectados, com as ostras de rio e com as enguias que estão na água e também com os sentinelas que estão nos telhados. "
+
+[FLOODED.ChapterNotes_Flooded_ThugsStash DisAbstractItem]
+m_ItemName="Caixinha dos Matadores"
+m_PluralItemName=""
+m_Description="Alguns saqueadores estão mantendo um estoque de óleo de baleia que poderá ser usado para para ligar as luzes próximas ao portão de Rudshore. Eles também têm algum saque."
+
+[FLOODED.ChapterNotes_Flooded_Vat DisAbstractItem]
+m_ItemName="Despachado"
+m_PluralItemName=""
+m_Description="(Você foi transferido para um local desconhecido. A fuga é sua única opção)"
+
+[HUB.Chapter01_AboutLoyalists DisAbstractItem]
+m_ItemName="Sobre os Legalistas"
+m_PluralItemName=""
+m_Description="Os Legalistas são compostos por cidadãos influentes de Dunwall que são leais a imperatriz morta e a sua filha. Apoiam a queda do regime atual e a restauração da dinastia Kaldwin"
+
+[HUB.Chapter01_AboutMartin DisAbstractItem]
+m_ItemName="Supervisor Martin"
+m_PluralItemName=""
+m_Description="O Supervisor Martin é um aliado dos Legalistas e foi detido e preso. "
+
+[HUB.Chapter01_AboutPiero DisAbstractItem]
+m_ItemName="Sobre Piero Joplin"
+m_PluralItemName=""
+m_Description="Piero é um inventor que pode criar e melhorar seu equipamento. Passa a maior parte do tempo em sua oficina."
+
+[HUB.Chapter01_CallistaCousin DisAbstractItem]
+m_ItemName="Geoff Curnow, O Tio de Callista"
+m_PluralItemName=""
+m_Description="Callista tem um tio que é o capitão da Guarda de Dunwall. O capitão Curnow é um homem decente que tenta fazer o melhor possível diante de um regime corrupto. Mas está encontrando muita resistência."
+
+[HUB.Chapter01_HavelockBrief DisAbstractItem]
+m_ItemName="Diário do Prelado Supervisor Campbell"
+m_PluralItemName=""
+m_Description="O Supervisor Campbell carrega um diário com muitos segredos que poderiam ajudar os Legalistas. Entre eles está a localização de Emily Kaldwin, legítima herdeira do trono."
+
+[HUB.Chapter01_HoundPitHistory DisAbstractItem]
+m_ItemName="Bar Cova do Cão"
+m_PluralItemName=""
+m_Description="O Bar Cova do Cão fica no distrito evacuado do Velho Porto. Era muito popular devido as brigas de cães que atraía muitos clientes bagunceiros, mas está fechado há um bom tempo."
+
+[HUB.Chapter01_PieroShop DisAbstractItem]
+m_ItemName="Oficina de Piero"
+m_PluralItemName=""
+m_Description="Há muitos objetos que você pode juntar e converter em dinheiro. Piero pode usar o dinheiro para lhe dar equipamentos novos e melhorar os que você já tem."
+
+[HUB.Chapter01_Servants DisAbstractItem]
+m_ItemName="Empregados dos Legalistas"
+m_PluralItemName=""
+m_Description="Os Legalistas contam com empregados de confiança que ás vezes lhe falam sobre rumores úteis."
+
+[HUB.Chapter02_AboutWeeper DisAbstractItem]
+m_ItemName="Os Lamentosos"
+m_PluralItemName=""
+m_Description="Os Lamentosos são pessoas que estão em níveis avançados da peste. Já é impossível ajuda-los."
+
+[HUB.Chapter02_CallistaJob DisAbstractItem]
+m_ItemName="Kalista cuidará de Emily"
+m_PluralItemName=""
+m_Description="Callista Curnow se responsabilizará pelos cuidados e pela educação de Emily, caso volte sã e salva do Gato Dourado."
+
+[HUB.Chapter02_EmilyLocation DisAbstractItem]
+m_ItemName="Localização de Lady Emily"
+m_PluralItemName=""
+m_Description="Lady Emily está presa no Gato Dourado, sob controle dos irmãos Pendleton, Morgan e Custis."
+
+[HUB.Chapter02_HavelockBrief DisAbstractItem]
+m_ItemName="Os Pendletons e o Parlamento"
+m_PluralItemName=""
+m_Description="Os irmãos Pendleton controlam votos de suma importância no parlamento e são comprometidos com o Lorde Regente. Ao elimina-los, seus votos passariam de forma legal para seu irmão menor, Treavor Pandleton, que aproveitará para apoiar os Legalistas."
+
+[HUB.Chapter03_BoyleGift DisAbstractItem]
+m_ItemName="As Boyle receberam um presente de seus servos."
+m_PluralItemName=""
+m_Description="As Boyles receberam um presente de seus servos. Está lá em cima perto da cama, numa mesa"
+
+[HUB.Chapter03_DarkEmilyArt DisAbstractItem]
+m_ItemName="Os Desenhos de Emily"
+m_PluralItemName=""
+m_Description="Os desenhos de Emily tomaram um tom mais tenebroso."
+
+[HUB.Chapter03_KingStreetBrandy DisAbstractItem]
+m_ItemName="Conhaque King Street"
+m_PluralItemName=""
+m_Description="Piero tem uma garrafa do conhaque King Street, que é escasso e muito caro."
+
+[HUB.Chapter06_CorvoBetrayed DisAbstractItem]
+m_ItemName="À Deriva"
+m_PluralItemName=""
+m_Description=Depois de ser traído pelo almirante Havelock, pelo Supervisor Martin e por Lorde Pendleton, você conseguiu se salvar no último minuto graças à intervenção do barqueiro Samuel, que te deixou à deriva numa zona nas ruínas de Dunwall."
+
+[HUB.ChapterLog_Hub_01 DisAbstractItem]
+m_ItemName="Notas: Bar Cova do Cão"
+m_PluralItemName=""
+m_Description="O barqueiro Samuel, te levou para o outro lado do rio desde a prisão de Coldridge. Ele trabalha para um movimento clandestino contra o falso regime do Lorde Regente, e te levou para conhecer os membros da organização.\n"
+
+[HUB.ChapterLog_Hub_02 DisAbstractItem]
+m_ItemName="Notas: Bar Cova do Cão"
+m_PluralItemName=""
+m_Description="O Supervisor Campbell foi expulso de sua posição, e o Supervisor Martin, aliado dos Legalistas, foi liberado."
+
+[HUB.ChapterLog_Hub_03 DisAbstractItem]
+m_ItemName="Notas: Bar Cova do Cão"
+m_PluralItemName=""
+m_Description="Lady Emily foi colocada em segurança, sã e salva das garras do Lorde Regente, e os irmãos Pendleton foram neutralizados."
+
+[HUB.ChapterLog_Hub_04 DisAbstractItem]
+m_ItemName="Notas: Bar Cova do Cão"
+m_PluralItemName=""
+m_Description="O Médico Real, Anton Sokolov, foi capturado. Seus conhecimentos profundos sobre a rede de apoio do lorde Regente sem dúvida serão importantes para os Legalistas. Se claro, conseguirem fazer Sokolov colaborar."
+
+[HUB.ChapterLog_Hub_05 DisAbstractItem]
+m_ItemName="Notas: Bar Cova do Cão"
+m_PluralItemName=""
+m_Description="Sem o apoio financeiro das Boyle, o Lorde Regente está perdendo o controle. Chegou o momento de dar os últimos passos para depor o Lorde Regente Hiram Burrows pessoalmente"
+
+[HUB.ChapterLog_Hub_06 DisAbstractItem]
+m_ItemName="Notas: Bar Cova do Cão"
+m_PluralItemName=""
+m_Description="O Lorde Regente não está mais no poder e o caminho para colocar Emily Kaldwin no trono está limpo. Mas o assassino que matou sua mãe continua solto."
+
+[HUB.ChapterNotes_Hub DisAbstractItem]
+m_ItemName="Notas: Bar Cova do Cão"
+m_PluralItemName=""
+m_Description="Bem-vindo ao Bar Cova do Cão.\n"
+
+[HUB.ChapterNotes_HubNight DisAbstractItem]
+m_ItemName="Localização da chave do apartamento abandonado"
+m_PluralItemName=""
+m_Description="Cecilia guarda uma chave embaixo do colchão de sua cama. A chave abre a porta de um apartamento abandonado na frente do Bar."
+
+[LIGHTHOUSE.ChapterLog_Lighthouse DisAbstractItem]
+m_ItemName="Nota: A luz no Fim"
+m_PluralItemName=""
+m_Description="Os líderes da Conspiração Legalista estão num farol monumental, o último projeto militar idealizado pelo Lorde Regente. Eles têm Emily sob custódia, enquanto lutam para assegurar o domínio da cidade. É hora de confrontá-los, decida seus destinos, e determinem o futuro de Dunwall."
+
+[Loyalists.ChapterLog_Loyalists DisAbstractItem]
+m_ItemName="Nota: Os Legalistas"
+m_PluralItemName=""
+m_Description="Depois de escapar do Distrito Inundado, volte para o Bar Cova do Cão. Comece por ali a procurar por ratros dos seus antigos "aliados", afim de verificar para onde levaram Emily"
+
+[Loyalists.ChapterNotes_Loyalists_GuardDeaths1 DisAbstractItem]
+m_ItemName="Todos Morreram"
+m_PluralItemName=""
+m_Description="Todos os guardas foram eliminados. O cerco terminou."
+
+[Loyalists.ChapterNotes_Loyalists_GuardDeaths2 DisAbstractItem]
+m_ItemName="Restam Muitos"
+m_PluralItemName=""
+m_Description="Ainda há muitos guardas vivos."
+
+[Loyalists.ChapterNotes_Loyalists_GuardDeaths3 DisAbstractItem]
+m_ItemName="Restam Poucos"
+m_PluralItemName=""
+m_Description="Apenas alguns guardas permanecem vivos."
+
+[overseer.ChapterNotes_Overseer DisAbstractItem]
+m_ItemName="Nota: Prelado Supervisor Campbell"
+m_PluralItemName=""
+m_Description="O Prelado Supervisor Campbell dirige uma facção religiosa da cidade e é um aliado próximo do Lorde Regente. Campbell é um individuo completamente corrupto, e tem a localização de Emily. Se infiltre em seu escritório, roube seu diário e o mate. Um dos aliados dos Legalistas, Martin, está preso lá, liberte-o e ajude-o a escapar. \n"
+
+[overseer.OvrsrChNote_BookLoc DisAbstractItem]
+m_ItemName="Localização do Livro Negro"
+m_PluralItemName=""
+m_Description="O Prelado Supervisor Campbell carrega o Livro Negro o tempo todo."
+
+[overseer.OvrsrChNote_BrandBook DisAbstractItem]
+m_ItemName="A Marca do Herege"
+m_PluralItemName=""
+m_Description="Existe uma forma de excomungar os supervisores, inclusive o próprio Prelado Supervisor. As instruções se encontram em um livro localizado dentro do arquivo."
+
+[overseer.OvrsrChNote_BrandLoc DisAbstractItem]
+m_ItemName="Localização da Marca do Herege"
+m_PluralItemName=""
+m_Description="A Marca do Herege está na sala do interrogatório."
+
+[overseer.OvrsrChNote_BunkSafe DisAbstractItem]
+m_ItemName="Combinação do Cofre da Casa Segura"
+m_PluralItemName=""
+m_Description="A combinação do cofre da Casa Segura é 2 0 3."
+
+[overseer.OvrsrChNote_CampHiding DisAbstractItem]
+m_ItemName="Esconderijo de Campbell"
+m_PluralItemName=""
+m_Description="O Prelado Supervisor Campbell, temendo por sua vida, se escondeu em seu esconderijo secreto."
+
+[overseer.OvrsrChNote_ChildLoc DisAbstractItem]
+m_ItemName="Paradeiro da Menina Desaparecida"
+m_PluralItemName=""
+m_Description="Você poderá encontrar informações sobre a localização da menina desaparecida no arquivo."
+
+[overseer.OvrsrChNote_KennelCombo DisAbstractItem]
+m_ItemName="Recompensa no Canil"
+m_PluralItemName=""
+m_Description="Há dinheiro dos saques na sala de incineração ao sul do canil. O código de acesso é 217;"
+
+[overseer.OvrsrChNote_Lockdown DisAbstractItem]
+m_ItemName="Fechamento de Emergência"
+m_PluralItemName=""
+m_Description="Em caso de emergência, o escritório do Prelado Supervisor fechará imediatamente. Todas as entradas e saídas serão completamente fechadas."
+
+[overseer.OvrsrChNote_StatueEye DisAbstractItem]
+m_ItemName="O Olho da Estátua"
+m_PluralItemName=""
+m_Description="Campbell estava usando o olho de uma estátua para algo secreto."
+
+[overseer.OvrsrChNote_StatueWorkshop DisAbstractItem]
+m_ItemName="Campbell e a Oficina"
+m_PluralItemName=""
+m_Description="Há alguma relação entre a estátua do canil, o Prelado Supervisor Campbell e a oficina no pátio detrás."
+
+[overseer.OvrsrChNote_Warehouse DisAbstractItem]
+m_ItemName="Armazem A"
+m_PluralItemName=""
+m_Description="No Armazém A estão destruindo uma grande quantidade de talismãs de osso."
+
+[overseer.OvrsrChptrNote_Meeting DisAbstractItem]
+m_ItemName="Reunião de Campbell"
+m_PluralItemName=""
+m_Description="Campbell se reunirá com o capitão Curnow na sala de reuniões do Prelado Supervisor."
+
+[overseer.OvrsrChptrNote_PilloryKey DisAbstractItem]
+m_ItemName="Localização da Chave do Mecanismo"
+m_PluralItemName=""
+m_Description="A chave do mecanismo que prende o Martin está numa barraca no pátio traseiro, atrás do edifício da oficina do Prelado Supervisor. O supervisor encarregado dela deixou próximo à sua cama "
+
+[overseer.OvrsrChptrNote_Poisoning DisAbstractItem]
+m_ItemName="O Envenenamento"
+m_PluralItemName=""
+m_Description="Campbell planeja envenenar o capitão da Guarda, Curnow. Ele Chantageou um supervisor de baixa graduação para que coloque veneno nas bebidas que vão tomar depois da reunião."
+
+[overseer.OvrsrChptrNote_SecretLoc DisAbstractItem]
+m_ItemName="Localização da Sala Secreta de Campbell"
+m_PluralItemName=""
+m_Description="Campbell tem uma sala secreta onde esconde coisas dos outros supervisores, Há um acesso para esta sala por trás da estátua de Holger, perto da entrada do canil no porão ."
+
+[overseer.OvrsrChptrNote_SecretRoom DisAbstractItem]
+m_ItemName="A Sala Secreta de Campbell"
+m_PluralItemName=""
+m_Description="O Prelado Supervisor Campbell tem uma sala secreta em algum lugar no escritório do supervisor."
+
+[overseer.OvrsrChptrNote_Statue DisAbstractItem]
+m_ItemName="A Estátua da Sala Secreta"
+m_PluralItemName=""
+m_Description="A sala secreta de Campbell está escondida por trás de uma estátua de Benjamin Holger."
+
+[SampleChapterLog DisAbstractItem]
+m_ItemName="Notas: [Nome do capítulo]"
+m_PluralItemName=""
+m_Description="[A nota inicial se resume a um breve resumo do que o jogador sabe ao começar a missão]"
+
+[SampleChapterNote DisAbstractItem]
+m_ItemName="[Nome da nota, deverá incluir a ideia central]"
+m_PluralItemName=""
+m_Description="[Sua nota. Que seja breve e precisa]"
+
+[STREETS.ArtDealerKey DisAbstractItem]
+m_ItemName="Nota Sobre o Comerciante de Arte"
+m_PluralItemName=""
+m_Description="O criado do Comerciante de Arte te deu a chave da entrada de serviço da casa. Acredita-se que ali possam haver objetos de valor."
+
+[STREETS.ArtDealerSafe DisAbstractItem]
+m_ItemName="Cofre do Comerciante de Arte"
+m_PluralItemName=""
+m_Description="Há um cofre fechado na casa do Comerciante de Arte. A Gangue de Slackjaw não conseguiu abrir, logo, a combinação deve estar em outro lugar."
+
+[STREETS.ArthursNote DisAbstractItem]
+m_ItemName="Notas de Arthur"
+m_PluralItemName=""
+m_Description="Alguém chamado Arthur está esperando uma mulher chamada Gwen no final da Clavering Boulevard com as economias de toda sua vida."
+
+[STREETS.BottleStreetWarning DisAbstractItem]
+m_ItemName="Introdução de Samuel"
+m_PluralItemName=""
+m_Description="A Guarda controla Clavering Boulevard, bem depois da Parede de Luz. A gangue de Bottle Street controla as ruas próximas a Clavering Boulevard. A Vovó Esfarrapada vive em um apartamento do outro lado de Rua Endoria."
+
+[STREETS.ChapterLog_Streets DisAbstractItem]
+m_ItemName="Notas: [Nome do capítulo]"
+m_PluralItemName=""
+m_Description="[A nota inicial se resume a um breve resumo do que o jogador sabe ao começar a missão]"
+
+[STREETS.ClaveringStreetWarning DisAbstractItem]
+m_ItemName="Aviso de Samuel"
+m_PluralItemName=""
+m_Description="A Guarda controla Clavering Boulevard, bem depois da Parede de Luz. A gangue de Bottle Street controla as ruas próximas a Clavering Boulevard. A Vovó Esfarrapada vive em um apartamento do outro lado de Rua Endoria."
+
+[STREETS.CleaningLady DisAbstractItem]
+m_ItemName="Srta. da limpeza"
+m_PluralItemName=""
+m_Description="Por alguma razão, Galvani avisou para a sua empregada não chegar perto da estante de seu laboratório."
+
+[STREETS.Galvani2Safe DisAbstractItem]
+m_ItemName="Diário do Dr. Galvani"
+m_PluralItemName=""
+m_Description="O dia mais importante da vida do Dr. Galvani é 28/7, o dia 28 do sétimo mês."
+
+[STREETS.GalvaniBookshelf DisAbstractItem]
+m_ItemName="A Estante de Livros"
+m_PluralItemName=""
+m_Description="Dr. Galvani tem um quarto secreto escondido por trás de uma estante cheia de livros."
+
+[STREETS.GalvaniRiverKrust DisAbstractItem]
+m_ItemName="As Ostras de Rio"
+m_PluralItemName=""
+m_Description="Os ostras do rio ficam vulneráveis quando abrem suas conchas protetoras para lançar o ácido de suas presas."
+
+[STREETS.GalvaniSafe DisAbstractItem]
+m_ItemName="Diário do Dr. Galvani"
+m_PluralItemName=""
+m_Description="O dia mais importante da vida do Dr. Galvani é 28/7, o dia 28 do sétimo mês."
+
+[STREETS.GrannyRagsPlan DisAbstractItem]
+m_ItemName="Ajude a Vovó Esfarrapada "
+m_PluralItemName=""
+m_Description="A Vovó Esfarrapada quer ajuda contra a gangue de Bottle Street. As vísceras de rato do laboratório do Dr. Galvani podem servir para infectar as garrafas de elixir da destilaria de Whisky de Dunwall."
+
+[STREETS.GriffShop DisAbstractItem]
+m_ItemName="Griff"
+m_PluralItemName=""
+m_Description="Griff vende objetos recuperados em Bloodox Way."
+
+[STREETS.Informant DisAbstractItem]
+m_ItemName="Nota Sobre Crowley"
+m_PluralItemName=""
+m_Description="Slackjaw quer saber o que houve com Crowley e suspeita do Dr. Galvani, que vive em Clavering Boulevard."
+
+[STREETS.MercyOption_Combination DisAbstractItem]
+m_ItemName="Nota Sobre o Comerciante de Artes"
+m_PluralItemName=""
+m_Description="Slackjaw quer a combinação do cofre do Comerciante de Arte. Em troca Slackjaw neutralizará os irmãos Pendleton (sem mata-los)."
+
+[STREETS.RewireTool DisAbstractItem]
+m_ItemName="Ferramenta de Religação"
+m_PluralItemName=""
+m_Description="A Ferramenta de Religação te permite mudar a polaridade das Paredes de Luz. Isso será letal para a Guarda e inofensivo para quem usar a ferramenta e realizar o ajuste."
+
+[STREETS.TheStill DisAbstractItem]
+m_ItemName="A Destilaria"
+m_PluralItemName=""
+m_Description="A guangue da Bottle Street tem uma destilaria clandestina de elixir dentro da Whisky Old Dunwall. Estão criando sua própria versão do elixir de saúde de Sokolov para vendê-lo."
+
+[STREETS.WoLReminder DisAbstractItem]
+m_ItemName="Lembranças de Curnow"
+m_PluralItemName=""
+m_Description="O ativar a Parede de Luz, o óleo de baleia que o alimenta será consumido. Os tanques de óleos de baleia têm capacidade limitada, e uma hora acabará."
+
+[TowerReturn.ChapterNotes_TowerReturn DisAbstractItem]
+m_ItemName="Notas: Voltando à Torre"
+m_PluralItemName=""
+m_Description="Você retornou para o início de tudo: A Torre de Dunwall. Chegou o momento de colocar um fim no regime corrupto de Hiran Burrows, o Lorde Regente."
+
+[TowerReturn.TowerReturnChptrNote_Broadcast DisAbstractItem]
+m_ItemName="Posto de Transmissões"
+m_PluralItemName=""
+m_Description="O posto de controle de transmissões está na torre. Pode ser uma boa oportunidade para acabar com o sistema de propaganda do regime do Lorde Regente."
+
+[TowerReturn.TowerReturnChptrNote_Moat DisAbstractItem]
+m_ItemName="Sala do Fosso"
+m_PluralItemName=""
+m_Description="Essa válvula controla a comporta de drenagem que dá acesso ao fosso, que leva ao pátio principal. Cuidado com as enguias no fosso."
+
+[TowerReturn.TowerReturnChptrNote_Moat_NoValve DisAbstractItem]
+m_ItemName="Sala do Fosso"
+m_PluralItemName=""
+m_Description="A comporta de drenagem dá acesso ao fosso, que leva ao pátio principal perto das portas principais das torres. Cuidado com as enguias no fosso."
+
+[TowerReturn.TowerReturnChptrNote_RegentRoof DisAbstractItem]
+m_ItemName="Acabe com o Regime do Lorde Regente"
+m_PluralItemName=""
+m_Description="O Lorde Regente tem uma "sala de segurança" no telhado da Torre de Dunwall."
+
+[TowerReturn.TowerReturnChptrNote_RegentToRoom DisAbstractItem]
+m_ItemName="O Regente Fugiu Para o Quarto"
+m_PluralItemName=""
+m_Description="Disparar o alarme fará o Regente se esconder em sua sala segura no telhado."
+
+[TowerReturn.TowerReturnChptrNote_Safe DisAbstractItem]
+m_ItemName="Combinação do Cofre Regente"
+m_PluralItemName=""
+m_Description="Há uma gravação com a confissão do Regente guardado em um cofre que está no seu quarto. A combinação é 935."
+
+[TowerReturn.TowerReturnChptrNote_Start DisAbstractItem]
+m_ItemName="Acabe com o Regime do Lorde Regente"
+m_PluralItemName=""
+m_Description="Disparar o alarme fará o Regente se esconder em sua sala segura no telhado."
+
+[TowerReturn.TowerReturnChptrNote_Torturer DisAbstractItem]
+m_ItemName="Torturador"
+m_PluralItemName=""
+m_Description="O torturador está na Torre de Dunwall e esse poderia ser o momento perfeito para você se vingar do monstro que o fez sofrer."
+

@@ -1,0 +1,43 @@
+﻿[DLC07_DW_HelpGeezer_Obj DishonoredObjective]
+m_Description="The Geezer’s Last Wish"
+
+[DLC07_DW_HelpGeezer_Obj:DishonoredTask_Custom_0 DishonoredTask_Custom]
+m_Description="Find a Jar of Bull Rat Fetus in the storage room"
+m_Status=""
+
+[DLC07_DW_HelpGeezer_Obj:DishonoredTask_Custom_1 DishonoredTask_Custom]
+m_Description="Find Metallic Salts on the manufacturing floor"
+m_Status=""
+
+[DLC07_DW_HelpGeezer_Obj:DishonoredTask_Custom_2 DishonoredTask_Custom]
+m_Description="Acquire an Oxrush Flower in Drapers Ward"
+m_Status=""
+
+[DLC07_DW_HelpGeezer_Obj:DishonoredTask_Custom_3 DishonoredTask_Custom]
+m_Description="Use the Still and an Empty Vial to mix the antitoxin ingredients"
+m_Status=""
+
+[DLC07_DW_HelpGeezer_Obj:DishonoredTask_Custom_4 DishonoredTask_Custom]
+m_Description="Drink antitoxin"
+m_Status=""
+
+[DLC07_DW_HelpGeezer_Obj:DishonoredTask_Custom_5 DishonoredTask_Custom]
+m_Description="Get the antitoxin Formula"
+m_Status=""
+
+[DLC07_DW_HelpGeezer_Obj:DishonoredTask_Custom_62 DishonoredTask_Custom]
+m_Description="Turn off the Geezer's Life Support Machine"
+m_Status=""
+
+[DLC07_DW_HelpGeezer_Obj:DishonoredTask_Custom_66 DishonoredTask_Custom]
+m_Description="Search Trimble's Lab for clues to the antitoxin formula"
+m_Status=""
+
+[DLC07_DW_HelpGeezer_Obj:DishonoredTask_Custom_67 DishonoredTask_Custom]
+m_Description="Find out what Trimble's lab key opens (Delete)"
+m_Status=""
+
+[DLC07_DW_HelpGeezer_Obj:DishonoredTask_Custom_68 DishonoredTask_Custom]
+m_Description="Return to the Geezer"
+m_Status=""
+

@@ -1,0 +1,38 @@
+﻿[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_SetTutorialMessage_0 DisSeqAct_SetTutorialMessage]
+m_TutorialMessage="Seu mana acabou. O Mana se regenera pouco a pouco com o tempo. Encontre remédios espirituais para regenerá-lo completamente."
+m_TutorialMessage_Gamepad=""
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_SetTutorialMessage_1 DisSeqAct_SetTutorialMessage]
+m_TutorialMessage="Se você quiser usar o Teleporte para subir, aponte o poder para o parapeito de um telhado ou outra superfície elevada."
+m_TutorialMessage_Gamepad="Se você quiser usar o Teleporte para subir, aponte o poder para o parapeito de um telhado ou outra superfície elevada."
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_UpdateTaskTarget_0 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Gravidade Estranha"
+
+[TheWorld:PersistentLevel.Main_Sequence.Outsider_Intro_Blink.DisSeqAct_SetTutorialMessage_0 DisSeqAct_SetTutorialMessage]
+m_TutorialMessage="Segure `GBA_Wheel` para abrir a Roda de Acesso Rápido e equipar o Teleporte"
+m_TutorialMessage_Gamepad="Segure `GBA_Wheel` para abrir a Roda de Acesso Rápido e equipar o Teleporte"
+
+[TheWorld:PersistentLevel.Main_Sequence.Outsider_Intro_Blink.DisSeqAct_SetTutorialMessage_1 DisSeqAct_SetTutorialMessage]
+m_TutorialMessage="Segure `GBA_Secondary` para mirar o Teleporte. Solte `GBA_Secondary` para usar.  "
+m_TutorialMessage_Gamepad="Segure `GBA_Secondary` para mirar o Teleporte. Solte `GBA_Secondary` para usar.  "
+
+[TheWorld:PersistentLevel.Main_Sequence.Outsider_Intro_Blink.DisSeqAct_SetTutorialMessage_2 DisSeqAct_SetTutorialMessage]
+m_TutorialMessage="Segure `GBA_Wheel` para abrir a Roda de Acesso Rápido e equipar o Teleporte"
+m_TutorialMessage_Gamepad="Segure `GBA_Wheel` para abrir a Roda de Acesso Rápido e equipar o Teleporte"
+
+[TheWorld:PersistentLevel.Main_Sequence.Outsider_Intro_Blink.DisSeqAct_UpdateTaskTarget_0 DisSeqAct_UpdateTaskTarget]
+m_TargetName=""
+
+[TheWorld:PersistentLevel.Main_Sequence.Outsider_Intro_Blink.DisSeqAct_UpdateTaskTarget_1 DisSeqAct_UpdateTaskTarget]
+m_TargetName="O Estranho"
+
+[TheWorld:PersistentLevel.Main_Sequence.Outsider_Intro_Blink.DisSeqAct_UpdateTaskTarget_2 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Salto de Fé"
+
+[TheWorld:PersistentLevel.Main_Sequence.Outsider_Intro_Blink.DisSeqAct_UpdateTaskTarget_3 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Cuidado Onde Pisa"
+
+[TheWorld:PersistentLevel.Main_Sequence.Outsider_Intro_Blink.DisSeqAct_UpdateTaskTarget_4 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Um Pequeno Desafio"
+

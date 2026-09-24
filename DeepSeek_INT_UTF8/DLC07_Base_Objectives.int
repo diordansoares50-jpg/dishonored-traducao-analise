@@ -1,0 +1,22 @@
+﻿[DLC07_CorvoFight_Objectives DishonoredObjective]
+m_Description="Derrote Corvo Attano"
+
+[DLC07_CorvoFight_Objectives:DishonoredTask_Custom_0 DishonoredTask_Custom]
+m_Description="Derrote Corvo Attano"
+m_Status=""
+
+[DLC07_IntroPrep_Objectives DishonoredObjective]
+m_Description="Prepare-se para Sua Viagem"
+
+[DLC07_IntroPrep_Objectives:DishonoredTask_Custom_0 DishonoredTask_Custom]
+m_Description="Fale com Thomas para o Briefing"
+m_Status=""
+
+[DLC07_IntroPrep_Objectives:DishonoredTask_Custom_1 DishonoredTask_Custom]
+m_Description="Reúna Seu Equipamento"
+m_Status=""
+
+[DLC07_IntroPrep_Objectives:DishonoredTask_Custom_2 DishonoredTask_Custom]
+m_Description="Falar com Thomas para Sair"
+m_Status=""
+

@@ -1,0 +1,172 @@
+﻿[DLC06_Assault_Ovrs_Objective DishonoredObjective]
+m_Description="Repel the Overseer Attack"
+
+[DLC06_Assault_Ovrs_Objective:DishonoredTask_Custom_44 DishonoredTask_Custom]
+m_Description="Eliminate Overseer Hume"
+m_Status=""
+
+[DLC06_Assault_Ovrs_Objective:DishonoredTask_Custom_45 DishonoredTask_Custom]
+m_Description="Search Overseer Hume's body for information"
+m_Status=""
+
+[DLC06_Assault_Ovrs_Objective:DishonoredTask_Custom_46 DishonoredTask_Custom]
+m_Description="Eliminate the last Overseer armed with a music box"
+m_Status=""
+
+[DLC06_Assault_Ovrs_Objective:DishonoredTask_Custom_62 DishonoredTask_Custom]
+m_Description="Acquire the Assault Plans from the Overseer headquarters"
+m_Status=""
+
+[DLC06_Assault_Ovrs_Objective:DishonoredTask_Custom_63 DishonoredTask_Custom]
+m_Description="Free 5 of your captured assassins"
+m_Status=""
+
+[DLC06_Assault_Ovrs_Objective:DishonoredTask_Custom_64 DishonoredTask_Custom]
+m_Description="Free 4 of your captured assassins"
+m_Status=""
+
+[DLC06_Assault_Ovrs_Objective:DishonoredTask_Custom_65 DishonoredTask_Custom]
+m_Description="Free 3 more of your captured assassins"
+m_Status=""
+
+[DLC06_Assault_Ovrs_Objective:DishonoredTask_Custom_66 DishonoredTask_Custom]
+m_Description="Free 2 more of your captured assassins"
+m_Status=""
+
+[DLC06_Assault_Ovrs_Objective:DishonoredTask_Custom_67 DishonoredTask_Custom]
+m_Description="Free 1 more of your captured assassins"
+m_Status=""
+
+[DLC06_Assault_Ovrs_Objective:DishonoredTask_Custom_69 DishonoredTask_Custom]
+m_Description="Eliminate the last 2 Musical Overseers"
+m_Status=""
+
+[DLC06_Assault_Ovrs_Objective:DishonoredTask_Custom_70 DishonoredTask_Custom]
+m_Description="Eliminate the 3 remaining Musical Overseers"
+m_Status=""
+
+[DLC06_Assault_Ovrs_Objective:DishonoredTask_Custom_71 DishonoredTask_Custom]
+m_Description="Eliminate the 4 remaining Musical Overseers"
+m_Status=""
+
+[DLC06_Assault_Ovrs_Objective:DishonoredTask_Custom_72 DishonoredTask_Custom]
+m_Description="Eliminate the 5 remaining Musical Overseers"
+m_Status=""
+
+[DLC06_Assault_Ovrs_Objective:DishonoredTask_Custom_73 DishonoredTask_Custom]
+m_Description="Eliminate the 6 remaining Musical Overseers"
+m_Status=""
+
+[DLC06_Assault_Ovrs_Objective:DishonoredTask_Custom_74 DishonoredTask_Custom]
+m_Description="Eliminate all remaining Musical Overseers"
+m_Status=""
+
+[DLC06_Assault_Ovrs_Objective:DishonoredTask_Custom_77 DishonoredTask_Custom]
+m_Description="Eliminate the 7 remaining Musical Overseers"
+m_Status=""
+
+[DLC06_Assault_Ovrs_Objective:DishonoredTask_Custom_78 DishonoredTask_Custom]
+m_Description="Eliminate the 8 remaining Musical Overseers"
+m_Status=""
+
+[DLC06_Assault_Ovrs_Objective:DishonoredTask_Custom_79 DishonoredTask_Custom]
+m_Description="A captured assassin has been incapacitated!"
+m_Status=""
+
+[DLC06_Assault_Ovrs_Objective:DishonoredTask_Custom_80 DishonoredTask_Custom]
+m_Description="A captured assassin has been freed!"
+m_Status=""
+
+[DLC06_Assault_Ovrs_Objective:DishonoredTask_Custom_81 DishonoredTask_Custom]
+m_Description="A musical overseer has been eliminated!"
+m_Status=""
+
+[DLC06_Assault_Ovrs_Objective:DishonoredTask_Custom_84 DishonoredTask_Custom]
+m_Description="Meet with your assassins"
+m_Status=""
+
+[DLC06_Assault_Plans_Objective DishonoredObjective]
+m_Description="Regroup"
+
+[DLC06_Assault_Plans_Objective:DishonoredTask_Custom_44 DishonoredTask_Custom]
+m_Description="Regroup with your assassins"
+m_Status=""
+
+[DLC06_Assault_Plans_Objective:DishonoredTask_Custom_68 DishonoredTask_Custom]
+m_Description="Decide Billie Lurk's fate"
+m_Status=""
+
+[DLC06_Assault_Plans_Objective:DishonoredTask_Custom_75 DishonoredTask_Custom]
+m_Description="Review the Assault Plans"
+m_Status=""
+
+[DLC06_Assault_Plans_Objective:DishonoredTask_Custom_76 DishonoredTask_Custom]
+m_Description="Defeat Billie Lurk"
+m_Status=""
+
+[DLC06_Assault_Plans_Objective:DishonoredTask_Custom_82 DishonoredTask_Custom]
+m_Description="Order the counter attack"
+m_Status=""
+
+[DLC06_Assault_Plans_Objective:DishonoredTask_Custom_83 DishonoredTask_Custom]
+m_Description="End Billie Lurk's life"
+m_Status=""
+
+[DLC06_Assault_Scout_Objective DishonoredObjective]
+m_Description="The Messenger"
+
+[DLC06_Assault_Scout_Objective:DishonoredTask_Custom_44 DishonoredTask_Custom]
+m_Description="Make contact with the scout"
+m_Status=""
+
+[DLC06_Assault_Trapped_Objective DishonoredObjective]
+m_Description="Captured Assassins"
+
+[DLC06_Assault_Trapped_Objective:DishonoredTask_Custom_44 DishonoredTask_Custom]
+m_Description="Meet up with Max"
+m_Status=""
+
+[DLC06_Assault_Trapped_Objective:DishonoredTask_Custom_45 DishonoredTask_Custom]
+m_Description="Take out the Musical Overseer"
+m_Status=""
+
+[DLC06_Assault_Trapped_Objective:DishonoredTask_Custom_46 DishonoredTask_Custom]
+m_Description="Free the assassin"
+m_Status=""
+
+[DLC06_Assault_Trapped_Objective:DishonoredTask_Custom_53 DishonoredTask_Custom]
+m_Description="Meet up with Max"
+m_Status=""
+
+[DLC06_Assault_Trapped_Objective:DishonoredTask_Custom_54 DishonoredTask_Custom]
+m_Description="Meet up with Max"
+m_Status=""
+
+[DLC06_Assault_Trapped_Objective:DishonoredTask_Custom_55 DishonoredTask_Custom]
+m_Description="Meet up with Max"
+m_Status=""
+
+[DLC06_Assault_Trapped_Objective:DishonoredTask_Custom_56 DishonoredTask_Custom]
+m_Description="Take out the Musical Overseer"
+m_Status=""
+
+[DLC06_Assault_Trapped_Objective:DishonoredTask_Custom_57 DishonoredTask_Custom]
+m_Description="Take out the Musical Overseer"
+m_Status=""
+
+[DLC06_Assault_Trapped_Objective:DishonoredTask_Custom_58 DishonoredTask_Custom]
+m_Description="Take out the Musical Overseer"
+m_Status=""
+
+[DLC06_Assault_Trapped_Objective:DishonoredTask_Custom_59 DishonoredTask_Custom]
+m_Description="Free the assassin"
+m_Status=""
+
+[DLC06_Assault_Trapped_Objective:DishonoredTask_Custom_60 DishonoredTask_Custom]
+m_Description="Free the assassin"
+m_Status=""
+
+[DLC06_Assault_Trapped_Objective:DishonoredTask_Custom_61 DishonoredTask_Custom]
+m_Description="Free the assassin"
+m_Status=""
+

@@ -1,0 +1,20 @@
+﻿[Twk_Inv_CrossbowCorvo:DisTweaks_InventoryItem_PlayerSpecific_1 DisTweaks_InventoryItem_PlayerSpecific]
+m_Name="Besta do Corvo"
+m_Description="Uma arma silenciosa e exótica, forjada com os melhores materiais. Usada para disparar virotes, dardos soníferos e mísseis incendiários."
+
+[Twk_Inv_PistolCorvo:DisTweaks_InventoryItem_PlayerSpecific_0 DisTweaks_InventoryItem_PlayerSpecific]
+m_Name="Pistola do Corvo"
+m_Description="Feita sob medida com personalização em mente, esta é a melhor arma de fogo das Ilhas. Permite melhorias de pistola e adiciona dano de dispersão de curto alcance."
+
+[Twk_Inv_PistolEliteGuard_Player:DisTweaks_InventoryItem_PlayerSpecific_1 DisTweaks_InventoryItem_PlayerSpecific]
+m_Name="Pistola da Guarda da Cidade"
+m_Description="Arma de fogo moderna, utilizada por oficiais da Guarda Urbana, veteranos e a nobreza."
+
+[Twk_Inv_SpringRazorCorvo:DisTweaks_InventoryItem_PlayerSpecific_1 DisTweaks_InventoryItem_PlayerSpecific]
+m_Name=""
+m_Description=""
+
+[Twk_Inv_SwordCorvo:DisTweaks_InventoryItem_PlayerSpecific_1 DisTweaks_InventoryItem_PlayerSpecific]
+m_Name="Lâmina Dobrável de Corvo"
+m_Description="Leve, retrátil e mais afiada que uma navalha."
+

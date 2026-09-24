@@ -1,0 +1,128 @@
+﻿[Alarm.DLC06_Alarm_panel_Box_twk:DisTweaks_InteractableInterface_1 DisTweaks_InteractableInterface]
+m_Name="Alarm Panel"
+
+[Alarm.DLC06_Alarm_panel_twk:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Alarm Circuitry"
+m_UseMessage="This alarm has been deactivated"
+
+[Alarm.DLC06_AlarmBase DisTweaks_AlarmBell]
+m_UnlockInteractText="`GBA_Use` Unlock"
+m_LockedMessage=""
+m_UnauthorizedMessage=""
+m_FocusMessage=""
+m_FocusLockedMessage=""
+
+[Alarm.DLC06_AlarmBase:DisTweaks_Interactable_AlarmBell_0 DisTweaks_Interactable_AlarmBell]
+m_UnringAlarmText="`GBA_Use` Silence"
+m_Name="Alarm Bell"
+m_InteractText=" `GBA_Use` Ring"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Battery.DLC06_WhaleOilBattery_twk DisTweaks_WhaleOilBattery]
+m_EmptyName="Empty Oil Tank"
+
+[Battery.DLC06_WhaleOilBattery_twk:DisTweaks_InteractableInterface_0 DisTweaks_InteractableInterface]
+m_Name="Whale Oil Tank"
+m_InteractText="`GBA_Use` Carry"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Battery.DLC06_WhaleOilBttry_empty DisTweaks_WhaleOilBattery]
+m_EmptyName="Empty Oil Tank"
+
+[Battery.DLC06_WhaleOilBttry_empty:DisTweaks_InteractableInterface_0 DisTweaks_InteractableInterface]
+m_Name="Whale Oil Tank"
+m_InteractText="`GBA_Use` Carry"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Generic.DLC06_ArcPylon_eye_panel:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Arc Pylon Circuitry"
+m_UseMessage="This Arc Pylon will now harm enemies instead of you"
+
+[Generic.DLC06_Arcpylon_eye_panel_box:DisTweaks_InteractableInterface_1 DisTweaks_InteractableInterface]
+m_Name="Arc Pylon Panel"
+
+[Generic.DLC06_BulletLauncher:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Bullet Launcher"
+
+[Generic.DLC06_ExplosiveBulletLauncher:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Explosive Bullet Launcher"
+
+[Generic.DLC06_Generic_eye_panel DisTweaks_UsableObject]
+m_UnlockInteractText="`GBA_Use` Unlock"
+m_LockedMessage=""
+m_UnauthorizedMessage="`GBA_Use` Use"
+m_FocusMessage="Rewire Tools Remaining: `q"
+m_FocusLockedMessage=""
+
+[Generic.DLC06_Generic_eye_panel:DisTweaks_InteractableInterface_0 DisTweaks_InteractableInterface]
+m_Name="Circuitry"
+m_InteractText="`GBA_Use` Rewire"
+m_AltInteractText=""
+m_UseMessage="This device is now rewired"
+m_AltUseMessage=""
+m_CannotUseMessage="You don't have any rewiring tools"
+
+[Generic.DLC06_Generic_eye_panel_box DisTweaks_UsableObject]
+m_Stages[1]=(m_InteractTextOverride="`GBA_Use` Close")
+m_UnlockInteractText="`GBA_Use` Unlock"
+m_LockedMessage=""
+m_UnauthorizedMessage=""
+m_FocusMessage=""
+m_FocusLockedMessage=""
+
+[Generic.DLC06_Generic_eye_panel_box:DisTweaks_InteractableInterface_1 DisTweaks_InteractableInterface]
+m_Name="Metal Panel"
+m_InteractText="`GBA_Use` Open"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Generic.DLC06_GrenadeLauncher:DisTweaks_InteractableInterface_2 DisTweaks_InteractableInterface]
+m_Name="Projectile Launcher"
+m_InteractText="`GBA_Use` Disarm"
+m_AltInteractText=""
+m_UseMessage="Launcher disarmed"
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Generic.DLC06_Tripwire_DoubleDoor:DisTweaks_InteractableInterface_0 DisTweaks_InteractableInterface]
+m_Name="Tripwire"
+m_InteractText="`GBA_Use` Trigger"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Generic.DLC06_Tripwire_Hallway:DisTweaks_InteractableInterface_1 DisTweaks_InteractableInterface]
+m_Name="Tripwire"
+m_InteractText="`GBA_Use` Trigger"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Generic.DLC06_Tripwire_SimpleDoor:DisTweaks_InteractableInterface_2 DisTweaks_InteractableInterface]
+m_Name="Tripwire"
+m_InteractText="`GBA_Use` Trigger"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Generic.DLC06_WallOfLight_eye_panel:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Wall of Light Circuitry"
+m_UseMessage="This Wall of Light will now harm enemies instead of you"
+
+[Generic.DLC06_WOL_eye_panel_box:DisTweaks_InteractableInterface_1 DisTweaks_InteractableInterface]
+m_Name="Security Door Panel"
+

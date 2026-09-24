@@ -1,0 +1,59 @@
+﻿[Notes.AbstrInv_Disclaimer DisAbstractItem]
+m_ItemName="Kill Chain"
+m_PluralItemName=""
+m_Description="Eliminate an increasing number of enemies with less than 4 seconds between each kill.\n \nThe countdown timer only starts after the first enemy has been killed. Take your time to set up your actions.\n\nExperiment with your supernatural powers and gadgets. Bend Time specifically is your best ally.\nIt's also possible to use your environment creatively. \nDon't forget to rewire the security systems if you intend to use them to your advantage.\n \nScoring:  \n* Each kill gives you points.\n* The less time between the kills, the more points you score.\n* Kill enemies in different ways to score more points. \n \nSpecial: \nEach time a round is completed, you have the possibility to play a bonus round with a unique objective. Don't mess up this one, you can't restart it if you fail. \n \nGame Over: \nThere is no game over. If you fail a round, you just restart it."
+
+[Notes.AbstrInv_Phase01_Chain_Disclaimer DisAbstractItem]
+m_ItemName="Round 01 - Chain Bonus"
+m_PluralItemName=""
+m_Description="Kill 3 characters in 1 second without using Bend Time."
+
+[Notes.AbstrInv_Phase01_Env_Disclaimer DisAbstractItem]
+m_ItemName="Round 01 - Environmental Bonus"
+m_PluralItemName=""
+m_Description="Kill 3 characters using the Street Speakers."
+
+[Notes.AbstrInv_Phase02_Chain_Disclaimer DisAbstractItem]
+m_ItemName="Round 02 - Chain Bonus"
+m_PluralItemName=""
+m_Description="Kill 6 characters using only the Crossbow."
+
+[Notes.AbstrInv_Phase02_Env_Disclaimer DisAbstractItem]
+m_ItemName="Round 02 - Environmental Bonus"
+m_PluralItemName=""
+m_Description="Kill 6 characters without using any physical weapon."
+
+[Notes.AbstrInv_Phase03_Chain_Disclaimer DisAbstractItem]
+m_ItemName="Round 03 - Chain Bonus"
+m_PluralItemName=""
+m_Description="Kill 10 characters using only your sword & the Blink power."
+
+[Notes.AbstrInv_Phase03_Env_Disclaimer DisAbstractItem]
+m_ItemName="Round 03 - Environmental Bonus"
+m_PluralItemName=""
+m_Description="Kill 10 characters using whale oil tanks."
+
+[Notes.AbstrInv_Phase04_Chain_Disclaimer DisAbstractItem]
+m_ItemName="Round 04 - Chain Bonus"
+m_PluralItemName=""
+m_Description="Kill 15 characters using only the Windblast power."
+
+[Notes.AbstrInv_Phase04_Env_Disclaimer DisAbstractItem]
+m_ItemName="Round 04 - Environmental Bonus"
+m_PluralItemName=""
+m_Description="Kill 15 characters without using any Weapon."
+
+[Notes.AbstrInv_Phase05_Chain_Disclaimer DisAbstractItem]
+m_ItemName="Round 05 - Chain Bonus"
+m_PluralItemName=""
+m_Description="Kill 20 characters using only Grenades."
+
+[Notes.AbstrInv_Phase05_Env_Disclaimer DisAbstractItem]
+m_ItemName="Round 05 - Environmental Bonus"
+m_PluralItemName=""
+m_Description="Kill 20 characters using at least 3 different Environmental Kills."
+
+[Notes.DisclaimerExpert_Pickup DisTweaks_AbstractItemPickupNote]
+m_PressKeyToReadMessage=""
+m_OnPickupMessage=""
+

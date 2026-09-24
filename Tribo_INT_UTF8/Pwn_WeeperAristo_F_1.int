@@ -1,0 +1,12 @@
+﻿[Pwn_WeeperAristo_F_1 DisTweaks_NPCPawn]
+m_BusyText="Esse personagem está ocupado"
+m_CannotStealMessage="Você não pode mais carregar esse tipo de munição"
+
+[Pwn_WeeperAristo_F_1:DisTweaks_InteractableInterface_38 DisTweaks_InteractableInterface]
+m_Name="Lamentoso"
+m_InteractText=""
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+

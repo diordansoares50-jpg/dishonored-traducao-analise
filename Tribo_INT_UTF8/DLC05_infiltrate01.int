@@ -1,0 +1,15 @@
+﻿[DLC01_infiltrate01_obj DishonoredObjective]
+m_Description="Steal the Jewel Box inside the Mansion"
+
+[DLC01_infiltrate01_obj:DishonoredTask_Custom_0 DishonoredTask_Custom]
+m_Description="Steal the mansion key"
+m_Status=""
+
+[DLC01_infiltrate01_obj:DishonoredTask_Custom_1 DishonoredTask_Custom]
+m_Description="Open the mansion door"
+m_Status=""
+
+[DLC01_infiltrate01_obj:DishonoredTask_Custom_2 DishonoredTask_Custom]
+m_Description="Steal the Jewel Box"
+m_Status=""
+

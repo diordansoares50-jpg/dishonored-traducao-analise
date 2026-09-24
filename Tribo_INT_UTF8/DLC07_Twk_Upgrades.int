@@ -1,0 +1,13 @@
+﻿[DLC07_Upgrade_AmnesiaDust_Unlock DisTweaks_Upgrade]
+m_Name="Baffle Dust Upgrade"
+m_Description="Enemies affected by baffle dust will become confused and forget what they were doing."
+
+[DLC07_Upgrade_AntiToxin DisTweaks_Upgrade]
+m_Name="Antitoxin Inoculation"
+m_Description="Damage from River Krust attacks and from substances derived of River Krusts is reduced."
+
+[dlc07_Upgrade_BoneCharms4 DisTweaks_Upgrade]
+m_Name="Bone Charm Capacity Upgrade 4"
+m_Description="Enables two additional bone charms to be active. (Total 8)"
+
+

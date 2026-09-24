@@ -1,0 +1,195 @@
+﻿[Inventory.Conviction_Doc_Abst DisAbstractItem]
+m_ItemName="Eviction Document"
+m_PluralItemName=""
+m_Description="This document, dated a month ago, accuses Timsh of plague infection in his estate, and orders the seizure of his assets."
+
+[Inventory.Hatter_Evidence_Abst DisAbstractItem]
+m_ItemName="Hatter Gang Hat"
+m_PluralItemName=""
+m_Description="A hat clearly belonging to the Hatter gang. Looks like one of them got into the Captain's room and took his key to the Legal District."
+
+[Inventory.Immunity_Doc_Abst DisAbstractItem]
+m_ItemName="Legal Immunity Document"
+m_PluralItemName=""
+m_Description="This is a signed letter from the Lord Regent granting Timsh legal immunity to all plague provisions."
+
+[Inventory.Odorous_Sack_Abst DisAbstractItem]
+m_ItemName="Odorous Sack"
+m_PluralItemName=""
+m_Description="This sack carries a very unfortunate odor."
+
+[Inventory.Tarot_Card_Abst DisAbstractItem]
+m_ItemName="A Bloody Card"
+m_PluralItemName=""
+m_Description="The tarot card 'The World' with your blood on it."
+
+[Inventory.Tarot_Card_World_Abst DisAbstractItem]
+m_ItemName="The Tarot Card "The World""
+m_PluralItemName=""
+m_Description="The tarot card "The World," from a 78 card deck."
+
+[Inventory.Tarot_Deck_Abst DisAbstractItem]
+m_ItemName="78 Card Tarot Deck"
+m_PluralItemName=""
+m_Description="A 78 card tarot deck"
+
+[Inventory.Timsh_Will_Abst DisAbstractItem]
+m_ItemName="Last Will and Testament"
+m_PluralItemName=""
+m_Description="Last Will and Testament of Timsh's Mother."
+
+[WrittenNotes.Readable_Address DisAbstractItem]
+m_ItemName="A Contact's Address"
+m_PluralItemName=""
+m_Description="7 - Legal Plaza"
+
+[WrittenNotes.Readable_AreaNotes DisAbstractItem]
+m_ItemName="Reconnaissance Notes"
+m_PluralItemName=""
+m_Description="- Timsh is vigorous for a man of his age. He's known to keep himself armed with a sword and pistol, even when in his own home. He's been observed to be generally restless and mobile, pacing throughout the building, from his bedroom on the top floor, to the lobby of the law offices on the ground floor.\n- Timsh keeps his mother’s will in a chest in a storage room near the lobby on the ground floor.\n- Front door leads into law offices lobby. Space is two stories high with balconies overlooking the lobby floor.\n- The second balcony on the façade (glass doors) leads directly to Timsh's office. \n- Top floor balconies on the right and left of the building. Easy access.\n- A back door leads into a basement. It's kept locked, but a key was easy to find.\n- A dumbwaiter accessible in the basement connects all the floors, but it's a one way trip. Once you get out, the panel shuts and the platform returns to the basement.\n- Timsh carries a key with him. Any important chests or cabinets are locked with it.\n- An apartment near Timsh's Estate has rooftop access to the Waterfront District."
+
+[WrittenNotes.Readable_Cultist1 DisAbstractItem]
+m_ItemName="Cultist Scribblings"
+m_PluralItemName=""
+m_Description="This one was a father. He sired six, of three mothers. He drowned one of them, but it was not his fault. One day, the child's grandfather discovered what happened, but the old man did not agree with that assessment."
+
+[WrittenNotes.Readable_Cultist2 DisAbstractItem]
+m_ItemName="Cultist Scribblings"
+m_PluralItemName=""
+m_Description="This one liked to carve wood. Once he carved a small whale. He spoke to it and kept it in his pocket. Its grains knew all of his secrets. Just as I do."
+
+[WrittenNotes.Readable_Cultist3 DisAbstractItem]
+m_ItemName="Cultist Scribblings"
+m_PluralItemName=""
+m_Description="This one worked so hard, he broke both of his hands. When he was of no more use, they threw him out. His mother cared for him until she died. After which he turned to begging. Then he died."
+
+[WrittenNotes.Readable_Cultist4 DisAbstractItem]
+m_ItemName="Cultist Scribblings"
+m_PluralItemName=""
+m_Description="This one was a teacher. She used to teach the children about the black-eyed one she saw in her dreams. No one knew. But then one of the children went into a trance and began to cry her name. Then the Overseers came."
+
+[WrittenNotes.Readable_Cultist5 DisAbstractItem]
+m_ItemName="Cultist Scribblings"
+m_PluralItemName=""
+m_Description="This one was was born to a wealthy family. He stayed out in the countryside, because it was the only place he could see the stars at night. He was never educated so he did not know what they were. He used to pray to them."
+
+[WrittenNotes.Readable_DelilahPoem DisAbstractItem]
+m_ItemName="A Poem by Delilah"
+m_PluralItemName=""
+m_Description="When Pretty Emily woke one day\nShe saw the world a different way\nHer eyes now looked with a stranger's guile \nHer dainty mouth smiled a stranger's smile \nHer hands now worked the stranger's wrath \nHer feet now walked a stranger's path \nEmily fed, another grew stronger \nThe stranger's cravings drove her onward, \nAnd no one who looked on Emily's face \nEver guessed who ruled in Emily's place."
+
+[WrittenNotes.Readable_Doctor DisAbstractItem]
+m_ItemName="Letter from a Doctor"
+m_PluralItemName=""
+m_Description="Barrister Timsh,\n\nI am afraid I cannot in good conscience remain your mother's physician. The way you repeatedly deny her access to practices which could potentially restore her lucidity is nothing short of a death sentence, and I wish no part of it. Good day to you, sir.\n\n- Doctor Partridge"
+
+[WrittenNotes.Readable_DWBroken DisAbstractItem]
+m_ItemName="A Repair Notice"
+m_PluralItemName=""
+m_Description="Staff,\n\nBarrister Timsh was complaining about squeaking in these doors, so they've been removed until the repair order comes in. Please don't throw anything down the shaft or do anything childish.\n\n- Management"
+
+[WrittenNotes.Readable_DWDirections DisAbstractItem]
+m_ItemName="Dumbwaiter Directions"
+m_PluralItemName=""
+m_Description="Place the items you wish to deliver on the tray. Use the dial to select the floor, with (1) as the law offices and lobby, (2) as the smoking lounge and library, (3) Timsh's office, and (4) as the dining hall and bedroom. Pull the lever and the platform will go up. When it reaches that floor a bell will sound to notify the staff on that floor. Once the load has been removed from the platform, the machine will automatically lower it back down. If you activate the dumbwaiter without selecting a floor, it will default to (1).\n\nPlease do not ride on the dumbwaiter.  "
+
+[WrittenNotes.Readable_FavorRuneNote DisAbstractItem]
+m_ItemName="Assassin's Note"
+m_PluralItemName=""
+m_Description="As requested."
+
+[WrittenNotes.Readable_GrannyRecipe DisAbstractItem]
+m_ItemName="Granny's Recipe"
+m_PluralItemName=""
+m_Description="[A page torn from an old manuscript, written in a scrawling hand]\n\nCruel Nancy! Take The World from her greedy hands.\nLay it before the black-eyed groom\nCut sharp, cut deep. Red drip, drop.\nLast and least. Burn it in the hearth of a lawless man.\n\nDo this for me dearie and I'll give you a birthday treat.\n-Granny"
+
+[WrittenNotes.Readable_KeyHintCapt DisAbstractItem]
+m_ItemName="Missing Key Note"
+m_PluralItemName=""
+m_Description="Cap,\nLooks like the Hatters broke in and took the key to the Legal District. I'm going to go knock some heads.\n- Pete\n"
+
+[WrittenNotes.Readable_KeyHintInside DisAbstractItem]
+m_ItemName="To Do List"
+m_PluralItemName=""
+m_Description="- Loot that one place\n\n- Get even with Craxton\n\n- That key we nicked from the Watch can get us inside the Legal District. We'll get some nice pawnables from the lawyer types later tonight. I put the key upstairs for now.\n\n- Brush my teeth this week"
+
+[WrittenNotes.Readable_KeyHintLegal DisAbstractItem]
+m_ItemName="Notice"
+m_PluralItemName=""
+m_Description="Cap took the key.\n\nIf you need it, good luck. He's down the street at the Almshouse."
+
+[WrittenNotes.Readable_KeyHintRiver DisAbstractItem]
+m_ItemName="To Do List"
+m_PluralItemName=""
+m_Description="- Loot that one place\n\n- Get even with Craxton\n\n- Find Chauncy's body where it fell down at the riverview at the end of the street. The key he found might open a door to something good. Never know.\n\n- Brush my teeth this week"
+
+[WrittenNotes.Readable_KeyHintRoof DisAbstractItem]
+m_ItemName="To Do List"
+m_PluralItemName=""
+m_Description="- Loot that one place\n\n- Get even with Craxton\n\n- Chauncy took that key we nicked from the watch as he's trying to loot some lawyer types houses.  He went cat burgling round the balconies and ain't come down yet. Better see what happened and get that key back.\n\n- Brush my teeth this week"
+
+[WrittenNotes.Readable_KeyNote DisAbstractItem]
+m_ItemName="Note from Billie Lurk"
+m_PluralItemName=""
+m_Description="I managed to find this. It should unlock the door here. I know how much you hate hunting down keys.\n\n- Billie"
+
+[WrittenNotes.Readable_LawyerNote1 DisAbstractItem]
+m_ItemName="Note from a Lawyer"
+m_PluralItemName=""
+m_Description="A, when are we going to get a secretary? I can never find any of the documents filed by J, and S doesn't seem to file anything. This place is turning into a vortex of disorganization so big you could ride a whale into it."
+
+[WrittenNotes.Readable_LawyerNote2 DisAbstractItem]
+m_ItemName="Note from a Lawyer"
+m_PluralItemName=""
+m_Description="S, \n\nI suggest you do some research into cases concerning similar acts of arson. I don't think your client has a case, but if you confuse the issue enough with terror tales the jury might just vote with their hearts rather than their heads. It's what Timsh would do, I trust.\n\n- J"
+
+[WrittenNotes.Readable_NotetoGerwin DisAbstractItem]
+m_ItemName="Note to Gerwin"
+m_PluralItemName=""
+m_Description="I understand your concern about security, but I trust in the security of a key hanging from my own belt, not a combination lock. A combination lock can be guessed, cracked, or bribed. But with a simple lock and key, the contents of my archives remain safe.\n\nAs for lockpicks? A fable. I've never known such a thing to truly exist. Have you?\n\n- Timsh"
+
+[WrittenNotes.Readable_Overseer DisAbstractItem]
+m_ItemName="Letter from the Overseers"
+m_PluralItemName=""
+m_Description="Mister Timsh,\n\nWe cannot currently spare an Overseer equipped with a musical device to become a member of your house guard. All of our ranks are currently very busy with other, weightier matters. If you fear an impending assault by a perpetrator of the heretical arts, I suggest you come immediately to Holger Square for counsel and protection.\n\n- Overseer Mallow, Office of the High Overseer"
+
+[WrittenNotes.Readable_Pots DisAbstractItem]
+m_ItemName="Note on Chamber Pots"
+m_PluralItemName=""
+m_Description="All of the chamber pots are currently out for cleaning. Please refrain from pissing all over the bare wood. Go piss in the back alley if you can't hold it. If the staff complains to me again, I'm giving each of you a bathroom to clean using only your socks, understand?\n\n- Captain Scott Blossom."
+
+[WrittenNotes.Readable_RolandJournal DisAbstractItem]
+m_ItemName="Roland's Journal"
+m_PluralItemName=""
+m_Description="So, Timsh thinks he's invincible because he carries a letter from the Lord Regent giving him legal immunity from the state seizing his goods in case of plague. He carries it everywhere, like a talisman. But he's also drafted the instrument of his own destruction. The document he uses for evictions is a generic form drafted by the office of the Lord Regent. It was trivial to acquire a blank one. Acquiring a forgery of the Lord Regent's signature was less easy, but thankfully some of my old connections are still loyal. Now, all I need to do is swap the two documents. Getting close enough to Timsh to do it won't be easy... I may need help from a professional.\n\nOnce that's done, the fool just needs a push to go down, and that's the second part. \n\nInside Timsh's basement there's a device that circulates air in the building. If some - material - happened to find its way into the device, the building would reek like a weeper's den. I had to be particular about the actual material, as I do not wish to infect the guard or servants with plague and cause needless suffering. The unsavory gentlewoman living in Unit 10 has offered to provide the odorous item, and a sturdy sack to contain it. She craves my rune in exchange, so I will be forced to part with it. She has given me a key to her unit so I can go and get the sack when I am ready to make my move."
+
+[WrittenNotes.Readable_Roldand2Timsh DisAbstractItem]
+m_ItemName="A Letter from Roland"
+m_PluralItemName=""
+m_Description="Dear Arnold,\n\nThank you for inviting my wife and me over for dinner last week. We both had a splendid time. I also appreciate you being so patient with her episode. Not many people are as understanding, and you showed considerable grace. I am also happy I was able to confide in you with my business arrangements. I am sure you will be able to keep them strictly confidential, but it was a relief to finally be able to vent about the frustrations I much endure daily to a colleague who understands these sorts of things. I hope that you will allow me to return the favor and play host to you for an evening.\n\nSincerely\n- Wiles Roland"
+
+[WrittenNotes.Readable_Scott DisAbstractItem]
+m_ItemName="Note from Captain Blossom"
+m_PluralItemName=""
+m_Description="Kitchen,\n\nThe tomatoes in yesterday's dinner were overcooked. You know how much I hate overcooked tomatoes. I like them crisp, without that mushy consistency. Am I clear? Please don't ruin my dinner again.\n\n- Captain Scott Blossom"
+
+[WrittenNotes.Readable_Timsh2Melissa DisAbstractItem]
+m_ItemName="A note from Timsh"
+m_PluralItemName=""
+m_Description="Melissa, I know that it's common practice for maids to bind their hair, but I really think it does you a disservice. I am sure there wouldn't be a problem if you left yours free and I would enjoy the sight.\n\nIf you have any other concerns about your dress code, please speak with me. I am certain that we could find some leeway. I want to make sure you're comfortable while you work.\n\n- Arnold"
+
+[WrittenNotes.Readable_TimshAlarm DisAbstractItem]
+m_ItemName="Note from Timsh"
+m_PluralItemName=""
+m_Description="Scott, do we really need that alarm device in my office? It's ugly, the colors clash, and the cable is marking up the woodwork. I am positively certain that the way it's been attached to the floor will cost a few thousand in coin to mend. \n\n- Arnold"
+
+[WrittenNotes.Readable_TimshEvictions DisAbstractItem]
+m_ItemName="Evictions List"
+m_PluralItemName=""
+m_Description="Forrestal - Crows Court\nEstimated Liquid Assets: 2,900 coin\nProperty Value: 16,500 coin\n\nDracos - Fenster Way\nEstimated Liquid Assets: 1,200 coin\nProperty Value: 22,700 coin\n\nCartwright - Vessler Close\nAssets and Property negligible\n\n Blanken - Agroosh Way\nArnold, have you forgotten that Rudshore is flooded? I can't appraise this.\n\nBeddler - Thyme Street\nEstimated Liquid Assets: 4,600 coin\nProperty Value: 51,500 coin"
+
+[WrittenNotes.Readable_TimshNotes DisAbstractItem]
+m_ItemName="Reconnaissance Notes"
+m_PluralItemName=""
+m_Description="- Timsh is vigorous for a man of his age. He's known to keep himself armed with a sword and pistol, even when in his own home. He's been observed to be generally restless and mobile, pacing throughout the building, from his bedroom on the top floor, to the lobby of the law offices on the ground floor.\n- Timsh keeps his mother’s will in a chest in his office on the third floor.\n- Front door leads into law offices lobby. Space is two stories high with balconies overlooking the lobby floor.\n- The second balcony on the façade (glass doors) leads directly to Timsh's office. \n- Top floor balconies on the right and left of the building. Easy access.\n- A back door leads into a basement. It's kept locked, but a key was easy to find.\n- A dumbwaiter accessible in the basement connects all the floors, but it's a one way trip. Once you get out, the panel shuts and the platform returns to the basement.\n- Timsh carries a key with him. Any important chests or cabinets are locked with it. A side room on the top floor is also mysteriously locked. It seems to be an art studio.\n- An apartment near Timsh's Estate has rooftop access to the Waterfront District."
+

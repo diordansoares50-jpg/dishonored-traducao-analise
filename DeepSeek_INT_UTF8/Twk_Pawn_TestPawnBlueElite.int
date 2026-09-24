@@ -1,0 +1,12 @@
+﻿[Twk_Pawn_TestPawnBlueElite DisTweaks_NPCPawn]
+m_BusyText="Este personagem está ocupado"
+m_CannotStealMessage="Você não pode carregar mais munição deste tipo"
+
+[Twk_Pawn_TestPawnBlueElite:DisTweaks_InteractableInterface_86 DisTweaks_InteractableInterface]
+m_Name="Oficial de Vigia"
+m_InteractText=""
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+

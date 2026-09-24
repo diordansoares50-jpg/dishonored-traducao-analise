@@ -1,0 +1,8 @@
+﻿[TripodTrap.DLC06_Tripwire_Entrance8m47:DisTweaks_InteractableInterface_2 DisTweaks_InteractableInterface]
+m_Name="Fio de Armadilha"
+m_InteractText="`GBA_Use` Gatilho"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+

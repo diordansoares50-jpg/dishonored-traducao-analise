@@ -1,0 +1,10 @@
+﻿[Inventory.DLC06_ValveKey_Abst DisAbstractItem]
+m_ItemName="Valve Wrench"
+m_PluralItemName=""
+m_Description="A specialized wrench used to open the pressure valves."
+
+[Inventory.DLC06_WhaleEye_Abst DisAbstractItem]
+m_ItemName="Whale Eye"
+m_PluralItemName=""
+m_Description="An eye plucked from a freshly killed whale."
+

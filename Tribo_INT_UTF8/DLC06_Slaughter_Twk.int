@@ -1,0 +1,141 @@
+﻿[desk_micro_twk:DisTweaks_InteractableInterface_16 DisTweaks_InteractableInterface]
+m_Name="Microphone"
+m_InteractText="`GBA_Use` Use"
+
+[DLC06_Chair_lever_twk DisTweaks_UsableObject]
+m_LockedMessage="Locked"
+
+[DLC06_Chair_lever_twk:DisTweaks_InteractableInterface_0 DisTweaks_InteractableInterface]
+m_Name="Activate Interrogation Chair"
+
+[DLC06_Crane_lever_twk DisTweaks_UsableObject]
+m_UnlockInteractText="`GBA_Use` Unlock"
+m_LockedMessage="Power Needed"
+
+[DLC06_Crane_lever_twk:DisTweaks_InteractableInterface_0 DisTweaks_InteractableInterface]
+m_Name="Crane Switch"
+m_InteractText="`GBA_Use` Use"
+
+[DLC06_EyePickup_twk:DisTweaks_Interactable_PickupBase_0 DisTweaks_Interactable_PickupBase]
+m_Name="Whale Eye"
+
+[DLC06_FakeKey_twk:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Laborer Lockup Key"
+m_InteractText="`GBA_Use` Pick up"
+
+[DLC06_gen_wall_shield_twk DisTweaks_UsableObject]
+m_Stages[1]=(m_InteractTextOverride="`GBA_Use` Close")
+m_UnlockInteractText="`GBA_Use` Unlock"
+m_LockedMessage=""
+m_UnauthorizedMessage=""
+m_FocusMessage=""
+m_FocusLockedMessage="`k needed"
+
+[DLC06_gen_wall_shield_twk:DisTweaks_InteractableInterface_8 DisTweaks_InteractableInterface]
+m_Name="Whale Oil Tank Shield"
+m_InteractText="`GBA_Use` Open"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[DLC06_IntChair_Twk:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Interrogation Chair"
+m_InteractText=" `GBA_Use` Begin Interrogation"
+
+[DLC06_IntValve_Rewind_Twk:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Pressure Valve"
+
+[DLC06_IntValve_Twk:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Storage Door Valve"
+
+[DLC06_IntValveBase_Twk:DisTweaks_InteractableInterface_16 DisTweaks_InteractableInterface]
+m_Name="Disabled Pressure Valve"
+m_InteractText="`GBA_Use` Turn on Whale Oil Flow"
+m_CannotUseMessage="Valve Wrench Needed"
+
+[DLC06_LTD_ExitSewerHatch:DisTweaks_InteractableInterface_16 DisTweaks_InteractableInterface]
+m_Name="Exit Slaughterhouse"
+
+[DLC06_LTD_SewerHatch:DisTweaks_InteractableInterface_16 DisTweaks_InteractableInterface]
+m_Name="Enter Slaughterhouse"
+
+[DLC06_Machine_lever_twk DisTweaks_UsableObject]
+m_LockedMessage="Locked"
+
+[DLC06_Machine_lever_twk:DisTweaks_InteractableInterface_0 DisTweaks_InteractableInterface]
+m_Name="Machinery Control"
+
+[DLC06_Sewer_lever_twk DisTweaks_UsableObject]
+m_UnlockInteractText="`GBA_Use` Unlock"
+m_LockedMessage=""
+
+[DLC06_Sewer_lever_twk:DisTweaks_InteractableInterface_0 DisTweaks_InteractableInterface]
+m_Name="Sewer Gate Control"
+m_InteractText="`GBA_Use` Use"
+
+[DLC06_SewerEntrance_lever_twk DisTweaks_UsableObject]
+m_LockedMessage="Locked"
+
+[DLC06_SewerEntrance_lever_twk:DisTweaks_InteractableInterface_0 DisTweaks_InteractableInterface]
+m_Name="Sewer Gate Control"
+
+[DLC06_ShippingCrateBase_twk:DisTweaks_InteractableInterface_16 DisTweaks_InteractableInterface]
+m_Name="Shipping Crate"
+m_InteractText="`GBA_Use` Seal Rothwild Inside"
+
+[DLC06_ShippingCrateLid_twk:DisTweaks_InteractableInterface_16 DisTweaks_InteractableInterface]
+m_Name="Shipping Crate"
+m_InteractText="`GBA_Use` Seal Rothwild Inside"
+
+[DLC06_UpperEntrance_lever_twk DisTweaks_UsableObject]
+m_LockedMessage="Locked"
+
+[DLC06_UpperEntrance_lever_twk:DisTweaks_InteractableInterface_0 DisTweaks_InteractableInterface]
+m_Name="Enter Slaughterhouse"
+
+[DLC06_UpperExit_lever_twk DisTweaks_UsableObject]
+m_LockedMessage="Locked"
+
+[DLC06_UpperExit_lever_twk:DisTweaks_InteractableInterface_0 DisTweaks_InteractableInterface]
+m_Name="Exit Slaughterhouse"
+
+[DLC06_ValveKey_twk:DisTweaks_Interactable_PickupBase_0 DisTweaks_Interactable_PickupBase]
+m_Name="Valve Key"
+
+[DLC06_Whale_lever_twk DisTweaks_UsableObject]
+m_LockedMessage="Locked"
+
+[DLC06_Whale_lever_twk:DisTweaks_InteractableInterface_0 DisTweaks_InteractableInterface]
+m_Name="Whale Electrocution Lever"
+
+[DLC06_WhaleEyePickup_twk:DisTweaks_Interactable_PickupBase_0 DisTweaks_Interactable_PickupBase]
+m_Name="Whale Eye"
+
+[GrannyRecipePot_twk DisTweaks_UsableObject]
+m_UnlockInteractText="`GBA_Use` Put eye in pot"
+
+[GrannyRecipePot_twk:DisTweaks_InteractableInterface_16 DisTweaks_InteractableInterface]
+m_Name="Cooking Pot"
+m_InteractText=" `GBA_Use` Put eye in pot"
+m_CannotUseMessage="Whale eye needed"
+
+[PunchCard_twk:DisTweaks_Interactable_PickupBase_0 DisTweaks_Interactable_PickupBase]
+m_Name="Time Card"
+
+[PunchCardMachine_twk DisTweaks_UsableObject]
+m_UnlockInteractText="`GBA_Use` Time card"
+
+[PunchCardMachine_twk:DisTweaks_InteractableInterface_16 DisTweaks_InteractableInterface]
+m_Name="Time Stamp Machine"
+m_InteractText=" `GBA_Use` Time Card"
+m_CannotUseMessage="Time card required"
+
+[WhaleEye_interact_twk:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Whale Eye"
+m_InteractText="`GBA_Use` Pick up"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+

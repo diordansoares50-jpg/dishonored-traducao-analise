@@ -1,0 +1,15 @@
+﻿[DLC07_NotesShip_EdgarLog DisAbstractItem]
+m_ItemName="Edgar Wakefield Log Entry"
+m_PluralItemName=""
+m_Description="It’s going to pieces! I was just getting things under control, but now I hear Lizzy busted out of Coldridge! How? The Dead Eels are all starting to swing my way, and I even think we’ll wipe out those accursed Hatters soon. Mr. Hat humiliated me something awful with that raid to steal our engine coil, and payback was going to be me taking a piss in his stovepipe. But now that Lizzy is free again? I’ve got the crew on high alert; orders to kill anyone that ain’t one of us. I’m starting to think I bit off more than I can chew."
+
+[DLC07_NotesShip_HatterSpy DisAbstractItem]
+m_ItemName="Notes from a Hatter Spy"
+m_PluralItemName=""
+m_Description="Mr. Hat,\nThere has been interesting activity since our raid on the Dead Eels a few days ago. It looks like Wakefield has been rooting out Lizzy loyalists and chasing them off or making an example out of them with some gruesome killing. I don’t think he’s got much of a hold on this gang, and things are likely to fly apart before long.\nAlso, I swear I saw a woman lurking on some nearby rooftops last night, spying on the Eels. She saw me looking at her and just… disappeared. Perhaps you’ll know what to make of that.\n-Oscar\n"
+
+[DLC07_NotesShip_WeeperWarning DisAbstractItem]
+m_ItemName="Weeper Warning"
+m_PluralItemName=""
+m_Description="Keep clear of this area. We've penned the weepers inside so they can't get out, but nobody is foolish enough to go in there and put 'em out of their misery. The plague will kill them off eventually. Until then, consider this area off limits."
+

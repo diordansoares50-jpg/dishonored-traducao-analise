@@ -1,0 +1,161 @@
+﻿[DLC07_BrigFav1_Objectives DishonoredObjective]
+m_Description="(Favor) Buraco na Cerca"
+
+[DLC07_BrigFav1_Objectives:DishonoredTask_Custom_45 DishonoredTask_Custom]
+m_Description="(Opcional) Pegue seu esconderijo e entre silenciosamente no terreno da propriedade"
+m_Status=""
+
+[DLC07_BrigFav2_Objectives DishonoredObjective]
+m_Description="(Favor) O Mordomo Indigno"
+
+[DLC07_BrigFav2_Objectives:DishonoredTask_Custom_0 DishonoredTask_Custom]
+m_Description="(Opcional) Verifique a cachoeira para ver se o mordomo realmente escapou"
+m_Status=""
+
+[DLC07_BrigFav2_Objectives:DishonoredTask_Custom_45 DishonoredTask_Custom]
+m_Description="(Opcional) Procure na costa por evidências do contrabando do mordomo"
+m_Status=""
+
+[DLC07_BrigFav3_Objectives DishonoredObjective]
+m_Description="(Favor) Traidor"
+
+[DLC07_BrigFav3_Objectives:DishonoredTask_Custom_45 DishonoredTask_Custom]
+m_Description="(Opcional) Uma bruxa de jaqueta vermelha tem informações para você"
+m_Status=""
+
+[DLC07_Brigmore_Objectives DishonoredObjective]
+m_Description="Neutralizar Delilah Copperspoon"
+
+[DLC07_Brigmore_Objectives:DishonoredTask_Custom_0 DishonoredTask_Custom]
+m_Description="(Não Letal) Complete o Ritual"
+m_Status=""
+
+[DLC07_Brigmore_Objectives:DishonoredTask_Custom_1 DishonoredTask_Custom]
+m_Description="Entre na pintura"
+m_Status=""
+
+[DLC07_Brigmore_Objectives:DishonoredTask_Custom_27 DishonoredTask_Custom]
+m_Description="(Opcional) Encontre a cripta de Jessop Brigmore"
+m_Status=""
+
+[DLC07_Brigmore_Objectives:DishonoredTask_Custom_28 DishonoredTask_Custom]
+m_Description="(Opcional) Encontre a alavanca faltante"
+m_Status=""
+
+[DLC07_Brigmore_Objectives:DishonoredTask_Custom_29 DishonoredTask_Custom]
+m_Description="(Opcional) Explorar a cripta"
+m_Status=""
+
+[DLC07_Brigmore_Objectives:DishonoredTask_Custom_30 DishonoredTask_Custom]
+m_Description="Use a lanterna para iluminar a pintura na galeria"
+m_Status=""
+
+[DLC07_Brigmore_Objectives:DishonoredTask_Custom_31 DishonoredTask_Custom]
+m_Description="(Opcional) Reparar o interruptor da sepultura"
+m_Status=""
+
+[DLC07_Brigmore_Objectives:DishonoredTask_Custom_32 DishonoredTask_Custom]
+m_Description="Salto da Fé"
+m_Status=""
+
+[DLC07_Brigmore_Objectives:DishonoredTask_Custom_33 DishonoredTask_Custom]
+m_Description="Encontre Delilah Copperspoon"
+m_Status=""
+
+[DLC07_Brigmore_Objectives:DishonoredTask_Custom_34 DishonoredTask_Custom]
+m_Description="(Não letal) Substituir a pintura de Emily"
+m_Status=""
+
+[DLC07_Brigmore_Objectives:DishonoredTask_Custom_35 DishonoredTask_Custom]
+m_Description="(Não letal) Coloque Delilah no altar"
+m_Status=""
+
+[DLC07_Brigmore_Objectives:DishonoredTask_Custom_36 DishonoredTask_Custom]
+m_Description="Mate Delilah Copperspoon"
+m_Status=""
+
+[DLC07_Brigmore_Objectives:DishonoredTask_Custom_39 DishonoredTask_Custom]
+m_Description="(Não letal) Encontrar uma pintura substituta adequada"
+m_Status=""
+
+[DLC07_Brigmore_Objectives:DishonoredTask_Custom_40 DishonoredTask_Custom]
+m_Description="(Não letal) Deixe Delilah Copperspoon inconsciente"
+m_Status=""
+
+[DLC07_Brigmore_Objectives:DishonoredTask_Custom_41 DishonoredTask_Custom]
+m_Description="(Não letal) Permitir que Delilah Copperspoon complete o ritual"
+m_Status=""
+
+[DLC07_Brigmore_Objectives:DishonoredTask_Custom_47 DishonoredTask_Custom]
+m_Description="Procure por Delilah na mansão"
+m_Status=""
+
+[DLC07_Brigmore_Objectives:DishonoredTask_Custom_49 DishonoredTask_Custom]
+m_Description="Encontre o local do ritual"
+m_Status=""
+
+[DLC07_Brigmore_Objectives:DishonoredTask_Custom_50 DishonoredTask_Custom]
+m_Description="Vá para o quintal em busca da alavanca desaparecida"
+m_Status=""
+
+[DLC07_Brigmore_Objectives:DishonoredTask_Custom_51 DishonoredTask_Custom]
+m_Description="Encontre uma forma de entrar na Mansão Brigmore"
+m_Status=""
+
+[DLC07_Brigmore_Objectives:DishonoredTask_Custom_52 DishonoredTask_Custom]
+m_Description="(Opcional) Encontre a chave da porta da frente"
+m_Status=""
+
+[DLC07_Brigmore_Objectives:DishonoredTask_Custom_53 DishonoredTask_Custom]
+m_Description="(Opcional) Entrar pela porta da frente"
+m_Status=""
+
+[DLC07_Brigmore_Objectives:DishonoredTask_Custom_54 DishonoredTask_Custom]
+m_Description="Procurar no estúdio"
+m_Status=""
+
+[DLC07_Brigmore_Objectives:DishonoredTask_Custom_55 DishonoredTask_Custom]
+m_Description="Encontre o estúdio da Delilah"
+m_Status=""
+
+[DLC07_BrigNonlethal_Objectives DishonoredObjective]
+m_Description="Delilah Copperspoon Não Letal"
+
+[DLC07_BrigNonlethal_Objectives:DishonoredTask_Custom_50 DishonoredTask_Custom]
+m_Description="Encontre o tomo ritualístico"
+m_Status=""
+
+[DLC07_GrannyBrig_Objectives DishonoredObjective]
+m_Description="Feitiço da Vovó"
+
+[DLC07_GrannyBrig_Objectives:DishonoredTask_Custom_44 DishonoredTask_Custom]
+m_Description="Colete três pérolas de crustáceo fluvial"
+m_Status=""
+
+[DLC07_GrannyBrig_Objectives:DishonoredTask_Custom_45 DishonoredTask_Custom]
+m_Description="Colete mais duas pérolas"
+m_Status=""
+
+[DLC07_GrannyBrig_Objectives:DishonoredTask_Custom_46 DishonoredTask_Custom]
+m_Description="Coletar mais uma pérola"
+m_Status=""
+
+[DLC07_GrannyBrig_Objectives:DishonoredTask_Custom_47 DishonoredTask_Custom]
+m_Description="Engula as pérolas com água do poço de Brigmore"
+m_Status=""
+
+[DLC07_GraveHound_Objectives DishonoredObjective]
+m_Description="Desativar os Cães da Sepultura"
+
+[DLC07_GraveHound_Objectives:DishonoredTask_Custom_44 DishonoredTask_Custom]
+m_Description="Descubra a localização do santuário de reanimação do cão de caça"
+m_Status=""
+
+[DLC07_GraveHound_Objectives:DishonoredTask_Custom_45 DishonoredTask_Custom]
+m_Description="Encontre o santuário de reanimação do cão de caça no porão"
+m_Status=""
+
+[DLC07_GraveHound_Objectives:DishonoredTask_Custom_46 DishonoredTask_Custom]
+m_Description="Remova a runa do santuário"
+m_Status=""
+

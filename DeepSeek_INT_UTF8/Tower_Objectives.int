@@ -1,0 +1,97 @@
+﻿[Tower_InvestigateTorturer DishonoredObjective]
+m_Description="(Opcional) Visite o Torturador"
+
+[Tower_InvestigateTorturer:DishonoredTask_Custom_0 DishonoredTask_Custom]
+m_Description="Mate o Torturador"
+m_Status=""
+
+[Tower_InvestigateTorturer:DishonoredTask_Custom_7 DishonoredTask_Custom]
+m_Description="Encontre a câmara do Torturador"
+m_Status=""
+
+[Tower_KillLordRegent DishonoredObjective]
+m_Description="Derrube o Reinado do Lorde Regente"
+
+[Tower_KillLordRegent:DishonoredTask_Custom_0 DishonoredTask_Custom]
+m_Description="Infiltrar a Torre de Dunwall"
+m_Status=""
+
+[Tower_KillLordRegent:DishonoredTask_Custom_1 DishonoredTask_Custom]
+m_Description="Viajar com Samuel até a Torre de Dunwall"
+m_Status=""
+
+[Tower_KillLordRegent:DishonoredTask_Custom_3 DishonoredTask_Custom]
+m_Description="Mate o Lorde Regente"
+m_Status=""
+
+[Tower_KillLordRegent:DishonoredTask_Custom_4 DishonoredTask_Custom]
+m_Description="Encontre o Lorde Regente no telhado da Torre de Dunwall"
+m_Status=""
+
+[Tower_KillLordRegent:DishonoredTask_Custom_5 DishonoredTask_Custom]
+m_Description="(Não letal) Encontre o audiografo no quarto do Lorde Regente"
+m_Status=""
+
+[Tower_KillLordRegent:DishonoredTask_Custom_6 DishonoredTask_Custom]
+m_Description="(Não Letal) Reproduza o audiográfico do Lorde Regente na Estação de Controle de Transmissão"
+m_Status=""
+
+[Tower_KillLordRegent:DishonoredTask_Custom_7 DishonoredTask_Custom]
+m_Description="Encontre os aposentos do Lorde Regente"
+m_Status=""
+
+[Tower_KillThePropagandaOfficer DishonoredObjective]
+m_Description="(Opcional) Estação de Transmissão"
+
+[Tower_KillThePropagandaOfficer:DishonoredTask_Custom_2 DishonoredTask_Custom]
+m_Description="Fale com o Oficial de Propaganda"
+m_Status=""
+
+[Tower_KillThePropagandaOfficer:DishonoredTask_Custom_7 DishonoredTask_Custom]
+m_Description="Encontre a Estação de Controle de Transmissão"
+m_Status=""
+
+[Tower_LeaveWithSamuel DishonoredObjective]
+m_Description="Escapar da Torre de Dunwall"
+
+[Tower_LeaveWithSamuel:DishonoredTask_Custom_0 DishonoredTask_Custom]
+m_Description="Partir com Samuel"
+m_Status=""
+
+[Tower_LeaveWithSamuel:DishonoredTask_Custom_7 DishonoredTask_Custom]
+m_Description="Chegue ao barco de Samuel e fuja da Torre de Dunwall"
+m_Status=""
+
+[TowerEmpress_HideNSeek DishonoredObjective]
+m_Description="(Opcional) Esconde-esconde"
+
+[TowerEmpress_HideNSeek:DishonoredTask_Custom_1 DishonoredTask_Custom]
+m_Description="(Opcional) Brincando de esconde-esconde com Emily"
+m_Status=""
+
+[TowerEmpress_HideNSeek:DishonoredTask_Custom_3 DishonoredTask_Custom]
+m_Description="(Opcional) Use o ambiente para se esconder de Emily"
+m_Status=""
+
+[TowerEmpress_HideNSeek:DishonoredTask_Custom_4 DishonoredTask_Custom]
+m_Description="(Opcional) Encontre Emily sob a ponte de pedra"
+m_Status=""
+
+[TowerEmpress_LordProtector DishonoredObjective]
+m_Description="Lord Protetor"
+
+[TowerEmpress_LordProtector:DishonoredTask_Custom_0 DishonoredTask_Custom]
+m_Description="Proteja a Imperatriz e Emily"
+m_Status=""
+
+[TowerEmpress_LordProtector:DishonoredTask_Custom_5 DishonoredTask_Custom]
+m_Description="Vá até a Imperatriz"
+m_Status=""
+
+[TowerEmpress_Report DishonoredObjective]
+m_Description="Reportar à Imperatriz"
+
+[TowerEmpress_Report:DishonoredTask_Custom_2 DishonoredTask_Custom]
+m_Description="Encontre a Imperatriz no gazebo"
+m_Status=""
+

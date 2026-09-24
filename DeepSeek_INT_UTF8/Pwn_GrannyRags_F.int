@@ -1,0 +1,24 @@
+﻿[Pwn_GrannyRags_F DisTweaks_NPCPawn]
+m_BusyText="Este personagem está ocupado"
+m_CannotStealMessage="Você não pode carregar mais munição deste tipo"
+
+[Pwn_GrannyRags_F:DisTweaks_InteractableInterface_14 DisTweaks_InteractableInterface]
+m_Name="Vovó Rags"
+m_InteractText=""
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Pwn_GrannyRags_F_Sewer DisTweaks_NPCPawn]
+m_BusyText="Este personagem está ocupado"
+m_CannotStealMessage="Você não pode carregar mais munição deste tipo"
+
+[Pwn_GrannyRags_F_Sewer:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Vovó Trapos"
+m_InteractText=""
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+

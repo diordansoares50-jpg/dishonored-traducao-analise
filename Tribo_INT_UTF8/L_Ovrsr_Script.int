@@ -1,0 +1,205 @@
+﻿[TheWorld:PersistentLevel.DisDoor_0 DisDoor]
+m_DoorName=""
+m_MatchingKey=""
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_DialogScriptedChoice_0 DisSeqAct_DialogScriptedChoice]
+m_Title=""
+m_Choices[0]=(m_ChoiceText="Ir para Canis")
+m_Choices[1]=(m_ChoiceText="Ficar no Escritório do Prelado Supervisor")
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_DialogScriptedChoice_1 DisSeqAct_DialogScriptedChoice]
+m_Title=""
+m_Choices[0]=(m_ChoiceText="Ir para o Pátio de Trás")
+m_Choices[1]=(m_ChoiceText="Ficar no Escritório do Prelado Supervisor")
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_DialogScriptedChoice_10 DisSeqAct_DialogScriptedChoice]
+m_Choices[0]=(m_ChoiceText="Quebrar os copos")
+m_Choices[1]=(m_ChoiceText="Mover-se")
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_DialogScriptedChoice_11 DisSeqAct_DialogScriptedChoice]
+m_Choices[0]=(m_ChoiceText="Trocar o veneno para o lado de Campbell")
+m_Choices[1]=(m_ChoiceText="Combinar os dois copos (Envenenar ambos)")
+m_Choices[2]=(m_ChoiceText="Quebrar os copos")
+m_Choices[3]=(m_ChoiceText="Mover-se")
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_DialogScriptedChoice_2 DisSeqAct_DialogScriptedChoice]
+m_Title=""
+m_Choices[0]=(m_ChoiceText="Ir para o Pátio de Trás")
+m_Choices[1]=(m_ChoiceText="Ficar na Praça Holger")
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_DialogScriptedChoice_3 DisSeqAct_DialogScriptedChoice]
+m_Title=""
+m_Choices[0]=(m_ChoiceText="Ir para Canis")
+m_Choices[1]=(m_ChoiceText="Ficar no Escritório do Prelado Supervisor")
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_DialogScriptedChoice_4 DisSeqAct_DialogScriptedChoice]
+m_Title=""
+m_Choices[0]=(m_ChoiceText="Ir para o Distrito da Destilaria")
+m_Choices[1]=(m_ChoiceText="Ficar na Praça Holger")
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_DialogScriptedChoice_5 DisSeqAct_DialogScriptedChoice]
+m_Title=""
+m_Choices[0]=(m_ChoiceText="Pegar o Dinheiro")
+m_Choices[1]=(m_ChoiceText="Doar a Medalha de Samuel")
+m_Choices[2]=(m_ChoiceText="Mover-se")
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_DialogScriptedChoice_6 DisSeqAct_DialogScriptedChoice]
+m_Choices[0]=(m_ChoiceText="Trocar o veneno para o lado de Curnow")
+m_Choices[1]=(m_ChoiceText="Combinar os dois copos (Envenenar ambos)")
+m_Choices[2]=(m_ChoiceText="Quebrar os copos")
+m_Choices[3]=(m_ChoiceText="Mover-se")
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_DialogScriptedChoice_7 DisSeqAct_DialogScriptedChoice]
+m_Title=""
+m_Choices[0]=(m_ChoiceText="Doar a Medalha de Samuel")
+m_Choices[1]=(m_ChoiceText="Mover-se")
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_DialogScriptedChoice_8 DisSeqAct_DialogScriptedChoice]
+m_Title=""
+m_Choices[0]=(m_ChoiceText="Pegar o dinheiro")
+m_Choices[1]=(m_ChoiceText="Mover-se")
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_DialogScriptedChoice_9 DisSeqAct_DialogScriptedChoice]
+m_Title=""
+m_Choices[0]=(m_ChoiceText="Ir para o Pátio de Trás")
+m_Choices[1]=(m_ChoiceText="Ficar no Escritório do Prelado Supervisor")
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_GameOver_1 DisSeqAct_GameOver]
+m_Reason="A Conspiração dos Legalistas foi dissolvida."
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_SetTutorialMessage_0 DisSeqAct_SetTutorialMessage]
+m_TutorialMessage="Use o Teleporte para chegar a lugares altos, como telhados ou parapeitos."
+m_TutorialMessage_Gamepad=""
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_ShowHUDMessage_1 DisSeqAct_ShowHUDMessage]
+m_Message="Pista da Missão adicionada"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_ShowLocationDiscovery_0 DisSeqAct_ShowLocationDiscovery]
+m_LocationName="Sala de Interrogatório"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_ShowLocationDiscovery_2 DisSeqAct_ShowLocationDiscovery]
+m_LocationName="Câmara de Reuniões do Prelado Supervisor"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_ShowLocationDiscovery_3 DisSeqAct_ShowLocationDiscovery]
+m_LocationName="Escritório do Prelado Supervisor"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_ShowLocationDiscovery_4 DisSeqAct_ShowLocationDiscovery]
+m_LocationName="Praça Holger"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_ShowLocationDiscovery_5 DisSeqAct_ShowLocationDiscovery]
+m_LocationName="Câmara Secreta de Campbell"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_UpdateTaskTarget_0 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Instruções de Marcação"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_UpdateTaskTarget_1 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Capitão Curnow"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_UpdateTaskTarget_10 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Diário de Chantagens"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_UpdateTaskTarget_11 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Guarda de Martin"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_UpdateTaskTarget_12 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Prelado Supervisor Campbell"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_UpdateTaskTarget_13 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Para a Câmara de Reuniões"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_UpdateTaskTarget_14 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Supervisor Martin"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_UpdateTaskTarget_2 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Prelado Supervisor Campbell"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_UpdateTaskTarget_23 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Prelado Supervisor Campbell"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_UpdateTaskTarget_3 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Marca do Herege"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_UpdateTaskTarget_4 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Alavanca de Liberação"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_UpdateTaskTarget_5 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Copos"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_UpdateTaskTarget_6 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Para a Câmara de Reuniões"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_UpdateTaskTarget_7 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Câmara de Reuniões"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_UpdateTaskTarget_8 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Cadeira da Sala de Interrogatório"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_UpdateTaskTarget_9 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Lugar Seguro"
+
+[TheWorld:PersistentLevel.Main_Sequence.GuardCaptainDead_ReleaseTheHounds.DisSeqAct_GameOver_0 DisSeqAct_GameOver]
+m_Reason="Você foi envenenado"
+
+[TheWorld:PersistentLevel.Main_Sequence.GuardCaptainDead_ReleaseTheHounds.DisSeqAct_GameOver_1 DisSeqAct_GameOver]
+m_Reason="Você foi envenenado"
+
+[TheWorld:PersistentLevel.Main_Sequence.Objective_Markers_0.DisSeqAct_UpdateTaskTarget_0 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Para o Distrito da Destilaria"
+
+[TheWorld:PersistentLevel.Main_Sequence.Objective_Markers_0.DisSeqAct_UpdateTaskTarget_11 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Para o Distrito da Destilaria"
+
+[TheWorld:PersistentLevel.Main_Sequence.Objective_Markers_0.DisSeqAct_UpdateTaskTarget_13 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Para o Distrito da Destilaria"
+
+[TheWorld:PersistentLevel.Main_Sequence.Objective_Markers_0.DisSeqAct_UpdateTaskTarget_20 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Para o Distrito da Destilaria"
+
+[TheWorld:PersistentLevel.Main_Sequence.Objective_Markers_0.DisSeqAct_UpdateTaskTarget_21 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Para o Distrito da Destilaria"
+
+[TheWorld:PersistentLevel.Main_Sequence.Objective_Markers_0.DisSeqAct_UpdateTaskTarget_22 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Para o Distrito da Destilaria"
+
+[TheWorld:PersistentLevel.Main_Sequence.Objective_Markers_0.DisSeqAct_UpdateTaskTarget_4 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Para o Distrito da Destilaria"
+
+[TheWorld:PersistentLevel.Main_Sequence.Objective_Markers_0.DisSeqAct_UpdateTaskTarget_5 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Para o Distrito da Destilaria"
+
+[TheWorld:PersistentLevel.Main_Sequence.Objective_Markers_0.DisSeqAct_UpdateTaskTarget_6 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Para o Distrito da Destilaria"
+
+[TheWorld:PersistentLevel.Main_Sequence.Objective_Markers_0.DisSeqAct_UpdateTaskTarget_8 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Para o Distrito da Destilaria"
+
+[TheWorld:PersistentLevel.Main_Sequence.Objective_Markers_0.DisSeqAct_UpdateTaskTarget_9 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Para o Distrito da Destilaria"
+
+[TheWorld:PersistentLevel.Main_Sequence.Objectives_Manager.DisSeqAct_AddDarkness_0 DisSeqAct_AddDarkness]
+m_Text=""
+
+[TheWorld:PersistentLevel.Main_Sequence.Objectives_Manager.DisSeqAct_AddDarkness_1 DisSeqAct_AddDarkness]
+m_Text=""
+
+[TheWorld:PersistentLevel.Main_Sequence.Objectives_Manager.DisSeqAct_AddDarkness_2 DisSeqAct_AddDarkness]
+m_Text=""
+
+[TheWorld:PersistentLevel.Main_Sequence.OverSeerDead_GuardvsOverseers_Showdown.DisSeqAct_GameOver_0 DisSeqAct_GameOver]
+m_Reason="Você foi envenenado"
+
+[TheWorld:PersistentLevel.Main_Sequence.SamuelMarker.DisSeqAct_UpdateTaskTarget_1 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Para o barqueiro Samuel"
+
+[TheWorld:PersistentLevel.Main_Sequence.SamuelMarker.DisSeqAct_UpdateTaskTarget_15 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Para o barqueiro Samuel"
+
+[TheWorld:PersistentLevel.Main_Sequence.SamuelMarker.DisSeqAct_UpdateTaskTarget_16 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Para o barqueiro Samuel"
+
+[TheWorld:PersistentLevel.Main_Sequence.UnconsciousCampbell.DisSeqAct_UpdateTaskTarget_24 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Cadeira da Sala de Interrogatório"
+
+[TheWorld:PersistentLevel.Main_Sequence.UnconsciousCampbell.DisSeqAct_UpdateTaskTarget_8 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Prelado Supervisor Campbell"
+

@@ -1,0 +1,8 @@
+﻿[SpringRazorPlacedBase:DisTweaks_InteractableInterface_1 DisTweaks_InteractableInterface]
+m_Name="Estilingue"
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage="Você não pode carregar mais munição deste tipo"
+

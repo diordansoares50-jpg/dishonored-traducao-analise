@@ -1,0 +1,152 @@
+﻿[AbstractInv_Graphs.DLC07_Interrogation_PCard DisAbstractItemAudioLog]
+m_ItemName="Interrogação da Bruxa"
+m_PluralItemName=""
+m_Description="Interrogatório da bruxa cativa."
+
+[DLC07_Notes_Alarms DisAbstractItem]
+m_ItemName="Falsos Alarmes"
+m_PluralItemName=""
+m_Description="Evite alarmes falsos. Lembre-se, a execução é por pelotão de fuzilamento. Não toque o alarme a menos que uma emergência tenha sido confirmada pessoalmente. Alarmes falsos adicionais não serão tolerados."
+
+[DLC07_Notes_Ammunition DisAbstractItem]
+m_ItemName="Requisição"
+m_PluralItemName=""
+m_Description="Como solicitado, seu pedido especial foi atendido."
+
+[DLC07_Notes_ArcPylons DisAbstractItem]
+m_ItemName="Pilones de Arco"
+m_PluralItemName=""
+m_Description="Todos os novos dispositivos de segurança agora estão totalmente funcionais. O pessoal da prisão deve se apresentar para sintonia diariamente, sob risco de morte ou ferimentos graves. Certos funcionários estão autorizados a substituir os tanques de óleo de baleia nos geradores. Apenas técnicos treinados estão autorizados a fazer alterações nas caixas de controle. Qualquer adulteração não autorizada é uma infração punível."
+
+[DLC07_Notes_AuthorDust DisAbstractItem]
+m_ItemName="Experiência Ética"
+m_PluralItemName=""
+m_Description="Consegui colocar as mãos em uma fórmula experimental que está sendo testada aqui mesmo na Prisão de Coldridge. Uma mistura que os guardas da prisão chamam de poeira sufocante, que normalmente é capaz de deixar os prisioneiros vulneráveis por alguns momentos. No entanto, esta nova fórmula tem o potencial de tornar a vítima esquecida também. É como se, uma vez inalada, a poeira causasse um estupor temporário agudo."
+
+[DLC07_Notes_BluePrintDust DisAbstractItem]
+m_ItemName="Solicitação de Documento"
+m_PluralItemName=""
+m_Description="Caro Oficial Ashfield,
+
+Gostaria de solicitar, com a maior humildade, acesso aos documentos referentes ao novo "pó sufocante" experimental que o senhor pode ter recentemente obtido. Compreendo que se trata de um assunto delicado e garanto que todas as precauções serão tomadas com os documentos para assegurar sua confidencialidade. Caso o acesso a esses documentos lhe seja conveniente, por favor, peça a um de seus homens que os entregue à minha cela.
+
+Respeitosamente,
+Seu amigo na A25"
+
+[DLC07_Notes_CellControl DisAbstractItem]
+m_ItemName="Instruções de Controle de Célula"
+m_PluralItemName=""
+m_Description="Referência Rápida do Sistema de Controle de Células
+
+1. Ajuste o primeiro tambor para corresponder à letra da seção da cela
+2. Ajuste o segundo e terceiro tambores para o número da cela
+3. Puxe a alavanca para confirmar a seleção
+
+Garanta que cada solicitação de abertura de cela e seleção sejam verbalmente confirmadas. Investigue e relate imediatamente qualquer suspeita de mau funcionamento."
+
+[DLC07_Notes_CharmA10 DisAbstractItem]
+m_ItemName="Vaso Sanitário Entupido"
+m_PluralItemName=""
+m_Description="Preencha uma ordem de serviço para A10, transferimos o prisioneiro para a seção A. Vaso sanitário entupido, registre qualquer contrabando."
+
+[DLC07_Notes_CharmD21 DisAbstractItem]
+m_ItemName="Vaso Sanitário Entupido"
+m_PluralItemName=""
+m_Description="Preencha uma ordem de serviço para D21, transferimos o prisioneiro para a seção A. Vaso sanitário entupido, registre qualquer item proibido."
+
+[DLC07_Notes_Construction DisAbstractItem]
+m_ItemName="Relatório de Construção"
+m_PluralItemName=""
+m_Description="As instalações de segurança adicionais ao longo do muro do pátio de execução estão concluídas. Trabalhos adicionais no portão principal continuarão ao longo dos próximos dias. Todos os trabalhadores devem apresentar identificação durante a duração da construção."
+
+[DLC07_Notes_EscapeFail DisAbstractItem]
+m_ItemName="Planos de Fuga"
+m_PluralItemName=""
+m_Description="Quando você ouvir os alarmes no pátio esta noite, fuja em direção ao portão principal. Pule da ponte e nade até a entrada do esgoto. Você não terá outra chance agora que a assassina da Imperatriz escapou.
+
+Cuidado com os ratos."
+
+[DLC07_Notes_Executions DisAbstractItem]
+m_ItemName="Aviso de Execução"
+m_PluralItemName=""
+m_Description="Atenção: As execuções do pessoal responsável por permitir a fuga do antigo Lorde Protetor continuarão hoje. O pátio de execuções permanece proibido, salvo indicação em contrário."
+
+[DLC07_Notes_FromOverseer DisAbstractItem]
+m_ItemName="Aviso dos Supervisores"
+m_PluralItemName=""
+m_Description="Conforme solicitado, enviaremos um de nossos Supervisores para investigar um incidente na Prisão de Coldridge. A partir deste momento, ninguém mais deve entrar na área onde o evento ocorreu, e precauções devem ser tomadas para reduzir a exposição. Quaisquer testemunhas devem estar disponíveis para interrogatório. Confiamos que todas as cortesias serão observadas quando nosso irmão chegar a Coldridge."
+
+[DLC07_Notes_Hatters DisAbstractItem]
+m_ItemName="Os Chapéus"
+m_PluralItemName=""
+m_Description="Mantenha os Chapéus longe das Enguias. Aquele na seção D, cela 11, tentou atacar aquele ex-líder das Enguias Mortas novamente. Não podemos nos permitir investigações adicionais ou erros agora. Portanto, mantenha-os separados."
+
+[DLC07_Notes_LizzyCellA00 DisAbstractItem]
+m_ItemName="Diário de Bordo"
+m_PluralItemName=""
+m_Description="Winston Fogarty removido.\nElizabeth Stride movida para A00\nLucas Penroe movido para D11\nJane Cochrane removida temporariamente"
+
+[DLC07_Notes_LizzyCellA21 DisAbstractItem]
+m_ItemName="Diário de Bordo"
+m_PluralItemName=""
+m_Description="Winston Fogarty removido.\nElizabeth Stride movida para A21\nLucas Penroe movido para D11\nJane Cochrane temporariamente removida"
+
+[DLC07_Notes_LizzyCellC28 DisAbstractItem]
+m_ItemName="Diário de Bordo"
+m_PluralItemName=""
+m_Description="Winston Fogarty removido.\nElizabeth Stride movida para C28\nLucas Penroe movido para D11\nJane Cochrane removida temporariamente"
+
+[DLC07_Notes_LizzyCellD24 DisAbstractItem]
+m_ItemName="Diário de Bordo"
+m_PluralItemName=""
+m_Description="Winston Fogarty removido.\nElizabeth Stride movida para D24\nLucas Penroe movido para D11\nJane Cochrane temporariamente removida"
+
+[DLC07_Notes_Log DisAbstractItem]
+m_ItemName="Atualizações de Log"
+m_PluralItemName=""
+m_Description="Lembre-se de tomar cuidado extra ao registrar transferências. Mesmo transferências temporárias de prisioneiros de uma cela para outra devem ser registradas no livro de registros. Certifique-se de que o livro de registros esteja disponível na cabine do guarda entre as seções C e D em todos os momentos."
+
+[DLC07_Notes_Log2 DisAbstractItem]
+m_ItemName="Registro de Aviso"
+m_PluralItemName=""
+m_Description="Todas as entradas no livro de registro devem conter o nome do prisioneiro e o número da cela de destino. O livro de registro está na guarita entre as seções C e D. Não negligencie o registro de toda transferência de prisioneiro. A falha em fazê-lo constitui uma infração punível."
+
+[DLC07_Notes_MissingLoot DisAbstractItem]
+m_ItemName="Evidência Desaparecida"
+m_PluralItemName=""
+m_Description="Ashfield,\nNotei um padrão de evidências desaparecidas. De alguma forma, as evidências somem entre o relatório de recebimento e quando chegam ao meu escritório. Estou responsabilizando você completamente. Se não consegue controlar seus homens, substituirei você por alguém que consiga. Este é seu único aviso, resolva isso."
+
+[DLC07_Notes_NoKeys DisAbstractItem]
+m_ItemName="Chaves Apreendidas"
+m_PluralItemName=""
+m_Description="Todas as chaves das celas serão confiscadas por um período indeterminado. A partir deste momento, todo o pessoal deverá utilizar o sistema central de controle de celas localizado acima do pátio. Sem exceções, qualquer pessoa encontrada em posse de uma chave de cela será punida com todo o rigor da lei. Agradecemos pela sua cooperação."
+
+[DLC07_Notes_OverseerVisit DisAbstractItem]
+m_ItemName="Chegada do Supervisor"
+m_PluralItemName=""
+m_Description="Lembre-se de que um Supervisor foi convocado para lidar com a situação na Sala de Interrogação. Até a chegada do Supervisor, ninguém deve entrar na Sala de Interrogação. As celas dos prisioneiros são proibidas para Supervisores e outros visitantes, sem exceções."
+
+[DLC07_Notes_SectionB DisAbstractItem]
+m_ItemName="Seção B Fechada"
+m_PluralItemName=""
+m_Description="A Seção B permanecerá fechada até a conclusão da investigação sobre a fuga de Corvo Attano. Os prisioneiros foram transferidos para as celas do outro lado da prisão."
+
+[DLC07_Notes_StolenLoot DisAbstractItem]
+m_ItemName="Aviso dos Supervisores"
+m_PluralItemName=""
+m_Description="Conforme solicitado, enviaremos um de nossos supervisores para investigar um incidente na Prisão de Coldridge. A partir deste momento, ninguém mais deve adentrar a área onde o evento ocorreu, e precauções devem ser tomadas para reduzir a exposição. Quaisquer testemunhas devem estar disponíveis para interrogatório. Confiamos que todas as cortesias serão observadas quando nosso irmão chegar a Coldridge."
+
+[DLC07_Notes_Timsh DisAbstractItem]
+m_ItemName="Timsh"
+m_PluralItemName=""
+m_Description="O bom advogado, Timsh, não tem dinheiro. Levaram todos os seus pertences quando o jogaram aqui. Não perca tempo ouvindo seus subornos."
+
+[DLC07_Notes_TransferLoot DisAbstractItem]
+m_ItemName="Transferir Ordens"
+m_PluralItemName=""
+m_Description="Tenente Wright,
+
+O Chapeleiro que capturamos estava tentando esconder este butim no canal quando o pegamos. Parece que foi ele quem atacou a carruagem do Lorde Brimon algumas noites atrás. Até agora não revelou seus cúmplices, mas vai falar quando chegar sua vez na Sala de Interrogatório. Documente tudo e entregue no escritório do Lorde Regente. E garanta que nada se "perca" no caminho, ou seremos ambos decapitados.
+
+- Ashfield"
+

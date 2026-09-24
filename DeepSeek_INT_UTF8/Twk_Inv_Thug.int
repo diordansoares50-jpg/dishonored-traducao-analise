@@ -1,0 +1,12 @@
+﻿[Thug.Twk_Inv_SwordThug:DisTweaks_InventoryItem_PlayerSpecific_1 DisTweaks_InventoryItem_PlayerSpecific]
+m_Name="Gang Cleaver"
+m_Description="Um cutelo grosseiro usado por bandidos de rua. Esta arma mais corta do que fere."
+
+[Thug.Twk_Inv_SwordThug_Player:pPlayerSpecific DisTweaks_InventoryItem_PlayerSpecific]
+m_Name="Gang Cleaver"
+m_Description="Um cutelo grosseiro usado por bandidos de rua. Esta arma mais retalha do que corta."
+
+[Thug.Twk_Inv_SwordThugTall:DisTweaks_InventoryItem_PlayerSpecific_1 DisTweaks_InventoryItem_PlayerSpecific]
+m_Name=""
+m_Description=""
+

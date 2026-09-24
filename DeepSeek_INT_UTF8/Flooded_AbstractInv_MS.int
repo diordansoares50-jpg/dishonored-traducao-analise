@@ -1,0 +1,291 @@
+﻿[WrittenNotes.Readable_Alfa DisAbstractItem]
+m_ItemName="Carta para Alfa"
+m_PluralItemName=""
+m_Description="Caro Alfa,
+
+Não nos importa se você está doente. Por favor, volte para casa. Nós cuidaremos de você. Eu não tenho medo. Sua irmã me contou que você planeja se esconder no distrito inundado, e que quer morrer sozinho lá. Por favor, não faça isso conosco. Por favor.
+
+Eu te amo."
+
+[WrittenNotes.Readable_AmmoTransport DisAbstractItem]
+m_ItemName="Carta para Burney"
+m_PluralItemName=""
+m_Description="Burney,
+
+Acho que tenho o que você procura. Um vagão contendo plantas de um tipo avançado de munição foi perdido no distrito inundado. Os tolos que o projetaram acharam-no tão valioso que enviaram a única cópia pelas linhas elevadas que passam por aquele lugar abandonado. Ele nunca chegou ao destino. Sugiro que você comece sua busca na Estação Central de Rudshore.
+
+Seja extremamente cuidadoso - há rumores de que a Gangue dos Whalers tem seu território em algum lugar daquela área. Se você vir qualquer sinal deles, corra como um louco.
+
+--Tusky"
+
+[WrittenNotes.Readable_AmmoTransport2 DisAbstractItem]
+m_ItemName="Mensagem do Mensageiro de Armas"
+m_PluralItemName=""
+m_Description="Corwin,
+
+Imagine o poder de fogo de um tallboy, mas com a velocidade e facilidade de ocultação de uma pistola. Com esta nova tecnologia, qualquer soldado com um braço firme será uma força a ser temida. Certifique-se de que ela chegue ao Lorde Regente sem demora.
+
+--Locksley"
+
+[WrittenNotes.Readable_AssnGear DisAbstractItem]
+m_ItemName="Instruções de Daud"
+m_PluralItemName=""
+m_Description="A toxina do sono só deve ser usada em alvos abduzidos e em recompensas que precisamos vivos. Não as desperdice tentando evitar baixas colaterais."
+
+[WrittenNotes.Readable_AssnPowers DisAbstractItem]
+m_ItemName="O Trabalho de Brigmore"
+m_PluralItemName=""
+m_Description="Rinaldo, faça o trabalho como lhe foi ordenado e não questione meus planos novamente. Sim, as mulheres que se encontram nas ruínas da mansão Brigmore possuem habilidades como as nossas. E usam venenos, administrados por dardos. Mas assim como você compartilha minha habilidade de se teletransportar através do truque transversal, você também herda minha resistência a algumas toxinas. Como eu disse quando você se juntou a nós, é outro de meus dons que quem me serve com lealdade compartilha parte do meu poder. Isso pode ou não ajudá-lo contra os venenos delas.
+
+A líder das bruxas de Brigmore deve pagar por sua traição. Se você tiver sucesso, sua parte será suficiente para construir uma bela casa em Serkonas na sua velhice, supondo que você sobreviva.
+
+--Daud"
+
+[WrittenNotes.Readable_Bounty DisAbstractItem]
+m_ItemName="Nota de Recompensa de Corvo"
+m_PluralItemName=""
+m_Description="Daud,
+
+Encontrar Corvo com aquela máscara poderia ter sido uma elaborada armação, mas agora o recém-nomeado Lorde Regente Havelock está anunciando para toda a cidade que tem provas ligando Corvo ao Foragido Mascarado.
+
+A recompensa é de 30.000 moedas, mas se Corvo realmente for o Foragido Mascarado e for responsável por todas as coisas das quais os cartazes de procurado o acusam, espero que a recompensa dobre. Porque o temos vivo, devemos ser capazes de negociar por ainda mais.
+
+Quanto ao Slackjaw, nós o observamos por uma semana, e quando estávamos prontos para agir, ele desapareceu de repente. Talvez ele tenha deixado a cidade.
+
+--Rulfio"
+
+[WrittenNotes.Readable_ChambofComm DisAbstractItem]
+m_ItemName="Carta ao Diretor"
+m_PluralItemName=""
+m_Description="Então é isso? Vamos fechar as portas? Depois de todos esses anos? Logo depois de inaugurarmos a nova estátua de Jessamine Kaldwin? Uma parede quebrada e um pouco de água subindo, e vamos simplesmente abandonar o prédio e dividir nossos escritórios pelos distritos menores?
+
+Você está louco? Seu cérebro virou ratazana da peste? Você tem bebido a urina do Forasteiro? Qualquer uma dessas explicações eu aceitaria mais facilmente do que as designações de realocação que encontramos em nossas mesas esta manhã. Se é assim que você planeja operar como nosso diretor, então não, não aceitarei minhas ordens de realocação.
+
+Considere esta minha demissão.
+
+- Percival Cox, ex-vice-presidente, Câmara de Comércio de Rudshore."
+
+[WrittenNotes.Readable_CrankWheels DisAbstractItem]
+m_ItemName="Aviso de Runce"
+m_PluralItemName=""
+m_Description="Pessoal,\n  
+Essas malditas rodas não param de sair das válvulas. Se vocês só apertarem elas de volta, parecem ficar bem firmes, então façam isso até encontrarmos uma solução melhor. Se precisarem esvaziar um desses tanques e a roda estiver faltando, provavelmente tem uma por perto. Se não, verifiquem o armário perto das escadas.  
+E mais uma coisa. Eu sei que um de vocês deixou cair o relógio de bolso no poço do reservatório e teve a brilhante ideia de esvaziar os tanques para elevar o nível do óleo e recuperar o relógio. Façam isso de novo, e o custo do óleo desperdiçado sai do salário de vocês.  
+--Runce"
+
+[WrittenNotes.Readable_DaudBook DisAbstractItem]
+m_ItemName="Registro de Daud"
+m_PluralItemName=""
+m_Description="[O último registro no diário]
+
+Dezoito anos nesta rocha miserável, nesta cidade de imundície. Senti o sangue de eruditos, de nobres pedófilos, de membros de guildas, de amantes infiéis, de políticos que eram justos demais para o seu próprio bem, e de agentes da lei que chegaram perto demais de levar o homem errado à justiça. Por que uma imperatriz seria diferente? Por que eu deveria sentir todo o peso desta cidade moribunda esmagando minhas costas?
+
+Corvo, Lorde Protetor, é de Serkonos, assim como eu já fui. Talvez eu já soubesse desse fato, mas não importava até que o reconheci em seu rosto. Isso trouxe de volta memórias distantes de casa, e do jovem otimista que eu já fui.
+
+O que eu encontraria se voltasse para lá? Descobriria que apodreceu por dentro, assim como Dunwall, ou apenas pareceria assim porque sou eu quem apodreceu?"
+
+[WrittenNotes.Readable_DaudEvidence DisAbstractItem]
+m_ItemName="Carta para Daud"
+m_PluralItemName=""
+m_Description="Daud,
+
+Estou satisfeito. Corvo teria sido muito útil para mim, mas sua improvisação foi exemplar. Ele levar a culpa pelo crime simplificou muito as coisas. Espero que esteja igualmente satisfeito com o pagamento.
+
+Entrarei em contato novamente em breve para tarefas adicionais.
+
+--H.B."
+
+[WrittenNotes.Readable_DogTraining DisAbstractItem]
+m_ItemName="Excerto do diário de um assassino"
+m_PluralItemName=""
+m_Description="[Trecho de um diário recente]
+
+Os quatro cães de caça que "resgatamos" dos Supervisores estão fazendo grandes progressos. Estou confiante de que, com cuidados contínuos e alimentação adequada, o treinamento que receberam nas mãos dos fanáticos desaparecerá e eles começarão a se comportar mais de acordo com o nosso gosto."
+
+[WrittenNotes.Readable_FloodedFlooding DisAbstractItem]
+m_ItemName="Diário de Donovan"
+m_PluralItemName=""
+m_Description="[Trecho de um diário desgastado]
+
+Todos procuravam alguém para culpar pelo que aconteceu, enquanto as águas subiam dia após dia, e um a um os donos de negócios tiveram que abandonar suas lojas para a lama que chegava aos tornozelos, e crostas do rio começaram a crescer até a Rua Thresh.
+
+A verdade é que não foi nenhum plano para apagar o sempre próspero Rudshore dos mapas de Dunwall: foi preguiça e estupidez. As barreiras que mantinham as águas crescentes do rio afastadas não eram mantidas há pelo menos uma década, e assim que um vazamento começou, tudo desabou. A cidade estava tão ocupada lutando contra a praga que ninguém levantou um dedo para salvar o lugar.
+
+Já faz um ano agora, e viver em um lugar que o Regente esqueceu tem suas vantagens."
+
+[WrittenNotes.Readable_FranklinPrison DisAbstractItem]
+m_ItemName="Carta para o Superintendente Franklin"
+m_PluralItemName=""
+m_Description="Overseer Franklin, não era?\n\nQuando falarmos novamente, espero que me diga duas coisas.\n\nPrimeiro, o que os Preceitos lhe dizem sobre ficar preso em uma cela da qual você poderia escapar facilmente, se suas pernas não estivessem quebradas?\n\nEm segundo lugar, como sua espécie descobriu a localização de nossa base, e o que exatamente esperavam conseguir ao marchar um bando de tolos desesperadamente em menor número por água na altura do peito?\n\n--Daud"
+
+[WrittenNotes.Readable_GateCourt DisAbstractItem]
+m_ItemName="Registro de Trabalho de Segurança"
+m_PluralItemName=""
+m_Description="[Trecho de um registro de trabalho de segurança]
+
+Pelos próximos dias, vamos quadruplicar a taxa de descargas da carroça da peste. Isso inevitavelmente significa que teremos um número crescente de portadores da peste que fingem estar mortos na esperança de escapar. Então, aqui está o plano para manter a área do Portão Rudshore segura.
+
+Primeiro passo: Instalar alguns pilares de arco no pátio atrás do hotel. Temos um bloqueador de rua lá em cima, mas não podemos soldá-lo fechado. Ainda precisamos usar essa rota para acessar o rio, o que significa que os pestíferos também podem.
+
+Segundo passo: Erguer uma barreira entre a Rua Thresh e o Velho Canal Mosley.
+
+Terceiro passo: Instalar mais luzes, especialmente para iluminar o hotel e os edifícios ao redor.
+
+Você pode ficar tentado a pegar o tanque de óleo dos pilares para fazer os holofotes funcionarem. NÃO FAÇA ISSO. Precisamos que esses pilares estejam ativos e o pátio traseiro seguro."
+
+[WrittenNotes.Readable_GatewardKey DisAbstractItem]
+m_ItemName="Aviso de Daud"
+m_PluralItemName=""
+m_Description="Se você tiver uma tarefa que exija que viaje até o Portão de Rudshore, procure-me. Eu tenho a chave.
+
+--Daud."
+
+[WrittenNotes.Readable_GreavesOil DisAbstractItem]
+m_ItemName="Registro do Gerente da Refinaria"
+m_PluralItemName=""
+m_Description="[Trecho de um registro de trabalho]
+
+Os tanques marcados como "Lote B" provenientes do matadouro Whalehouse devem ser conectados APENAS à fileira de tubulações mais profunda. Essas barcaças contêm gordura de baleias juvenis e precisam passar por um processo de refino diferente para garantir o mesmo nível de potência. Precisamos esvaziar os tanques e devolvê-los ao Whalehouse o mais rápido possível.
+
+A Greaves Lighting Oil Company está a caminho de lucros recordes neste trimestre, e quero que seja a Refinaria que receba o crédito por isso, não aqueles preguiçosos do Whalehouse!"
+
+[WrittenNotes.Readable_HistoryofShantyTown DisAbstractItem]
+m_ItemName="Diário da Martha"
+m_PluralItemName=""
+m_Description="[Trecho de um diário desgastado]\n\nOs Baleeiros vieram em maior número ontem à noite. Fugimos assim que ouvimos os sons estranhos que eles fazem, mas metade dos nossos homens caiu antes que pudéssemos nos dispersar.\n\nLarrian diz que eles não são baleeiros coisa nenhuma, mas cultistas escondendo os rostos atrás de máscaras das antigas fábricas de processamento de óleo. Devíamos ter saído quando começaram a rondar pela primeira vez. Eles estão atrás do antigo prédio da Câmara de Comércio pelos mesmos motivos que nos estabelecemos aqui. É seguro, razoavelmente seco e há um túnel embaixo que leva direto para o Portão de Rudshore."
+
+[WrittenNotes.Readable_LayingCables DisAbstractItem]
+m_ItemName="Nota do Contratante"
+m_PluralItemName=""
+m_Description="Está ficando mais difícil encontrar trabalhadores saudáveis dispostos a instalar conduítes no Distrito Inundado. Então, o que vamos fazer é selecionar quaisquer homens de aparência forte que mostrem sinais da doença e oferecer trabalho em troca de fazermos vista grossa. Eles instalam esses holofotes, e então você faz o que quiser com eles.
+
+--C.S."
+
+[WrittenNotes.Readable_LightHint DisAbstractItem]
+m_ItemName="Ordens do Tallboy"
+m_PluralItemName=""
+m_Description="Este gerador alimentará os holofotes. No momento, apenas um está conectado, mas assim que for ligado, os tallboys abandonarão suas patrulhas e atacarão os prédios de apartamentos. Qualquer pessoa dentro, chorador ou não, deve ser morta."
+
+[WrittenNotes.Readable_Looters DisAbstractItem]
+m_ItemName="Carta para Ferg"
+m_PluralItemName=""
+m_Description="Ei, Ferg,
+
+Um conselho sobre suas viagens de caça ao tesouro, tão gananciosas, ao Distrito Alagado. Se você se encontrar encalhado e a única saída for pelo Portão Rudshore, esta ferramenta de religação será útil. Se conseguir passar pelas portas, o painel de circuitos para a parede de luz está logo do outro lado.
+
+Melhor ainda, deixe-me ir com você. Eu cuido das coisas complicadas.
+
+--Craggy"
+
+[WrittenNotes.Readable_Mace DisAbstractItem]
+m_ItemName="Diário de Mace Brimsley"
+m_PluralItemName=""
+m_Description="Dia 1  
+Quando o Contador de Mortos chegou, eu tinha certeza de que, se descobrissem a doença em minha esposa, eu também seria levado. Ordenei que ela fingisse estar morta, e fiz o mesmo, na esperança de que os inspetores fossem muito preguiçosos ou muito estúpidos para se importar. Como eu suspeitava, fomos carregados na carroça da peste sem que se dessem ao trabalho de verificar nosso pulso. O Contador de Mortos parecia preocupado apenas com o valor de nossa propriedade.  
+
+Dia 2  
+Não posso ter certeza se foi sorte ou destino cruel que eu tenha sobrevivido à queda da carroça da peste. Suspeito que possa ser uma maldição, pois minha querida esposa não apenas sobreviveu ilesa também, mas a experiência nem a peste fizeram nada para calar sua boca resmungona. Logo descobrimos que não éramos os únicos sobreviventes, e de fato um pequeno grupo se aglomera perto do Portão de Rudshore, implorando por qualquer chance de liberdade.  
+
+Dia 3  
+Certamente, a esta altura, eu já deveria estar sentindo os efeitos da doença no meu peito e garganta, mas, além da desidratação e das dores de um estômago vazio, não sinto nada."
+
+[WrittenNotes.Readable_MusicBox DisAbstractItem]
+m_ItemName="Reporte-se a Daud"
+m_PluralItemName=""
+m_Description="Este é o dispositivo musical que o Supervisor tinha preso ao peito. Enquanto estava funcionando, não conseguíamos realizar transversais ou ancoragens. Sugiro que todos o examinemos bem."
+
+[WrittenNotes.Readable_OtherBountys DisAbstractItem]
+m_ItemName="Registro de Recompensas"
+m_PluralItemName=""
+m_Description="[Excerto de um livro de recompensas]
+
+Croonigan - Eliminado, 1.500 moedas pagas
+Sallard - Localização desconhecida
+Elizabeth - Raptada, entregue, 2.000 moedas pagas
+Boothe - Eliminado, pagamento recusado. Empregador eliminado.
+Homem Mascarado Desconhecido - Revelado ser Corvo
+Slackjaw - Localização Desconhecida
+Corvo - Em custódia, a ser entregue vivo"
+
+[WrittenNotes.Readable_OverseerExped DisAbstractItem]
+m_ItemName="Ordens do Alto Supervisor Campbell"
+m_PluralItemName=""
+m_Description="Desejo-lhe segurança e coragem em sua expedição.
+
+O assassino Daud e seus seguidores cultistas são comumente conhecidos como Arpoadores, devido às máscaras de trabalhadores de petróleo que usam. Cuidado, pois Daud pode possuir poder e resistência além do esperado. Prossiga com extrema cautela; sua infâmia é bem merecida.
+
+Eles estão baseados dentro do edifício da Câmara de Comércio nas ruínas de Central Rudshore. Todas as estradas para esta área foram bloqueadas, com exceção dos trilhos elevados. Encontre a estação ferroviária no Mercado de Rudshore.
+
+Avance com cuidado, pois os cultistas sem dúvida empregam espiões para vigiar a rota.
+
+--Alto Supervisor Campbell"
+
+[WrittenNotes.Readable_OverseerWarning DisAbstractItem]
+m_ItemName="Aviso do Supervisor"
+m_PluralItemName=""
+m_Description="Os assassinos prepararam sua armadilha quando tentamos atravessar a ponte estreita. Naquele ponto de estrangulamento, conseguiram nos eliminar um por um. Pensamos que poderíamos atraí-los para dentro, onde nossos números maiores poderiam fazer mais diferença, mas não adiantou.
+
+Agora sou o único que sobrou vivo, e sinto isso escapar de mim minuto a minuto.
+
+Por favor, se um segundo grupo tentar passar por aqui, cuidado com aquela ponte. Eles estão ouvindo o som da porta abrindo. Fiquem de olho nos telhados. Até mesmo um pequeno número deles é mais do que suficiente."
+
+[WrittenNotes.Readable_PitBridge DisAbstractItem]
+m_ItemName="Nota do Capataz da Refinaria"
+m_PluralItemName=""
+m_Description="Diga ao seu capitão de turno para designar um burk de manutenção para cada turno. Os conduites continuam dando curto aqui em cima.
+
+Pelo menos autorize-nos a colocar um recipiente de óleo de baleia no receptáculo de reserva ao lado da ponte para manter o fluxo de energia estável. Somos a Companhia Greaves, pelo amor de Deus. Você pensaria que poderíamos pagar por um tanque de óleo extra próprio.
+
+Ou se você precisa que eu simplifique para você - sem energia, a ponte fica levantada. Se a ponte fica levantada, não conseguimos acessar o poço da refinaria. Sem acesso ao poço, não fazemos nosso trabalho. Simples assim."
+
+[WrittenNotes.Readable_SmugglerProngs DisAbstractItem]
+m_ItemName="Aviso do Sargento William"
+m_PluralItemName=""
+m_Description="Os saqueadores têm roubado ou fabricado cópias das hastes especiais necessárias para abrir essas portas de quarentena. Se você ouvir alguém chegando, não assuma que é um amigo.
+
+--Sargento William"
+
+[WrittenNotes.Readable_StealingOil DisAbstractItem]
+m_ItemName="Carta para Stew"
+m_PluralItemName=""
+m_Description="E aí, Stew, é o seguinte.
+
+A velha Refinaria Greaves ainda tem tanques cheios de óleo de baleia processado que ninguém mexeu. Só precisamos pegar um monte de tanques vazios e usar as bombas que eles têm na estação da frente para enchê-los de novo. Com o nível da água tão alto, daria pra entrar e sair de barco de boa. Só não vá sozinho. Tem crustáceos do rio por toda parte. Esses bichos são perigosos.
+
+--Mitch"
+
+[WrittenNotes.Readable_TheGreavesStair DisAbstractItem]
+m_ItemName="Aviso de Segurança da Refinaria"
+m_PluralItemName=""
+m_Description="Lembre-se de manter a escada na posição "para cima" em todos os momentos, exceto durante uma troca de turno ou uma emergência. A falha em fazer isso pode resultar em danos ao equipamento e/ou perda de vidas.
+
+Em caso de uma emergência real, a energia principal SERÁ desligada. Use a tomada de reserva à sua direita para restaurar a energia deste painel de controle."
+
+[WrittenNotes.Readable_WeeperCampbell DisAbstractItem]
+m_ItemName="A Maldição de Campbell"
+m_PluralItemName=""
+m_Description="Maldito seja aquele tolo de Hiram Burrows! Lorde Regente, o meu traseiro de lírio branco! Quase tínhamos tudo. Agora vou carregar a Marca do Herege pelo curto resto dos meus dias. A Marca do Herege, de todas as coisas! Eu devia ter banido o ritual, mas na verdade planejava usá-lo contra alguns indesejáveis, se fosse necessário, talvez até contra o Hiram. Agora está tudo perdido. Quando vejo meu próprio reflexo numa poça de água suja, vejo o fracasso queimado no meu rosto. Estou banido.
+
+E agora a praga está sobre mim. Já a febre aumenta e meus pensamentos são escorregadios como enguias. Não vai demorar até eu estar babando, gemendo e sangrando pelos olhos. Na semana passada, eu estava saboreando vinhos tívios refinados e desfrutando dos confortos que meu cargo na Abadia me garantia. Hoje, durmo na sujeira, perdido neste distrito sombrio e destruído.
+
+Se minha mente vai apodrecer, que estas sejam minhas últimas palavras, os últimos pensamentos coerentes de Thaddeus Campbell — um grande homem, um amante voraz da vida em todos os seus sabores e odores, e outrora Alto Supervisor na grande capital de Dunwall.
+
+Da escuridão do Vazio, lanço maldições sobre a cabeça de Corvo Attano. Foi ele quem me custou tudo que eu tinha de mais precioso.
+
+Que moscas nidifiquem em seus olhos, Corvo, e que todos os seus desejos sejam arruinados, assim como você arruinou os meus.
+
+— Thaddeus Campbell"
+
+[WrittenNotes.Readable_WhaleStatue DisAbstractItem]
+m_ItemName="Carta para Heather"
+m_PluralItemName=""
+m_Description="Querida Heather,
+
+O Harold não tem falado sem parar sobre aquele tesouro que ele escondeu? Pensei que ele nunca ia calar a boca! Ele alega que aquilo prova que ele tem ascendência imperial, mas, se quer saber, só mostra que nossos maravilhosos governantes hoje em dia compram favores de qualquer um! É um escândalo, só pode ser!
+
+Enfim, você devia ir vê-lo. Quando ele for te mostrar a estátua, vai pedir que você adivinhe o código do cofre. (Meu Deus, que chato ele é.) Então dê uma piscadela maliciosa e diga que é 428. Eu só queria poder estar lá para ver a cara dele quando você acertar.
+
+Você sabe que ele está a fim de você, e ele tem dinheiro. Pode ser baixinho e monótono na conversa, zero graça em jantares na minha opinião, mas ele tem dinheiro. Ele tem um apartamento lá perto da Câmara do Comércio. Um buraco horrível; a única entrada é pelo pátio dos fundos, e é menor que meu sótão perto do cais, mas quem pode bancar um lugar de qualquer tamanho naquela parte da cidade tem que estar indo muito bem na vida.
+
+--Amelia"
+

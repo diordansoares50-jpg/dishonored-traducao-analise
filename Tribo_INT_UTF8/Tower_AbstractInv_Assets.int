@@ -1,0 +1,36 @@
+﻿[ConfessionAudiograph_NP_twk DisTweaks_AbstractItemPickup]
+m_SingleItemPickupMessage=""
+
+[ConfessionAudiograph_NP_twk:DisTweaks_Interactable_PickupBase_0 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name="Audiógrafo de Confissão do Lorde Regente"
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[ConfessionAudiograph_twk DisTweaks_AbstractItemPickup]
+m_SingleItemPickupMessage=""
+
+[ConfessionAudiograph_twk:DisTweaks_Interactable_PickupBase_0 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name="Audiógrafo de Confissão do Lorde Regente"
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[TravelPapers_twk DisTweaks_AbstractItemPickup]
+m_SingleItemPickupMessage=""
+
+[TravelPapers_twk:DisTweaks_Interactable_PickupBase_1 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name="Audiógrafo de Confissão do Lorde Regente"
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+

@@ -1,0 +1,50 @@
+﻿[Notes.DisclaimerExpert_AbstrInv DisAbstractItem]
+m_ItemName="Fogueiras"
+m_PluralItemName=""
+m_Description="Toque o maior número possível de feixes de luz vermelha antes que o tempo acabe.
+
+Toque os feixes de luz vermelha que aparecem aleatoriamente.
+Cada feixe de luz alcançado estenderá o tempo da contagem regressiva.
+Alta mobilidade através do poder `GBA_Use` Piscar e `GBA_Use` Agilidade serão seus melhores aliados.
+Se você cair no Vazio, reiniciará no último feixe alcançado.
+
+Assassinos patrulham a área.
+Sua mana se regenera muito lentamente.
+Pegue os elixires de mana espalhados pela área para restaurá-la mais rápido.
+
+Pontuação:
+* Cada feixe vermelho alcançado concede um bônus de pontuação, com um bônus especial se alcançado em muito pouco tempo.
+* Alguns saltos únicos e difíceis concedem um bônus quando realizados.
+* Sua vida restante ao final do desafio concede um bônus de pontuação.
+
+Fim de Jogo:
+O desafio termina quando o temporizador chega a 0 ou se você morrer."
+
+[Notes.DisclaimerExpert_Pickup DisTweaks_AbstractItemPickupNote]
+m_PressKeyToReadMessage=""
+m_OnPickupMessage=""
+
+[Notes.DisclaimerNormal_AbstrInv DisAbstractItem]
+m_ItemName="Fogueiras"
+m_PluralItemName=""
+m_Description="Toque o maior número possível de feixes de luz vermelha antes que o tempo acabe.
+
+Toque os feixes de luz vermelha que aparecem aleatoriamente.
+Cada feixe de luz alcançado estenderá o tempo da contagem regressiva.
+Alta mobilidade através do poder de `GBA_Use` Teleporte e Agilidade será sua melhor aliada.
+Se você cair no Vazio, reiniciará no último feixe alcançado.
+
+Se cair no chão, não sofrerá dano.
+Sua mana se regenera muito rapidamente, não hesite em usar `GBA_Use` Teleporte frequentemente.
+
+Pontuação:
+* Cada feixe vermelho alcançado concede um bônus de pontuação, com um bônus especial se alcançado em muito pouco tempo.
+* Alguns saltos únicos e desafiadores concedem um bônus quando realizados.
+
+Fim de Jogo:
+O desafio termina quando o temporizador chegar a 0."
+
+[Notes.DisclaimerNormal_Pickup DisTweaks_AbstractItemPickupNote]
+m_PressKeyToReadMessage=""
+m_OnPickupMessage=""
+

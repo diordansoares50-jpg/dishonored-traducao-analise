@@ -1,0 +1,13 @@
+﻿[DLC06_Pwn_MTall_Timsh DisDLC06Tweaks_NPCPawn]
+m_BusyText="This character is busy"
+m_CannotStealMessage="You can't carry more ammo of this type"
+m_AsleepCrosshairText="(Unconscious)"
+
+[DLC06_Pwn_MTall_Timsh:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Arnold Timsh"
+m_InteractText=""
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+

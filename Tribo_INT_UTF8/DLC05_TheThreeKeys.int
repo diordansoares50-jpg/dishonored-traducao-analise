@@ -1,0 +1,38 @@
+﻿[DLC01_TheThreeKeys_Hard DishonoredObjective]
+m_Description="Get three keys to open the main door without be spotted and without killing anyone."
+
+[DLC01_TheThreeKeys_Hard:DishonoredTask_Custom_21 DishonoredTask_Custom]
+m_Description="Get the third Key."
+m_Status=""
+
+[DLC01_TheThreeKeys_Hard:DishonoredTask_Custom_22 DishonoredTask_Custom]
+m_Description="Unlcok the main door"
+m_Status=""
+
+[DLC01_TheThreeKeys_Hard:DishonoredTask_Custom_8 DishonoredTask_Custom]
+m_Description="Get the second Key."
+m_Status=""
+
+[DLC01_TheThreeKeys_Hard:DishonoredTask_Custom_9 DishonoredTask_Custom]
+m_Description="Get the first Key."
+m_Status=""
+
+[DLC01_TheThreeKeys_Medium DishonoredObjective]
+m_Description="Get three keys to open the main door without be spotted."
+
+[DLC01_TheThreeKeys_Medium:DishonoredTask_Custom_21 DishonoredTask_Custom]
+m_Description="Get the third Key."
+m_Status=""
+
+[DLC01_TheThreeKeys_Medium:DishonoredTask_Custom_22 DishonoredTask_Custom]
+m_Description="Unlcok the main door"
+m_Status=""
+
+[DLC01_TheThreeKeys_Medium:DishonoredTask_Custom_8 DishonoredTask_Custom]
+m_Description="Get the second Key."
+m_Status=""
+
+[DLC01_TheThreeKeys_Medium:DishonoredTask_Custom_9 DishonoredTask_Custom]
+m_Description="Get the first Key."
+m_Status=""
+

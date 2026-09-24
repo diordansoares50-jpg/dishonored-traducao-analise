@@ -1,0 +1,36 @@
+﻿[Bookstack_Moveable_twk:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Stack of Books"
+
+[Brick_highdamage_twk:DisTweaks_InteractableInterface_10 DisTweaks_InteractableInterface]
+m_Name="Loose Brick"
+
+[Notes.Instructions_Normal_AbstrInv DisAbstractItem]
+m_ItemName="Bend Time Massacre"
+m_PluralItemName=""
+m_Description="Normal \nBreak the glass to start a few seconds of Bend Time, and use it to kill as many enemies as possible.\n\nYou will face a succession of rounds featuring different situations and resources. \nYour resources are limited, but the environment may provide additional hazards.\nYou have as many tries as you need, but only the score from the first winning attempt at each round will be added to your total.\n\nScoring:\n* Each kill gives you points. \n* Killing enemies in various ways scores more points.\n* Clean a room completely gives you more points. \n  \nSpecial:\nEach time a round is completed at first try, you have the possibility to play a bonus round with a unique objective. Don't mess up this one, you can't restart it if you fail. \n\nGame Over: \nThere is no game over. If you fail a round, you just restart it. "
+
+[Notes.instructions_normal_pickup DisTweaks_AbstractItemPickupNote]
+m_PressKeyToReadMessage=""
+m_OnPickupMessage=""
+
+[tabletopmodel_01_twk:DisTweaks_InteractableInterface_54 DisTweaks_InteractableInterface]
+m_Name="Box"
+
+[tabletopmodel_02_twk:DisTweaks_InteractableInterface_54 DisTweaks_InteractableInterface]
+m_Name="Box"
+
+[tabletopmodel_03_twk:DisTweaks_InteractableInterface_54 DisTweaks_InteractableInterface]
+m_Name="Box"
+
+[tabletopmodel_04_twk:DisTweaks_InteractableInterface_54 DisTweaks_InteractableInterface]
+m_Name="Box"
+
+[tabletopmodel_05_twk:DisTweaks_InteractableInterface_54 DisTweaks_InteractableInterface]
+m_Name="Box"
+
+[tabletopmodel_06_twk:DisTweaks_InteractableInterface_54 DisTweaks_InteractableInterface]
+m_Name="Box"
+
+[Twk_Pawn_BTM_Pendleton3:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Trevor Pendleton"
+

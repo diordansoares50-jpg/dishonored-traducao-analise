@@ -1,0 +1,48 @@
+﻿[TheWorld:PersistentLevel.DisDoor_44 DisDoor]
+m_DoorName=""
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_ShowHUDMessage_0 DisSeqAct_ShowHUDMessage]
+m_Message="No Power"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_ShowLocationDiscovery_2 DisSeqAct_ShowLocationDiscovery]
+m_LocationName="Slaughterhouse Row"
+
+[TheWorld:PersistentLevel.Main_Sequence.Objectives.TaskMarkers.DisSeqAct_UpdateTaskTarget_66 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Occult Markings"
+
+[TheWorld:PersistentLevel.Main_Sequence.Objectives.TaskMarkers.DisSeqAct_UpdateTaskTarget_68 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Gate Key"
+
+[TheWorld:PersistentLevel.Main_Sequence.Objectives.TaskMarkers.DisSeqAct_UpdateTaskTarget_73 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Main Entrance"
+
+[TheWorld:PersistentLevel.Main_Sequence.Objectives.TaskMarkers.DisSeqAct_UpdateTaskTarget_76 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Safe"
+
+[TheWorld:PersistentLevel.Main_Sequence.Objectives.TaskMarkers.DisSeqAct_UpdateTaskTarget_77 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Wall of Light"
+
+[TheWorld:PersistentLevel.Main_Sequence.Objectives.TaskMarkers.DisSeqAct_UpdateTaskTarget_80 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Time Stamp Machine"
+
+[TheWorld:PersistentLevel.Main_Sequence.Objectives.TaskMarkers.DisSeqAct_UpdateTaskTarget_81 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Gate"
+
+[TheWorld:PersistentLevel.Main_Sequence.Objectives.TaskMarkers.DisSeqAct_UpdateTaskTarget_84 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Wall of Light"
+
+[TheWorld:PersistentLevel.Main_Sequence.Objectives.TaskMarkers.DisSeqAct_UpdateTaskTarget_88 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Gate Key"
+
+[TheWorld:PersistentLevel.Main_Sequence.Objectives.TaskMarkers.DisSeqAct_UpdateTaskTarget_95 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Laborer"
+
+[TheWorld:PersistentLevel.Main_Sequence.Objectives.TaskMarkers.DisSeqAct_UpdateTaskTarget_96 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Granny's Pot"
+
+[TheWorld:PersistentLevel.Main_Sequence.Objectives.TaskMarkers.DisSeqAct_UpdateTaskTarget_97 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Safe Code"
+
+[TheWorld:PersistentLevel.Main_Sequence.ReturnSetup.DisSeqAct_AddDarkness_1 DisSeqAct_AddDarkness]
+m_Text=""
+

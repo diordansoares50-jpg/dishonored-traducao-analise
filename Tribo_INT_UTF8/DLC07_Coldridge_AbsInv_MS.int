@@ -1,0 +1,135 @@
+﻿[AbstractInv_Graphs.DLC07_Interrogation_PCard DisAbstractItemAudioLog]
+m_ItemName="Witch Interrogation"
+m_PluralItemName=""
+m_Description="Interrogation of the captive witch."
+
+[DLC07_Notes_Alarms DisAbstractItem]
+m_ItemName="False Alarms"
+m_PluralItemName=""
+m_Description="Avoid false alarms. Remember, the execution is by firing squad. Do not ring the alarm unless an emergency has been personally confirmed. Additional false alarms will not be tolerated."
+
+[DLC07_Notes_Ammunition DisAbstractItem]
+m_ItemName="Requisition"
+m_PluralItemName=""
+m_Description="As requested your special order has been filled."
+
+[DLC07_Notes_ArcPylons DisAbstractItem]
+m_ItemName="Arc Pylons"
+m_PluralItemName=""
+m_Description="All new security devices are now fully functional. Prison personnel must report for attunement daily or risk death or serious injury. Certain personnel are authorized to replace the whale oil tanks in the generators. Only trained technicians are authorized to make changes to the control boxes. Any unauthorized tampering is a punishable offense."
+
+[DLC07_Notes_AuthorDust DisAbstractItem]
+m_ItemName="Ethical Experimentation"
+m_PluralItemName=""
+m_Description="I've managed to get my hands on an experimental formula being tested right here in Coldridge Prison. A mixture the prison guards call chokedust, which is normally capable of rendering prisoners vulnerable for a few moments. However, this new formula has the potential to make the victim forgetful as well. It's as if, once breathed in, the dust causes an acute temporary stupor."
+
+[DLC07_Notes_BluePrintDust DisAbstractItem]
+m_ItemName="Document Request"
+m_PluralItemName=""
+m_Description="Dear Officer Ashfield,\nI would like to most humbly request access to documents concerning the new experimental "chokedust" which you may have recently found yourself in possession of. I understand this is a delicate subject matter, and I assure you every precaution will be taken with the documents to ensure they remain confidential. If access to these documents is agreeable to you, please have one of your men deliver them to my cell.\nRespectfully,\nYour friend in A25"
+
+[DLC07_Notes_CellControl DisAbstractItem]
+m_ItemName="Cell Control Instructions"
+m_PluralItemName=""
+m_Description="Cell Control System Quick Reference\n\n1. Set first tumbler to match cell section letter\n2. Set second and third tumblers to cell number\n3. Pull lever to confirm selection\n\nEnsure that each cell opening request and selection are verbally confirmed. Investigate and report any suspected malfunctions immediately."
+
+[DLC07_Notes_CharmA10 DisAbstractItem]
+m_ItemName="Clogged Toilet"
+m_PluralItemName=""
+m_Description="Fill out a work order for A10, we've moved the prisoner to section A. Toilet is clogged, log any contraband."
+
+[DLC07_Notes_CharmD21 DisAbstractItem]
+m_ItemName="Clogged Toilet"
+m_PluralItemName=""
+m_Description="Fill out a work order for D21, we've moved the prisoner to section A. Toilet is clogged, log any contraband."
+
+[DLC07_Notes_Construction DisAbstractItem]
+m_ItemName="Construction Report"
+m_PluralItemName=""
+m_Description="Additional security installations along the execution yard wall are complete. Additional work on the main gate will continue throughout the coming days. All workers must show identification for the duration of the construction."
+
+[DLC07_Notes_EscapeFail DisAbstractItem]
+m_ItemName="Escape Plans"
+m_PluralItemName=""
+m_Description="When you hear the alarms in the courtyard tonight make a break for the front gate. Jump from the bridge and swim to the sewer entrance. You won't get another chance now that the Empress's assassin has escaped.\n\nWatch out for the rats."
+
+[DLC07_Notes_Executions DisAbstractItem]
+m_ItemName="Execution Notice"
+m_PluralItemName=""
+m_Description="Attention: Executions of personnel responsible for enabling the escape of the former Lord Protector will continue today. The execution yard remains off limits unless otherwise specified."
+
+[DLC07_Notes_FromOverseer DisAbstractItem]
+m_ItemName="Notice from Overseers"
+m_PluralItemName=""
+m_Description="As requested we will be dispatching one of our Overseers to investigate a matter at Coldridge Prison. From this point on no one else should enter the area where the event has taken place and precautions should be taken to reduce exposure. Any witnesses should be made available for questioning. We trust that every courtesy will be observed when our brother arrives at Coldridge."
+
+[DLC07_Notes_Hatters DisAbstractItem]
+m_ItemName="The Hatters"
+m_PluralItemName=""
+m_Description="Keep the Hatters away from the Eels. The one in section D, cell 11, tried to attack that former Dead Eel leader again. We can't afford any additional investigations or mistakes right now. So keep them apart."
+
+[DLC07_Notes_LizzyCellA00 DisAbstractItem]
+m_ItemName="Log Book"
+m_PluralItemName=""
+m_Description="Winston Fogarty removed.\nElizabeth Stride moved to A00\nLucas Penroe moved to D11\nJane Cochrane temporarily removed\n"
+
+[DLC07_Notes_LizzyCellA21 DisAbstractItem]
+m_ItemName="Log Book"
+m_PluralItemName=""
+m_Description="Winston Fogarty removed.\nElizabeth Stride moved to A21\nLucas Penroe moved to D11\nJane Cochrane temporarily removed\n"
+
+[DLC07_Notes_LizzyCellC28 DisAbstractItem]
+m_ItemName="Log Book"
+m_PluralItemName=""
+m_Description="Winston Fogarty removed.\nElizabeth Stride moved to C28\nLucas Penroe moved to D11\nJane Cochrane temporarily removed\n"
+
+[DLC07_Notes_LizzyCellD24 DisAbstractItem]
+m_ItemName="Log Book"
+m_PluralItemName=""
+m_Description="Winston Fogarty removed.\nElizabeth Stride moved to D24\nLucas Penroe moved to D11\nJane Cochrane temporarily removed\n"
+
+[DLC07_Notes_Log DisAbstractItem]
+m_ItemName="Log Updates"
+m_PluralItemName=""
+m_Description="Remember to take extra care in logging transfers. Even temporary transfers of prisoners from one cell to another must be recorded in the log book. Ensure that the log book is available in the guard booth between sections C and D at all times."
+
+[DLC07_Notes_Log2 DisAbstractItem]
+m_ItemName="Log Warning"
+m_PluralItemName=""
+m_Description="All log book entries must contain the prisoner name and the destination cell number. The log book is in the guard booth between sections C and D. Do not neglect to log every prisoner transfer. Failure to do so is a punishable offense."
+
+[DLC07_Notes_MissingLoot DisAbstractItem]
+m_ItemName="Missing Evidence"
+m_PluralItemName=""
+m_Description="Ashfield,\nI've noticed a pattern of missing evidence. Somehow evidence is going missing between the intake report and when the evidence gets to my office. I'm holding you fully responsible. If you cannot control your men, I'll replace you with someone who can. This is your only warning, sort it out.\n"
+
+[DLC07_Notes_NoKeys DisAbstractItem]
+m_ItemName="Confiscated Keys"
+m_PluralItemName=""
+m_Description="All prison cell keys will be confiscated for an indeterminate period of time. From this point foward all personnel are required to use the central cell control system located above the yard. No exceptions, anyone caught in possession of a cell key will be punished to the full extent of the law. Thank you for your compliance."
+
+[DLC07_Notes_OverseerVisit DisAbstractItem]
+m_ItemName="Overseer Arrival"
+m_PluralItemName=""
+m_Description="Remember that an Overseer has been summoned to address the situation in the Interrogation Room. Until the Overseer arrives no one is to enter the Interrogation Room. The prisoner cells are off limits to Overseers and other visitors, no exceptions."
+
+[DLC07_Notes_SectionB DisAbstractItem]
+m_ItemName="Section B Closed"
+m_PluralItemName=""
+m_Description="Section B will remain closed until the conclusion of the investigation into the escape of Corvo Attano. Prisoners have been moved into the cells on the other side of the prison."
+
+[DLC07_Notes_StolenLoot DisAbstractItem]
+m_ItemName="Notice from Overseers"
+m_PluralItemName=""
+m_Description="As requested we will be dispatching one of our overseers to investigate a matter at Coldridge Prison. From this point on no one else should enter the area where the event has taken place and precautions should be taken to reduce exposure. Any witnesses should be made available for questioning. We trust that every courtesy will be observed when our brother arrives at Coldridge."
+
+[DLC07_Notes_Timsh DisAbstractItem]
+m_ItemName="Timsh"
+m_PluralItemName=""
+m_Description="The good barrister, Timsh, has no money. They took all his stuff when they threw him in here. Don't bother listening to his bribes."
+
+[DLC07_Notes_TransferLoot DisAbstractItem]
+m_ItemName="Transfer Orders"
+m_PluralItemName=""
+m_Description="Lt Wright,\n\nThe Hatter we brought in was trying to stash this loot in the canal when we busted him. Looks like he’s the one who hit Lord Brimon’s carriage a few nights back. So far he has not named his accomplices, but he will once he gets his turn in the Interrogation Room. Document everything and then deliver it to the Lord Regent’s office. And make sure none of it gets “lost” along the way or it’s both our heads.\n\n- Ashfield\n\n"
+
