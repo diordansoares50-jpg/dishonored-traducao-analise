@@ -1,0 +1,74 @@
+﻿============================================
+DISHONORED - ANÃLISE DE TRADUÃ‡ÃƒO v2.1
+============================================
+
+INSTALAÃ‡ÃƒO:
+C:\Program Files (x86)\DODI-Repacks\Dishonored Game of the Year Edition
+
+PASTA TRIBO/INT:
+C:\Program Files (x86)\DODI-Repacks\Dishonored Game of the Year Edition\DishonoredGame\Localization\INT
+
+ZIP DEEPSEEK:
+C:\Users\Usuario\Downloads\INT.zip
+
+PASTA DOS RELATÃ“RIOS:
+C:\Users\Usuario\Desktop\Dishonored_Analise_v2_1
+
+--------------------------------------------
+ARQUIVOS
+--------------------------------------------
+
+Tribo (.int):       658
+DeepSeek (.int):    658
+
+IdÃªnticos:          88
+Somente Tribo:      0
+Somente DeepSeek:   0
+Com diferenÃ§as:     568
+
+--------------------------------------------
+ENTRADAS / CHAVES
+--------------------------------------------
+
+Entradas idÃªnticas:
+12551
+
+Entradas diferentes:
+7468
+
+Somente Tribo:
+218
+
+Somente DeepSeek:
+970
+
+Tribo preenchido / DeepSeek vazio:
+0
+
+Tribo vazio / DeepSeek preenchido:
+8
+
+Ambos preenchidos / traduÃ§Ãµes diferentes:
+7460
+
+--------------------------------------------
+ARQUIVOS GERADOS
+--------------------------------------------
+
+00_RESUMO.txt
+01_Resumo_por_arquivo.csv
+02_Diferencas_por_chave.csv
+03_Candidatos_DeepSeek_para_revisao.csv
+04_Preservar_Tribo_revisao.csv
+05_TOP_arquivos_para_revisao.txt
+06_Erros_de_leitura.csv
+
+--------------------------------------------
+OBSERVAÃ‡ÃƒO
+--------------------------------------------
+
+A classificaÃ§Ã£o PT/EN Ã© SOMENTE heurÃ­stica.
+Ela nÃ£o mede qualidade da traduÃ§Ã£o.
+
+Este script NÃƒO modifica a instalaÃ§Ã£o do jogo.
+

@@ -1,0 +1,7 @@
+﻿TOP ARQUIVOS COM ENTRADAS PREENCHIDAS PELA DEEPSEEK
+
+ATENÃ‡ÃƒO: lista para revisÃ£o; nÃ£o significa que a DeepSeek seja melhor.
+
+01. doors_transition_twk.int | Tribo vazia -> DeepSeek preenchida: 6 | Ambos diferentes: 11 | DeepSeek PT (heurÃ­stico): 0
+02. Lighthouse_Island_MS.int | Tribo vazia -> DeepSeek preenchida: 1 | Ambos diferentes: 21 | DeepSeek PT (heurÃ­stico): 3
+03. ArtDealer_MS.int | Tribo vazia -> DeepSeek preenchida: 1 | Ambos diferentes: 0 | DeepSeek PT (heurÃ­stico): 0
