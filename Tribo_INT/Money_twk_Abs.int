@@ -1,0 +1,5 @@
+[AbstractItems.Coins_AbsItm DisAbstractItem]
+m_ItemName="Moeda"
+m_PluralItemName="Moedas"
+m_Description="Moedas criadas pelo Lorde Regente."
+

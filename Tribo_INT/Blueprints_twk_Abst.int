@@ -1,0 +1,45 @@
+[AbstractItems.RewireTool_AbsItm DisAbstractItem]
+m_ItemName="Ferramenta de Religação"
+m_PluralItemName="Ferramentas de Religação"
+m_Description="Permite reprogramar circuitos eletrônicos e manipular os sistema de segurança para obter uma vantagem. Se desgasta com o uso."
+
+[HackManual.BP_ArmorIncrease_AbsItm DisAbstractItem]
+m_ItemName="Tecido Aderente de Galvani"
+m_PluralItemName=""
+m_Description="Tratamento químico que pode ser aplicado tanto em tecidos como em couro. Piero pode usa-lo para melhorar sua roupa e sua armadura."
+
+[HackManual.BP_ExpBullets_AbsItm DisAbstractItem]
+m_ItemName="Refinamento de Combustível em Pequena Escala "
+m_PluralItemName=""
+m_Description="Processo químico que pode ser usado para manipular os ritmos de combustão. Piero pode usa-lo para melhorar a munição da sua pistola."
+
+[HackManual.BP_FlareBolt_AbsItm DisAbstractItem]
+m_ItemName="Pasta Incandescente"
+m_PluralItemName=""
+m_Description="Uma substância pirotécnica que produz uma luz intensa por um pequeno momento. Piero pode usa-la para melhorar as setas da sua besta."
+
+[HackManual.BP_HealthPotion_AbsItm DisAbstractItem]
+m_ItemName="Formula de Sokolov"
+m_PluralItemName=""
+m_Description="A Formula do Elixir de Sokolov. Piero pode usa-la para destilar um liquido que restabelece a saúde e protege contra a peste dos ratos."
+
+[HackManual.BP_SilentRunning_AbsItm DisAbstractItem]
+m_ItemName="Resina Dobradoura de Galvani"
+m_PluralItemName=""
+m_Description="Substância que aumenta a flexibilidade e a rigidez de materiais vulcanizados. Piero pode usa-la para reduzir o ruído feito pelas suas botas."
+
+[HackManual.BP_SpyglassZoom_AbsItm DisAbstractItem]
+m_ItemName="Lente de aumento"
+m_PluralItemName=""
+m_Description="Um diagrama para melhorar a estabilidade de um par de lentes. Piero pode usa-la para melhorar as lentes de aumento da sua máscara."
+
+[HackManual.BP_StickyGrenade_AbsItm DisAbstractItem]
+m_ItemName="Proteção para granada de fragmentos"
+m_PluralItemName=""
+m_Description="Desenho de uma proteção coberta de fragmentos pontiagudos que permite que as granadas penetrem na maioria das superfícies. Piero pode usa-la para melhorar suas granadas"
+
+[HackManual.BP_WallOfLight_AbsItm DisAbstractItem]
+m_ItemName="Circuitos da Parede de Luz"
+m_PluralItemName=""
+m_Description="Um desenho da Parede de Luz usada pela Guarda da Cidade. Piero pode usa-lo para te ensinar a desativar as Paredes de Luz."
+

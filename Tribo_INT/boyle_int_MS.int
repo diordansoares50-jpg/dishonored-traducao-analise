@@ -1,0 +1,16 @@
+[BreakableGlass_01_big_twk:DisTweaks_InteractableInterface_6 DisTweaks_InteractableInterface]
+m_Name=""
+m_InteractText="`GBA_Use` Carregar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[BreakableGlass_01_twk:DisTweaks_InteractableInterface_6 DisTweaks_InteractableInterface]
+m_Name=""
+m_InteractText="`GBA_Use` Carregar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+

@@ -1,0 +1,92 @@
+[BoyleHeirloom1_twk DisTweaks_AbstractItemPickup]
+m_SingleItemPickupMessage=""
+
+[BoyleHeirloom1_twk:DisTweaks_Interactable_PickupBase_2 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name="`i"
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[BoyleHeirloom2_twk DisTweaks_AbstractItemPickup]
+m_SingleItemPickupMessage=""
+
+[BoyleHeirloom2_twk:DisTweaks_Interactable_PickupBase_3 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name="`i"
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[BoyleHeirloom3_twk DisTweaks_AbstractItemPickup]
+m_SingleItemPickupMessage=""
+
+[BoyleHeirloom3_twk:DisTweaks_Interactable_PickupBase_4 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name="`i"
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[BoyleHeirloom4_twk DisTweaks_AbstractItemPickup]
+m_SingleItemPickupMessage=""
+
+[BoyleHeirloom4_twk:DisTweaks_Interactable_PickupBase_5 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name="`i"
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[BoyleHeirloom5_twk DisTweaks_AbstractItemPickup]
+m_SingleItemPickupMessage=""
+
+[BoyleHeirloom5_twk:DisTweaks_Interactable_PickupBase_6 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name="`i"
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[BoyleInvitation_twk DisTweaks_AbstractItemPickup]
+m_SingleItemPickupMessage=""
+
+[BoyleInvitation_twk:DisTweaks_Interactable_PickupBase_1 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name="`i"
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[BoylePartyDrink_twk DisTweaks_AbstractItemPickup]
+m_SingleItemPickupMessage=""
+
+[BoylePartyDrink_twk:DisTweaks_Interactable_PickupBase_0 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name="Uma bebida para a Srta. White"
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[DuelingCase:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Caixa de Duelos"
+m_InteractText="`GBA_Use` Usar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+

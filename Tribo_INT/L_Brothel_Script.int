@@ -1,0 +1,126 @@
+[TheWorld:PersistentLevel.Main_Sequence.Art_Dealer.DisSeqAct_AddDarkness_2 DisSeqAct_AddDarkness]
+m_Text=""
+
+[TheWorld:PersistentLevel.Main_Sequence.Art_Dealer.DisSeqAct_AddKey_1 DisSeqAct_AddKey]
+m_Name="Chave do Apartamento do Comerciante de Arte"
+
+[TheWorld:PersistentLevel.Main_Sequence.Art_Dealer.DisSeqAct_ShowHUDMessage_0 DisSeqAct_ShowHUDMessage]
+m_Message="Nova Pista da Missão adicionada"
+
+[TheWorld:PersistentLevel.Main_Sequence.Art_Dealer.DisSeqAct_ShowHUDMessage_1 DisSeqAct_ShowHUDMessage]
+m_Message="Nova Pista da Missão adicionada"
+
+[TheWorld:PersistentLevel.Main_Sequence.Brothel_Employee.DisSeqAct_ShowHUDMessage_10 DisSeqAct_ShowHUDMessage]
+m_Message="Nova Pista da Missão adicionada"
+
+[TheWorld:PersistentLevel.Main_Sequence.Brothel_Employee.DisSeqAct_ShowHUDMessage_2 DisSeqAct_ShowHUDMessage]
+m_Message="Nova Pista da Missão adicionada"
+
+[TheWorld:PersistentLevel.Main_Sequence.Brothel_Employee.DisSeqAct_ShowHUDMessage_3 DisSeqAct_ShowHUDMessage]
+m_Message="Nova Pista da Missão adicionada"
+
+[TheWorld:PersistentLevel.Main_Sequence.Brothel_Employee.DisSeqAct_ShowHUDMessage_4 DisSeqAct_ShowHUDMessage]
+m_Message="Nova Pista da Missão adicionada"
+
+[TheWorld:PersistentLevel.Main_Sequence.Brothel_Employee.DisSeqAct_ShowHUDMessage_5 DisSeqAct_ShowHUDMessage]
+m_Message="Nova Pista da Missão adicionada"
+
+[TheWorld:PersistentLevel.Main_Sequence.Brothel_Employee.DisSeqAct_ShowHUDMessage_6 DisSeqAct_ShowHUDMessage]
+m_Message="Nova Pista da Missão adicionada"
+
+[TheWorld:PersistentLevel.Main_Sequence.Brothel_Employee.DisSeqAct_ShowHUDMessage_7 DisSeqAct_ShowHUDMessage]
+m_Message="Nova Pista da Missão adicionada"
+
+[TheWorld:PersistentLevel.Main_Sequence.Brothel_Employee.DisSeqAct_ShowHUDMessage_9 DisSeqAct_ShowHUDMessage]
+m_Message="Nova Pista da Missão adicionada"
+
+[TheWorld:PersistentLevel.Main_Sequence.Curtis.DisSeqAct_ShowHUDMessage_3 DisSeqAct_ShowHUDMessage]
+m_Message="Nova Pista da Missão adicionada"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_AddDarkness_1 DisSeqAct_AddDarkness]
+m_Text=""
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_DialogScriptedChoice_2 DisSeqAct_DialogScriptedChoice]
+m_Title=""
+m_Choices[0]=(m_ChoiceText="Ir para Clavering Boulevard.")
+m_Choices[1]=(m_ChoiceText="Ficar no Gato Dourado")
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_DialogScriptedChoice_4 DisSeqAct_DialogScriptedChoice]
+m_Title=""
+m_Choices[0]=(m_ChoiceText="Ir para o Hotel Recanto do Capitão")
+m_Choices[1]=(m_ChoiceText="Ficar no Gato Dourado")
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_DialogScriptedChoice_5 DisSeqAct_DialogScriptedChoice]
+m_Title=""
+m_Choices[0]=(m_ChoiceText="Ir para o Distrito da Destilaria")
+m_Choices[1]=(m_ChoiceText="Ficar no Gato Dourado")
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_ShowHUDMessage_0 DisSeqAct_ShowHUDMessage]
+m_Message="Nova Pista da Missão adicionada"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_ShowLocationDiscovery_0 DisSeqAct_ShowLocationDiscovery]
+m_LocationName="O Gato Dourado"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_UpdateTaskTarget_1 DisSeqAct_UpdateTaskTarget]
+m_TargetName="O Gato Dourado"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_UpdateTaskTarget_15 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Comerciante de Arte"
+
+[TheWorld:PersistentLevel.Main_Sequence.Emily.DisSeqAct_GameOver_1 DisSeqAct_GameOver]
+m_Reason="Emily está com medo de você"
+
+[TheWorld:PersistentLevel.Main_Sequence.ObjectivesTracker.DisSeqAct_UpdateTaskTarget_0 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Sauna"
+
+[TheWorld:PersistentLevel.Main_Sequence.ObjectivesTracker.DisSeqAct_UpdateTaskTarget_1 DisSeqAct_UpdateTaskTarget]
+m_TargetName="O Gato Dourado"
+
+[TheWorld:PersistentLevel.Main_Sequence.ObjectivesTracker.DisSeqAct_UpdateTaskTarget_10 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Custis Pendleton"
+
+[TheWorld:PersistentLevel.Main_Sequence.ObjectivesTracker.DisSeqAct_UpdateTaskTarget_11 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Morgan Pendleton"
+
+[TheWorld:PersistentLevel.Main_Sequence.ObjectivesTracker.DisSeqAct_UpdateTaskTarget_12 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Sala de Marfim"
+
+[TheWorld:PersistentLevel.Main_Sequence.ObjectivesTracker.DisSeqAct_UpdateTaskTarget_13 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Sala de Fumantes"
+
+[TheWorld:PersistentLevel.Main_Sequence.ObjectivesTracker.DisSeqAct_UpdateTaskTarget_14 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Dormitório de Cortesã"
+
+[TheWorld:PersistentLevel.Main_Sequence.ObjectivesTracker.DisSeqAct_UpdateTaskTarget_15 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Comerciante de Arte"
+
+[TheWorld:PersistentLevel.Main_Sequence.ObjectivesTracker.DisSeqAct_UpdateTaskTarget_16 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Clavering Boulevard."
+
+[TheWorld:PersistentLevel.Main_Sequence.ObjectivesTracker.DisSeqAct_UpdateTaskTarget_17 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Sauna"
+
+[TheWorld:PersistentLevel.Main_Sequence.ObjectivesTracker.DisSeqAct_UpdateTaskTarget_2 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Sala Dourada"
+
+[TheWorld:PersistentLevel.Main_Sequence.ObjectivesTracker.DisSeqAct_UpdateTaskTarget_3 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Comerciante de Arte"
+
+[TheWorld:PersistentLevel.Main_Sequence.ObjectivesTracker.DisSeqAct_UpdateTaskTarget_4 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Emily"
+
+[TheWorld:PersistentLevel.Main_Sequence.ObjectivesTracker.DisSeqAct_UpdateTaskTarget_5 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Chave Mestra do Gato Dourado"
+
+[TheWorld:PersistentLevel.Main_Sequence.ObjectivesTracker.DisSeqAct_UpdateTaskTarget_6 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Escritório da Madame"
+
+[TheWorld:PersistentLevel.Main_Sequence.ObjectivesTracker.DisSeqAct_UpdateTaskTarget_7 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Saída VIP"
+
+[TheWorld:PersistentLevel.Main_Sequence.ObjectivesTracker.DisSeqAct_UpdateTaskTarget_8 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Clavering Boulevard."
+
+[TheWorld:PersistentLevel.Main_Sequence.ObjectivesTracker.DisSeqAct_UpdateTaskTarget_9 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Saída VIP"
+

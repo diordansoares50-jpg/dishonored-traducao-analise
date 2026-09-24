@@ -1,0 +1,15 @@
+[books.GrannyCameoSecret DisAbstractItem]
+m_ItemName="Diário do Explorador"
+m_PluralItemName=""
+m_Description="[Trecho do Diário de um explorador e filósofo natural]\n\nAs interpretações de Dr. Hazian das esculturas de Pandyssia são o cúmulo da ignorância. O tema fundamental não é a renovação, e sim um sério aviso. A figura central não é um espirito benigno, é claramente um monstro, e a jóia, um tipo de fetiche, a chave da sua força sombria, quem sabe.  \n\nAs imagens deveriam ser interpretadas da seguinte maneira: A figura heróica rouba a jóia do monstro e lança um fogo inextinguível. Assim, o monstro vira mortal e o herói pode matá-lo, colocando um fim no ciclo de terror.   \n\n[Nota rabiscada nas margens]\n\nMeus manuais de campo despertaram um interesse excessivo em Vera. Tal apetite é impróprio para uma dama de sua classe. Terei que repreendê-la. \n\n[Segunda nota, escrita com letras diferentes]\n\nTão triste, queridinho\n"
+
+[books.GrannyRuneRecipe DisAbstractItem]
+m_ItemName="Manuscrito Cheiro Estranho"
+m_PluralItemName=""
+m_Description="[Trecho de um manuscrito sem título, escrito em rabiscos]\n\nMais forte do que esculpir? Um crânio cheio de astúcia. Bílis de Baleia. Uma pilha de ossos, brancos e brilhantes. Que arda a chama e crepite a gordura. Grandes bocas pretas. Fumando. Fumando. \n\nPlumas. Um pássaro com olhos loucos caiu no chão. \n\nSementes. Urtiga. Agulha. Muitas agulhas. \n\nUm pouco agitado.\n"
+
+[GrannyRags_Cameo_AbsInv DisAbstractItem]
+m_ItemName="Camafeu da Vovó Esfarrapada"
+m_PluralItemName=""
+m_Description="Camafeu da Vovó Esfarrapada"
+

@@ -1,0 +1,15 @@
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_DialogScriptedChoice_1 DisSeqAct_DialogScriptedChoice]
+m_Title=""
+m_Choices[0]=(m_ChoiceText="Ir para a Refinaria Greaves")
+m_Choices[1]=(m_ChoiceText="Ficar no Cais de Rudshore")
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_DialogScriptedChoice_4 DisSeqAct_DialogScriptedChoice]
+m_Title=""
+m_Choices[0]=(m_ChoiceText="Ir para a Central Rudshore")
+m_Choices[1]=(m_ChoiceText="Ficar no Cais de Rudshore")
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_DialogScriptedChoice_5 DisSeqAct_DialogScriptedChoice]
+m_Title=""
+m_Choices[0]=(m_ChoiceText="Ir para a Refinaria Greaves")
+m_Choices[1]=(m_ChoiceText="Ficar no Cais de Rudshore")
+

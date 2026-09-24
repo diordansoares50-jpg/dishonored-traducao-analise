@@ -1,0 +1,109 @@
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_AddDarkness_0 DisSeqAct_AddDarkness]
+m_Text=""
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_AddDarkness_3 DisSeqAct_AddDarkness]
+m_Text=""
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_AddKey_1 DisSeqAct_AddKey]
+m_Name="Chave do Apartamento do Comerciante de Arte"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_DialogScriptedChoice_1 DisSeqAct_DialogScriptedChoice]
+m_Title=""
+m_Choices[0]=(m_ChoiceText="Ir para a Destilaria de Uísque de Dunwall")
+m_Choices[1]=(m_ChoiceText="Ficar na Bottle Street")
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_DialogScriptedChoice_10 DisSeqAct_DialogScriptedChoice]
+m_Title=""
+m_Choices[0]=(m_ChoiceText="Ir para o Gato Dourado")
+m_Choices[1]=(m_ChoiceText="Ficar no Hotel Recanto do Capitão")
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_DialogScriptedChoice_11 DisSeqAct_DialogScriptedChoice]
+m_Title=""
+m_Choices[0]=(m_ChoiceText="Ir para o Gato Dourado")
+m_Choices[1]=(m_ChoiceText="Ficar no Distrito da Destilaria")
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_DialogScriptedChoice_2 DisSeqAct_DialogScriptedChoice]
+m_Title=""
+m_Choices[0]=(m_ChoiceText="Ir para o Apartamento do Comerciante de Arte")
+m_Choices[1]=(m_ChoiceText="Ficar na Bottle Street")
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_DialogScriptedChoice_3 DisSeqAct_DialogScriptedChoice]
+m_Title=""
+m_Choices[0]=(m_ChoiceText="Ir para o Apartamento do Comerciante de Arte")
+m_Choices[1]=(m_ChoiceText="Ficar em Clavering Boulevard")
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_DialogScriptedChoice_4 DisSeqAct_DialogScriptedChoice]
+m_Title=""
+m_Choices[0]=(m_ChoiceText="Ir para o Escritório do Dr. Galvani.")
+m_Choices[1]=(m_ChoiceText="Ficar em Clavering Boulevard")
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_DialogScriptedChoice_5 DisSeqAct_DialogScriptedChoice]
+m_Title=""
+m_Choices[0]=(m_ChoiceText="Ir para o Escritório do Dr. Galvani.")
+m_Choices[1]=(m_ChoiceText="Ficar em Clavering Boulevard")
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_DialogScriptedChoice_6 DisSeqAct_DialogScriptedChoice]
+m_Title=""
+m_Choices[0]=(m_ChoiceText="Ir para o Escritório do Dr. Galvani.")
+m_Choices[1]=(m_ChoiceText="Ficar em Clavering Boulevard")
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_DialogScriptedChoice_7 DisSeqAct_DialogScriptedChoice]
+m_Title=""
+m_Choices[0]=(m_ChoiceText="Ir para o Apartamento do Comerciante de Arte")
+m_Choices[1]=(m_ChoiceText="Ficar em Clavering Boulevard")
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_DialogScriptedChoice_8 DisSeqAct_DialogScriptedChoice]
+m_Title=""
+m_Choices[0]=(m_ChoiceText="Ir para o Apartamento do Comerciante de Arte")
+m_Choices[1]=(m_ChoiceText="Ficar em Clavering Boulevard")
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_DialogScriptedChoice_9 DisSeqAct_DialogScriptedChoice]
+m_Title=""
+m_Choices[0]=(m_ChoiceText="Ir para o Gato Dourado")
+m_Choices[1]=(m_ChoiceText="Ficar em Clavering Boulevard")
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_GameOver_0 DisSeqAct_GameOver]
+m_Reason="Samuel Incapacitado"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_ShowHUDMessage_0 DisSeqAct_ShowHUDMessage]
+m_Message="Nova Pista da Missão adicionada"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_ShowLocationDiscovery_0 DisSeqAct_ShowLocationDiscovery]
+m_LocationName="Entrando em uma Área Hostil"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_ShowLocationDiscovery_2 DisSeqAct_ShowLocationDiscovery]
+m_LocationName="Distrito da Destilaria de Dunwall"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_ShowLocationDiscovery_5 DisSeqAct_ShowLocationDiscovery]
+m_LocationName="Entrando em uma Área Hostil"
+
+[TheWorld:PersistentLevel.Main_Sequence.HeartTargets.DisSeqAct_UpdateTaskTarget_0 DisSeqAct_UpdateTaskTarget]
+m_TargetName="O Gato Dourado"
+
+[TheWorld:PersistentLevel.Main_Sequence.HeartTargets.DisSeqAct_UpdateTaskTarget_1 DisSeqAct_UpdateTaskTarget]
+m_TargetName="O Gato Dourado"
+
+[TheWorld:PersistentLevel.Main_Sequence.HeartTargets.DisSeqAct_UpdateTaskTarget_11 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Destilaria de Uísque de Dunwall"
+
+[TheWorld:PersistentLevel.Main_Sequence.HeartTargets.DisSeqAct_UpdateTaskTarget_12 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Samuel e Emily"
+
+[TheWorld:PersistentLevel.Main_Sequence.HeartTargets.DisSeqAct_UpdateTaskTarget_13 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Distrito da Destilaria"
+
+[TheWorld:PersistentLevel.Main_Sequence.HeartTargets.DisSeqAct_UpdateTaskTarget_2 DisSeqAct_UpdateTaskTarget]
+m_TargetName="O Gato Dourado"
+
+[TheWorld:PersistentLevel.Main_Sequence.HeartTargets.DisSeqAct_UpdateTaskTarget_3 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Hotel Recanto do Capitão"
+
+[TheWorld:PersistentLevel.Main_Sequence.HeartTargets.DisSeqAct_UpdateTaskTarget_4 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Hotel Recanto do Capitão"
+
+[TheWorld:PersistentLevel.Main_Sequence.HeartTargets.DisSeqAct_UpdateTaskTarget_6 DisSeqAct_UpdateTaskTarget]
+m_TargetName="O Gato Dourado"
+
+[TheWorld:PersistentLevel.Main_Sequence.HeartTargets.DisSeqAct_UpdateTaskTarget_7 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Escritório do Dr. Galvani"
+

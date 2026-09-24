@@ -1,0 +1,19 @@
+[OutsiderDream DishonoredObjective]
+m_Description="Uma visita do Estranho"
+
+[OutsiderDream:DishonoredTask_Custom_0 DishonoredTask_Custom]
+m_Description="Use o poder do Teleporte para chegar até o Estranho"
+m_Status=""
+
+[OutsiderDream:DishonoredTask_Custom_1 DishonoredTask_Custom]
+m_Description="Teleporte-se até a Ponte Quebrada"
+m_Status=""
+
+[OutsiderDream:DishonoredTask_Custom_2 DishonoredTask_Custom]
+m_Description="Use o Coração para encontrar a runa escondida"
+m_Status=""
+
+[OutsiderDream:DishonoredTask_Custom_3 DishonoredTask_Custom]
+m_Description="Algo não está certo..."
+m_Status=""
+

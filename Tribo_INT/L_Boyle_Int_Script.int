@@ -1,0 +1,128 @@
+[TheWorld:PersistentLevel.Main_Sequence.Boyle_Objectives.DisSeqAct_AddDarkness_0 DisSeqAct_AddDarkness]
+m_Text=""
+
+[TheWorld:PersistentLevel.Main_Sequence.Boyle_Objectives.DisSeqAct_ShowHUDMessage_0 DisSeqAct_ShowHUDMessage]
+m_Message="Nova Pista da Missão adicionada"
+
+[TheWorld:PersistentLevel.Main_Sequence.Boyle_Objectives.DisSeqAct_ShowHUDMessage_1 DisSeqAct_ShowHUDMessage]
+m_Message="Nova Pista da Missão adicionada"
+
+[TheWorld:PersistentLevel.Main_Sequence.Boyle_Objectives.DisSeqAct_ShowHUDMessage_5 DisSeqAct_ShowHUDMessage]
+m_Message="Nova Pista da Missão adicionada"
+
+[TheWorld:PersistentLevel.Main_Sequence.Boyle_Objectives.DisSeqAct_ShowHUDMessage_6 DisSeqAct_ShowHUDMessage]
+m_Message="Há uma bebida para você"
+
+[TheWorld:PersistentLevel.Main_Sequence.Boyle_Objectives.DisSeqAct_ShowHUDMessage_7 DisSeqAct_ShowHUDMessage]
+m_Message="Nova Pista da Missão adicionada"
+
+[TheWorld:PersistentLevel.Main_Sequence.Boyle_Objectives.DisSeqAct_ShowHUDMessage_8 DisSeqAct_ShowHUDMessage]
+m_Message="Nova Pista da Missão adicionada"
+
+[TheWorld:PersistentLevel.Main_Sequence.Boyle_Objectives.DisSeqAct_ShowHUDMessage_9 DisSeqAct_ShowHUDMessage]
+m_Message="Nova Pista da Missão adicionada"
+
+[TheWorld:PersistentLevel.Main_Sequence.Boyle_Objectives.DisSeqAct_ShowLocationDiscovery_0 DisSeqAct_ShowLocationDiscovery]
+m_LocationName="Você saiu da zona restrita."
+
+[TheWorld:PersistentLevel.Main_Sequence.Boyle_Objectives.DisSeqAct_ShowLocationDiscovery_3 DisSeqAct_ShowLocationDiscovery]
+m_LocationName="Essa zona é restrita"
+
+[TheWorld:PersistentLevel.Main_Sequence.Boyle_Objectives.DisSeqAct_UpdateTaskTarget_0 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Uma Pista"
+
+[TheWorld:PersistentLevel.Main_Sequence.Boyle_Objectives.DisSeqAct_UpdateTaskTarget_1 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Uma Pista"
+
+[TheWorld:PersistentLevel.Main_Sequence.Boyle_Objectives.DisSeqAct_UpdateTaskTarget_10 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Barco na Adega"
+
+[TheWorld:PersistentLevel.Main_Sequence.Boyle_Objectives.DisSeqAct_UpdateTaskTarget_11 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Lorde Brisby"
+
+[TheWorld:PersistentLevel.Main_Sequence.Boyle_Objectives.DisSeqAct_UpdateTaskTarget_12 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Srta. White"
+
+[TheWorld:PersistentLevel.Main_Sequence.Boyle_Objectives.DisSeqAct_UpdateTaskTarget_13 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Fonte de Cidra"
+
+[TheWorld:PersistentLevel.Main_Sequence.Boyle_Objectives.DisSeqAct_UpdateTaskTarget_14 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Em cima"
+
+[TheWorld:PersistentLevel.Main_Sequence.Boyle_Objectives.DisSeqAct_UpdateTaskTarget_15 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Lorde Shaw"
+
+[TheWorld:PersistentLevel.Main_Sequence.Boyle_Objectives.DisSeqAct_UpdateTaskTarget_16 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Waverly Boyle"
+
+[TheWorld:PersistentLevel.Main_Sequence.Boyle_Objectives.DisSeqAct_UpdateTaskTarget_17 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Lydia Boyle"
+
+[TheWorld:PersistentLevel.Main_Sequence.Boyle_Objectives.DisSeqAct_UpdateTaskTarget_18 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Esma Boyle"
+
+[TheWorld:PersistentLevel.Main_Sequence.Boyle_Objectives.DisSeqAct_UpdateTaskTarget_19 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Waverly Boyle"
+
+[TheWorld:PersistentLevel.Main_Sequence.Boyle_Objectives.DisSeqAct_UpdateTaskTarget_2 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Uma Pista"
+
+[TheWorld:PersistentLevel.Main_Sequence.Boyle_Objectives.DisSeqAct_UpdateTaskTarget_20 DisSeqAct_UpdateTaskTarget]
+m_TargetName=""
+
+[TheWorld:PersistentLevel.Main_Sequence.Boyle_Objectives.DisSeqAct_UpdateTaskTarget_21 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Lydia Boyle"
+
+[TheWorld:PersistentLevel.Main_Sequence.Boyle_Objectives.DisSeqAct_UpdateTaskTarget_22 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Waverly Boyle"
+
+[TheWorld:PersistentLevel.Main_Sequence.Boyle_Objectives.DisSeqAct_UpdateTaskTarget_23 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Esma Boyle"
+
+[TheWorld:PersistentLevel.Main_Sequence.Boyle_Objectives.DisSeqAct_UpdateTaskTarget_3 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Lydia Boyle"
+
+[TheWorld:PersistentLevel.Main_Sequence.Boyle_Objectives.DisSeqAct_UpdateTaskTarget_4 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Esma Boyle"
+
+[TheWorld:PersistentLevel.Main_Sequence.Boyle_Objectives.DisSeqAct_UpdateTaskTarget_41 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Lorde Brisby"
+
+[TheWorld:PersistentLevel.Main_Sequence.Boyle_Objectives.DisSeqAct_UpdateTaskTarget_5 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Waverly Boyle"
+
+[TheWorld:PersistentLevel.Main_Sequence.Boyle_Objectives.DisSeqAct_UpdateTaskTarget_6 DisSeqAct_UpdateTaskTarget]
+m_TargetName="(No lado de fora) Barco de Samuel"
+
+[TheWorld:PersistentLevel.Main_Sequence.Boyle_Objectives.DisSeqAct_UpdateTaskTarget_7 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Lydia Boyle"
+
+[TheWorld:PersistentLevel.Main_Sequence.Boyle_Objectives.DisSeqAct_UpdateTaskTarget_8 DisSeqAct_UpdateTaskTarget]
+m_TargetName="Esma Boyle"
+
+[TheWorld:PersistentLevel.Main_Sequence.Boyle_Objectives.DisSeqAct_UpdateTaskTarget_9 DisSeqAct_UpdateTaskTarget]
+m_TargetName=""
+
+[TheWorld:PersistentLevel.Main_Sequence.Boyle_Objectives.MissWhiteRevealsColors.DisSeqAct_ShowHUDMessage_0 DisSeqAct_ShowHUDMessage]
+m_Message="Nova Pista da Missão adicionada"
+
+[TheWorld:PersistentLevel.Main_Sequence.Boyle_Objectives.MissWhiteRevealsColors.DisSeqAct_ShowHUDMessage_3 DisSeqAct_ShowHUDMessage]
+m_Message="Nova Pista da Missão adicionada"
+
+[TheWorld:PersistentLevel.Main_Sequence.Boyle_Objectives.MissWhiteRevealsColors.DisSeqAct_ShowHUDMessage_4 DisSeqAct_ShowHUDMessage]
+m_Message="A Srta. White te deu uma bebida"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_DialogScriptedChoice_0 DisSeqAct_DialogScriptedChoice]
+m_Title=""
+m_Choices[0]=(m_ChoiceText="Assinar o livro de convidados")
+m_Choices[1]=(m_ChoiceText="Não assinar")
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_ShowHUDMessage_0 DisSeqAct_ShowHUDMessage]
+m_Message="Você já assinou o livro de convidados"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_ShowHUDMessage_6 DisSeqAct_ShowHUDMessage]
+m_Message="Você já assinou o livro de convidados"
+
+[TheWorld:PersistentLevel.Main_Sequence.DisSeqAct_ShowLocationDiscovery_3 DisSeqAct_ShowLocationDiscovery]
+m_LocationName="Você alcançou uma zona neutra. Tente passar despercebido"
+

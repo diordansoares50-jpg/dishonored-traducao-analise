@@ -1,0 +1,63 @@
+[Twk_Pawn_DefaultPlayer DisTweaks_PlayerPawn]
+m_CanPerformAdrenalineKillMessage="Pressione `GBA_Adrenaline` para executar uma Morte por Adrenalina"
+m_CanPerformAdrenalineDoubleKillMessage="Pressione `GBA_Adrenaline` duas vezes para executar uma dupla Morte por Adrenalina."
+m_DarknessLevelIncreasedMessage=""
+m_BlockTutorialMessage="Pressione e segure `GBA_Block` para bloquear ataques corpo-a-corpo."
+m_PerfectBlockTutorialMessage="Pressione e segure `GBA_Block` no momento que o inimigo atacar para desequilibra-lo."
+m_AcquiredElixirTutorialMessage[0]="Pressione e segure `GBA_Wheel` para abrir a Roda de Acesso Rápido, depois pressione `KEY_B` para beber uma poção de Saúde."
+m_AcquiredElixirTutorialMessage[1]="Pressione e segure `GBA_Wheel` para abrir a Roda de Acesso Rápido, depois pressione `KEY_X` para beber uma poção de Mana. "
+m_AcquiredElixirTutorialMessage_PC[0]="Pressione `GBA_HealthElixir` para beber a poção de Saúde."
+m_AcquiredElixirTutorialMessage_PC[1]="Pressione `GBA_ManaElixir` para beber a poção de Maná."
+m_UseElixirTutorialMessage[0]="Sua Saúde está baixa. Segure `GBA_Wheel` para abrir a Roda de Acesso Rápido, então pressione `KEY_B` para beber uma poção."
+m_UseElixirTutorialMessage[1]="Seu Maná está baixo. Segure `GBA_Wheel` para abrir a Roda de Acesso Rápido, então pressione `KEY_X` para beber uma poção."
+m_UseElixirTutorialMessage_PC[0]="Sua Saúde está baixa. Pressione `GBA_HealthElixir` para beber uma poção."
+m_UseElixirTutorialMessage_PC[1]="Seu Maná está baixo. Pressione `GBA_ManaElixir` para beber uma poção."
+m_ThrowMovableTutorialMessage="Pressione `GBA_Primary` para lançar objetos para chamar a atenção do inimigo."
+m_HeartTargetTutorialMessage="Há uma Runa ou Encanto de Ossos por perto. Equipe o coração para encontrar."
+m_WheelTutorialMessage="Para mudar o item equipado, segure `GBA_Wheel` para acessar a Roda de Acesso Rápido."
+m_WheelTutorialNoteTitle="Pressione `GBA_Journal` para ler o Tutorial da Roda de Acesso Rápido."
+m_DropAssassinationNoteTitle="Pressione `GBA_Journal` para ler o Tutorial de Assassinato em uma Queda."
+m_PowerInhibitedMessage=""
+
+[Twk_Pawn_DefaultPlayer:DisTweaks_WhaleBoneCharmList_0 DisTweaks_WhaleBoneCharmList]
+m_Charms[0]=(m_Levels=((m_Name="Pele Rigida",m_Text="Sua Saúde Máxima é levemente aumentada")))
+m_Charms[1]=(m_Levels=((m_Name="Coração de Boi",m_Text="Seu Maná Máximo é levemente aumentado")))
+m_Charms[2]=(m_Levels=((m_Name="Apetite Saúdavel 1",m_Text="Alimentos aumentam um pouco sua Saúde "),(m_Name="Apetite Saudável 2",m_Text="Alimentos aumentam bastante sua Saúde")))
+m_Charms[3]=(m_Levels=((m_Name="Estrela Caida",m_Text="Matar alguém com um assassinato em uma queda dá a você um pouco de Mana")))
+m_Charms[4]=(m_Levels=((m_Name="Mau Funcionamento",m_Text="As granadas inimigas demoram um pouco mais para explodir")))
+m_Charms[5]=(m_Levels=((m_Name="Inimigo Nervoso 1",m_Text="O inimigo tem uma pequena probabilidade de errar o disparo com pistolas"),(m_Name="Inimigo Nervoso 2",m_Text="O inimigo tem uma probabilidade maior de errar o disparo com pistolas")))
+m_Charms[6]=(m_Levels=((m_Name="Robusto 1",m_Text="As poções te dão um pouco de Saúde"),(m_Name="Robusto 2",m_Text="As poções te dão bastante Saúde")))
+m_Charms[7]=(m_Levels=((m_Name="Energético 1",m_Text="As poções te dão um pouco de Maná"),(m_Name="Energético 2",m_Text="As poções te dão bastante Mana")))
+m_Charms[8]=(m_Levels=((m_Name="Toque do Destino 1",m_Text="Raramente, uma poção enche completamente a barra de Mana"),(m_Name="Toque do Destino 2",m_Text="Às vezes, uma poção enche completamente a barra de Mana")))
+m_Charms[9]=(m_Levels=((m_Name="Cheiro de Rato",m_Text="Os ratos só te atacam se você se aproximar muito")))
+m_Charms[10]=(m_Levels=((m_Name="Água Espiritual",m_Text="Beber água de uma torneira recarrega uma pequena quantidade de Mana")))
+m_Charms[11]=(m_Levels=((m_Name="Resistente a Peste",m_Text="Os Lamentosos infligem menos danos a você")))
+m_Charms[12]=(m_Levels=((m_Name="Afinidade com a Peste",m_Text="Ao sofrer danos dos Lamentosos, você recupera uma pequena quantidade de Maná")))
+m_Charms[13]=(m_Levels=((m_Name="Vingança",m_Text="Ao sofrer danos, você recebe um pouco de Adrenalina")))
+m_Charms[14]=(m_Levels=((m_Name="Matador de Pestes",m_Text="Ao matar ratos, você recebe um pouco de Adrenalina")))
+m_Charms[15]=(m_Levels=((m_Name="Braços Fortes",m_Text="Você estrangula os inimigos mais rápido")))
+m_Charms[16]=(m_Levels=((m_Name="Coveiro",m_Text="Você se move um pouco mais rápido enquanto carrega corpos")))
+m_Charms[17]=(m_Levels=((m_Name="Sombra Rápida",m_Text="Você se move um pouco mais rápido enquanto se move sigilosamente")))
+m_Charms[18]=(m_Levels=((m_Name="Furacão 1",m_Text="Você move a espada um pouco mais rápido"),(m_Name="Furacão 2",m_Text="Você move a espada muito mais rápido")))
+m_Charms[19]=(m_Levels=((m_Name="Lançador",m_Text="Você lança objetos que está carregando um pouco mais longe")))
+m_Charms[20]=(m_Levels=((m_Name="Acrobata",m_Text="Você sobe um pouco mais rápido")))
+m_Charms[21]=(m_Levels=((m_Name="Furia Prolongada",m_Text="Sua adrenalina demora mais para terminar")))
+m_Charms[22]=(m_Levels=((m_Name="Possuidor",m_Text="Você pode possuir ratos brancos por mais tempo")))
+m_Charms[23]=(m_Levels=((m_Name="Varredor",m_Text="Você encontra munição em grandes quantidades")))
+m_Charms[24]=(m_Levels=((m_Name="Albinos",m_Text="Você encontra ratos brancos com mais frequência")))
+m_Charms[25]=(m_Levels=((m_Name="Reserva Espiritual",m_Text="Regenera Mana um pouco mais rápido")))
+m_Charms[26]=(m_Levels=((m_Name="Setas Reforçadas",m_Text="As setas cravadas nos inimigos quebram com menos frequência")))
+m_Charms[27]=(m_Levels=((m_Name="Lutador Veloz",m_Text="Não perde velocidade ao sacar suas armas")))
+m_Charms[28]=(m_Levels=((m_Name="Água da Vida",m_Text="Beber água das fontes recarrega uma pequena quantidade de Saúde")))
+m_ScriptedCharms[0]=(m_Levels=((m_Name="Canal do Vazio",m_Text="O efeito dos poderes é levemente melhorado")))
+m_ScriptedCharms[1]=(m_Levels=((m_Name="Amigo dos Ratos Brancos",m_Text="Os ratos brancos não atacarão você")))
+m_ScriptedCharms[2]=(m_Levels=((m_Name="Festa na Sarjeta",m_Text="Ratos brancos podem ser possuídos para ganhar Mana")))
+m_ScriptedCharms[3]=(m_Levels=((m_Name="Bons Pulmões",m_Text="O seu fôlego é melhorado")))
+m_ScriptedCharms[4]=(m_Levels=((m_Name="Toque Delicado ",m_Text="O ruído do cristal ao quebrar é reduzido")))
+m_ScriptedCharms[5]=(m_Levels=((m_Name="Observador",m_Text="Grande aumento no campo de visão ao olhar pelo buraco de uma fechadura")))
+m_ScriptedCharms[6]=(m_Levels=((m_Name="Fogo Liquido",m_Text="Ao atirar em uma garrafa de uísque, ela explode com mais intensidade")))
+m_ScriptedCharms[7]=(m_Levels=((m_Name="Resistência a Explosões",m_Text="O dano a explosões é ligeiramente reduzido")))
+m_ScriptedCharms[8]=(m_Levels=((m_Name="Esgrimista",m_Text="Você vence no choque de espadas com mais frequência")))
+m_ScriptedCharms[9]=(m_Levels=((m_Name="Esquivo Rápido",m_Text="Os arcos e as setas dos inimigos falham com mais frequência")))
+m_ScriptedCharms[10]=(m_Levels=((m_Name="Afinidade com o Rio ",m_Text="Sua velocidade de nado é ligeiramente aumentada")))
+m_ScriptedCharms[11]=(m_Levels=((m_Name="Corvo",m_Text="Assassinatos em uma queda te dão um pouco de Saúde")))

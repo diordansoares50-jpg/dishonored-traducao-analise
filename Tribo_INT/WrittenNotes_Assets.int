@@ -1,0 +1,182 @@
+[Textures.Twk_Boyle_Guest_Book DisTweaks_AbstractItemPickupNote]
+m_PressKeyToReadMessage=""
+m_OnPickupMessage="Nova nota adicionada ao seu Diário"
+m_SingleItemPickupMessage=""
+
+[Textures.Twk_Boyle_Guest_Book:DisTweaks_Interactable_PickupBase_104 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name=""
+m_InteractText="`GBA_Use` Ler"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Textures.Twk_Letter_Creased DisTweaks_AbstractItemPickupNote]
+m_PressKeyToReadMessage=""
+m_OnPickupMessage="Nova nota adicionada ao seu Diário"
+m_SingleItemPickupMessage=""
+
+[Textures.Twk_Letter_Creased:DisTweaks_Interactable_PickupBase_31 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name=""
+m_InteractText="`GBA_Use` Ler"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Textures.Twk_Letter_Envelope DisTweaks_AbstractItemPickupNote]
+m_PressKeyToReadMessage=""
+m_OnPickupMessage="Nova nota adicionada ao seu Diário"
+m_SingleItemPickupMessage=""
+
+[Textures.Twk_Letter_Envelope:DisTweaks_Interactable_PickupBase_31 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name=""
+m_InteractText="`GBA_Use` Ler"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Textures.Twk_Letter_Rolled DisTweaks_AbstractItemPickupNote]
+m_PressKeyToReadMessage=""
+m_OnPickupMessage="Nova nota adicionada ao seu Diário"
+m_SingleItemPickupMessage=""
+
+[Textures.Twk_Letter_Rolled:DisTweaks_Interactable_PickupBase_105 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name=""
+m_InteractText="`GBA_Use` Ler"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Textures.Twk_Letter_Sheet DisTweaks_AbstractItemPickupNote]
+m_PressKeyToReadMessage=""
+m_OnPickupMessage="Nova nota adicionada ao seu Diário"
+m_SingleItemPickupMessage=""
+
+[Textures.Twk_Letter_Sheet:DisTweaks_Interactable_PickupBase_31 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name=""
+m_InteractText="`GBA_Use` Ler"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Textures.Twk_Map_Sheet DisTweaks_AbstractItemPickupNote]
+m_PressKeyToReadMessage=""
+m_OnPickupMessage="Nova nota adicionada ao seu Diário"
+m_SingleItemPickupMessage=""
+
+[Textures.Twk_Map_Sheet:DisTweaks_Interactable_PickupBase_106 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name=""
+m_InteractText="`GBA_Use` Olhar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Textures.Twk_Notes_AccountLedger DisTweaks_AbstractItemPickupNote]
+m_PressKeyToReadMessage=""
+m_OnPickupMessage="Nova nota adicionada ao seu Diário"
+m_SingleItemPickupMessage=""
+
+[Textures.Twk_Notes_AccountLedger:DisTweaks_Interactable_PickupBase_29 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name=""
+m_InteractText="`GBA_Use` Ler"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Textures.Twk_Notes_Book DisTweaks_AbstractItemPickupNote]
+m_PressKeyToReadMessage=""
+m_OnPickupMessage="Nova nota adicionada ao seu Diário"
+m_SingleItemPickupMessage=""
+
+[Textures.Twk_Notes_Book2 DisTweaks_AbstractItemPickupNote]
+m_PressKeyToReadMessage=""
+m_OnPickupMessage="Nova nota adicionada ao seu Diário"
+m_SingleItemPickupMessage=""
+
+[Textures.Twk_Notes_Book2:DisTweaks_Interactable_PickupBase_1 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name=""
+m_InteractText="`GBA_Use` Ler"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Textures.Twk_Notes_Book3 DisTweaks_AbstractItemPickupNote]
+m_PressKeyToReadMessage=""
+m_OnPickupMessage="Nova nota adicionada ao seu Diário"
+m_SingleItemPickupMessage=""
+
+[Textures.Twk_Notes_Book3:DisTweaks_Interactable_PickupBase_30 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name=""
+m_InteractText="`GBA_Use` Ler"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Textures.Twk_Notes_Book:DisTweaks_Interactable_PickupBase_0 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name=""
+m_InteractText="`GBA_Use` Ler"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Textures.Twk_Notes_Clipboard DisTweaks_AbstractItemPickupNote]
+m_PressKeyToReadMessage=""
+m_OnPickupMessage="Nova nota adicionada ao seu Diário"
+m_SingleItemPickupMessage=""
+
+[Textures.Twk_Notes_Clipboard:DisTweaks_Interactable_PickupBase_64 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name=""
+m_InteractText="`GBA_Use` Ler"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Textures.Twk_Notes_Sheet DisTweaks_AbstractItemPickupNote]
+m_PressKeyToReadMessage=""
+m_OnPickupMessage="Nova nota adicionada ao seu Diário"
+m_SingleItemPickupMessage=""
+
+[Textures.Twk_Notes_Sheet:DisTweaks_Interactable_PickupBase_69 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name=""
+m_InteractText="`GBA_Use` Ler"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Twk_Letter_Worn DisTweaks_AbstractItemPickupNote]
+m_PressKeyToReadMessage=""
+m_OnPickupMessage="Nova nota adicionada ao seu Diário"
+m_SingleItemPickupMessage=""
+
+[Twk_Letter_Worn:DisTweaks_Interactable_PickupBase_72 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name=""
+m_InteractText="`GBA_Use` Ler"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+

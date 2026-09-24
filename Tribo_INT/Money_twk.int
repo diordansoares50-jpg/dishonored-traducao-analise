@@ -1,0 +1,1116 @@
+[coins.Coin_1_imp_twk DisTweaks_AbstractItemPickup]
+m_SingleItemPickupMessage=""
+
+[coins.Coin_1_imp_twk:DisTweaks_Interactable_PickupBase_28 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name="`i"
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[coins.Coin_1_twk DisTweaks_AbstractItemPickup]
+m_SingleItemPickupMessage=""
+
+[coins.Coin_1_twk:DisTweaks_Interactable_PickupBase_0 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name="`i"
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[coins.Coin_25_twk DisTweaks_AbstractItemPickup]
+m_SingleItemPickupMessage=""
+
+[coins.Coin_25_twk:DisTweaks_Interactable_PickupBase_2 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name="Moeda de 10"
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[coins.Coin_5_twk DisTweaks_AbstractItemPickup]
+m_SingleItemPickupMessage=""
+
+[coins.Coin_5_twk:DisTweaks_Interactable_PickupBase_1 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name="Moeda de 5"
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[coins.Ingot_100_twk DisTweaks_AbstractItemPickup]
+m_SingleItemPickupMessage=""
+
+[coins.Ingot_100_twk:DisTweaks_Interactable_PickupBase_29 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name="Barra de Metal Fundido"
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Heirlooms.T1.Hrlm_T1_Moray_Cameo_twk DisTweaks_AbstractItemPickup]
+m_SingleItemPickupMessage=""
+
+[Heirlooms.T1.Hrlm_T1_Moray_Cameo_twk:DisTweaks_Interactable_PickupBase_30 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name="Camafeu de Moray"
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Heirlooms.T1.Hrlm_T1_Moray_CigCase_twk DisTweaks_AbstractItemPickup]
+m_SingleItemPickupMessage=""
+
+[Heirlooms.T1.Hrlm_T1_Moray_CigCase_twk:DisTweaks_Interactable_PickupBase_31 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name="Charuteira de Moray"
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Heirlooms.T1.Hrlm_T1_Moray_FishStatue_twk DisTweaks_AbstractItemPickup]
+m_SingleItemPickupMessage=""
+
+[Heirlooms.T1.Hrlm_T1_Moray_FishStatue_twk:DisTweaks_Interactable_PickupBase_32 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name="Estatueta de Peixe de Moray"
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Heirlooms.T1.Hrlm_T1_Moray_JBox_twk DisTweaks_AbstractItemPickup]
+m_SingleItemPickupMessage=""
+
+[Heirlooms.T1.Hrlm_T1_Moray_JBox_twk:DisTweaks_Interactable_PickupBase_33 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name="Caixa de Jóias de Moray"
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Heirlooms.T1.Hrlm_T1_Moray_Medal_twk DisTweaks_AbstractItemPickup]
+m_SingleItemPickupMessage=""
+
+[Heirlooms.T1.Hrlm_T1_Moray_Medal_twk:DisTweaks_Interactable_PickupBase_34 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name="Medalha de Guerra de Moray"
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Heirlooms.T1.Hrlm_T1_Moray_Plate_twk DisTweaks_AbstractItemPickup]
+m_SingleItemPickupMessage=""
+
+[Heirlooms.T1.Hrlm_T1_Moray_Plate_twk:DisTweaks_Interactable_PickupBase_35 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name="Prato Decorativo de Moray"
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Heirlooms.T1.Hrlm_T1_Moray_PocketWtch_twk DisTweaks_AbstractItemPickup]
+m_SingleItemPickupMessage=""
+
+[Heirlooms.T1.Hrlm_T1_Moray_PocketWtch_twk:DisTweaks_Interactable_PickupBase_4 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name="Relógio de Bolso de Moray"
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Heirlooms.T1.Hrlm_T1_Moray_Sextant_twk DisTweaks_AbstractItemPickup]
+m_SingleItemPickupMessage=""
+
+[Heirlooms.T1.Hrlm_T1_Moray_Sextant_twk:DisTweaks_Interactable_PickupBase_36 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name="Sextante de Moray"
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Heirlooms.T1.Hrlm_T1_Moray_Urn_twk DisTweaks_AbstractItemPickup]
+m_SingleItemPickupMessage=""
+
+[Heirlooms.T1.Hrlm_T1_Moray_Urn_twk:DisTweaks_Interactable_PickupBase_37 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name="Urna de Moray"
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Heirlooms.T1.Hrlm_T1_Perth_Cameo_twk DisTweaks_AbstractItemPickup]
+m_SingleItemPickupMessage=""
+
+[Heirlooms.T1.Hrlm_T1_Perth_Cameo_twk:DisTweaks_Interactable_PickupBase_6 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name="Camafeu de Perth"
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Heirlooms.T1.Hrlm_T1_Perth_CigCase_twk DisTweaks_AbstractItemPickup]
+m_SingleItemPickupMessage=""
+
+[Heirlooms.T1.Hrlm_T1_Perth_CigCase_twk:DisTweaks_Interactable_PickupBase_38 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name="Charuteiro de Perth"
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Heirlooms.T1.Hrlm_T1_Perth_FishStatue_twk DisTweaks_AbstractItemPickup]
+m_SingleItemPickupMessage=""
+
+[Heirlooms.T1.Hrlm_T1_Perth_FishStatue_twk:DisTweaks_Interactable_PickupBase_39 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name="Estatueta de Peixe de Perth"
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Heirlooms.T1.Hrlm_T1_Perth_JBox_twk DisTweaks_AbstractItemPickup]
+m_SingleItemPickupMessage=""
+
+[Heirlooms.T1.Hrlm_T1_Perth_JBox_twk:DisTweaks_Interactable_PickupBase_40 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name="Caixa de Jóias de Perth"
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Heirlooms.T1.Hrlm_T1_Perth_Medal_twk DisTweaks_AbstractItemPickup]
+m_SingleItemPickupMessage=""
+
+[Heirlooms.T1.Hrlm_T1_Perth_Medal_twk:DisTweaks_Interactable_PickupBase_41 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name="Medalha de Perth"
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Heirlooms.T1.Hrlm_T1_Perth_Plate_twk DisTweaks_AbstractItemPickup]
+m_SingleItemPickupMessage=""
+
+[Heirlooms.T1.Hrlm_T1_Perth_Plate_twk:DisTweaks_Interactable_PickupBase_42 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name="Prato Decorativo de Perth"
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Heirlooms.T1.Hrlm_T1_Perth_PocketWtch_twk DisTweaks_AbstractItemPickup]
+m_SingleItemPickupMessage=""
+
+[Heirlooms.T1.Hrlm_T1_Perth_PocketWtch_twk:DisTweaks_Interactable_PickupBase_5 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name="Relógio de Bolso de Perth"
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Heirlooms.T1.Hrlm_T1_Perth_Sextant_twk DisTweaks_AbstractItemPickup]
+m_SingleItemPickupMessage=""
+
+[Heirlooms.T1.Hrlm_T1_Perth_Sextant_twk:DisTweaks_Interactable_PickupBase_43 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name="Sextante de Perth"
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Heirlooms.T1.Hrlm_T1_Perth_Urn_twk DisTweaks_AbstractItemPickup]
+m_SingleItemPickupMessage=""
+
+[Heirlooms.T1.Hrlm_T1_Perth_Urn_twk:DisTweaks_Interactable_PickupBase_44 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name="Urna de Perth"
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Heirlooms.T2.Hrlm_T2_Carmine_Cameo_twk DisTweaks_AbstractItemPickup]
+m_SingleItemPickupMessage=""
+
+[Heirlooms.T2.Hrlm_T2_Carmine_Cameo_twk:DisTweaks_Interactable_PickupBase_45 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name="Camafeu de Carmine"
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Heirlooms.T2.Hrlm_T2_Carmine_CigCase_twk DisTweaks_AbstractItemPickup]
+m_SingleItemPickupMessage=""
+
+[Heirlooms.T2.Hrlm_T2_Carmine_CigCase_twk:DisTweaks_Interactable_PickupBase_46 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name="Charuteiro de Carmine"
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Heirlooms.T2.Hrlm_T2_Carmine_HoundStatue_twk DisTweaks_AbstractItemPickup]
+m_SingleItemPickupMessage=""
+
+[Heirlooms.T2.Hrlm_T2_Carmine_HoundStatue_twk:DisTweaks_Interactable_PickupBase_47 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name="Estatueta de Cão de Carmine"
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Heirlooms.T2.Hrlm_T2_Carmine_JBox_twk DisTweaks_AbstractItemPickup]
+m_SingleItemPickupMessage=""
+
+[Heirlooms.T2.Hrlm_T2_Carmine_JBox_twk:DisTweaks_Interactable_PickupBase_48 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name="Caixa de Jóias de Carmine"
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Heirlooms.T2.Hrlm_T2_Carmine_Medal_twk DisTweaks_AbstractItemPickup]
+m_SingleItemPickupMessage=""
+
+[Heirlooms.T2.Hrlm_T2_Carmine_Medal_twk:DisTweaks_Interactable_PickupBase_49 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name="Medalha de Guerra de Carmine"
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Heirlooms.T2.Hrlm_T2_Carmine_Plate_twk DisTweaks_AbstractItemPickup]
+m_SingleItemPickupMessage=""
+
+[Heirlooms.T2.Hrlm_T2_Carmine_Plate_twk:DisTweaks_Interactable_PickupBase_50 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name="Prato Decorativo de Carmine"
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Heirlooms.T2.Hrlm_T2_Carmine_PocketWtch_twk DisTweaks_AbstractItemPickup]
+m_SingleItemPickupMessage=""
+
+[Heirlooms.T2.Hrlm_T2_Carmine_PocketWtch_twk:DisTweaks_Interactable_PickupBase_15 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name="Relógio de Bolso de Carmine"
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Heirlooms.T2.Hrlm_T2_Carmine_Sextant_twk DisTweaks_AbstractItemPickup]
+m_SingleItemPickupMessage=""
+
+[Heirlooms.T2.Hrlm_T2_Carmine_Sextant_twk:DisTweaks_Interactable_PickupBase_51 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name="Sextante de Carmine"
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Heirlooms.T2.Hrlm_T2_Carmine_Urn_twk DisTweaks_AbstractItemPickup]
+m_SingleItemPickupMessage=""
+
+[Heirlooms.T2.Hrlm_T2_Carmine_Urn_twk:DisTweaks_Interactable_PickupBase_52 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name="Urna de Carmine"
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Heirlooms.T2.Hrlm_T2_Inchmouth_Cameo_twk DisTweaks_AbstractItemPickup]
+m_SingleItemPickupMessage=""
+
+[Heirlooms.T2.Hrlm_T2_Inchmouth_Cameo_twk:DisTweaks_Interactable_PickupBase_53 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name="Camafeu de Inchmouth"
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Heirlooms.T2.Hrlm_T2_Inchmouth_CigCase_twk DisTweaks_AbstractItemPickup]
+m_SingleItemPickupMessage=""
+
+[Heirlooms.T2.Hrlm_T2_Inchmouth_CigCase_twk:DisTweaks_Interactable_PickupBase_54 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name="Charuteiro de Inchmouth"
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Heirlooms.T2.Hrlm_T2_Inchmouth_HoundStatue_twk DisTweaks_AbstractItemPickup]
+m_SingleItemPickupMessage=""
+
+[Heirlooms.T2.Hrlm_T2_Inchmouth_HoundStatue_twk:DisTweaks_Interactable_PickupBase_55 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name="Estatueta de Cão de Inchmouth"
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Heirlooms.T2.Hrlm_T2_Inchmouth_JBox_twk DisTweaks_AbstractItemPickup]
+m_SingleItemPickupMessage=""
+
+[Heirlooms.T2.Hrlm_T2_Inchmouth_JBox_twk:DisTweaks_Interactable_PickupBase_56 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name="Caixa de Jóias de Inchmouth"
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Heirlooms.T2.Hrlm_T2_Inchmouth_Medal_twk DisTweaks_AbstractItemPickup]
+m_SingleItemPickupMessage=""
+
+[Heirlooms.T2.Hrlm_T2_Inchmouth_Medal_twk:DisTweaks_Interactable_PickupBase_57 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name="Medalha de Guerra de Inchmouth"
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Heirlooms.T2.Hrlm_T2_Inchmouth_Plate_twk DisTweaks_AbstractItemPickup]
+m_SingleItemPickupMessage=""
+
+[Heirlooms.T2.Hrlm_T2_Inchmouth_Plate_twk:DisTweaks_Interactable_PickupBase_58 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name="Prato Decorativo de Inchmouth"
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Heirlooms.T2.Hrlm_T2_Inchmouth_PocketWtch_twk DisTweaks_AbstractItemPickup]
+m_SingleItemPickupMessage=""
+
+[Heirlooms.T2.Hrlm_T2_Inchmouth_PocketWtch_twk:DisTweaks_Interactable_PickupBase_16 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name="Relógio de Bolso de Inchmouth"
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Heirlooms.T2.Hrlm_T2_Inchmouth_Sextant_twk DisTweaks_AbstractItemPickup]
+m_SingleItemPickupMessage=""
+
+[Heirlooms.T2.Hrlm_T2_Inchmouth_Sextant_twk:DisTweaks_Interactable_PickupBase_17 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name="Sextante de Inchmouth"
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Heirlooms.T2.Hrlm_T2_Inchmouth_Urn_twk DisTweaks_AbstractItemPickup]
+m_SingleItemPickupMessage=""
+
+[Heirlooms.T2.Hrlm_T2_Inchmouth_Urn_twk:DisTweaks_Interactable_PickupBase_59 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name="Urna de Inchmouth"
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Heirlooms.T3.Hrlm_T3_Boyle_Cameo_twk DisTweaks_AbstractItemPickup]
+m_SingleItemPickupMessage=""
+
+[Heirlooms.T3.Hrlm_T3_Boyle_Cameo_twk:DisTweaks_Interactable_PickupBase_60 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name="Camafeu de Boyle"
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Heirlooms.T3.Hrlm_T3_Boyle_CigCase_twk DisTweaks_AbstractItemPickup]
+m_SingleItemPickupMessage=""
+
+[Heirlooms.T3.Hrlm_T3_Boyle_CigCase_twk:DisTweaks_Interactable_PickupBase_61 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name="Charuteiro de Boyle"
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Heirlooms.T3.Hrlm_T3_Boyle_Egg_twk DisTweaks_AbstractItemPickup]
+m_SingleItemPickupMessage=""
+
+[Heirlooms.T3.Hrlm_T3_Boyle_Egg_twk:DisTweaks_Interactable_PickupBase_62 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name="Ovo de Boyle"
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Heirlooms.T3.Hrlm_T3_Boyle_JBox_twk DisTweaks_AbstractItemPickup]
+m_SingleItemPickupMessage=""
+
+[Heirlooms.T3.Hrlm_T3_Boyle_JBox_twk:DisTweaks_Interactable_PickupBase_63 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name="Caixa de Jóias de Boyle"
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Heirlooms.T3.Hrlm_T3_Boyle_Medal_twk DisTweaks_AbstractItemPickup]
+m_SingleItemPickupMessage=""
+
+[Heirlooms.T3.Hrlm_T3_Boyle_Medal_twk:DisTweaks_Interactable_PickupBase_64 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name="Medalha de Guerra de Boyle"
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Heirlooms.T3.Hrlm_T3_Boyle_Plate_twk DisTweaks_AbstractItemPickup]
+m_SingleItemPickupMessage=""
+
+[Heirlooms.T3.Hrlm_T3_Boyle_Plate_twk:DisTweaks_Interactable_PickupBase_65 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name="Prato Decorativo de Boyle"
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Heirlooms.T3.Hrlm_T3_Boyle_PocketWtch_twk DisTweaks_AbstractItemPickup]
+m_SingleItemPickupMessage=""
+
+[Heirlooms.T3.Hrlm_T3_Boyle_PocketWtch_twk:DisTweaks_Interactable_PickupBase_20 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name="Relógio de Bolso de Boyle"
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Heirlooms.T3.Hrlm_T3_Boyle_Sextant_twk DisTweaks_AbstractItemPickup]
+m_SingleItemPickupMessage=""
+
+[Heirlooms.T3.Hrlm_T3_Boyle_Sextant_twk:DisTweaks_Interactable_PickupBase_66 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name="Sextante de Boyle"
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Heirlooms.T3.Hrlm_T3_Boyle_Urn_twk DisTweaks_AbstractItemPickup]
+m_SingleItemPickupMessage=""
+
+[Heirlooms.T3.Hrlm_T3_Boyle_Urn_twk:DisTweaks_Interactable_PickupBase_67 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name="Urna de Boyle"
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Heirlooms.T3.Hrlm_T3_Boyle_WhaleStatue_twk DisTweaks_AbstractItemPickup]
+m_SingleItemPickupMessage=""
+
+[Heirlooms.T3.Hrlm_T3_Boyle_WhaleStatue_twk:DisTweaks_Interactable_PickupBase_68 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name="Estatueta de Baleia de Boyle"
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Heirlooms.T3.Hrlm_T3_Imp_Cameo_twk DisTweaks_AbstractItemPickup]
+m_SingleItemPickupMessage=""
+
+[Heirlooms.T3.Hrlm_T3_Imp_Cameo_twk:DisTweaks_Interactable_PickupBase_22 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name="Camafeu Imperial"
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Heirlooms.T3.Hrlm_T3_Imp_CigCase_twk DisTweaks_AbstractItemPickup]
+m_SingleItemPickupMessage=""
+
+[Heirlooms.T3.Hrlm_T3_Imp_CigCase_twk:DisTweaks_Interactable_PickupBase_69 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name="Charuteiro Imperial"
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Heirlooms.T3.Hrlm_T3_Imp_Egg_twk DisTweaks_AbstractItemPickup]
+m_SingleItemPickupMessage=""
+
+[Heirlooms.T3.Hrlm_T3_Imp_Egg_twk:DisTweaks_Interactable_PickupBase_70 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name="Ovo Imperial"
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Heirlooms.T3.Hrlm_T3_Imp_JBox_twk DisTweaks_AbstractItemPickup]
+m_SingleItemPickupMessage=""
+
+[Heirlooms.T3.Hrlm_T3_Imp_JBox_twk:DisTweaks_Interactable_PickupBase_71 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name="Caixa de Jóias Imperial"
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Heirlooms.T3.Hrlm_T3_Imp_Medal_twk DisTweaks_AbstractItemPickup]
+m_SingleItemPickupMessage=""
+
+[Heirlooms.T3.Hrlm_T3_Imp_Medal_twk:DisTweaks_Interactable_PickupBase_72 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name="Medalha de Guerra Imperial"
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Heirlooms.T3.Hrlm_T3_Imp_Plate_twk DisTweaks_AbstractItemPickup]
+m_SingleItemPickupMessage=""
+
+[Heirlooms.T3.Hrlm_T3_Imp_Plate_twk:DisTweaks_Interactable_PickupBase_73 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name="Prato Decorativo Imperial"
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Heirlooms.T3.Hrlm_T3_Imp_PocketWtch_twk DisTweaks_AbstractItemPickup]
+m_SingleItemPickupMessage=""
+
+[Heirlooms.T3.Hrlm_T3_Imp_PocketWtch_twk:DisTweaks_Interactable_PickupBase_21 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name="Relógio de Bolso Imperial"
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Heirlooms.T3.Hrlm_T3_Imp_Sextant_twk DisTweaks_AbstractItemPickup]
+m_SingleItemPickupMessage=""
+
+[Heirlooms.T3.Hrlm_T3_Imp_Sextant_twk:DisTweaks_Interactable_PickupBase_74 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name="Sextante Imperial"
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Heirlooms.T3.Hrlm_T3_Imp_Urn_twk DisTweaks_AbstractItemPickup]
+m_SingleItemPickupMessage=""
+
+[Heirlooms.T3.Hrlm_T3_Imp_Urn_twk:DisTweaks_Interactable_PickupBase_75 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name="Urna Imperial"
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Heirlooms.T3.Hrlm_T3_Imp_WhaleStatue_twk DisTweaks_AbstractItemPickup]
+m_SingleItemPickupMessage=""
+
+[Heirlooms.T3.Hrlm_T3_Imp_WhaleStatue_twk:DisTweaks_Interactable_PickupBase_76 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name="Estatueta de Baleia Imperial"
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Maps.Map_CankerMouthGulf_twk DisTweaks_AbstractItemPickup]
+m_SingleItemPickupMessage=""
+
+[Maps.Map_CankerMouthGulf_twk:DisTweaks_Interactable_PickupBase_77 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name="Mapa de Canker Mouth Gulf"
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Maps.Map_CapeofTeeth_twk DisTweaks_AbstractItemPickup]
+m_SingleItemPickupMessage=""
+
+[Maps.Map_CapeofTeeth_twk:DisTweaks_Interactable_PickupBase_8 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name="Mapa de Cape of Teeth"
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Maps.Map_Continent_twk DisTweaks_AbstractItemPickup]
+m_SingleItemPickupMessage=""
+
+[Maps.Map_Continent_twk:DisTweaks_Interactable_PickupBase_7 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name="Mapa do Continente de Pandyssa"
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Maps.Map_NSkyStars_twk DisTweaks_AbstractItemPickup]
+m_SingleItemPickupMessage=""
+
+[Maps.Map_NSkyStars_twk:DisTweaks_Interactable_PickupBase_78 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name="Mapa Celeste: Céus do Norte"
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Maps.Map_OldCoast_twk DisTweaks_AbstractItemPickup]
+m_SingleItemPickupMessage=""
+
+[Maps.Map_OldCoast_twk:DisTweaks_Interactable_PickupBase_79 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name="Mapa da Costa Antiga"
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Maps.Map_SiegeStarTable_twk DisTweaks_AbstractItemPickup]
+m_SingleItemPickupMessage=""
+
+[Maps.Map_SiegeStarTable_twk:DisTweaks_Interactable_PickupBase_80 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name="Estudo Geológico da Bacia Oeste de Pandyssia"
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Maps.Map_SlaveRoutes_twk DisTweaks_AbstractItemPickup]
+m_SingleItemPickupMessage=""
+
+[Maps.Map_SlaveRoutes_twk:DisTweaks_Interactable_PickupBase_81 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name="Mapa das Rotas de Escravos"
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Maps.Map_SSkyStars_twk DisTweaks_AbstractItemPickup]
+m_SingleItemPickupMessage=""
+
+[Maps.Map_SSkyStars_twk:DisTweaks_Interactable_PickupBase_11 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name="Mapa Celeste: Céus do Sul"
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Maps.Map_WestSeas_twk DisTweaks_AbstractItemPickup]
+m_SingleItemPickupMessage=""
+
+[Maps.Map_WestSeas_twk:DisTweaks_Interactable_PickupBase_82 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name="Oceano Ocidental"
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Maps.Map_WhalingTerritory_twk DisTweaks_AbstractItemPickup]
+m_SingleItemPickupMessage=""
+
+[Maps.Map_WhalingTerritory_twk:DisTweaks_Interactable_PickupBase_83 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name="Mapa dos Territórios Baleeiros"
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Paintings.Painting_AffixSkin_twk DisTweaks_AbstractItemPickup]
+m_SingleItemPickupMessage=""
+
+[Paintings.Painting_AffixSkin_twk:DisTweaks_Interactable_PickupBase_85 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name="Vera Moray e o Afixo de sua Pele"
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Paintings.Painting_Asymmetry_twk DisTweaks_AbstractItemPickup]
+m_SingleItemPickupMessage=""
+
+[Paintings.Painting_Asymmetry_twk:DisTweaks_Interactable_PickupBase_86 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name="O Eixo de Assimetria do Mestre Espião"
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Paintings.Painting_CommutativeWeeper_twk DisTweaks_AbstractItemPickup]
+m_SingleItemPickupMessage=""
+
+[Paintings.Painting_CommutativeWeeper_twk:DisTweaks_Interactable_PickupBase_87 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name="Os Ratos Comutativos e o Lamentoso"
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Paintings.Painting_EmpEmptySet_twk DisTweaks_AbstractItemPickup]
+m_SingleItemPickupMessage=""
+
+[Paintings.Painting_EmpEmptySet_twk:DisTweaks_Interactable_PickupBase_84 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name="A Imperatriz e o Lugar Vazio"
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Paintings.Painting_Isometry_NoBottle_twk DisTweaks_AbstractItemPickup]
+m_SingleItemPickupMessage=""
+
+[Paintings.Painting_Isometry_NoBottle_twk:DisTweaks_Interactable_PickupBase_89 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name="A Isometria do Prelado Supervisor Thaddeus Campbell"
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Paintings.Painting_Isometry_twk DisTweaks_AbstractItemPickup]
+m_SingleItemPickupMessage=""
+
+[Paintings.Painting_Isometry_twk:DisTweaks_Interactable_PickupBase_88 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name="A Isometria do Prelado Supervisor Thaddeus Campbell"
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Paintings.Painting_Obtuse_twk DisTweaks_AbstractItemPickup]
+m_SingleItemPickupMessage=""
+
+[Paintings.Painting_Obtuse_twk:DisTweaks_Interactable_PickupBase_90 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name="Os Argumentos Obtusos de Lady Boyle"
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Paintings.Painting_Parabola_twk DisTweaks_AbstractItemPickup]
+m_SingleItemPickupMessage=""
+
+[Paintings.Painting_Parabola_twk:DisTweaks_Interactable_PickupBase_91 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name="Daud e a Parábola das Estações Perdidas"
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Paintings.Painting_PostulateChild_twk DisTweaks_AbstractItemPickup]
+m_SingleItemPickupMessage=""
+
+[Paintings.Painting_PostulateChild_twk:DisTweaks_Interactable_PickupBase_92 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name="Custis, Morgan e a Criança Postulada"
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Paintings.Painting_QuaternionicGroan_twk DisTweaks_AbstractItemPickup]
+m_SingleItemPickupMessage=""
+
+[Paintings.Painting_QuaternionicGroan_twk:DisTweaks_Interactable_PickupBase_93 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name="O Gemido Quaterniônico do Torturador"
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Paintings.Painting_SelfPortrait_twk DisTweaks_AbstractItemPickup]
+m_SingleItemPickupMessage=""
+
+[Paintings.Painting_SelfPortrait_twk:DisTweaks_Interactable_PickupBase_94 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name="Luz na Curva Intensa, Auto-Retrato de Sokolov"
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Paintings.Painting_Void_twk DisTweaks_AbstractItemPickup]
+m_SingleItemPickupMessage=""
+
+[Paintings.Painting_Void_twk:DisTweaks_Interactable_PickupBase_95 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name="O Estranho e o Vazio Circunscrito"
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Pouches.Pouch_Coins_100_twk DisTweaks_AbstractItemPickup]
+m_SingleItemPickupMessage=""
+
+[Pouches.Pouch_Coins_100_twk:DisTweaks_Interactable_PickupBase_96 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name="Bolsa"
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Pouches.Pouch_Coins_10_twk DisTweaks_AbstractItemPickup]
+m_SingleItemPickupMessage=""
+
+[Pouches.Pouch_Coins_10_twk:DisTweaks_Interactable_PickupBase_97 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name="Bolsa"
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Pouches.Pouch_Coins_20_twk DisTweaks_AbstractItemPickup]
+m_SingleItemPickupMessage=""
+
+[Pouches.Pouch_Coins_20_twk:DisTweaks_Interactable_PickupBase_98 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name="Bolsa"
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Pouches.Pouch_Coins_25_twk DisTweaks_AbstractItemPickup]
+m_SingleItemPickupMessage=""
+
+[Pouches.Pouch_Coins_25_twk:DisTweaks_Interactable_PickupBase_99 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name="Bolsa"
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Pouches.Pouch_Coins_500_twk DisTweaks_AbstractItemPickup]
+m_SingleItemPickupMessage=""
+
+[Pouches.Pouch_Coins_500_twk:DisTweaks_Interactable_PickupBase_14 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name="Bolsa"
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Pouches.Pouch_Coins_50_twk DisTweaks_AbstractItemPickup]
+m_SingleItemPickupMessage=""
+
+[Pouches.Pouch_Coins_50_twk:DisTweaks_Interactable_PickupBase_100 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name="Bolsa"
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Pouches.Pouch_Coins_5_twk DisTweaks_AbstractItemPickup]
+m_SingleItemPickupMessage=""
+
+[Pouches.Pouch_Coins_5_twk:DisTweaks_Interactable_PickupBase_13 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name="Bolsa"
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[RKPearls.RKPearl_big_twk DisTweaks_AbstractItemPickup]
+m_SingleItemPickupMessage=""
+
+[RKPearls.RKPearl_big_twk:DisTweaks_Interactable_PickupBase_25 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name="Pérola Grande da Ostra do Rio"
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[RKPearls.RKPearl_Small_twk DisTweaks_AbstractItemPickup]
+m_SingleItemPickupMessage=""
+
+[RKPearls.RKPearl_Small_twk:DisTweaks_Interactable_PickupBase_24 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name="Pérola Pequena da Ostra do Rio"
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Valuable_twk DisTweaks_AbstractItemPickup]
+m_SingleItemPickupMessage=""
+
+[Valuable_twk:DisTweaks_Interactable_PickupBase_3 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name=""
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+

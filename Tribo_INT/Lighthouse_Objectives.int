@@ -1,0 +1,66 @@
+[Island_Obj DishonoredObjective]
+m_Description="Chegue ao Farol"
+
+[Island_Obj:DishonoredTask_Custom_0 DishonoredTask_Custom]
+m_Description="Entre no Forte de Kingsparrow"
+m_Status=""
+
+[Island_Obj:DishonoredTask_Custom_10 DishonoredTask_Custom]
+m_Description="Chegue ao Farol"
+m_Status=""
+
+[Island_Obj:DishonoredTask_Custom_11 DishonoredTask_Custom]
+m_Description="Entre no Elevador do Farol"
+m_Status=""
+
+[Island_Obj:DishonoredTask_Custom_15 DishonoredTask_Custom]
+m_Description="(Opcional) Encontre Pendleton"
+m_Status=""
+
+[Island_Obj:DishonoredTask_Custom_16 DishonoredTask_Custom]
+m_Description="(Opcional) Elimine Pendleton"
+m_Status=""
+
+[Island_Obj:DishonoredTask_Custom_17 DishonoredTask_Custom]
+m_Description="(Opcional) Elimine Martin"
+m_Status=""
+
+[Island_Obj:DishonoredTask_Custom_18 DishonoredTask_Custom]
+m_Description="(Opcional) Encontre Martin"
+m_Status=""
+
+[Island_Obj:DishonoredTask_Custom_8 DishonoredTask_Custom]
+m_Description="Faça uma última viagem com o barqueiro Samuel"
+m_Status=""
+
+[Island_Obj:DishonoredTask_Custom_9 DishonoredTask_Custom]
+m_Description="Entre na Guarita"
+m_Status=""
+
+[Lighthouse_Obj DishonoredObjective]
+m_Description="Resgate Emily"
+
+[Lighthouse_Obj:DishonoredTask_Custom_1 DishonoredTask_Custom]
+m_Description="(Opcional) Elimine o Almirante Havelock"
+m_Status=""
+
+[Lighthouse_Obj:DishonoredTask_Custom_12 DishonoredTask_Custom]
+m_Description="Entre no Farol"
+m_Status=""
+
+[Lighthouse_Obj:DishonoredTask_Custom_13 DishonoredTask_Custom]
+m_Description="Encontre Martin, Pendleton e Havelock"
+m_Status=""
+
+[Lighthouse_Obj:DishonoredTask_Custom_14 DishonoredTask_Custom]
+m_Description="(Opcional) Encontre Havelock"
+m_Status=""
+
+[Lighthouse_Obj:DishonoredTask_Custom_2 DishonoredTask_Custom]
+m_Description="Salve Emily antes que ela caia"
+m_Status=""
+
+[Lighthouse_Obj:DishonoredTask_Custom_3 DishonoredTask_Custom]
+m_Description="Resgate Emily"
+m_Status=""
+

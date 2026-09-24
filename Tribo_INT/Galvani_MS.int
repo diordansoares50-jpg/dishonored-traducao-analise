@@ -1,0 +1,8 @@
+[hand_twk:DisTweaks_InteractableInterface_17 DisTweaks_InteractableInterface]
+m_Name="Pedaço do Corpo"
+m_InteractText="`GBA_Use` Carregar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+

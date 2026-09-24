@@ -1,0 +1,28 @@
+[Twk_NPCPlotSettings_CorpseCleanUpDisabled DisTweaks_NPCPlotSettings]
+m_PlotSettings.m_GameOverWhenHostileToPlayer.m_ScreenMessage="A Conspiração dos Legalistas foi dissolvida devido a hostilidades irreconciliáveis"
+m_PlotSettings.m_GameOverWhenDead.m_ScreenMessage="A Conspiração dos Legalistas foi dissolvida"
+m_PlotSettings.m_GameOverWhenPossessedByPlayer.m_ScreenMessage="A Conspiração dos Legalistas foi dissolvida devido a hostilidades irreconciliáveis"
+
+[Twk_NPCPlotSettings_Emily DisTweaks_NPCPlotSettings]
+m_PlotSettings.m_GameOverWhenHostileToPlayer.m_ScreenMessage="Hostilidades Irreconciliáveis"
+m_PlotSettings.m_GameOverWhenDead.m_ScreenMessage="Você matou Emily"
+m_PlotSettings.m_GameOverWhenPossessedByPlayer.m_ScreenMessage="Isso não deveria aparecer"
+
+[Twk_NPCPlotSettings_Empress DisTweaks_NPCPlotSettings]
+m_PlotSettings.m_GameOverWhenHostileToPlayer.m_ScreenMessage="Hostilidades Irreconciliáveis"
+m_PlotSettings.m_GameOverWhenDead.m_ScreenMessage="Você matou a Imperatriz"
+m_PlotSettings.m_GameOverWhenPossessedByPlayer.m_ScreenMessage="Isso não deveria aparecer"
+
+[Twk_NPCPlotSettings_GenericCritical DisTweaks_NPCPlotSettings]
+m_PlotSettings.m_GameOverWhenDead.m_ScreenMessage="Você cometeu um crime capital"
+
+[Twk_NPCPlotSettings_PlotCritical DisTweaks_NPCPlotSettings]
+m_PlotSettings.m_GameOverWhenHostileToPlayer.m_ScreenMessage="A Conspiração dos Legalistas foi dissolvida devido a hostilidades irreconciliáveis"
+m_PlotSettings.m_GameOverWhenDead.m_ScreenMessage="A Conspiração dos Legalistas foi dissolvida"
+m_PlotSettings.m_GameOverWhenPossessedByPlayer.m_ScreenMessage="A Conspiração dos Legalistas foi dissolvida devido a hostilidades irreconciliáveis"
+
+[Twk_NPCPlotSettings_Samuel DisTweaks_NPCPlotSettings]
+m_PlotSettings.m_GameOverWhenHostileToPlayer.m_ScreenMessage="Hostilidades Irreconciliáveis"
+m_PlotSettings.m_GameOverWhenDead.m_ScreenMessage="Samuel está morto"
+m_PlotSettings.m_GameOverWhenPossessedByPlayer.m_ScreenMessage="Hostilidades Irreconciliáveis"
+

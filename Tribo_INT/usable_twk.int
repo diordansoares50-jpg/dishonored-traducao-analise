@@ -1,0 +1,293 @@
+[Account_ledger_twk:DisTweaks_InteractableInterface_11 DisTweaks_InteractableInterface]
+m_Name="Livro"
+m_InteractText="`GBA_Use` Usar"
+
+[attic_entrance_door_twk DisTweaks_UsableObject]
+m_Stages[1]=(m_InteractTextOverride="`GBA_Use` Fechar")
+m_UnlockInteractText="`GBA_Use` Abrir"
+m_LockedMessage="Esse armário está trancado"
+
+[attic_entrance_door_twk:DisTweaks_InteractableInterface_5 DisTweaks_InteractableInterface]
+m_Name="Porta"
+m_InteractText="`GBA_Use` Abrir"
+
+[AudioGraphPlayer_Twk DisTweaks_AudioLogPlayer]
+m_Stages[1]=(m_InteractTextOverride="`GBA_Use` Parar o audiógrafo")
+
+[AudioGraphPlayer_Twk:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Reprodutor de Audiógrafos"
+m_InteractText="`GBA_Use` Usar"
+
+[bathtub_01_twk:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Banheira"
+m_InteractText="`GBA_Use` Beber"
+
+[brewery_01_twk DisTweaks_UsableObject]
+m_Stages[1]=(m_InteractTextOverride="`GBA_Use` Fechar")
+m_UnlockInteractText="`GBA_Use` Abrir"
+m_LockedMessage="Esse armário está trancado"
+
+[brewery_01_twk:DisTweaks_InteractableInterface_5 DisTweaks_InteractableInterface]
+m_Name="Cervejaria"
+m_InteractText="`GBA_Use` Abrir"
+
+[brothel_shutter_twk DisTweaks_UsableObject]
+m_Stages[1]=(m_InteractTextOverride="`GBA_Use` Fechar")
+m_UnlockInteractText="`GBA_Use` Destrancar"
+m_LockedMessage="Fechada. Você precisa da `k"
+
+[brothel_shutter_twk:DisTweaks_InteractableInterface_5 DisTweaks_InteractableInterface]
+m_Name="Persiana"
+m_InteractText="`GBA_Use` Abrir"
+
+[candle_flame_01_twk:DisTweaks_InteractableInterface_16 DisTweaks_InteractableInterface]
+m_Name="Velas"
+m_InteractText="`GBA_Use` Soprar"
+
+[Chest_01_twk DisTweaks_UsableObject]
+m_Stages[1]=(m_InteractTextOverride="`GBA_Use` Fechar")
+
+[Chest_01_twk:DisTweaks_InteractableInterface_4 DisTweaks_InteractableInterface]
+m_Name="Arca"
+m_InteractText="`GBA_Use` Abrir"
+
+[combination_lock_01_twk:DisTweaks_InteractableInterface_6 DisTweaks_InteractableInterface]
+m_Name="Fechadura com combinação"
+m_InteractText="`GBA_Use` Girar"
+
+[crossbow_box_01_twk DisTweaks_UsableObject]
+m_Stages[1]=(m_InteractTextOverride="`GBA_Use` Fechar")
+
+[crossbow_box_01_twk:DisTweaks_InteractableInterface_5 DisTweaks_InteractableInterface]
+m_Name="Caixa"
+m_InteractText="`GBA_Use` Abrir"
+
+[drill_01_twk DisTweaks_UsableObject]
+m_UnlockInteractText="`GBA_Use` Destrancar"
+m_LockedMessage="Este armário está trancado"
+
+[drill_01_twk:DisTweaks_InteractableInterface_5 DisTweaks_InteractableInterface]
+m_Name="Broca"
+m_InteractText="`GBA_Use` Usar"
+
+[DrinkCarousel_twk:DisTweaks_InteractableInterface_13 DisTweaks_InteractableInterface]
+m_Name="Carrossel de Bebidas"
+m_InteractText="`GBA_Use` Girar"
+
+[fountain_02_twk:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Fonte"
+m_InteractText="`GBA_Use` Beber"
+
+[foutain_03_twk:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Fonte de Espumante"
+m_InteractText="`GBA_Use` Beber"
+
+[GenericSwitch_twk:DisTweaks_InteractableInterface_0 DisTweaks_InteractableInterface]
+m_Name="Interruptor"
+m_InteractText="`GBA_Use` Usar"
+
+[globe_01_twk:DisTweaks_InteractableInterface_8 DisTweaks_InteractableInterface]
+m_Name="Globo"
+m_InteractText="`GBA_Use` Usar"
+
+[grindstone_01_twk DisTweaks_UsableObject]
+m_UnlockInteractText="`GBA_Use` Destrancar"
+m_LockedMessage="Esse armário está trancado"
+
+[grindstone_01_twk:DisTweaks_InteractableInterface_5 DisTweaks_InteractableInterface]
+m_Name="Esmeril"
+m_InteractText="`GBA_Use` Usar"
+
+[guard_booth_hatch_twk DisTweaks_UsableObject]
+m_Stages[1]=(m_InteractTextOverride="`GBA_Use` Fechar")
+
+[guard_booth_hatch_twk:DisTweaks_InteractableInterface_15 DisTweaks_InteractableInterface]
+m_Name="Alçapão"
+m_InteractText="`GBA_Use` Fechar"
+
+[hammam_foutain_wall_twk:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Fonte"
+m_InteractText="`GBA_Use` Beber"
+
+[hand_drawn_beer_01_twk:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Torneira do Bar"
+m_InteractText="`GBA_Use` Usar"
+
+[harp_01_twk:DisTweaks_InteractableInterface_16 DisTweaks_InteractableInterface]
+m_Name="Harpa"
+m_InteractText="`GBA_Use` Tocar"
+
+[key_hole_01_twk:DisTweaks_InteractableInterface_16 DisTweaks_InteractableInterface]
+m_Name="Buraco da Fechadura"
+m_InteractText="`GBA_Use` Abrir"
+
+[lever_01_twk DisTweaks_UsableObject]
+m_UnlockInteractText="`GBA_Use` Destrancar"
+m_LockedMessage=""
+
+[lever_01_twk:DisTweaks_InteractableInterface_0 DisTweaks_InteractableInterface]
+m_Name="Interruptor"
+m_InteractText="`GBA_Use` Usar"
+
+[lever_rich_01_twk:DisTweaks_InteractableInterface_0 DisTweaks_InteractableInterface]
+m_Name="Interruptor"
+m_InteractText="`GBA_Use` Usar"
+
+[lever_rich_02_twk:DisTweaks_InteractableInterface_0 DisTweaks_InteractableInterface]
+m_Name="Interruptor"
+m_InteractText="`GBA_Use` Usar"
+
+[locker_metal_01_twk DisTweaks_UsableObject]
+m_Stages[1]=(m_InteractTextOverride="`GBA_Use` Fechar")
+
+[locker_metal_01_twk:DisTweaks_InteractableInterface_5 DisTweaks_InteractableInterface]
+m_Name="Armário"
+m_InteractText="`GBA_Use` Abrir"
+
+[metal_chest_01_twk DisTweaks_UsableObject]
+m_Stages[1]=(m_InteractTextOverride="`GBA_Use` Fechar")
+
+[metal_chest_01_twk:DisTweaks_InteractableInterface_5 DisTweaks_InteractableInterface]
+m_Name="Balcão"
+m_InteractText="`GBA_Use` Abrir"
+
+[metal_highchest_01_twk DisTweaks_UsableObject]
+m_Stages[1]=(m_InteractTextOverride="`GBA_Use` Fechar")
+
+[metal_highchest_01_twk:DisTweaks_InteractableInterface_5 DisTweaks_InteractableInterface]
+m_Name="Armário"
+m_InteractText="`GBA_Use` Abrir"
+
+[Microscope_twk DisTweaks_AbstractItemPickupNote]
+m_PressKeyToReadMessage=""
+m_OnPickupMessage=""
+m_SingleItemPickupMessage=""
+
+[Microscope_twk:DisTweaks_Interactable_PickupBase_0 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name="Microscópio"
+m_InteractText="`GBA_Use` Usar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[piano_01_clavier_twk:DisTweaks_InteractableInterface_16 DisTweaks_InteractableInterface]
+m_Name="Piano"
+m_InteractText="`GBA_Use` Tocar"
+
+[rich_sink_01_twk:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Pia"
+m_InteractText="`GBA_Use` Beber"
+
+[safe_twk DisTweaks_UsableObject]
+m_Stages[1]=(m_InteractTextOverride="`GBA_Use` Fechar")
+m_LockedMessage="Combinação necessária"
+
+[safe_twk:DisTweaks_InteractableInterface_6 DisTweaks_InteractableInterface]
+m_Name="Cofre"
+m_InteractText="`GBA_Use` Abrir"
+
+[secretary_desk_01_twk DisTweaks_UsableObject]
+m_Stages[1]=(m_InteractTextOverride="`GBA_Use` Fechar")
+
+[secretary_desk_01_twk:DisTweaks_InteractableInterface_5 DisTweaks_InteractableInterface]
+m_Name="Escrivaninha"
+m_InteractText="`GBA_Use` Abrir"
+
+[SewerPlate_twk DisTweaks_UsableObject]
+m_Stages[1]=(m_InteractTextOverride="`GBA_Use` Fechar")
+m_UnlockInteractText="`GBA_Use` Destrancar"
+m_LockedMessage=""
+
+[SewerPlate_twk:DisTweaks_InteractableInterface_7 DisTweaks_InteractableInterface]
+m_Name="Tampa do Esgoto"
+m_InteractText="`GBA_Use` Abrir"
+
+[SewerPlate_valve_twk:DisTweaks_InteractableInterface_8 DisTweaks_InteractableInterface]
+m_Name="Válvula"
+m_InteractText="Segure `GBA_Use` Girar"
+
+[shop_rotisserie_01_twk:DisTweaks_InteractableInterface_8 DisTweaks_InteractableInterface]
+m_Name="Roda"
+m_InteractText="`GBA_Use` Girar"
+
+[sink_01_twk:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Pia"
+m_InteractText="`GBA_Use` Beber"
+
+[still_01_twk:DisTweaks_InteractableInterface_8 DisTweaks_InteractableInterface]
+m_Name="Válvula"
+m_InteractText="`GBA_Use` Usar"
+
+[toilet_01_twk DisTweaks_UsableObject]
+m_Stages[1]=(m_InteractTextOverride="`GBA_Use` Abrir")
+
+[toilet_01_twk:DisTweaks_InteractableInterface_9 DisTweaks_InteractableInterface]
+m_Name="Banheiro"
+m_InteractText="`GBA_Use` Fechar"
+
+[torture_generator_twk DisTweaks_UsableObject]
+m_UnlockInteractText="`GBA_Use` Destrancar"
+m_LockedMessage="Essa alavanca não pode ser usada nesse momento"
+
+[torture_generator_twk:DisTweaks_InteractableInterface_5 DisTweaks_InteractableInterface]
+m_Name="Alavanca"
+m_InteractText="`GBA_Use` Usar"
+
+[trash_bin_01_twk DisTweaks_UsableObject]
+m_Stages[1]=(m_InteractTextOverride="`GBA_Use` Fechar")
+
+[trash_bin_01_twk:DisTweaks_InteractableInterface_10 DisTweaks_InteractableInterface]
+m_Name="Lata de Lixo"
+m_InteractText="`GBA_Use` Abrir"
+
+[triggering_book_01_twk:DisTweaks_InteractableInterface_11 DisTweaks_InteractableInterface]
+m_Name="Livro Falso"
+m_InteractText="`GBA_Use` Usar"
+
+[trunk_01_twk DisTweaks_UsableObject]
+m_Stages[1]=(m_InteractTextOverride="`GBA_Use` Fechar")
+
+[trunk_01_twk:DisTweaks_InteractableInterface_5 DisTweaks_InteractableInterface]
+m_Name="Baú"
+m_InteractText="`GBA_Use` Abrir"
+
+[UsableObject_twk DisTweaks_UsableObject]
+m_UnlockInteractText="`GBA_Use` Destrancar"
+m_LockedMessage="`k é necessária"
+m_UnauthorizedMessage=""
+m_FocusMessage=""
+m_FocusLockedMessage=""
+
+[UsableObject_twk:DisTweaks_InteractableInterface_11 DisTweaks_InteractableInterface]
+m_Name="[Name]"
+m_InteractText="`GBA_Use` Abrir"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[vise_01_twk DisTweaks_UsableObject]
+m_UnlockInteractText="`GBA_Use` Destrancar"
+m_LockedMessage="Este armário está trancado"
+
+[vise_01_twk:DisTweaks_InteractableInterface_5 DisTweaks_InteractableInterface]
+m_Name="Torno"
+m_InteractText="`GBA_Use` Usar"
+
+[wall_lever_01_twk:DisTweaks_InteractableInterface_0 DisTweaks_InteractableInterface]
+m_Name="Interruptor"
+m_InteractText="`GBA_Use` Usar"
+
+[Wardrobe_twk DisTweaks_UsableObject]
+m_Stages[1]=(m_InteractTextOverride="`GBA_Use` Fechar")
+
+[Wardrobe_twk:DisTweaks_InteractableInterface_12 DisTweaks_InteractableInterface]
+m_Name="Guarda-Roupa"
+m_InteractText="`GBA_Use` Abrir"
+
+[wheel_01_twk:DisTweaks_InteractableInterface_8 DisTweaks_InteractableInterface]
+m_Name="Roda"
+m_InteractText="Segure `GBA_Use` Girar"
+

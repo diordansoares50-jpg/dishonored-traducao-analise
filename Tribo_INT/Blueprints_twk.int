@@ -1,0 +1,84 @@
+[Pickups.BP_ArmorIncrease_twk DisTweaks_AbstractItemPickup]
+m_SingleItemPickupMessage="Uma nova melhoria está disponível no Piero: Armadura Melhorada"
+
+[Pickups.BP_ArmorIncrease_twk:DisTweaks_Interactable_PickupBase_11 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name="`i"
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Pickups.BP_ExpBullets_twk DisTweaks_AbstractItemPickup]
+m_SingleItemPickupMessage="Uma nova melhoria está disponível no Piero: Disparo Explosivo da Pistola"
+
+[Pickups.BP_ExpBullets_twk:DisTweaks_Interactable_PickupBase_12 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name="`i"
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Pickups.BP_FlareBolt_twk DisTweaks_AbstractItemPickup]
+m_SingleItemPickupMessage="Um novo item está disponível no Piero: Seta Incendiária"
+
+[Pickups.BP_FlareBolt_twk:DisTweaks_Interactable_PickupBase_13 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name="`i"
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Pickups.BP_HealthPotion_twk DisTweaks_AbstractItemPickup]
+m_SingleItemPickupMessage="Um novo item está disponível no Piero: Elixir de Saúde de Sokolov"
+
+[Pickups.BP_HealthPotion_twk:DisTweaks_Interactable_PickupBase_14 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name="`i"
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Pickups.BP_SilentRunning_twk DisTweaks_AbstractItemPickup]
+m_SingleItemPickupMessage="Uma nova melhoria está disponível no Piero: Botas Sigilosas 1"
+
+[Pickups.BP_SilentRunning_twk:DisTweaks_Interactable_PickupBase_16 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name="`i"
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Pickups.BP_SpyglassZoom_twk DisTweaks_AbstractItemPickup]
+m_SingleItemPickupMessage="Uma nova melhoria está disponível no Piero: Ótica da Máscara 2"
+
+[Pickups.BP_SpyglassZoom_twk:DisTweaks_Interactable_PickupBase_0 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name="`i"
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Pickups.BP_StickyGrenade_twk DisTweaks_AbstractItemPickup]
+m_SingleItemPickupMessage="Uma nova melhoria está disponível no Piero: Granada Adesiva"
+
+[Pickups.BP_StickyGrenade_twk:DisTweaks_Interactable_PickupBase_17 DisTweaks_Interactable_PickupBase]
+m_NotUsableWhilePossessingInteractText=""
+m_Name="`i"
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+

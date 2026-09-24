@@ -1,0 +1,420 @@
+[Twk_Upgrade_AmmoPouch2 DisTweaks_Upgrade]
+m_Name="Melhoria 1 da Capacidade de Balas"
+m_Description="Aumenta a capacidade de armazenamento de balas em 10. (Total de 20)"
+
+[Twk_Upgrade_AmmoPouch2:DisTweaks_InteractableInterface_21 DisTweaks_InteractableInterface]
+m_Name="`u"
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Twk_Upgrade_AmmoPouch4 DisTweaks_Upgrade]
+m_Name="Melhoria 2 da Capacidade de Balas"
+m_Description="Aumenta a capacidade de armazenamento de balas em 10. (Total de 30)"
+
+[Twk_Upgrade_AmmoPouch4:DisTweaks_InteractableInterface_22 DisTweaks_InteractableInterface]
+m_Name="`u"
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Twk_Upgrade_Armor DisTweaks_Upgrade]
+m_Name="Armadura Melhorada"
+m_Description="Reduz os danos sofridos."
+
+[Twk_Upgrade_Armor:DisTweaks_InteractableInterface_23 DisTweaks_InteractableInterface]
+m_Name="`u"
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Twk_Upgrade_Base DisTweaks_Upgrade]
+m_Name=""
+m_Description=""
+
+[Twk_Upgrade_Base:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="`u"
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Twk_Upgrade_BoneCharms DisTweaks_Upgrade]
+m_Name="Melhoria 1 da Capacidade de Encantos dos Ossos"
+m_Description="Permite ativar um Encanto de Ossos a mais. (Total de 4)"
+
+[Twk_Upgrade_BoneCharms2 DisTweaks_Upgrade]
+m_Name="Melhoria 2 da Capacidade de Encantos dos Ossos"
+m_Description="Permite ativar dois Encantos dos Ossos a mais. (Total de 6)"
+
+[Twk_Upgrade_BoneCharms2:DisTweaks_InteractableInterface_8 DisTweaks_InteractableInterface]
+m_Name="`u"
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Twk_Upgrade_BoneCharms:DisTweaks_InteractableInterface_8 DisTweaks_InteractableInterface]
+m_Name="`u"
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Twk_Upgrade_Crossbow_Accuracy DisTweaks_Upgrade]
+m_Name="Melhoria da Precisão da Besta"
+m_Description="Estabiliza e aumenta a precisão da Besta."
+
+[Twk_Upgrade_Crossbow_Accuracy:DisTweaks_InteractableInterface_24 DisTweaks_InteractableInterface]
+m_Name="`u"
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Twk_Upgrade_Crossbow_Range DisTweaks_Upgrade]
+m_Name="Melhoria do Alcance da Besta"
+m_Description="As Setas para Besta chegam mais longe e mais rápido."
+
+[Twk_Upgrade_Crossbow_Range:DisTweaks_InteractableInterface_0 DisTweaks_InteractableInterface]
+m_Name="`u"
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Twk_Upgrade_Crossbow_ReloadSpeed DisTweaks_Upgrade]
+m_Name="Melhoria da Velocidade de Recarga da Besta"
+m_Description="Recarga mais rápida. Permite habilitar a recarga automática."
+
+[Twk_Upgrade_Crossbow_ReloadSpeed:DisTweaks_InteractableInterface_1 DisTweaks_InteractableInterface]
+m_Name="`u"
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Twk_Upgrade_GrenadeBelt DisTweaks_Upgrade]
+m_Name="Melhoria da Capacidade de Granadas"
+m_Description="Aumenta a capacidade de armazenamento de granadas em 4. (Total de 9) "
+
+[Twk_Upgrade_GrenadeBelt:DisTweaks_InteractableInterface_2 DisTweaks_InteractableInterface]
+m_Name="`u"
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Twk_Upgrade_Gun_Explosive DisTweaks_Upgrade]
+m_Name="Melhoria do Disparo Explosivo da Pistola"
+m_Description="Permite o uso de balas explosivas na sua pistola."
+
+[Twk_Upgrade_Gun_Explosive:DisTweaks_InteractableInterface_3 DisTweaks_InteractableInterface]
+m_Name="`u"
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Twk_Upgrade_InstantSleepArrow DisTweaks_Upgrade]
+m_Name="Dardos Tranquilizantes de Combate"
+m_Description="O efeito sedativo dos dardos tranquilizantes é imediato, inclusive em combate."
+
+[Twk_Upgrade_InstantSleepArrow:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name=""
+m_InteractText=""
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Twk_Upgrade_Mask DisTweaks_Upgrade]
+m_Name="Máscara de Corvo"
+m_Description="Oculta sua identidade."
+
+[Twk_Upgrade_Mask:DisTweaks_InteractableInterface_23 DisTweaks_InteractableInterface]
+m_Name="`u"
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Twk_Upgrade_Pistol DisTweaks_Upgrade]
+m_Name="Pistola de Corvo"
+m_Description="Elaborada com a personalização em mente, essa é a melhor arma de fogo das Ilhas. Permite fazer melhorias e adiciona o dano de dispersão de curto alcance."
+
+[Twk_Upgrade_Pistol:DisTweaks_InteractableInterface_4 DisTweaks_InteractableInterface]
+m_Name="`u"
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Twk_Upgrade_Pistol_Accuracy1 DisTweaks_Upgrade]
+m_Name="Melhoria 1 da Precisão da Pistola"
+m_Description="Reduz a dispersão e estabiliza a mira da pistola."
+
+[Twk_Upgrade_Pistol_Accuracy1:DisTweaks_InteractableInterface_5 DisTweaks_InteractableInterface]
+m_Name="`u"
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Twk_Upgrade_Pistol_Accuracy2 DisTweaks_Upgrade]
+m_Name="Melhoria 2 da Precisão da Pistola"
+m_Description="Reduz ainda mais a dispersão e estabiliza a mira da pistola."
+
+[Twk_Upgrade_Pistol_Accuracy2:DisTweaks_InteractableInterface_6 DisTweaks_InteractableInterface]
+m_Name="`u"
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Twk_Upgrade_PistolMagazine1 DisTweaks_Upgrade]
+m_Name="Melhoria 1 do Carregador da Pistola"
+m_Description="Adiciona 1 bala ao carregador. (Total de 2). "
+
+[Twk_Upgrade_PistolMagazine1:DisTweaks_InteractableInterface_7 DisTweaks_InteractableInterface]
+m_Name="`u"
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Twk_Upgrade_PistolMagazine2 DisTweaks_Upgrade]
+m_Name="Melhoria 2 do Carregador da Pistola"
+m_Description="Adiciona outra bala ao carregador. (Total de 3)"
+
+[Twk_Upgrade_PistolMagazine2:DisTweaks_InteractableInterface_8 DisTweaks_InteractableInterface]
+m_Name="`u"
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Twk_Upgrade_PistolMagazine3 DisTweaks_Upgrade]
+m_Name="Melhoria 3 do Carregador da Pistola"
+m_Description="Adiciona outra bala ao carregador. (Total de 4)"
+
+[Twk_Upgrade_PistolMagazine3:DisTweaks_InteractableInterface_9 DisTweaks_InteractableInterface]
+m_Name="`u"
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Twk_Upgrade_PistolReloadSpeed1 DisTweaks_Upgrade]
+m_Name="Melhoria 1 da Recarga da Pistola"
+m_Description="Recarga rápida."
+
+[Twk_Upgrade_PistolReloadSpeed1:DisTweaks_InteractableInterface_10 DisTweaks_InteractableInterface]
+m_Name="`u"
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Twk_Upgrade_PistolReloadSpeed2 DisTweaks_Upgrade]
+m_Name="Melhoria 2 da Recarga da Pistola"
+m_Description="Recarga rápida. Permite habilitar a recarga automática."
+
+[Twk_Upgrade_PistolReloadSpeed2:DisTweaks_InteractableInterface_10 DisTweaks_InteractableInterface]
+m_Name="`u"
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Twk_Upgrade_QuiverCapacity2 DisTweaks_Upgrade]
+m_Name="Melhoria 1 da Capacidade de Setas"
+m_Description="Aumenta a capacidade de setas comuns em 10. (Total de 20)"
+
+[Twk_Upgrade_QuiverCapacity2:DisTweaks_InteractableInterface_11 DisTweaks_InteractableInterface]
+m_Name="`u"
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Twk_Upgrade_QuiverCapacity4 DisTweaks_Upgrade]
+m_Name="Melhoria 2 da Capacidade de Setas"
+m_Description="Aumenta a capacidade de setas comuns em 10. (Total de 30)"
+
+[Twk_Upgrade_QuiverCapacity4:DisTweaks_InteractableInterface_12 DisTweaks_InteractableInterface]
+m_Name="`u"
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Twk_Upgrade_SilentRunning DisTweaks_Upgrade]
+m_Name="Melhoria 1 das Botas Sigilosas"
+m_Description="Reduz o ruído dos passos."
+
+[Twk_Upgrade_SilentRunning:DisTweaks_InteractableInterface_13 DisTweaks_InteractableInterface]
+m_Name="`u"
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Twk_Upgrade_SilentSprinting DisTweaks_Upgrade]
+m_Name="Melhoria 2 das Botas Sigilosas"
+m_Description="Reduz ainda mais o ruído dos passos."
+
+[Twk_Upgrade_SilentSprinting:DisTweaks_InteractableInterface_19 DisTweaks_InteractableInterface]
+m_Name="`u"
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Twk_Upgrade_SpringRazor DisTweaks_Upgrade]
+m_Name="Melhoria do Alcance da Navalha de Mola"
+m_Description="Aumenta o alcance das armadilhas de navalha de mola."
+
+[Twk_Upgrade_SpringRazor:DisTweaks_InteractableInterface_14 DisTweaks_InteractableInterface]
+m_Name="`u"
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Twk_Upgrade_SpringRazorPouch DisTweaks_Upgrade]
+m_Name="Melhoria da Capacidade da Navalha de Mola"
+m_Description="Aumenta a capacidade de armazenamento de navalhas de mola em 4. (Total de 9)"
+
+[Twk_Upgrade_SpringRazorPouch:DisTweaks_InteractableInterface_15 DisTweaks_InteractableInterface]
+m_Name="`u"
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Twk_Upgrade_Spyglass1 DisTweaks_Upgrade]
+m_Name="Melhoria 1 da Ótica da Máscara"
+m_Description="Permite que você amplie sua visão. Pressione `GBA_Zoom` para usar o zoom."
+
+[Twk_Upgrade_Spyglass1:DisTweaks_InteractableInterface_16 DisTweaks_InteractableInterface]
+m_Name="`u"
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Twk_Upgrade_Spyglass2 DisTweaks_Upgrade]
+m_Name="Melhoria 2 da Ótica da Máscara"
+m_Description="Oferece outro nível de ampliação. Pressione `GBA_Use` enquanto estiver usando o zoom."
+
+[Twk_Upgrade_Spyglass2:DisTweaks_InteractableInterface_17 DisTweaks_InteractableInterface]
+m_Name="`u"
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Twk_Upgrade_StatueFish DisTweaks_Upgrade]
+m_Name="Artefato Místico de Peixe"
+m_Description="Permite ativar um Encanto de Ossos a mais."
+
+[Twk_Upgrade_StatueFish:DisTweaks_InteractableInterface_8 DisTweaks_InteractableInterface]
+m_Name="`u"
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Twk_Upgrade_StatueRat DisTweaks_Upgrade]
+m_Name="Artefato Místico de Rato"
+m_Description="Permite ativar um Encanto de Ossos a mais."
+
+[Twk_Upgrade_StatueRat:DisTweaks_InteractableInterface_8 DisTweaks_InteractableInterface]
+m_Name="`u"
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Twk_Upgrade_StatueWhale DisTweaks_Upgrade]
+m_Name="Artefato Místico de Baleia"
+m_Description="Permite ativar um Encanto de Ossos a mais."
+
+[Twk_Upgrade_StatueWhale:DisTweaks_InteractableInterface_8 DisTweaks_InteractableInterface]
+m_Name="`u"
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Twk_Upgrade_StatueWolfhound DisTweaks_Upgrade]
+m_Name="Artefato Místico de Cão de Guarda"
+m_Description="Permite ativar um Encanto de Ossos a mais."
+
+[Twk_Upgrade_StatueWolfhound:DisTweaks_InteractableInterface_8 DisTweaks_InteractableInterface]
+m_Name="`u"
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Twk_Upgrade_StickyGrenade DisTweaks_Upgrade]
+m_Name="Melhoria das Granadas Adesivas"
+m_Description="Desbloqueia granadas que grudam no alvo."
+
+[Twk_Upgrade_StickyGrenade:DisTweaks_InteractableInterface_18 DisTweaks_InteractableInterface]
+m_Name="`u"
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Twk_Upgrade_Sword DisTweaks_Upgrade]
+m_Name="Melhoria do Choque de Espadas"
+m_Description="Torna a espada mais eficaz ao chocar-se com a espada do inimigo e ao empurrar."
+
+[Twk_Upgrade_Sword:DisTweaks_InteractableInterface_20 DisTweaks_InteractableInterface]
+m_Name="`u"
+m_InteractText="`GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+

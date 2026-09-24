@@ -1,0 +1,27 @@
+[BootlegElixirStill_twk:DisTweaks_InteractableInterface_11 DisTweaks_InteractableInterface]
+m_Name="Livro"
+m_InteractText="`GBA_Use` Usar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[EmptyElixir_twk:DisTweaks_InteractableInterface_10 DisTweaks_InteractableInterface]
+m_Name="Frasco de Elixir Vazio"
+m_InteractText="`GBA_Use` Carregar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[EmptyElixirVialFillable_twk DisTweaks_WhaleOilBattery]
+m_EmptyName=""
+
+[EmptyElixirVialFillable_twk:DisTweaks_InteractableInterface_0 DisTweaks_InteractableInterface]
+m_Name="Frasco de Elixir Vazio"
+m_InteractText=" `GBA_Use` Carregar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+

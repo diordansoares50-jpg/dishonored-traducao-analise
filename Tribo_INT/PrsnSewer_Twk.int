@@ -1,0 +1,71 @@
+[CorvosGear_twk:DisTweaks_InteractableInterface_16 DisTweaks_InteractableInterface]
+m_Name="Equipamento Especial"
+m_InteractText=" `GBA_Use` Pegar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[DeadGuyWheel_Twk DisTweaks_UsableObject]
+m_LockedMessage="Um corpo está bloqueando a válvula."
+
+[DeadGuyWheel_Twk:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Válvula"
+m_InteractText="Segure `GBA_Use` para girar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[LTD_PrsnSewerToPrison_twk DisTweaks_UsableObject]
+m_UnlockInteractText="`GBA_Use` Destrancar"
+m_LockedMessage="Bloqueado. Você precisa de `k"
+m_UnauthorizedMessage=""
+m_FocusMessage=""
+m_FocusLockedMessage=""
+
+[LTD_PrsnSewerToPrison_twk:DisTweaks_InteractableInterface_16 DisTweaks_InteractableInterface]
+m_Name="Para a Prisão Coldridge"
+m_InteractText="`GBA_Use` Abrir"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[PrsSwr_door_ms DisTweaks_Door]
+m_DoorOpenCCW.m_InteractTextOverride=""
+m_DoorOpenCW.m_InteractTextOverride=""
+m_DoorCloseCCW.m_InteractTextOverride="`GBA_Use` Fechar"
+m_DoorCloseCW.m_InteractTextOverride="`GBA_Use` Fechar"
+m_DoorSlamOpenCCW.m_InteractTextOverride=""
+m_DoorSlamOpenCW.m_InteractTextOverride=""
+m_UnlockInteractText="`GBA_Use` Destrancar"
+m_LockedMessage="Não pode ser aberta nesse momento"
+m_UnauthorizedMessage=""
+m_FocusMessage=""
+m_FocusLockedMessage="Trancada"
+
+[PrsSwr_door_ms:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Porta Indestrutível"
+m_InteractText="`GBA_Use` Abrir"
+m_AltInteractText="Segure `GBA_Use` para olhar pelo buraco da fechadura"
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[Wheel_RatPuzzleRoom_Twk:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Válvula"
+m_InteractText="Segure `GBA_Use` para girar"
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+
+[wood_plank_02_prsnsewer_twk:pInteractableTweaks DisTweaks_InteractableInterface]
+m_Name="Tábuas de Madeira"
+m_InteractText=""
+m_AltInteractText=""
+m_UseMessage=""
+m_AltUseMessage=""
+m_CannotUseMessage=""
+

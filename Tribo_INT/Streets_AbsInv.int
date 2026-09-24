@@ -1,0 +1,50 @@
+[abstract_items.AbsInv_ArtDealer_Painting01 DisAbstractItem]
+m_ItemName=""A Retirada de Morley""
+m_PluralItemName=""
+m_Description=""A Retirada de Morley" \n\nGrimaldi Churchblod\nÓleo na Tela"
+
+[abstract_items.AbsInv_ArtDealer_Painting02 DisAbstractItem]
+m_ItemName=""Criança Abandonada" "
+m_PluralItemName=""
+m_Description=""Criança Abandonada" \n\nBonnie Rosebud\nÓleo na Tela"
+
+[abstract_items.AbsInv_ArtDealer_Painting03 DisAbstractItem]
+m_ItemName=""Luz na Curva Inversa""
+m_PluralItemName=""
+m_Description=""Luz na Curva Inversa" \n\nAnton Sokolov (auto-retrato)\nMédium Desconhecido"
+
+[abstract_items.AbsInv_ArtDealer_Painting04 DisAbstractItem]
+m_ItemName=""A Visão da Irmã""
+m_PluralItemName=""
+m_Description=""A Visão da Irmã"\n\nBettina Witherbottom\nFragmentos de Giz e Vidro"
+
+[abstract_items.AbsInv_ArtDealer_Painting05 DisAbstractItem]
+m_ItemName=""Penhascos de Pandyssia""
+m_PluralItemName=""
+m_Description=""Penhascos de Pandyssia"\n\nJonathon Hedgerow\nÓleo na Tela"
+
+[abstract_items.AbsInv_ArtDealer_Painting06 DisAbstractItem]
+m_ItemName="Urna Funerária de Tyvia"
+m_PluralItemName=""
+m_Description="Urna Funerária de Tyvia\n\nMaterial Desconhecido"
+
+[abstract_items.AbsInv_ArtDealer_Painting07 DisAbstractItem]
+m_ItemName=""O Número da Felicidade""
+m_PluralItemName=""
+m_Description=""O Número da Felicidade"\n\nPrasha\nÓleo na Pele de Boi"
+
+[AG_Brothel_SlackJaw_AbsItm DisAbstractItem]
+m_ItemName="Última Mensagem de Crowley"
+m_PluralItemName=""
+m_Description="Leve esse audiógrafo para o Slackjaw"
+
+[StreetsNotes.NewWallOfLightReminder DisAbstractItem]
+m_ItemName="Mensagem para o Sargento Heyburn"
+m_PluralItemName=""
+m_Description="Sargento Heyburn,\n\nTodos os componentes da Parede de Luz foram entregues no seu posto, e eu espero que ela esteja funcional antes da meia noite. Também foram fornecidos ao senhor vários tanques de óleo de baleia, em caso de necessidade. \n\nPor último, eu soube que vários guardas continuam com a prática infantil conhecida como "Queima de Ratos". Lembre-se, óleo de baleia não é barato. Por favor, mantenha os seus homens controlados. \n\n--Capitão Curnow"
+
+[StreetsNotes.RatViscera_AbsItm DisAbstractItem]
+m_ItemName="Vísceras de Rato"
+m_PluralItemName=""
+m_Description="Uma amostra de vísceras de um rato infectado pela peste."
+

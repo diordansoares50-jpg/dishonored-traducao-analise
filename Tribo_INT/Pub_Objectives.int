@@ -1,0 +1,321 @@
+[BackFromBridge_Conspirators DishonoredObjective]
+m_Description="Informe"
+
+[BackFromBridge_Conspirators:DishonoredTask_Custom_4 DishonoredTask_Custom]
+m_Description="Fale com os Legalistas"
+m_Status=""
+
+[BackFromOvrsr_Report DishonoredObjective]
+m_Description="Encontre com os Legalistas"
+
+[BackFromOvrsr_Report:DishonoredTask_Custom_0 DishonoredTask_Custom]
+m_Description="Fale com Havelock e Pendleton"
+m_Status=""
+
+[BackFromOvrsr_Report:DishonoredTask_Custom_1 DishonoredTask_Custom]
+m_Description="Retire-se para o seu quarto"
+m_Status=""
+
+[BackFromOvrsr_Report:DishonoredTask_Custom_2 DishonoredTask_Custom]
+m_Description="Find Lady Emily (OBSOLETE?)"
+m_Status=""
+
+[Face_in_a_Crowd DishonoredObjective]
+m_Description="Um Rosto na Multidão"
+
+[Face_in_a_Crowd:DishonoredTask_Custom_10 DishonoredTask_Custom]
+m_Description="Suba a bordo do barco de Samuel para ir à Festa das Boyle"
+m_Status=""
+
+[Face_in_a_Crowd:DishonoredTask_Custom_7 DishonoredTask_Custom]
+m_Description="Notifique Samuel de que você precisa de seus serviços"
+m_Status=""
+
+[Family_Affair DishonoredObjective]
+m_Description="Um Assunto Familiar"
+
+[Family_Affair:DishonoredTask_Custom_2 DishonoredTask_Custom]
+m_Description="Encontre Lorde Pendleton no cais"
+m_Status=""
+
+[Family_Affair:DishonoredTask_Custom_3 DishonoredTask_Custom]
+m_Description="Fale para Samuel que você está pronto para ir"
+m_Status=""
+
+[Family_Affair:DishonoredTask_Custom_4 DishonoredTask_Custom]
+m_Description="Suba a bordo do barco de Samuel no cais"
+m_Status=""
+
+[Initiation DishonoredObjective]
+m_Description="Um Novo Dia"
+
+[Initiation:DishonoredTask_Custom_0 DishonoredTask_Custom]
+m_Description="Collect your equipment from Piero  (OBSOLETE?)"
+m_Status=""
+
+[Initiation:DishonoredTask_Custom_1 DishonoredTask_Custom]
+m_Description="Fale com o Almirante Havelock no bar"
+m_Status=""
+
+[Initiation:DishonoredTask_Custom_11 DishonoredTask_Custom]
+m_Description="Collect your equipment from Piero  (OBSOLETE?)"
+m_Status=""
+
+[Initiation:DishonoredTask_Custom_12 DishonoredTask_Custom]
+m_Description="Viaje com Samuel para sua primeira missão"
+m_Status=""
+
+[Interrogation DishonoredObjective]
+m_Description="Interrogatório"
+
+[Interrogation:DishonoredTask_Custom_0 DishonoredTask_Custom]
+m_Description="(Opcional) Fale com Piero e compre algo para suborná-lo"
+m_Status=""
+
+[Interrogation:DishonoredTask_Custom_1 DishonoredTask_Custom]
+m_Description="Descanse um pouco enquanto Sokolov está inconsciente"
+m_Status=""
+
+[Interrogation:DishonoredTask_Custom_2 DishonoredTask_Custom]
+m_Description="Interrogue Sokolov"
+m_Status=""
+
+[Meet_Lady_Emily DishonoredObjective]
+m_Description="Encontre com os Legalistas"
+
+[Meet_Lady_Emily:DishonoredTask_Custom_0 DishonoredTask_Custom]
+m_Description="Fale com o Almirante Havelock e o Lorde Pendleton"
+m_Status=""
+
+[Meet_Lady_Emily:DishonoredTask_Custom_1 DishonoredTask_Custom]
+m_Description="Retire-se para o seu quarto"
+m_Status=""
+
+[MeetTheConspirators DishonoredObjective]
+m_Description="Encontre os Legalistas"
+
+[MeetTheConspirators:DishonoredTask_Custom_0 DishonoredTask_Custom]
+m_Description="Get some rest  (OBSOLETE?)"
+m_Status=""
+
+[MeetTheConspirators:DishonoredTask_Custom_1 DishonoredTask_Custom]
+m_Description="Speak to Piero about crafting items for you  (OBSOLETE?)"
+m_Status=""
+
+[MeetTheConspirators:DishonoredTask_Custom_2 DishonoredTask_Custom]
+m_Description="Coloque o tanque de óleo de baleia no receptáculo"
+m_Status=""
+
+[MeetTheConspirators:DishonoredTask_Custom_3 DishonoredTask_Custom]
+m_Description="(Optional) Follow Wallace to your quarters (OBSOLETE?)"
+m_Status=""
+
+[MeetTheConspirators:DishonoredTask_Custom_4 DishonoredTask_Custom]
+m_Description="Coloque o tanque vazio no enchedor e use a alavanca para enchê-lo"
+m_Status=""
+
+[MeetTheConspirators:DishonoredTask_Custom_5 DishonoredTask_Custom]
+m_Description="Encontre os Legalistas no bar"
+m_Status=""
+
+[MeetTheConspirators:DishonoredTask_Custom_6 DishonoredTask_Custom]
+m_Description="Encontre Piero na oficina, perto da doca"
+m_Status=""
+
+[MeetTheConspirators:DishonoredTask_Custom_7 DishonoredTask_Custom]
+m_Description="Ative o dispensador para conseguir um tanque de óleo de baleia vazio"
+m_Status=""
+
+[MeetTheConspirators:DishonoredTask_Custom_8 DishonoredTask_Custom]
+m_Description="Vá para a cama e descanse um pouco"
+m_Status=""
+
+[MeetTheConspirators:DishonoredTask_Custom_9 DishonoredTask_Custom]
+m_Description="Suba as escadas e consiga um tanque de óleo de baleia novo"
+m_Status=""
+
+[New_Order DishonoredObjective]
+m_Description="Vida longa à Imperatriz!"
+
+[New_Order:DishonoredTask_Custom_0 DishonoredTask_Custom]
+m_Description="Fale com o Almirante Havelock e o Lorde Pendleton"
+m_Status=""
+
+[New_Order:DishonoredTask_Custom_5 DishonoredTask_Custom]
+m_Description="Celebre com os Legalistas no bar"
+m_Status=""
+
+[New_Order:DishonoredTask_Custom_6 DishonoredTask_Custom]
+m_Description="Descanse antes de escoltar Emily para sua coroação pela manhã"
+m_Status=""
+
+[Persitent_Pub_Tasks DishonoredObjective]
+m_Description="Initiation (OBSOLETE?)"
+
+[Persitent_Pub_Tasks:DishonoredTask_Custom_1 DishonoredTask_Custom]
+m_Description="(Optional) Recover the rune from the derelict barge (OBSOLETE?)"
+m_Status=""
+
+[Pub07_ArcPylon DishonoredObjective]
+m_Description="(Opcional) Salve Piero e Sokolov"
+
+[Pub07_ArcPylon:DishonoredTask_Custom_1 DishonoredTask_Custom]
+m_Description="Entregue a planta para Piero"
+m_Status=""
+
+[Pub07_ArcPylon:DishonoredTask_Custom_2 DishonoredTask_Custom]
+m_Description="Recupere a planta do quarto de Havelock"
+m_Status=""
+
+[Pub07_ArcPylon:DishonoredTask_Custom_3 DishonoredTask_Custom]
+m_Description="Leve um tanque de óleo de baleia para o Poste Arco no telhado da Oficina de Piero"
+m_Status=""
+
+[Pub07_ArcPylon:DishonoredTask_Custom_4 DishonoredTask_Custom]
+m_Description="Acabe com o cerco à oficina de Piero e assegure-se de que os dois filósofos naturais que estão dentro estejam a salvo"
+m_Status=""
+
+[Pub07_ArcPylon:DishonoredTask_Custom_5 DishonoredTask_Custom]
+m_Description="Contate Piero e Sokolov dentro da oficina - Entre pela varanda próxima ao rio"
+m_Status=""
+
+[Pub07_ArcPylon:DishonoredTask_Custom_6 DishonoredTask_Custom]
+m_Description="(Opcional) Incapacite todos os guardas do local sozinho"
+m_Status=""
+
+[Pub07_ArcPylon:DishonoredTask_Custom_7 DishonoredTask_Custom]
+m_Description="(Opcional) Fale para Piero que todos os guardas foram despachados"
+m_Status=""
+
+[Pub07_Loyalists DishonoredObjective]
+m_Description="Confronte os Legalistas"
+
+[Pub07_Loyalists:DishonoredTask_Custom_0 DishonoredTask_Custom]
+m_Description="Encontre Samuel na praia do outro lado da Torre de Emily"
+m_Status=""
+
+[Pub07_Loyalists:DishonoredTask_Custom_1 DishonoredTask_Custom]
+m_Description="Encontre Emily ou qualquer pista sobre seu paradeiro"
+m_Status=""
+
+[Pub07_Loyalists:DishonoredTask_Custom_10 DishonoredTask_Custom]
+m_Description="(Opcional) Encontre Havelock ou alguma pista sobre seus planos"
+m_Status=""
+
+[Pub07_Loyalists:DishonoredTask_Custom_3 DishonoredTask_Custom]
+m_Description="Encontre os foguetes de sinalização de Callista e Samuel"
+m_Status=""
+
+[Pub07_Loyalists:DishonoredTask_Custom_4 DishonoredTask_Custom]
+m_Description="Use o lançador de foguetes na Torre de Emily para avisar Samuel"
+m_Status=""
+
+[Pub07_Loyalists:DishonoredTask_Custom_7 DishonoredTask_Custom]
+m_Description="Embarque com Samuel rumo a Ilha Kingsparrow"
+m_Status=""
+
+[Pub07_Loyalists:DishonoredTask_Custom_8 DishonoredTask_Custom]
+m_Description="Volte ao Samuel quando descobrir o paradeiro de Emily"
+m_Status=""
+
+[Pub07_Loyalists:DishonoredTask_Custom_9 DishonoredTask_Custom]
+m_Description="Vasculhe seu quarto em busca de qualquer coisa que possa ter sido deixada por Emily"
+m_Status=""
+
+[Pub_Outsider DishonoredObjective]
+m_Description="Recover the Runes (OBSOLETE?)"
+
+[Pub_RevengeAgainstDaud DishonoredObjective]
+m_Description="Revenge Against Daud (OBSOLETE?)"
+
+[Pub_RevengeAgainstDaud:DishonoredTask_Custom_4 DishonoredTask_Custom]
+m_Description="Go to your room and rest (OBSOLETE?)"
+m_Status=""
+
+[Pub_WeeperTime DishonoredObjective]
+m_Description="Descubra mais informações sobre os Lamentosos"
+
+[Pub_WeeperTime:DishonoredTask_Custom_0 DishonoredTask_Custom]
+m_Description="Fale com o Almirante Havelock"
+m_Status=""
+
+[Pub_WeeperTime:DishonoredTask_Custom_6 DishonoredTask_Custom]
+m_Description="Investigue o tumulto no esgoto"
+m_Status=""
+
+[Pub_WeeperTime:DishonoredTask_Custom_7 DishonoredTask_Custom]
+m_Description="Deixe os Lamentosos no esgoto e apresente-se ao Almirante Havelock"
+m_Status=""
+
+[Sleep_01 DishonoredObjective]
+m_Description="Retire to your bedroom. (OBSOLETE?)"
+
+[Sleep_01:DishonoredTask_Custom_0 DishonoredTask_Custom]
+m_Description="Retire to your bedroom and get some rest (OBSOLETE?)"
+m_Status=""
+
+[The_Lord_Regent DishonoredObjective]
+m_Description="O Lorde Regente"
+
+[The_Lord_Regent:DishonoredTask_Custom_0 DishonoredTask_Custom]
+m_Description="Informe Lorde Pendleton"
+m_Status=""
+
+[The_Lord_Regent:DishonoredTask_Custom_1 DishonoredTask_Custom]
+m_Description="Descanse antes de ir atrás do Lorde Regente"
+m_Status=""
+
+[The_Lord_Regent:DishonoredTask_Custom_2 DishonoredTask_Custom]
+m_Description="Encontre com o Almirante Havelock"
+m_Status=""
+
+[The_Lord_Regent:DishonoredTask_Custom_3 DishonoredTask_Custom]
+m_Description="Viaje com Samuel para a Torre de Dunwall"
+m_Status=""
+
+[The_Lord_Regent:DishonoredTask_Custom_4 DishonoredTask_Custom]
+m_Description="Suba a bordo do barco no cais"
+m_Status=""
+
+[The_Lord_Regent:DishonoredTask_Custom_5 DishonoredTask_Custom]
+m_Description="(Opcional) Vá encontrar Emily"
+m_Status=""
+
+[The_Lord_Regent:DishonoredTask_Custom_6 DishonoredTask_Custom]
+m_Description="(Opcional) Procure por Emily na área da torre"
+m_Status=""
+
+[The_Lord_Regent:DishonoredTask_Custom_7 DishonoredTask_Custom]
+m_Description="(Opcional) Procure por Emily nas ruas"
+m_Status=""
+
+[The_Lord_Regent:DishonoredTask_Custom_8 DishonoredTask_Custom]
+m_Description="(Opcional) Procure por Emily no bar"
+m_Status=""
+
+[The_Lord_Regent:DishonoredTask_Custom_9 DishonoredTask_Custom]
+m_Description="(Opcional) Pegue a nota e o pacote no seu quarto"
+m_Status=""
+
+[The_Mad_Genius DishonoredObjective]
+m_Description="O Gênio Louco"
+
+[The_Mad_Genius:DishonoredTask_Custom_0 DishonoredTask_Custom]
+m_Description="Encontre Lorde Pendleton"
+m_Status=""
+
+[The_Mad_Genius:DishonoredTask_Custom_1 DishonoredTask_Custom]
+m_Description="Encontre com Havelock e Martin no bar"
+m_Status=""
+
+[The_Mad_Genius:DishonoredTask_Custom_6 DishonoredTask_Custom]
+m_Description="Suba a bordo do barco de Samuel para ir à Ponte de Kaldwin"
+m_Status=""
+
+[The_Rune DishonoredObjective]
+m_Description="(Opcional) A Runa"
+
+[The_Rune:DishonoredTask_Custom_0 DishonoredTask_Custom]
+m_Description="Use o Coração para encontrar a runa próxima do Bar Cova do Cão"
+m_Status=""
+

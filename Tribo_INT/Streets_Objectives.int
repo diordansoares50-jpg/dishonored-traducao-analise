@@ -1,0 +1,183 @@
+[STREETS1.Optional_GrannyRagsHook DishonoredObjective]
+m_Description="(Opcional) Vovó Esfarrapada"
+
+[STREETS1.Optional_GrannyRagsHook:DishonoredTask_Custom_8 DishonoredTask_Custom]
+m_Description="Fale com a Vovó Esfarrapada em seu apartamento"
+m_Status=""
+
+[STREETS1.Optional_HelpGrannyRags DishonoredObjective]
+m_Description="(Opcional) Pretendentes"
+
+[STREETS1.Optional_HelpGrannyRags:DishonoredTask_Custom_0 DishonoredTask_Custom]
+m_Description="Pegue seu presente com a Vovó Esfarrapada"
+m_Status=""
+
+[STREETS1.Optional_HelpGrannyRags:DishonoredTask_Custom_1 DishonoredTask_Custom]
+m_Description="Entre no apartamento do Dr. Galvani em Clavering Boulevard"
+m_Status=""
+
+[STREETS1.Optional_HelpGrannyRags:DishonoredTask_Custom_2 DishonoredTask_Custom]
+m_Description="Visite outra vez a Vovó Esfarrapada"
+m_Status=""
+
+[STREETS1.Optional_HelpGrannyRags:DishonoredTask_Custom_3 DishonoredTask_Custom]
+m_Description="Contamine o Elixir Contrabandeado da Gangue da Bottle Street com a Peste."
+m_Status=""
+
+[STREETS1.Optional_HelpGrannyRags:DishonoredTask_Custom_4 DishonoredTask_Custom]
+m_Description="Visite a Vovó Esfarrapada para receber seu presente"
+m_Status=""
+
+[STREETS1.Optional_HelpGrannyRags:DishonoredTask_Custom_5 DishonoredTask_Custom]
+m_Description="Cuide dos pretendentes da Vovó Esfarrapada"
+m_Status=""
+
+[STREETS1.Optional_HelpGrannyRags:DishonoredTask_Custom_6 DishonoredTask_Custom]
+m_Description="Procure por uma amostra das vísceras de um rato infectado"
+m_Status=""
+
+[STREETS1.Optional_HelpGrannyRags:DishonoredTask_Custom_7 DishonoredTask_Custom]
+m_Description="Visite outra vez a Vovó Esfarrapada"
+m_Status=""
+
+[STREETS1.Optional_HelpGrannyRags:DishonoredTask_Custom_8 DishonoredTask_Custom]
+m_Description="Pegue seu presente com a Vovó Esfarrapada"
+m_Status=""
+
+[STREETS1.Strt1Obj_ReturnToSamuel DishonoredObjective]
+m_Description="Volte com Samuel"
+
+[STREETS1.Strt1Obj_ReturnToSamuel:DishonoredTask_Custom_0 DishonoredTask_Custom]
+m_Description="Encontre o barqueiro Samuel no pátio de trás dos Supervisores."
+m_Status=""
+
+[STREETS2.Meet_Slackjaw DishonoredObjective]
+m_Description="(Opcional) Slackjaw"
+
+[STREETS2.Meet_Slackjaw:DishonoredTask_Custom_0 DishonoredTask_Custom]
+m_Description="(Opcional) Encontre Slackjaw na Destilaria"
+m_Status=""
+
+[STREETS2.Objective_ReturnToSamuel DishonoredObjective]
+m_Description="Volte com Samuel"
+
+[STREETS2.Objective_ReturnToSamuel:DishonoredTask_Custom_2 DishonoredTask_Custom]
+m_Description="Encontre Samuel e Emily no barco"
+m_Status=""
+
+[STREETS2.Optional_Informant DishonoredObjective]
+m_Description="(Opcional) Crowley, o homem desaparecido de Slackjaw"
+
+[STREETS2.Optional_Informant:DishonoredTask_Custom_0 DishonoredTask_Custom]
+m_Description="(Opcional) Entre no Escritório do Dr. Galvani"
+m_Status=""
+
+[STREETS2.Optional_Informant:DishonoredTask_Custom_1 DishonoredTask_Custom]
+m_Description="(Opcional) Localize Crowley"
+m_Status=""
+
+[STREETS2.Optional_Informant:DishonoredTask_Custom_2 DishonoredTask_Custom]
+m_Description="(Opcional) Procure por pistas no corpo de Crowley"
+m_Status=""
+
+[STREETS2.Optional_Informant:DishonoredTask_Custom_3 DishonoredTask_Custom]
+m_Description="(Opcional) Devolva o audiógrafo para Slackjaw"
+m_Status=""
+
+[STREETS3.Strt3Obj_HelpGranny DishonoredObjective]
+m_Description="(Opcional) Ajude a Vovó a cozinhar Slackjaw"
+
+[STREETS3.Strt3Obj_HelpGranny:DishonoredTask_Custom_0 DishonoredTask_Custom]
+m_Description="Fale com a Vovó"
+m_Status=""
+
+[STREETS3.Strt3Obj_HelpGranny:DishonoredTask_Custom_1 DishonoredTask_Custom]
+m_Description="Pegue a chave da Vovó"
+m_Status=""
+
+[STREETS3.Strt3Obj_HelpGranny:DishonoredTask_Custom_2 DishonoredTask_Custom]
+m_Description="Incapacite Slackjaw"
+m_Status=""
+
+[STREETS3.Strt3Obj_HelpGranny:DishonoredTask_Custom_3 DishonoredTask_Custom]
+m_Description="Coloque Slackjaw na banheira"
+m_Status=""
+
+[STREETS3.Strt3Obj_HelpGranny:DishonoredTask_Custom_4 DishonoredTask_Custom]
+m_Description="Liberte Slackjaw"
+m_Status=""
+
+[STREETS3.Strt3Obj_HelpGranny:DishonoredTask_Custom_5 DishonoredTask_Custom]
+m_Description="Pegue seu presente com a Vovó Esfarrapada"
+m_Status=""
+
+[STREETS3.Strt3Obj_HelpSlackjaw DishonoredObjective]
+m_Description="(Opcional) Ajude Slackjaw"
+
+[STREETS3.Strt3Obj_HelpSlackjaw:DishonoredTask_Custom_0 DishonoredTask_Custom]
+m_Description="Localize o Camafeu da Vovó."
+m_Status=""
+
+[STREETS3.Strt3Obj_HelpSlackjaw:DishonoredTask_Custom_1 DishonoredTask_Custom]
+m_Description="Destrua o Camafeu da Vovó na fornalha"
+m_Status=""
+
+[STREETS3.Strt3Obj_HelpSlackjaw:DishonoredTask_Custom_2 DishonoredTask_Custom]
+m_Description="Derrote a Vovó pela última vez"
+m_Status=""
+
+[STREETS3.Strt3Obj_HelpSlackjaw:DishonoredTask_Custom_3 DishonoredTask_Custom]
+m_Description="Pegue a chave das algemas da Vovó"
+m_Status=""
+
+[STREETS3.Strt3Obj_HelpSlackjaw:DishonoredTask_Custom_4 DishonoredTask_Custom]
+m_Description="Liberte Slackjaw"
+m_Status=""
+
+[STREETS3.Strt3Obj_HelpSlackjaw:DishonoredTask_Custom_6 DishonoredTask_Custom]
+m_Description="Fale com Slackjaw"
+m_Status=""
+
+[STREETS3.StrtSewerObj_GetToPub DishonoredObjective]
+m_Description="Volte para o Bar Cova do Cão"
+
+[STREETS3.StrtSewerObj_GetToPub:DishonoredTask_Custom_0 DishonoredTask_Custom]
+m_Description="Encontre a Chave Mestra do Esgoto"
+m_Status=""
+
+[STREETS3.StrtSewerObj_GetToPub:DishonoredTask_Custom_1 DishonoredTask_Custom]
+m_Description="Encontre uma maneira de chegar ao Bar pelo Esgoto"
+m_Status=""
+
+[STREETS3.StrtSewerObj_GetToPub:DishonoredTask_Custom_14 DishonoredTask_Custom]
+m_Description="(Opcional) Vasculhe o covil da Vovó para encontrar uma maneira de acabar com ela"
+m_Status=""
+
+[STREETS3.StrtSewerObj_GetToPub:DishonoredTask_Custom_15 DishonoredTask_Custom]
+m_Description="(Opcional) Encontre o Camafeu da Vovó"
+m_Status=""
+
+[STREETS3.StrtSewerObj_GetToPub:DishonoredTask_Custom_16 DishonoredTask_Custom]
+m_Description="(Opcional) Destrua o Camafeu da Vovó na fornalha"
+m_Status=""
+
+[STREETS3.StrtSewerObj_GetToPub:DishonoredTask_Custom_17 DishonoredTask_Custom]
+m_Description="(Opcional) Derrote a Vovó pela última vez. "
+m_Status=""
+
+[STREETS3.StrtSewerObj_GetToPub:DishonoredTask_Custom_2 DishonoredTask_Custom]
+m_Description="Destranque o Portão do Esgoto"
+m_Status=""
+
+[STREETS3.StrtSewerObj_GetToPub:DishonoredTask_Custom_3 DishonoredTask_Custom]
+m_Description="Volte ao Portão do Esgoto"
+m_Status=""
+
+[STREETS3.StrtSewerObj_GetToPub:DishonoredTask_Custom_4 DishonoredTask_Custom]
+m_Description="Consiga a Chave Mestra da Vovó"
+m_Status=""
+
+[STREETS3.StrtSewerObj_GetToPub:DishonoredTask_Custom_5 DishonoredTask_Custom]
+m_Description="Vá para o Distrito do Velho Porto"
+m_Status=""
+

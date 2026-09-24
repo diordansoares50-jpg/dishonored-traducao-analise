@@ -1,0 +1,34 @@
+[AG_Tower_Confession_NP DisAbstractItemAudioLog]
+m_ItemName="Confissão do Regente"
+m_PluralItemName=""
+m_Description="O Lorde Regente se sente culpado e está indeciso sobre seu "Plano de Erradicação da Pobreza" e pelo jeito terrível que aconteceu."
+
+[TowerReturn_Notes_Granny DisAbstractItem]
+m_ItemName="Queridinho"
+m_PluralItemName=""
+m_Description="Oh, queridinho, queridinho. Lá em baixo, no porão, que triste. Porque você não vem me ver? Quando você estava aqui, nós os faziamos gritar, não é? Venha me visitar e eu te darei outro presente, esculpido e brilhante. Na verdade, você não é muito de conversar, mas eu adoro ver você trabalhar. Volte e eu lhe contarei histórias, boas histórias.\n\nSua querida vovó"
+
+[TowerReturn_Notes_Hocking DisAbstractItem]
+m_ItemName="Fora dos Limites"
+m_PluralItemName=""
+m_Description="Capitão Briarmont, \nDevo lhe pedir que fale com um de seus homens. O Cabo Keyes está a suas ordens, creio eu. De acordo com o oficial do turno da manhã, Keyes tem ido ao porão para reunir-se com o Interrogador Real. Não tenho idéia do que eles tem discutido, mas foi dito que Keyes tem interesse no ocultismo. De qualquer maneira, eu não sou um Supervisor, por isso não dou a mínima para como ele gasta o seu tempo quando não está em serviço. Mas mantenha-o longe do Torturador. O porão está fora dos limites para os seus homens.\n\n--Major Hocking"
+
+[TowerReturn_Notes_LosingSupport DisAbstractItem]
+m_ItemName="Perdendo Apoio"
+m_PluralItemName=""
+m_Description="Lorde Regente,\n\nDesde que perdemos o apoio financeiro da família Boyle, a situação está péssima e tivemos que fazer cortes drásticos. Os barcos patrulheiros estacionados no rio Wrenhaven em torno da Torre foram redistribuídos pela Costa Norte, para proteger os poucos carregamentos de alimentos que ainda chegam das fazendas de fora de Dunwall.\n\nSenhor, estou lhe avisando agora, isso significa que o acesso à Torre pelo Bloqueio de Água está desprotegido. É pouco provável que eles nos ataquem pelo rio, mas sei como você se preocupa com isso.\n\nIrônicamente, uma coisa está a nosso favor: Desde que o Bloqueio de Água avariou no mês passado, o idiota que faz a manutenção nos controles de fluxo do fosso foi incapaz de consertá-los, e com Sokolov desaparecido, ninguém mais sabe como fazer essa maldita coisa funcionar novamente. Assim, se alguém tentar atacar pelo rio, teria que subir pelos dutos do Bloqueio de Água, algo difícil de se imaginar. \n\n--General Tobias"
+
+[TowerReturn_Notes_NotSignedMissing DisAbstractItem]
+m_ItemName="Lady Boyle Desaparecida"
+m_PluralItemName=""
+m_Description="Lorde Regente,\nNossa busca pela desaparecida Lady Boyle continua com poucos resultados. Parece que ninguém sabe o que aconteceu com ela, porém, havia um rumor de que ela saiu da festa em um barco. Parece improvável, mas em todo caso, a testemunha em questão não viu mais nada, por isso consideramos que essa pista era fria.\n\nSei que Lady Boyle é muito querida para você. Pode ter certeza que vamos redobrar os nossos esforços para encontrá-la. \n\nCapitão Galloway"
+
+[TowerReturn_Notes_SignedMissing DisAbstractItem]
+m_ItemName="Lady Boyle Desaparecida"
+m_PluralItemName=""
+m_Description="Lorde Regente,\nNossa busca pela desaparecida Lady Boyle continua com poucos resultados. Parece que ninguém sabe o que aconteceu com ela, porém, havia um rumor de que ela saiu da festa em um barco. Parece improvável, mas em todo caso, a testemunha em questão não viu mais nada, por isso consideramos que essa pista era fria.\n\nAlém disso, ela com certeza não merece o seu tempo e não tenho certeza se você deveria sequer mencioná-la. Mas parece que na noite da festa na mansão Boyle alguém assinou o livro de convidados como "Corvo Attano". Com certeza deve ser uma brincadeira de mal gosto. Entretanto, você pediu para ser notificado de todas essas questões e a verdade é que nunca encontramos o corpo do Protetor Real, por isso achei melhor informá-lo. Me desculpe por incomodá-lo com esse assunto. \n\nSei que Lady Boyle é muito querida para você. Pode ter certeza que vamos redobrar os nossos esforços para encontrá-la. \n\nCapitão Galloway"
+
+[TowerReturn_Notes_Worship DisAbstractItem]
+m_ItemName="Cântico do Supervisor"
+m_PluralItemName=""
+m_Description="Restringir uma mente errante antes que se torne rebelde e dividida. Dois inimigos podem ocupar um mesmo corpo? Não, pois o primeiro irá levá-lo por um caminho e o segundo por outro, até acabarem em uma vala. Do mesmo jeito que dois pensamentos opostos não podem permanecer muito tempo na mente de um homem, ou ele perderá sua força de vontade e ficará sujeito à qualquer tipo de heresia. Restringir a língua mentirosa, que é como uma faísca na boca de um homem. Parece insignificante, mas com uma faísca, uma cidade inteira pode ser reduzida à cinzas. O pai da mentira sofrerá uma punição que ficará mais severa com cada pessoa que a transmita. Restringir os pés errantes daqueles que gostam de entrar onde não devem. Eles não prestam atenção nas pedras delimitadoras nos terrenos de outros homens. Eles andam em terras estranhas, só para voltarem com as solas manchadas pela maldade. \n"
